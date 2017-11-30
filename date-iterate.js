@@ -5,7 +5,8 @@ let moment = require('moment');
 let child_process = require('child_process')
 let xml2json = require('xml2json');
 
-let lang = "swedish"
+//let lang = "swedish"
+let lang = "chinese"
 let outputBasedir = "./download"
 
 function mkDirSync(dir) {
