@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-for a in download/* ; do echo download/swedish ; ls download/swedish/sound/*.mp3 | wc -l ; done
+for a in download/* ; do echo $a ; ls $a/sound/*.mp3 | wc -l ; done
