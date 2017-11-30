@@ -25,8 +25,18 @@ It's the audio material presented in https://wotd.transparent.com / https://www.
 
 There's a translation table of human readable language names to the names of the XML's urls.
 
+This could be a bunch of bash/awk/grep lines, but I've decided to try node.js for it for having a clean date iterator. npm is easy to search, etc. I see now it's also easy with gnu-`date`, anyhow, this already runs, and can keep the rest of the steps in the same framework.
+```
+d=2017-01-01
+d=$(date -I -d "$d + 1 day") # etc etc
+ ```
+
+ never liked writing Bash scripts, might be a good task to try Closh-clojure-shell, but couldn't get it installed.
+
 ### Next steps 
 
+ * script should check for existing files before downloading, to allow monthly update/etc
+ * find earliest date per language
  * speech-synth source (english) sentence
  * make playlists with everything
  * make spaced repetition playlists

@@ -6,7 +6,7 @@ let child_process = require('child_process')
 let xml2json = require('xml2json');
 
 //let lang = "swedish"
-let lang = "chinese"
+let lang = "japanese"
 let outputBasedir = "./download"
 
 function mkDirSync(dir) {
@@ -93,11 +93,11 @@ for (let d = startDate ; !d.isAfter( nowDate,  'day') ; d.add(1, 'days' )) {
     console.log("wordsound: " , oo["wordsound"])
     console.log("phrasesound: " , oo["phrasesound"])
     {
-        let execStr = `curl ${oo["wordsound"]} -o ${outputBasedir}/${lang}/sound/${dateString}-wordsound.mp3`
+        let execStr = `curl "${oo["wordsound"]}" -o ${outputBasedir}/${lang}/sound/${dateString}-wordsound.mp3`
         let r = systemSync(execStr) 
     }
     {
-        let execStr = `curl ${oo["phrasesound"]} -o ${outputBasedir}/${lang}/sound/${dateString}-phrasesound.mp3`
+        let execStr = `curl "${oo["phrasesound"]}" -o ${outputBasedir}/${lang}/sound/${dateString}-phrasesound.mp3`
         let r = systemSync(execStr) 
     }
 }
