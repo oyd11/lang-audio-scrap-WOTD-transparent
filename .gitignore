@@ -1,0 +1,9 @@
+
+node_modules/
+download/
+
+*.sw?
+*.mp3
+*.wav
+
+
