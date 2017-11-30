@@ -1,5 +1,5 @@
 
-== Installation ==
+## Installation
 Required installations: (tested on macos, should work on any un\*x)
 ```
 cURL
@@ -12,7 +12,7 @@ npm install
 node ./date-iterate.js
 ```
 
-=== what is it? ===
+### what is it? 
 The script loops dates, and downloads XML's from urls like:
 ```
 curl https://wotd.transparent.com/rss/11-27-2017-swedish-widget.xml
@@ -25,11 +25,15 @@ It's the audio material presented in https://wotd.transparent.com / https://www.
 
 There's a translation table of human readable language names to the names of the XML's urls.
 
-=== Next steps ===
+### Next steps 
 
-- speech-synth source (english) sentence, and make playlists with everything
+ * speech-synth source (english) sentence
+ * make playlists with everything
+ * make spaced repetition playlists
+ * similar for innovative-language WOTD 
+ * spaced rep for 50langs + dliflc (free resources)
 
-=== current language list ===
+### current language list 
 Arabic
 Balinese
 Balinese for Indonesian Speakers
@@ -59,6 +63,11 @@ Swedish
 Turkish
 Urdu
 
+
+
+### thanks:
+
+@quatrix for the chrome-webkid innitiation
 
 
 
