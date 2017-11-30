@@ -6,7 +6,7 @@ let child_process = require('child_process')
 let xml2json = require('xml2json');
 
 //let lang = "swedish"
-let lang = "japanese"
+let lang = "balinese"
 let outputBasedir = "./download"
 
 function mkDirSync(dir) {
@@ -15,9 +15,11 @@ function mkDirSync(dir) {
     }
 }
 
+let langDir =  `${outputBasedir}/${lang}` 
+let soundDir = `${langDir}/${lang}-sound`
 mkDirSync( outputBasedir )
-mkDirSync( `${outputBasedir}/${lang}` )
-mkDirSync( `${outputBasedir}/${lang}/sound` )
+mkDirSync( langDir )
+mkDirSync( soundDir )
 
 let dateFormat = "MM-DD-YYYY"
 let nowDate = moment()
@@ -28,7 +30,6 @@ let langHumanToUrl = {
  "arabic": "arabic",
  "balinese": "bal-eng",
  "balinese-indonesian": "bal-ind",
- "chinese": "zh",
  "dari": "dari",
  "dutch": "nl",
  "english-spanish": "en-es",
@@ -43,7 +44,7 @@ let langHumanToUrl = {
  "japanese": "ja",
  "korean": "korean",
  "latin": "la",
- "mandarin": "zh",
+ "mandarin": "zh", //  mandarin-chinese
  "norwegian": "norwegian",
  "swedish": "swedish",
  "spanish": "es",
@@ -79,25 +80,25 @@ for (let d = startDate ; !d.isAfter( nowDate,  'day') ; d.add(1, 'days' )) {
     let filename = `${dateString}-${langString}-widget.xml`
     let xmlUrl = `https://wotd.transparent.com/rss/${filename}`
     console.log("url: ", xmlUrl)
-    let execStr = `curl ${xmlUrl} -o ${outputBasedir}/${lang}/${filename}`
+    let execStr = `curl ${xmlUrl} -o ${langDir}/${filename}`
     let r = systemSync(execStr) 
-    console.log("check: ", `${outputBasedir}/${lang}/${filename}`)
-    let xmlString = fs.readFileSync(`${outputBasedir}/${lang}/${filename}`,'utf8')
+    console.log("check: ", `${filename}`)
+    let xmlString = fs.readFileSync(`${langDir}/${filename}`,'utf8')
     let jsonString = xml2json.toJson(xmlString)
     let o = JSON.parse(jsonString)["xml"]
     console.log("---")
     let oo = o["words"]
-    fs.writeFileSync(`${outputBasedir}/${lang}/${dateString}-${langString}-widget.json`
+    fs.writeFileSync(`${langDir}/${dateString}-${langString}-widget.json`
       ,JSON.stringify(oo, null, 2), 'utf8')
     console.log(oo)
     console.log("wordsound: " , oo["wordsound"])
     console.log("phrasesound: " , oo["phrasesound"])
     {
-        let execStr = `curl "${oo["wordsound"]}" -o ${outputBasedir}/${lang}/sound/${dateString}-wordsound.mp3`
+        let execStr = `curl "${oo["wordsound"]}" -o ${soundDir}/${dateString}-wordsound.mp3`
         let r = systemSync(execStr) 
     }
     {
-        let execStr = `curl "${oo["phrasesound"]}" -o ${outputBasedir}/${lang}/sound/${dateString}-phrasesound.mp3`
+        let execStr = `curl "${oo["phrasesound"]}" -o ${soundDir}/${dateString}-phrasesound.mp3`
         let r = systemSync(execStr) 
     }
 }
