@@ -33,11 +33,13 @@ d=$(date -I -d "$d + 1 day") # etc etc
 
  never liked writing Bash scripts, might be a good task to try Closh-clojure-shell, but couldn't get it installed.
 
-### Next steps 
+### Next steps  (TODO)
 
  * script should check for existing files before downloading, to allow monthly update/etc
  * find earliest date per language
  * speech-synth source (english) sentence
+ * Makefile
+ * with/without audio d/l option
  * make playlists with everything
  * make spaced repetition playlists
  * similar for innovative-language WOTD 
