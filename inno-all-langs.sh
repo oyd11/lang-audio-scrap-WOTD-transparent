@@ -2,7 +2,9 @@
 
 declare -a langs=(
     "Afrikaans" "Arabic" "Bulgarian" "Cantonese" "Chinese" "Croatian" "Czech" "Danish"
-    "Dutch"  "Farsi" "Filipino" "Finnish" "French" "German"
+    "Dutch" 
+#    "Farsi" # Skip Farsi, it's the same data as Persian, will d/l it twice
+    "Filipino" "Finnish" "French" "German"
     "Greek" "Hebrew" "Hindi" "Hungarian" "Indonesian" "Italian" "Japanese" "Korean"
     "Malaysian" "Mongolian" "Nepali" "Norwegian" "Persian" "Polish" "Portuguese_Brazil"
     "Portuguese" "Romanian" "Russian" "Spanish" "Spanish_Mexican" "Swahili" "Swedish"

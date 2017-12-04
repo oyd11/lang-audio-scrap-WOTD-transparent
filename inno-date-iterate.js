@@ -11,6 +11,7 @@ let outputBasedir = "./inno-download"
 
 let dateFormat = "YYYY-MM-DD"
 let nowDate = moment()
+//let startDate = moment("2014-01-01", dateFormat)
 let startDate = moment("2017-01-01", dateFormat)
 
 ///// prelude :: ///

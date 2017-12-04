@@ -1,12 +1,13 @@
-'use strict' 
+'use strict'
 let fs = require('fs');
 let url = require('url')
 let path = require('path')
 let JSSoup = require('jssoup').default;
 
-//let inputFilename  = "./inno-download/Russian/2017-11-01-Russian.html"
 let exampleInput = "./inno-download/Russian/2017-12-03-Russian.html"
+let cmdInput = process.argv[2]
 
+let isCLI = require.main === module;
 
 // src_* fields - eg "English" ( in current case)
 // target_* fields - eg "Russian" (any language)
@@ -25,7 +26,7 @@ function extract_WOTD_links( inputFilename ) {
 
     let htmlString = fs.readFileSync(inputFilename,'utf8')
 
-    let soup = new JSSoup(htmlString) 
+    let soup = new JSSoup(htmlString)
 
 {
     let eng = "wotd-widget-sentence-quizmode-space-text big english"
@@ -92,8 +93,15 @@ function extract_WOTD_links( inputFilename ) {
     }
 }
     {
-        let word_id_url = ret.src_sentences[0].audio_url
+      for (let i in ret.src_sentences) {
+        // word_id_url := find first sentence with valid 'audio_url'
+        let word_id_url = ret.src_sentences[i].audio_url
+        if (0 == word_id_url.length ) {
+          continue
+        }
         ret.word_id = path.basename(  url.parse(word_id_url).path , '.mp3')
+        break
+      }
     }
     return ret
 }
@@ -111,4 +119,9 @@ if (runTest) {
     console.log("-!-")
 }
 
-
+if (null != cmdInput && isCLI) {
+    let out = extract_WOTD_links( cmdInput )
+    console.log("---")
+    console.log(out)
+    console.log("-!-")
+}
