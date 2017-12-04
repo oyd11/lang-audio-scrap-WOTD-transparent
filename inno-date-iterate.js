@@ -11,7 +11,7 @@ let outputBasedir = "./inno-download"
 
 let dateFormat = "YYYY-MM-DD"
 let nowDate = moment()
-let startDate = moment("2017-11-01", dateFormat)
+let startDate = moment("2017-01-01", dateFormat)
 
 ///// prelude :: ///
 
@@ -75,6 +75,14 @@ function systemSync(cmd) {
 }
 
 
+function execIfMissing( execStr, localFn ) {
+    if (!fs.existsSync(localFn)){
+        let r = systemSync(execStr)
+        return r
+    }
+    return null
+}
+
 
 
 // example url:
@@ -106,21 +114,19 @@ for (let d = startDate ; !d.isAfter( nowDate,  'day') ; d.add(1, 'days' )) {
         let u = o.target_audio_url
         let f = `${soundDir}/${word_id}_0word.mp3`
         let execStr = `curl ${u} -o ${f}`
-        let r = systemSync(execStr)
+        let r = execIfMissing( execStr, f)
     }
     for (let i in o.target_sentences) {
         let u = o.target_sentences[i].audio_url
         let f = `${soundDir}/${word_id}_s${i}.mp3`
         let execStr = `curl ${u} -o ${f}`
-        let r = systemSync(execStr)
+        let r = execIfMissing( execStr, f)
     }
     for (let i in o.src_sentences) {
         let u = o.src_sentences[i].audio_url
         let f = `${engSrcSoundDir}/${word_id}_s${i}.mp3`
-        if (!fs.existsSync(f)){
-            let execStr = `curl ${u} -o ${f}`
-            let r = systemSync(execStr)
-        }
+        let execStr = `curl ${u} -o ${f}`
+        let r = execIfMissing( execStr, f)
     }
 
 }
