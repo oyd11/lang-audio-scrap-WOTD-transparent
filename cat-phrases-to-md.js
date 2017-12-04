@@ -1,7 +1,6 @@
 'use strict'
 
 // concatinate phrases to .md
-console.log(process.argv)
 if (process.argv.length < 3) {
     console.log("required - lang to process")
     process.exit(1)
@@ -23,7 +22,7 @@ let outputBasedir = "./output"
 
 function mkDirSync(dir) {
     if (!fs.existsSync(dir)){
-            fs.mkdirSync(dir); 
+            fs.mkdirSync(dir);
     }
 }
 
@@ -37,13 +36,13 @@ let mdStream = fs.createWriteStream(mdFilename, 'utf8')
 mdStream.write(`# ${lang} WOTD : \n`)
 
 // the finish event is emitted when all data has been flushed from the stream
-mdStream.on('finish', () => {  
+mdStream.on('finish', () => {
         console.log(mdFilename, ' :: Finish writing', )
 })
 
 // TODO : write date range + missing dates?
 
-let jsonFiles = glob.sync(`${inputBasedir}/${lang}/\*.json`) 
+let jsonFiles = glob.sync(`${inputBasedir}/${lang}/\*.json`)
 
 mdStream.write('----------\n')
 mdStream.write(` ${jsonFiles.length} phrases \n`)
@@ -78,5 +77,4 @@ for (let ind in jsonFiles) {
 
 mdStream.write('----------\n')
 mdStream.write(" # - end of file - \n")
-mdStream.end();  
-
+mdStream.end();
