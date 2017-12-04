@@ -7,7 +7,7 @@ let xml2json = require('xml2json');
 
 //let lang = "swedish"
 let lang = "balinese"
-let outputBasedir = "./download"
+let outputBasedir = "./transparent-download"
 
 function mkDirSync(dir) {
     if (!fs.existsSync(dir)){

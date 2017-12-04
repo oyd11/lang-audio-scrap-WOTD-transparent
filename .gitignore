@@ -1,6 +1,7 @@
 
 node_modules/
-download/
+transparent-download/
+inno-download/
 
 *.sw?
 *.mp3
