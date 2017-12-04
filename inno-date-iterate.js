@@ -24,12 +24,13 @@ let lang = process.argv[2]
 let langs = [
   // copied from page
   // langs like "English (UK)" - are used as "English_UK" as a req string
-"Afrikaans", "Arabic", "Bulgarian", "Cantonese", "Chinese", "Croatian", "Czech", "Danish",
-"Dutch", "English_US", "English_UK", "Farsi", "Filipino", "Finnish", "French", "German",
-"Greek", "Hebrew", "Hindi", "Hungarian", "Indonesian", "Italian", "Japanese", "Korean",
-"Malaysian", "Mongolian", "Nepali", "Norwegian", "Persian", "Polish", "Portuguese_Brazil",
-"Portuguese", "Romanian", "Russian", "Spanish", "Spanish_Mexican", "Swahili", "Swedish",
-"Thai", "Turkish", "Ukrainian", "Urdu", "Vietnamese",
+  // note: English - is not supported, english assumed as src
+    "Afrikaans", "Arabic", "Bulgarian", "Cantonese", "Chinese", "Croatian", "Czech", "Danish",
+    "Dutch", "English_US", "English_UK", "Farsi", "Filipino", "Finnish", "French", "German",
+    "Greek", "Hebrew", "Hindi", "Hungarian", "Indonesian", "Italian", "Japanese", "Korean",
+    "Malaysian", "Mongolian", "Nepali", "Norwegian", "Persian", "Polish", "Portuguese_Brazil",
+    "Portuguese", "Romanian", "Russian", "Spanish", "Spanish_Mexican", "Swahili", "Swedish",
+    "Thai", "Turkish", "Ukrainian", "Urdu", "Vietnamese",
 ];
 
 if ( !langs.includes(lang) ) {
@@ -92,6 +93,7 @@ for (let d = startDate ; !d.isAfter( nowDate,  'day') ; d.add(1, 'days' )) {
     let o = extract_WOTD_links.extract_WOTD_links( filename_WOTD_widget )
     console.log("---")
     console.log(o)
+    console.log("---")
     let word_id = o.word_id
     // save json as both 'word_id' and as date:
     let jsonString = JSON.stringify(o, null, 2)
@@ -99,26 +101,26 @@ for (let d = startDate ; !d.isAfter( nowDate,  'day') ; d.add(1, 'days' )) {
     fs.writeFileSync(`${langDir}/${word_id}.json`, jsonString, 'utf8')
 
 // the 'word_id' will be the filename of the first English-Source sentence:
-    console.log(word_id)
+    console.log("word_id :: " , word_id)
     {
+        let u = o.target_audio_url
         let f = `${soundDir}/${word_id}_0word.mp3`
-        let execStr = `curl ${o.target_audio_url} -o ${f}`
+        let execStr = `curl ${u} -o ${f}`
         let r = systemSync(execStr)
     }
     for (let i in o.target_sentences) {
+        let u = o.target_sentences[i].audio_url
         let f = `${soundDir}/${word_id}_s${i}.mp3`
-        let execStr = `curl ${o.target_audio_url} -o ${f}`
+        let execStr = `curl ${u} -o ${f}`
         let r = systemSync(execStr)
     }
-    break
-
-    {
-        let execStr = `curl ${baseUrl} --data '${formData}' -o ${filename_WOTD_widget}`
-        let r = systemSync(execStr)
+    for (let i in o.src_sentences) {
+        let u = o.src_sentences[i].audio_url
+        let f = `${engSrcSoundDir}/${word_id}_s${i}.mp3`
+        if (!fs.existsSync(f)){
+            let execStr = `curl ${u} -o ${f}`
+            let r = systemSync(execStr)
+        }
     }
-
-
-
-    break
 
 }
