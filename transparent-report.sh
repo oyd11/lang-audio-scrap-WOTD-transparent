@@ -2,5 +2,5 @@
 
 pushd .
 cd transparent-download/
-for a in * ; do echo -n $a ::  ; ls $a/sound/*.mp3 | wc -l ; done
+for a in * ; do echo -n $a ::  ; ls $a/$a-sound/*.mp3 | wc -l ; done
 popd

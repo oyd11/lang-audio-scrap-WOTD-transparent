@@ -6,7 +6,7 @@ let moment = require('moment')
 
 // local includes:
 let extract_WOTD_links = require('./extract_WOTD_links.js')
-let misc_utils = required('./misc_utils.js')
+let misc_utils = require('./misc_utils.js')
 let systemSync = misc_utils.systemSync
 let execIfMissing = misc_utils.execIfMissing
 let mkDirSync = misc_utils.mkDirSync
@@ -16,8 +16,8 @@ let outputBasedir = "./inno-download"
 
 let dateFormat = "YYYY-MM-DD"
 let nowDate = moment()
-let startDate = moment("2011-09-18", dateFormat)
-//let startDate = moment("2017-01-01", dateFormat)
+//let startDate = moment("2011-09-18", dateFormat)
+let startDate = moment("2017-01-01", dateFormat)
 
 ///// prelude :: ///
 
@@ -48,8 +48,8 @@ let langString = lang
 
 
 let langDir =  `${outputBasedir}/${lang}`
-let soundDir = `${langDir}/${lang}-sound`
-let engSrcSoundDir = `${outputBasedir}/eng-src`
+let soundDir = `${outputBasedir}-sound/${lang}-sound/`
+let engSrcSoundDir = `${outputBasedir}-sound/eng-src`
 mkDirSync( outputBasedir )
 mkDirSync( langDir )
 mkDirSync( soundDir )
