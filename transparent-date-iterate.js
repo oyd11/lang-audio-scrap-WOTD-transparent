@@ -5,15 +5,22 @@ let moment = require('moment');
 let child_process = require('child_process')
 let xml2json = require('xml2json');
 
+// local includes:
+let misc_utils = required('./misc_utils.js')
+let systemSync = misc_utils.systemSync
+let execIfMissing = misc_utils.execIfMissing
+let mkDirSync = misc_utils.mkDirSync
+
 //let lang = "swedish"
+if (process.argv.length < 3) {
+    console.log("required - lang to process")
+    process.exit(1)
+}
+//let lang = "Russian"
+let lang = process.argv[2]
 let lang = "balinese"
 let outputBasedir = "./transparent-download"
 
-function mkDirSync(dir) {
-    if (!fs.existsSync(dir)){
-            fs.mkdirSync(dir); 
-    }
-}
 
 let langDir =  `${outputBasedir}/${lang}` 
 let soundDir = `${langDir}/${lang}-sound`
@@ -23,8 +30,8 @@ mkDirSync( soundDir )
 
 let dateFormat = "MM-DD-YYYY"
 let nowDate = moment()
-let startDate = moment("01-01-2017", dateFormat)
-//let startDate = moment("11-29-2017", dateFormat)
+//let startDate = moment("01-01-2017", dateFormat)
+let startDate = moment("11-29-2017", dateFormat)
 
 let langHumanToUrl = {
  "arabic": "arabic",
@@ -81,7 +88,7 @@ for (let d = startDate ; !d.isAfter( nowDate,  'day') ; d.add(1, 'days' )) {
     let xmlUrl = `https://wotd.transparent.com/rss/${filename}`
     console.log("url: ", xmlUrl)
     let execStr = `curl ${xmlUrl} -o ${langDir}/${filename}`
-    let r = systemSync(execStr) 
+    let r = execIfMissing(execStr) 
     console.log("check: ", `${filename}`)
     let xmlString = fs.readFileSync(`${langDir}/${filename}`,'utf8')
     let jsonString = xml2json.toJson(xmlString)
@@ -95,11 +102,11 @@ for (let d = startDate ; !d.isAfter( nowDate,  'day') ; d.add(1, 'days' )) {
     console.log("phrasesound: " , oo["phrasesound"])
     {
         let execStr = `curl "${oo["wordsound"]}" -o ${soundDir}/${dateString}-wordsound.mp3`
-        let r = systemSync(execStr) 
+        let r = execIfMissing(execStr) 
     }
     {
         let execStr = `curl "${oo["phrasesound"]}" -o ${soundDir}/${dateString}-phrasesound.mp3`
-        let r = systemSync(execStr) 
+        let r = execIfMissing(execStr) 
     }
 }
 

@@ -4,15 +4,21 @@
 let fs = require('fs')
 let moment = require('moment')
 let child_process = require('child_process')
+
+// local includes:
 let extract_WOTD_links = require('./extract_WOTD_links.js')
+let misc_utils = required('./misc_utils.js')
+let systemSync = misc_utils.systemSync
+let execIfMissing = misc_utils.execIfMissing
+let mkDirSync = misc_utils.mkDirSync
 
 /////// Settings ////
 let outputBasedir = "./inno-download"
 
 let dateFormat = "YYYY-MM-DD"
 let nowDate = moment()
-//let startDate = moment("2014-01-01", dateFormat)
-let startDate = moment("2017-01-01", dateFormat)
+let startDate = moment("2011-09-18", dateFormat)
+//let startDate = moment("2017-01-01", dateFormat)
 
 ///// prelude :: ///
 
@@ -42,12 +48,6 @@ if ( !langs.includes(lang) ) {
 let langString = lang
 
 
-function mkDirSync(dir) {
-    if (!fs.existsSync(dir)){
-            fs.mkdirSync(dir);
-    }
-}
-
 let langDir =  `${outputBasedir}/${lang}`
 let soundDir = `${langDir}/${lang}-sound`
 let engSrcSoundDir = `${outputBasedir}/eng-src`
@@ -59,30 +59,6 @@ mkDirSync( engSrcSoundDir )
 // 2017-12-01'
 // minimal call:
 // curl 'http://www.innovativelanguage.com/widgets/wotd/large.php'   --data 'language=Chinese&date=2017-12-01'
-
-// execSync: from stackoverflow advice:
-// https://stackoverflow.com/questions/32874316/node-js-accessing-the-exit-code-and-stderr-of-a-system-command
-function systemSync(cmd) {
-    console.log("exec: ", cmd)
-    try {
-        return child_process.execSync(cmd).toString();
-    }
-    catch (error) {
-        error.status;  // Might be 127 in your example.
-        error.message; // Holds the message you typically want.
-        error.stderr;  // Holds the stderr output. Use `.toString()`.
-        error.stdout;  // Holds the stdout output. Use `.toString()`.
-    }
-}
-
-
-function execIfMissing( execStr, localFn ) {
-    if (!fs.existsSync(localFn)){
-        let r = systemSync(execStr)
-        return r
-    }
-    return null
-}
 
 
 
