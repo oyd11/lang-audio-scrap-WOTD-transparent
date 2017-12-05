@@ -3,7 +3,6 @@
 /////// include libs ////
 let fs = require('fs')
 let moment = require('moment')
-let child_process = require('child_process')
 
 // local includes:
 let extract_WOTD_links = require('./extract_WOTD_links.js')

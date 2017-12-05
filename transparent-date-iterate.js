@@ -1,24 +1,23 @@
 'use strict'
 
+
 let fs = require('fs');
 let moment = require('moment');
-let child_process = require('child_process')
 let xml2json = require('xml2json');
 
 // local includes:
-let misc_utils = required('./misc_utils.js')
+let misc_utils = require('./misc_utils.js')
 let systemSync = misc_utils.systemSync
 let execIfMissing = misc_utils.execIfMissing
 let mkDirSync = misc_utils.mkDirSync
 
-//let lang = "swedish"
 if (process.argv.length < 3) {
     console.log("required - lang to process")
     process.exit(1)
 }
-//let lang = "Russian"
+//let lang = "russian"
+//let lang = "swedish"
 let lang = process.argv[2]
-let lang = "balinese"
 let outputBasedir = "./transparent-download"
 
 
@@ -28,10 +27,14 @@ mkDirSync( outputBasedir )
 mkDirSync( langDir )
 mkDirSync( soundDir )
 
+// Config :: //
+
+let isDownloadExistingXml = false
 let dateFormat = "MM-DD-YYYY"
 let nowDate = moment()
+let endDate = nowDate
 //let startDate = moment("01-01-2017", dateFormat)
-let startDate = moment("11-29-2017", dateFormat)
+let startDate = moment("11-25-2017", dateFormat)
 
 let langHumanToUrl = {
  "arabic": "arabic",
@@ -65,31 +68,22 @@ let langHumanToUrl = {
 
 let langString = langHumanToUrl[lang]
 
-// execSync: from stackoverflow advice:
-// https://stackoverflow.com/questions/32874316/node-js-accessing-the-exit-code-and-stderr-of-a-system-command
-function systemSync(cmd) {
-    console.log("exec: ", cmd)
-    try {
-        return child_process.execSync(cmd).toString();
-    } 
-    catch (error) {
-        error.status;  // Might be 127 in your example.
-        error.message; // Holds the message you typically want.
-        error.stderr;  // Holds the stderr output. Use `.toString()`.
-        error.stdout;  // Holds the stdout output. Use `.toString()`.
-    }
-}
-
-
 // let url = "https://wotd.transparent.com/rss/11-27-2017-swedish-widget.xml"
-for (let d = startDate ; !d.isAfter( nowDate,  'day') ; d.add(1, 'days' )) { 
+for (let d = startDate ; !d.isAfter( endDate,  'day') ; d.add(1, 'days' )) { 
     let dateString = d.format(dateFormat)
     let filename = `${dateString}-${langString}-widget.xml`
     let xmlUrl = `https://wotd.transparent.com/rss/${filename}`
     console.log("url: ", xmlUrl)
-    let execStr = `curl ${xmlUrl} -o ${langDir}/${filename}`
-    let r = execIfMissing(execStr) 
-    console.log("check: ", `${filename}`)
+    {
+        let f = `${langDir}/${filename}`
+        let execStr = `curl ${xmlUrl} -o ${f}`
+        if (isDownloadExistingXml) {
+            let r = systemSync(execStr) 
+        } else {
+            let r = execIfMissing(execStr, f) 
+        }
+        console.log("check: ", `${f}`)
+    }
     let xmlString = fs.readFileSync(`${langDir}/${filename}`,'utf8')
     let jsonString = xml2json.toJson(xmlString)
     let o = JSON.parse(jsonString)["xml"]
@@ -101,12 +95,14 @@ for (let d = startDate ; !d.isAfter( nowDate,  'day') ; d.add(1, 'days' )) {
     console.log("wordsound: " , oo["wordsound"])
     console.log("phrasesound: " , oo["phrasesound"])
     {
-        let execStr = `curl "${oo["wordsound"]}" -o ${soundDir}/${dateString}-wordsound.mp3`
-        let r = execIfMissing(execStr) 
+        let f = `${soundDir}/${dateString}-wordsound.mp3`
+        let execStr = `curl "${oo["wordsound"]}" -o ${f}`
+        let r = execIfMissing(execStr, f) 
     }
     {
-        let execStr = `curl "${oo["phrasesound"]}" -o ${soundDir}/${dateString}-phrasesound.mp3`
-        let r = execIfMissing(execStr) 
+        let f = `${soundDir}/${dateString}-phrasesound.mp3`
+        let execStr = `curl "${oo["phrasesound"]}" -o ${f}`
+        let r = execIfMissing(execStr, f) 
     }
 }
 
