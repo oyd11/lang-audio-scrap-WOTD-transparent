@@ -11,7 +11,7 @@ inds=Dict()
 files=Dict()
 
 lang1 = "Russian"
-lang2 = "Finnish"
+lang2 = "Bulgarian"
 
 
 include("inno-all-langs.jl")
@@ -49,16 +49,16 @@ cd("inno-download-sound") do
     open(fn_playlist,"w") do f
         println(f, "#EXTM3U")
         for ind in both
-            println(f,"inno-download-sound/$(lang1)-sound/$(ind)_0word.mp3")
-            println(f,"inno-download-sound/$(lang2)-sound/$(ind)_0word.mp3")
-            l1 = glob("inno-download-sound/$(lang1)-sound/$(ind)_s*.mp3")
-            l2 = glob("inno-download-sound/$(lang2)-sound/$(ind)_s*.mp3")
+            println(f,"$(lang1)-sound/$(ind)_0word.mp3")
+            println(f,"$(lang2)-sound/$(ind)_0word.mp3")
+            l1 = glob("$(lang1)-sound/$(ind)_s*.mp3")
+            l2 = glob("$(lang2)-sound/$(ind)_s*.mp3")
             for (x,y) in zip(l1,l2)
                 println(f,x)
                 println(f,y)
             end
-            println(f,"inno-download-sound/$(lang1)-sound/$(ind)_0word.mp3")
-            println(f,"inno-download-sound/$(lang2)-sound/$(ind)_0word.mp3")
+            println(f,"$(lang1)-sound/$(ind)_0word.mp3")
+            println(f,"$(lang2)-sound/$(ind)_0word.mp3")
         end
     end
 end # cd
