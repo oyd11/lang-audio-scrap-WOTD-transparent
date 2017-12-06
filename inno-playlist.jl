@@ -1,5 +1,21 @@
-
+#!/usr/bin/env julia
 # Julia 0.6 syntax
+
+if length(ARGS) != 2 
+    println("Required exactly 2 args: pair of langs")
+    quit()
+end
+
+lang1, lang2 = ARGS[1], ARGS[2]
+#lang1 = "Russian"
+#lang2 = "Swedish"
+println("Will run: $lang1 - $lang2")
+
+include("inno-all-langs.jl")
+short1 = lang_short_names[lang1]
+short2 = lang_short_names[lang2]
+
+println(" => $short1$short2 ")
 
 using Glob
 
@@ -10,11 +26,8 @@ el(n) = x->x[n]
 inds=Dict()
 files=Dict()
 
-lang1 = "Russian"
-lang2 = "Bulgarian"
 
 
-include("inno-all-langs.jl")
 
 cd("inno-download-sound") do
     for lang in [lang1, lang2]
@@ -41,8 +54,6 @@ cd("inno-download-sound") do
     both = intersect(inds[lang1] ,inds[lang2])
     println("both: $(length(both)) words")
 
-    short1 = lang_short_names[lang1]
-    short2 = lang_short_names[lang2]
 
     fn_playlist = "$(short1)$(short2).m3u8"
     println("Creating: $(fn_playlist)")
