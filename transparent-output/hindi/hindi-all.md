@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -1338,5 +1338,45 @@
  * **शक करना** :: to doubt (verb)
  * मुझे माप की सटीकता पर शक है। 
  * I doubt the accuracy of the measurements. 
+----------
+ * **नहाना** :: to shower (verb)
+ * तुम ऊपर के बाथरूम में नहा सकते हो। 
+ * You can shower in the bathroom upstairs. 
+----------
+ * **समझाना** :: to explain (verb)
+ * मुझे एक बार फिर से समाधान समझाओ। 
+ * Explain the solution to me one more time. 
+----------
+ * **विदेशी** :: alien (adjective)
+ * हमारे ग्राहक तुम्हें ज़रूर विदेशी लगते होंगे। 
+ * Our customs must seem alien to you. 
+----------
+ * **उदाहरण** :: example (noun)
+ * हमेशा खुद के उदाहरण देकर नेतृत्व करना सबसे बेहतर होता है। 
+ * It's always best to lead by example. 
+----------
+ * **चुनाव करना** :: to choose (verb)
+ * एक कार्ड, कोई भी कार्ड, चुनें। 
+ * Choose a card, any card. 
+----------
+ * **ऊर्जा से भरा** :: energetic (adjective)
+ * एक लम्बी सैर के बाद भी, उसका कुत्ता ऊर्जा से भरा है! 
+ * Even after a long walk, her puppy is energetic! 
+----------
+ * **गलत** :: mistaken (adjective)
+ * उसका मामला एक गलत पहचान का मामला था। 
+ * His was a case of mistaken identity. 
+----------
+ * **अपवाद** :: exception (noun)
+ * हर नियम के कुछ अपवाद होते हैं। 
+ * There are exceptions to every rule. 
+----------
+ * **भूत** :: ghost (noun)
+ * कहा जाता है कि भूत पुराने घरों में बसेरा करते हैं। 
+ * They say that ghosts haunt the old house. 
+----------
+ * **फूल खिलना** :: to flower (verb)
+ * पेड़ों पर कुछ ही हफ्तों में फूल खिलेंगे। 
+ * The trees will flower in a few weeks. 
 ----------
  # - end of file - 

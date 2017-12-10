@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -1338,5 +1338,45 @@
  * **konverti** :: to convert (verb)
  * Ankoraŭ ili ne povas konverti plumbon en oron. 
  * They still cannot convert lead into gold. 
+----------
+ * **koramikino** :: girlfriend (noun)
+ * Ŝi estas mia koramikino jam du monatojn. 
+ * She has been my girlfriend for two months. 
+----------
+ * **koramiko** :: boyfriend (noun)
+ * Li estas mia koramiko jam du monatojn. 
+ * He has been my boyfriend for two months. 
+----------
+ * **korektado** :: correction (noun)
+ * La ĵurnalo publikigis malgrandan korektadon. 
+ * The newspaper issued a small correction. 
+----------
+ * **koro** :: heart (noun)
+ * Sana koro kondukas al sana vivo. 
+ * A healthy heart leads to a healthy life. 
+----------
+ * **koro** :: heart (noun)
+ * Ŝi restas proksime al mia koro. 
+ * She remains close to my heart. 
+----------
+ * **kosma** :: cosmic (adjective)
+ * Kie ni troviĝas en la kosma ordo? 
+ * Where are we in the cosmic scheme? 
+----------
+ * **kostumo** :: costume (noun)
+ * Ili surhavis kostumojn bele ellaboritajn por la festo. 
+ * They wore elaborate costumes to the party. 
+----------
+ * **kristala** :: crystal (adjective)
+ * Bela kristala lustro pendas en la ĉambro. 
+ * A fine crystal chandelier hangs in the room. 
+----------
+ * **kudri** :: to sew (verb)
+ * Ŝia patrino kudris la ŝiritan pantalonon. 
+ * Her mother sewed the torn pants. 
+----------
+ * **kukurbo** :: pumpkin (noun)
+ * Ni ĉizis kukurbojn por dekoracio. 
+ * We carved pumpkins to decorate. 
 ----------
  # - end of file - 

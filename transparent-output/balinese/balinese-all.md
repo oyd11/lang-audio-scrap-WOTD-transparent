@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -1338,5 +1338,45 @@
  * **pangusadan** :: medical treatments (alus (refined))
  * Pangusadan napi sane wenten iriki? 
  * What medical treatments are available here? 
+----------
+ * **tetanduran** :: plants (alus (refined))
+ * Driki wenten akeh tetanduran. 
+ * There are a lot of plants here. 
+----------
+ * **tamba** :: medicine (alus (refined))
+ * Akeh sarwa entikan sane dados tamba. 
+ * Many kinds of plants are medicinal. 
+----------
+ * **mawit** :: to originate from (alus (refined))
+ * Dadosne mawit saking lontar usada? 
+ * So is this from the medical palm leaf manuscript? 
+----------
+ * **lontar** :: palm leaf manuscript (alus (refined))
+ * Lontar usada mawasta taru pramana. 
+ * The palm leaf manuscript of medicine is called Taru Pramana. 
+----------
+ * **kidik** :: a little, a few (alus (refined))
+ * Manahang titiang kidik wenten tetambane. 
+ * I thought there were only a few medical plants. 
+----------
+ * **karacik** :: to be mixed (alus (refined))
+ * Nenten, kantos akeh sane karacik. 
+ * No, there are many ingredients that are mixed. 
+----------
+ * **gelem panes** :: fever (biasa (common))
+ * Tiang kanawangang kena gelem panes, beneh? 
+ * I was told I have a fever, is that right? 
+----------
+ * **tetiga** :: three (alus (refined))
+ * Wenten tetiga wilangan panyakit. 
+ * There are three kinds of diseases. 
+----------
+ * **keni** :: to be struck (alus (refined))
+ * Titiang keni panyungkan napi puniki? 
+ * What illness do I have? 
+----------
+ * **ageng** :: large (alus (refined))
+ * Gedungne taler ageng. 
+ * That building is also large. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -1338,5 +1338,45 @@
  * **kwaśny** :: sour (adjective)
  * To mleko jest kwaśne, nie będę go piła. 
  * This milk is sour; I won't drink it. 
+----------
+ * **gorzki** :: bitter (adjective)
+ * Gdy połknął gorzkie lekarstwo, mocno się skrzywił. 
+ * When he swallowed the bitter medicine, he twisted his mouth. 
+----------
+ * **dociekliwy** :: inquisitive (adjective)
+ * Jako policyjny detektyw był bardzo dociekliwy. 
+ * As a police detective, he was very inquisitive. 
+----------
+ * **niegrzeczny** :: rude (adjective)
+ * To udręka mieć niegrzecznego szefa. 
+ * It's an ordeal to have a rude boss. 
+----------
+ * **odważny** :: brave (adjective)
+ * Odważny żołnierz uratował życie mojej babci. 
+ * A brave soldier saved my grandma's life. 
+----------
+ * **cienki** :: thin (adjective)
+ * Ukroił sobie cienki plasterek sera. 
+ * He cut himself a thin slice of cheese. 
+----------
+ * **czuły** :: affectionate (adjective)
+ * Każda matka powinna być czuła i kochająca. 
+ * Every mother should be affectionate and loving. 
+----------
+ * **ostateczny** :: final (adjective)
+ * Nie pojadę z tobą na biegun północny, to moja ostateczna decyzja. 
+ * I won't go to the North Pole with you; that's my final decision. 
+----------
+ * **uczuciowy** :: emotional (adjective)
+ * Jej reakcja była zbyt uczuciowa, aby była prawdziwa. 
+ * Her reaction was too emotional to be true. 
+----------
+ * **opasły** :: bulky (adjective)
+ * Muszę przeczytać tę opasłą książkę na jutro. 
+ * I have to read this bulky book for tomorrow. 
+----------
+ * **kłopotliwy** :: awkward (adjective)
+ * Zadałeś mi raczej kłopotliwe pytanie. 
+ * You asked me a rather awkward question. 
 ----------
  # - end of file - 

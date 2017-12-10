@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -1338,5 +1338,45 @@
  * **ausência** :: absence (noun)
  * Você pode continuar o projeto na minha ausência. 
  * You can keep the project going in my absence. 
+----------
+ * **secretamente** :: in secret (adverb)
+ * Planejamos uma festa surpresa secretamente. 
+ * We planned a surprise party in secret. 
+----------
+ * **roda gigante** :: ferris wheel (noun)
+ * Mãe, quero ir na roda gigante! 
+ * Mom, I want to get on the ferris wheel! 
+----------
+ * **queimar** :: to burn (verb)
+ * Dizem que o tempo é fogo no qual nos queimamos. 
+ * They say time is the fire in which we burn. 
+----------
+ * **semente** :: seed (noun)
+ * Sempre compro a melancia que não tem sementes. 
+ * I always buy the kind of watermelon with no seeds. 
+----------
+ * **opor-se** :: to object (verb)
+ * Seu pai não se opôs desta vez? 
+ * Didn't your father object this time? 
+----------
+ * **comissária de bordo** :: stewardess (noun)
+ * Minha filha trabalha como comissária de bordo. 
+ * My daughter works as a stewardess. 
+----------
+ * **manjericão** :: basil (noun)
+ * O manjericão é o ingrediente principal do pesto. 
+ * Basil is the main ingredient in pesto. 
+----------
+ * **assim que** :: as soon as (conjunction)
+ * Estarei aí assim que puder. 
+ * I will be there as soon as I can. 
+----------
+ * **consumir** :: to consume (verb)
+ * Precisamos consumir isso antes que vença. 
+ * We need to consume this before it expires. 
+----------
+ * **agitado** :: frantic (adjective)
+ * Meu gato ficou agitado assim que o carro começou a andar. 
+ * My cat became frantic as soon as the car began to move. 
 ----------
  # - end of file - 

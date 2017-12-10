@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -1338,5 +1338,45 @@
  * **att lita på någon** :: to trust somebody (expression)
  * Han lurar oss alltid; jag litar inte på honom. 
  * He always deceives us; I don't trust him. 
+----------
+ * **(en) ficktjuv** :: pick-pocket (noun)
+ * Polisen grep en ficktjuv igår. 
+ * The police arrested a pick-pocket last night. 
+----------
+ * **att vara tråkig** :: to be a bore (expression)
+ * Han är en sådan tråkig lärare. 
+ * He is such a bore of a teacher. 
+----------
+ * **smaklös** :: tasteless (adjective)
+ * Mat verkar smaklös när man är förkyld. 
+ * Food seems tasteless when one has a cold. 
+----------
+ * **humör** :: mood (expression)
+ * Jag är inte på humör för skämt. 
+ * I'm not in the mood for jokes. 
+----------
+ * **att hålla** :: to hold (verb)
+ * Håll i det här fiskespöet en stund. 
+ * Hold this fishing pole a moment. 
+----------
+ * **Vi ses snart!** :: See you soon! (expression)
+ * Jag måste gå nu, men vi ses snart! 
+ * I've got to go now, see you soon! 
+----------
+ * **att sova som en stock** :: to sleep like a log (expression)
+ * Natten därpå sov jag som en stock och jag hörde ingenting. 
+ * That night I slept like a log and I didn't hear anything. 
+----------
+ * **användbar** :: useful (adjective)
+ * Artikeln om ekonomi visade sig vara användbar för min forskning. 
+ * The article on economics proved useful for my research. 
+----------
+ * **(ett) troll** :: troll (noun)
+ * Min brorson gillar historier med troll och älvor. 
+ * My nephew likes stories with trolls/goblins and fairies. 
+----------
+ * **hälsosam** :: healthy (adjective)
+ * Det är hälsosamt att motionera dagligen. 
+ * Doing daily exercise is a healthy activity. 
 ----------
  # - end of file - 

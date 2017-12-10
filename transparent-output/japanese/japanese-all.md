@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -2006,5 +2006,65 @@
  * 本を貸してくれてどうもありがとう。 
  * Hon o kashite kurete doumo arigatou. 
  * Thank you for lending me the book. 
+----------
+ * **けっこうです** :: No thank you. (expression)
+ * **kekkou desu** 
+ * お腹がいっぱいなので結構です。 
+ * Onakaga ippai nanode kekkou desu. 
+ * No thank you. I am full. 
+----------
+ * **失礼します** :: Excuse me. (expression)
+ * **shitsurei shimasu** 
+ * 社長の部屋に入るときは「失礼します」と言わなければならない。 
+ * Shachou no heya ni hairu toki wa "shitsurei shimasu" to iwanakereba naranai. 
+ * You must say "Shitsureishimasu" when you enter the president's room. 
+----------
+ * **ごめんなさい** :: I am sorry. (expression)
+ * **gomennasai** 
+ * 弟は何をしても「ごめんなさい。」と言わない。 
+ * Otouto wa nani o shitemo "gomennasai" to iwanai. 
+ * My brother does not say "I'm sorry", no matter what he does. 
+----------
+ * **すみません** :: Excuse me. (expression)
+ * **sumimasen** 
+ * すみません。これをください。 
+ * Sumimasen. Kore o kudasai. 
+ * Excuse me. Please give me this. 
+----------
+ * **失礼しました** :: I'm very sorry about that. (expression)
+ * **shitsurei shimashita** 
+ * お客様の足を踏んでしまったので、「失礼しました」といいました。 
+ * Okyakusama no ashi o funde shimattanode, "shitsurei simashita" to iimashita. 
+ * I said "I am very sorry about that" to the client when I accidentally stepped on his foot. 
+----------
+ * **マザコン** :: mama's boy (noun)
+ * **mazakon** 
+ * マザコンの男とは結婚したくない。 
+ * Mazakon no otoko towa kekkon shitakunai. 
+ * I do not want to marry a mama's boy. 
+----------
+ * **環境問題** :: environmental issues (noun)
+ * **kankyoumondai** 
+ * 環境問題はみんなの問題だ。 
+ * Kankyoumondai wa minna no mondai da. 
+ * Environmental issues are everybody's problem. 
+----------
+ * **近道** :: shortcut (noun)
+ * **chikamichi** 
+ * 近道して家に帰ろう。 
+ * Chikamichi shite ie ni kaerou. 
+ * Let's take the shortcut home. 
+----------
+ * **残業** :: overtime work (noun)
+ * **zangyou** 
+ * 残業が多くて大変だ。 
+ * zangyou ga ookute taihen da 
+ * It's hard to have this much overtime work. 
+----------
+ * **お元気ですか** :: How are you? (expression)
+ * **ogenkidesuka** 
+ * スーパーで近所のおじいさんに会ったので、「お元気ですか」と聞いた。 
+ * Sûpâ de kinjo no ojiisan ni atta node, "ogenkidesuka" to kiita. 
+ * I saw an old neighbor at the supermarket and asked him "How are you?" 
 ----------
  # - end of file - 

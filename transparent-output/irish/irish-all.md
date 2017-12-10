@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -1338,5 +1338,45 @@
  * **te** :: hot (adjective)
  * Tá sé te agus tais. 
  * It is hot and humid. 
+----------
+ * **an aimsir** :: weather (noun)
+ * Cad é réamhaisnéis na haimsire? 
+ * What is the weather forecast? 
+----------
+ * **ag cur báistí** :: to rain (expression)
+ * An bhfuil sé le chur báisteach inniu? 
+ * Will it rain today? 
+----------
+ * **an clár** :: schedule (noun)
+ * Cá gheobhaidh mé amchlár? 
+ * Where can I get a schedule? 
+----------
+ * **an suíochán** :: seat (noun)
+ * Cá bhfuil mo shuíochán? 
+ * What is my seat assignment? 
+----------
+ * **Cá bhfuil ...?** :: Where is...? (expression)
+ * Cá bhfuil an t-ardaitheoir? 
+ * Where is the elevator? 
+----------
+ * **an leithreas** :: restroom (noun)
+ * Cá bhfuil an leithreas? 
+ * Where is the restroom? 
+----------
+ * **an traein** :: train (noun)
+ * Cá n-athróidh mé traenacha? 
+ * Where do I change trains? 
+----------
+ * **an t-eitleán** :: airplane (noun)
+ * Cén uair a thagann an t-eitleán? 
+ * What time does the plane arrive? 
+----------
+ * **an ticéad** :: ticket (noun)
+ * Ba mhaith liom ceist a chur ort faoi mo thicéid. 
+ * I would like to ask you about my tickets. 
+----------
+ * **an eitilt** :: flight (noun)
+ * An eitilt gan stopadh é? 
+ * Is it a non-stop flight? 
 ----------
  # - end of file - 

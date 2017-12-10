@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -1338,5 +1338,45 @@
  * **le calendrier** :: calendar (noun)
  * Elle a entouré la date de son anniversaire sur mon calendrier. 
  * She has circled her birthday date on my calendar. 
+----------
+ * **apprendre** :: to learn (verb)
+ * Ma bonne résolution pour 2015: apprendre le russe. 
+ * My 2015 New Year's resolution: learn Russian. 
+----------
+ * **court** :: short (adjective)
+ * Le pull qu'elle m'a tricotée est beaucoup trop court. 
+ * The sweater she knit for me is way too short. 
+----------
+ * **le régime** :: diet (noun)
+ * Après les excès des fêtes, il veut se mettre au régime. 
+ * After the holiday's excesses, he wants to go on a diet. 
+----------
+ * **conduire** :: to drive (verb)
+ * Je n'aime pas conduire quand il neige. 
+ * I don't like to drive when it snows. 
+----------
+ * **la botte** :: boot (noun)
+ * Jeanne a mis ses bottes fourrées pour avoir bien chaud aux pieds. 
+ * Jeanne has put on her snow boots to keep her feet warm. 
+----------
+ * **ranger** :: to store (verb)
+ * Maman a déjà rangé les décorations de Noël. 
+ * Mom has already stored the Christmas decorations. 
+----------
+ * **assez** :: enough (adverb)
+ * Son vin chaud n'est pas assez épicé. 
+ * His mulled wine is not spicy enough. 
+----------
+ * **la fin** :: end (noun)
+ * Selon l'étiquette, il faut envoyer ses vœux avant la fin du mois de février. 
+ * According to etiquette, you have to send your greetings before the end of February. 
+----------
+ * **répondre** :: answer (verb)
+ * Je n'ai pas encore répondu à toutes les cartes que j'ai reçues. 
+ * I still have not answered all the greeting cards I have received. 
+----------
+ * **l'augmentation** :: raise (noun)
+ * Il va demander une augmentation à son chef pour la nouvelle année. 
+ * He's going to ask his boss for a raise for the new year. 
 ----------
  # - end of file - 

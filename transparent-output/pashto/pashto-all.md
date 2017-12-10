@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -1338,5 +1338,45 @@
  * **په خوا کې** :: by your side (expression)
  * زه غواړم خپل باقی ژوند ستا په خوا کې تیر کړم. 
  * I want to spend the rest of my life by your side. 
+----------
+ * **نښه** :: target (noun)
+ * غشي د نخې منځ و واهه. 
+ * The arrow hit the center of the target. 
+----------
+ * **کلچې** :: cookies (noun)
+ * زما مور همیشه په اختر کې ماته کلچې رالیږي. 
+ * My mother always sends me cookies in the Eid. 
+----------
+ * **په زر کاله کې هم نه** :: not in a thousand years (expression)
+ * زه به په زر کاله کې هم دا فلم ونه ګورم. 
+ * I wouldn't watch that movie in a thousand years. 
+----------
+ * **عطر** :: perfume (noun)
+ * ستا عطر زما خوښيږي. 
+ * I like your perfume. 
+----------
+ * **ځان خلاصول** :: to get rid of (verb)
+ * مونږ باید د خپل زوړ فرنیچر څخه ځان خلاص کړو. 
+ * We have to get rid of our old furniture. 
+----------
+ * **درد** :: pain (noun)
+ * بی زحمته راحت نشته. 
+ * No pain, no gain. 
+----------
+ * **لانجمن** :: controversial (adjective)
+ * د لوڅو صحنو له امله د هغې وروستی فلم لانجمن دی. 
+ * His last movie has been controversial due to the sex scenes. 
+----------
+ * **ډال** :: shield (noun)
+ * توریالي په ډال د ګزار مخه ونیوله. 
+ * The knight blocked the blow with his shield. 
+----------
+ * **لاسونه ورکول** :: to shake hands (expression)
+ * لاسونه ورکړئ او پخلا شئ. 
+ * Shake hands and make up. 
+----------
+ * **ژاوله** :: chewing gum (noun)
+ * زه کولای شم چی په یو وخت کې هم وکرځم او هم ژاوله وژوم. 
+ * I can walk and chew gum at the same time. 
 ----------
  # - end of file - 

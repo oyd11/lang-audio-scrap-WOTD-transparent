@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -1338,5 +1338,45 @@
  * **짓다** :: to build (verb)
  * 모래 위에 집을 짓지 마세요. 
  * Don't build your house on sand. 
+----------
+ * **전환하다** :: to convert (verb)
+ * 연금술사는 절대 납을 금으로 전환시키지 못 했습니다. 
+ * Alchemists never did manage to convert lead into gold. 
+----------
+ * **여자친구** :: girlfriend (noun)
+ * 그녀가 제 여자친구가 된 지 두 달이 되었습니다. 
+ * She has been my girlfriend for two months. 
+----------
+ * **정정** :: correction (noun)
+ * 그 신문은 작은 오류에 대한 정정 보도를 냈습니다. 
+ * The newspaper issued a small correction. 
+----------
+ * **맞다** :: to fit (verb)
+ * 이 드레스는 제 몸에 딱 맞습니다. 
+ * The dress fits me perfectly. 
+----------
+ * **의상** :: costume (noun)
+ * 그들은 화려한 의상을 입고 파티에 왔습니다. 
+ * They wore elaborate costumes to the party. 
+----------
+ * **크리스탈** :: crystal (adjective/noun)
+ * 고급 크리스탈 샹들리에가 그 방에 걸려 있다. 
+ * A fine crystal chandelier hangs in the room. 
+----------
+ * **중복된** :: overlapping (adjective)
+ * 가끔 갈등은 중복된 업무에서 일어난다. 
+ * Sometimes conflicts arise from overlapping job duties. 
+----------
+ * **상자** :: box (noun)
+ * 상자를 옮길 때 조심하세요. 
+ * Be careful when moving the box. 
+----------
+ * **손님들** :: guests (noun)
+ * 우리 결혼식 손님들이 도착하기 시작했습니다! 
+ * Our wedding guests are starting to arrive! 
+----------
+ * **조심하다** :: to be careful (expression)
+ * 야생 코끼리들이 화가 나지 않도록 조심해라. 
+ * Be careful not to anger the wild elephants. 
 ----------
  # - end of file - 

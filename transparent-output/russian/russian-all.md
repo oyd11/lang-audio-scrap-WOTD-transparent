@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -1338,5 +1338,45 @@
  * **лёгкая закуска** :: snack (phrase)
  * Во время перерыва были поданы лёгкие закуски. 
  * During the break, snacks were served. 
+----------
+ * **няня** :: nanny (noun)
+ * Требуется няня для двух детей. 
+ * Wanted: nanny for two kids. 
+----------
+ * **от начала до конца** :: from beginning to end (expression)
+ * Я дважды прочитала это от начала до конца. 
+ * I read it from beginning to the end twice. 
+----------
+ * **начинать с нуля** :: to start from scratch (expression)
+ * Переезд - это как будто начинать всё с нуля. 
+ * Moving out is like starting from scratch. 
+----------
+ * **карга** :: hag (noun)
+ * Её бабка - старая карга. Такая вредная! 
+ * Her grandma is an old hag. She is so mean! 
+----------
+ * **гадалка** :: fortune teller (noun)
+ * Гадалка предсказала тебе удачу. 
+ * The fortune teller predicted your success. 
+----------
+ * **чёрный как смоль** :: inky (phrase)
+ * В чёрном, как смоль, небе не было звёзд. 
+ * The inky night sky had no stars. 
+----------
+ * **оскорбление** :: insult (noun)
+ * Я не потерплю этого оскорбления! 
+ * I will not tolerate this insult! 
+----------
+ * **интересовать** :: to interest (verb)
+ * Меня интересуют языки. 
+ * Language studies interest me. 
+----------
+ * **каждый год** :: every year (phrase)
+ * Каждый год мы ездим на пляж. 
+ * We visit the beach every year. 
+----------
+ * **бросать** :: to throw (verb)
+ * Он в меня снежок бросил. 
+ * He threw a snowball at me. 
 ----------
  # - end of file - 

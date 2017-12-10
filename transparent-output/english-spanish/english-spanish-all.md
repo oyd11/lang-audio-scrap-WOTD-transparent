@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -1338,5 +1338,45 @@
  * **bookstore** :: librería (noun)
  * You always buy too much when you go to the bookstore. 
  * Tu siempre compras demasiado cuando vas a la librería. 
+----------
+ * **sour** :: agrio (adjective)
+ * Lemons are sour. 
+ * Los limones son agrios. 
+----------
+ * **to fear** :: temer (verb)
+ * She fears for her life. 
+ * Ella teme por su vida. 
+----------
+ * **trick** :: truco (noun)
+ * The magician performs many magic tricks. 
+ * El mago hace muchos trucos de mágica. 
+----------
+ * **to shout** :: gritar (verb)
+ * She shouts every time she sees a horror movie. 
+ * Ella grita cada vez que ve una película de miedo. 
+----------
+ * **sweet** :: dulce (adjective)
+ * White chocolate is very sweet. 
+ * El chocolate blanco es muy dulce. 
+----------
+ * **young** :: joven (adjective)
+ * They are young parents. 
+ * Ellos son unos padres jóvenes. 
+----------
+ * **rainy** :: lluvioso (adjective)
+ * It's a pretty rainy month. 
+ * Es un mes bastante lluvioso. 
+----------
+ * **exhausted** :: agotado (adjective)
+ * Enrique is exhausted after work. 
+ * Enrique está agotado después del trabajo. 
+----------
+ * **to choose** :: escoger (verb)
+ * We have to choose a candidate in the elections. 
+ * Nosotros tenemos que escoger a un candidato en las elecciones. 
+----------
+ * **native** :: indígena (adjective)
+ * Those are some native fruits. 
+ * Esas son unas frutas indígenas. 
 ----------
  # - end of file - 

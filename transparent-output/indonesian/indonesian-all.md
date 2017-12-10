@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -1338,5 +1338,45 @@
  * **teman** :: friend (noun)
  * Waktu aku sedih, aku pastikan semua temanku di Facebook tahu! 
  * When I am sad, I make sure all my Facebook friends know! 
+----------
+ * **hadiah** :: gift (noun)
+ * Lucu sekali lihat anak-anak membuka hadiah Natal mereka. 
+ * It´s so funny to see children unwrapping their Christmas gifts. 
+----------
+ * **menendang** :: to kick (verb)
+ * Untuk buka pintu itu, kamu harus tendang. 
+ * To open that door, you need to kick it. 
+----------
+ * **rautan pensil** :: pencil sharpener (noun)
+ * Boleh aku pinjam rautan pensilmu? 
+ * Can you lend me your pencil sharpener? 
+----------
+ * **hak asasi manusia** :: human rights (noun)
+ * Kita harus terus memperjuangkan hak asasi manusia. 
+ * We have to keep on fighting for human rights. 
+----------
+ * **melonggarkan** :: to loosen (verb)
+ * Dia duduk dan melonggarkan dasinya. 
+ * He sat down and loosened his tie. 
+----------
+ * **panggangan** :: grill (noun)
+ * Aku suka ikan yang dipanggang. 
+ * I like fish cooked on the grill. 
+----------
+ * **rawa** :: swamp (noun)
+ * Polisi tidak berhasil menemukan narapidana itu di rawa-rawa, tapi serangga yang berhasil. 
+ * The police didn't find the convict in the swamp, but the bugs did. 
+----------
+ * **masa kecil** :: childhood (noun)
+ * Aku rindu semua waktu luang di masa kecilku. 
+ * I miss all the free time I had in childhood. 
+----------
+ * **merenung** :: to be lost in thought (verb)
+ * Kamu bilang apa? Maaf, aku tadi merenung. 
+ * What did you say? I'm sorry, I was lost in thought. 
+----------
+ * **kesempatan** :: chance (noun)
+ * Kamu seharusnya beri dia satu kesempatan lagi. 
+ * You should give him one more change. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -1338,5 +1338,45 @@
  * **veritas** :: truth (noun)
  * Hoc tempore obsequium amicos, veritas odium parit. 
  * In our time flattery provides friends; the truth provides hatred. 
+----------
+ * **tyrannus** :: absolute ruler, tyrant (noun)
+ * Sine pecunia tyrannus superare populum Romanum non poterit. 
+ * The tyrant will not be able to overcome the Roman people without money. 
+----------
+ * **culpa** :: fault, blame (noun)
+ * Non est mea culpa. 
+ * It is not my fault. 
+----------
+ * **Graecus** :: Greek (adjective)
+ * Poetae Romani poemata poetarum Graecorum discere solebant. 
+ * Roman poets were accustomed to learning the poems of Greek poets. 
+----------
+ * **perpetuus** :: perpetual, continuous (adjective)
+ * Propter curam Ciceronis nostra civitas in perpetuo periculo non erit. 
+ * Because of the care of Cicero our city will not be in continuous danger. 
+----------
+ * **rex** :: king (noun)
+ * Agamemnon, rex Graecorum, copias ad Troiam duxit. 
+ * Agamemnon, king of the Greeks, led his forces to Troy. 
+----------
+ * **superare** :: to surpass, to overcome, to conquer (verb)
+ * Iulius Caesar Pompeium Magnum in terra Graeca superavit. 
+ * Julius Caesar conquered Pompey the Great in the land of Greece. 
+----------
+ * **insidiae** :: ambush, plot, treachery (noun)
+ * Sine mora Cicero civitatem de insidiis Catalinae monebit. 
+ * Cicero will warn the state about the plot of Catiline without delay. 
+----------
+ * **pulcher** :: beautiful (adjective)
+ * Vir pulcher amicae formosae rosas dedit. 
+ * The handsome man gave roses to his beautiful girlfriend. 
+----------
+ * **virtus** :: virtue, courage, excellence (noun)
+ * Ille virtutem laboris docere ausus est. 
+ * That man dared to teach the virtue of work. 
+----------
+ * **corpus** :: body (noun)
+ * Mens sana in corpore sano. 
+ * A healthy mind in a healthy body. 
 ----------
  # - end of file - 

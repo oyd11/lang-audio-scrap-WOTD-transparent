@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -1338,5 +1338,45 @@
  * **aldatmaca** :: trick (noun)
  * Kamuflaj doğanın en kurnaz aldatmacasıdır. 
  * Camouflage is nature's craftiest trick. 
+----------
+ * **sıradan** :: secret (noun)
+ * Eğer sana söylersem, bu artık sır olmayacak! 
+ * If I tell you, it won't be a secret anymore! 
+----------
+ * **değiştirmek** :: to change (verb)
+ * İnternet hayatımızı hem iyi hem de kötü yönde değiştirdi. 
+ * The internet has changed our lives, for good or bad. 
+----------
+ * **sorun** :: problem (noun)
+ * Dik otur! Kötü oturuş daha sonra sırt sorunlarına yol açar. 
+ * Sit up! Bad posture will lead to back problems later on. 
+----------
+ * **fikir** :: idea (noun)
+ * Sana bunun neden kötü bir fikir olduğuna dair bir düzine sebep gösterebilirim. 
+ * I can give you a dozen reasons why this is a bad idea. 
+----------
+ * **acele etmek** :: to hurry (verb)
+ * Acele etmezsek, otobüsü kaçıracağız. 
+ * If we don't hurry, we'll miss the bus. 
+----------
+ * **üzgün** :: sorry (adjective)
+ * Merhaba millet! Geciktiğim için üzgünüm. 
+ * Hi everyone! Sorry I'm late. 
+----------
+ * **suçlamak** :: to blame (verb)
+ * Sorunlarından dolayı başkalarını suçlayamazsın. 
+ * You can't blame other people for your problems. 
+----------
+ * **güneş** :: sun (noun)
+ * Bahçelerin iyi toprağa, güneşe ve düzenli olarak sulamaya ihtiyacı var. 
+ * Gardens need good soil, sun, and regular watering. 
+----------
+ * **hafta** :: week (noun)
+ * Proje kaç hafta sürecek? 
+ * How many weeks does this project have to take? 
+----------
+ * **çoğunluk** :: majority (noun)
+ * Sesini duyuran azınlık, çoğu zaman çoğunluğu temsil etmez. 
+ * The vocal minority do not represent the majority in most cases. 
 ----------
  # - end of file - 

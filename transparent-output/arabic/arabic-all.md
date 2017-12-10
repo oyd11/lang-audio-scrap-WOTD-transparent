@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -1338,5 +1338,45 @@
  * **سمع** :: to hear (verb)
  * سمعنا هذا الخبر في الراديو. 
  * We heard this news on the radio. 
+----------
+ * **خرج** :: to go out (verb)
+ * هل ستخرجون للعشاء الليلة؟ 
+ * Are you going out to dinner tonight? 
+----------
+ * **غسل** :: to wash (verb)
+ * يجب أن تغسل يديك قبل الأكل. 
+ * You have to wash your hands before eating. 
+----------
+ * **رجع** :: to return (verb)
+ * رجع إلى بلده بعد أن قضى سنتين في العراق. 
+ * He returned to his country after spending 2 years in Iraq. 
+----------
+ * **وصف** :: to describe (verb)
+ * وصفتْ ليلى رحلتها إلى طوكيو. 
+ * Leila described her trip to Tokyo. 
+----------
+ * **فاز** :: to win (verb)
+ * فاز الفريق الأخضر بالمباراة. 
+ * The green team won the game. 
+----------
+ * **طار** :: to fly (verb)
+ * سنطير إلى لندن الأسبوع المقبل. 
+ * We will fly to London next week. 
+----------
+ * **كتب** :: to write (verb)
+ * كيف تكتب هذه الكلمة بالعربية؟ 
+ * How do you write this word in Arabic? 
+----------
+ * **دعا** :: to invite (verb)
+ * دعاني عثمان لحضور حفل زواجه. 
+ * Othman invited me to attend his wedding party. 
+----------
+ * **دفع** :: to pay (verb)
+ * هل يمكن أن أدفع ببطاقة الائتمان؟ 
+ * Can I pay with a credit card? 
+----------
+ * **طلب** :: to order (verb)
+ * طلبتُ ساندوتش جبن وعصير برتقال. 
+ * I ordered a cheese sandwich and an orange juice. 
 ----------
  # - end of file - 

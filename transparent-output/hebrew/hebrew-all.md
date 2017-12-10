@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 334 phrases 
+ 339 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -1338,5 +1338,25 @@
  * **חידה** :: riddle (noun)
  * אם הספינקס שואל אותך חידה, כדאי שתדע את התשובה. 
  * If the Sphinx asks you a riddle, you better know the answer. 
+----------
+ * **לכפתר** :: to button (verb)
+ * אכלתי כל כך הרבה שאני בקושי יכולה לכפתר את המכנסיים! 
+ * I ate so much I can barely button my pants! 
+----------
+ * **פוסטר** :: poster (noun)
+ * הוא אוסף פוסטרים של סרטי אימה ישנים. 
+ * He collects posters of old horror movies. 
+----------
+ * **להציג** :: to perform (verb)
+ * הצגנו בתיאטרון הקהילתי שלנו. 
+ * We performed in our community theater. 
+----------
+ * **לכוון** :: to tune (verb)
+ * מומחה מסוגל לכוון כינור באמצעות שמיעה בלבד. 
+ * An expert can tune a violin by ear. 
+----------
+ * **שנת לימודים** :: school year (noun)
+ * בכל סתיו נפתחת מחדש שנת הלימודים. 
+ * Every fall, the school year begins anew. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -1338,5 +1338,45 @@
  * **یہاں** :: here (adverb)
  * یہاں بہت گرمی ہے. 
  * It's very hot in here. 
+----------
+ * **آبشار** :: waterfall (noun)
+ * ہم صرف آبشار کی دھاڑ سن سکتے تھے. 
+ * All we could hear was the roar of the waterfall. 
+----------
+ * **آسمان** :: sky (noun)
+ * آسمان پر بادل چھائے ہیں. 
+ * The sky is overcast. 
+----------
+ * **درخت** :: tree (noun)
+ * تم درختوں کے لئے جنگل نہیں دیکھ سکتے. 
+ * You can't see the forest for the trees. 
+----------
+ * **بس** :: enough (expression)
+ * بس اب بہت ہو گیا! 
+ * Enough already! 
+----------
+ * **چابیاں** :: keys (noun)
+ * میں نے اپنی چابیاں پھر کھو دی ہیں. 
+ * I have lost my keys again. 
+----------
+ * **خطرہ** :: danger (noun)
+ * یہ جانور ناپید ہو جانے کے خطرے میں ہیں. 
+ * These are animals in danger of extinction. 
+----------
+ * **ضرورت** :: to require (verb)
+ * کچھ دن دوسروں سے زیادہ کافی کی ضرورت ہوتی ہے. 
+ * Some days require more coffee than others. 
+----------
+ * **پکانا** :: to cook (verb)
+ * مجھے شراب کے ساتھ کھانا پکانے سے محبت ہے. 
+ * I love to cook with wine. 
+----------
+ * **بھاری** :: heavy (adjective)
+ * میرا اٹیچی اتنا بھاری ہے میں اسے نہیں اٹھا سکتا. 
+ * My suitcase is so heavy I can´t carry it. 
+----------
+ * **کوئی** :: somebody (noun)
+ * کوئی مجھے بتا سکتا ہے کہ ہم سٹیشن پر کب پہنچیں گے؟ 
+ * Can someone tell me when we will arrive at the station? 
 ----------
  # - end of file - 

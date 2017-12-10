@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -2006,5 +2006,65 @@
  * 我今天不舒服。 
  * Wǒ jīntiān bù shūfu. 
  * I am not feeling well today. 
+----------
+ * **每** :: every (adjective)
+ * **měi** 
+ * 每个学生都有书。 
+ * Měi gè xuésheng dōu yǒu shū. 
+ * Every student has a book. 
+----------
+ * **锻炼** :: to exercise (verb)
+ * **duànliàn** 
+ * 年轻人也要锻炼。 
+ * Niánqīngrén yě yào duànliàn. 
+ * Young people also need to exercise. 
+----------
+ * **头** :: head (noun)
+ * **tóu** 
+ * 我头疼。 
+ * Wǒ tóuténg. 
+ * I have a headache. 
+----------
+ * **像** :: to resemble (verb)
+ * **xiàng** 
+ * 这孩子像他爸爸。 
+ * Zhè háizi xiàng tā bàba. 
+ * This child resembles his father. 
+----------
+ * **想** :: to miss, to think (verb)
+ * **xiǎng** 
+ * 我想我妈妈。 
+ * Wǒ xiǎng wǒ māma. 
+ * I miss my mother. 
+----------
+ * **冷** :: cold (adjective)
+ * **lěng** 
+ * 这儿冬天很冷。 
+ * Zhèr dōngtiān hěn lěng. 
+ * Winter here is cold. 
+----------
+ * **春天** :: spring (noun)
+ * **chūntiān** 
+ * 春天花都开了。 
+ * Chūntiān huā dōu kāi le. 
+ * The spring flowers are all blossoming. 
+----------
+ * **夏天** :: summer (noun)
+ * **xiàtiān** 
+ * 北京夏天不热。 
+ * Běijīng xiàtiān bú rè. 
+ * It is not hot in summer in Beijing. 
+----------
+ * **秋天** :: autumn (noun)
+ * **qiūtiān** 
+ * 中国秋天很美。 
+ * Zhōngguó qiūtiān hěn měi. 
+ * Autumn is beautiful in China. 
+----------
+ * **冬天** :: winter (noun)
+ * **dōngtiān** 
+ * 这儿冬天有雪吗？ 
+ * Zhèr dōngtiān yǒu xuě ma? 
+ * Is there snow in winter here? 
 ----------
  # - end of file - 

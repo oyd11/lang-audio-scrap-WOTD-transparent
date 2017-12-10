@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -1338,5 +1338,45 @@
  * **følelse** :: emotion (noun)
  * Han kjente at følelsene tok overhånd. 
  * He felt his emotions take control. 
+----------
+ * **sykkel** :: bike (noun)
+ * Hun falt av sykkelen og tok seg for med hendene. 
+ * She fell off her bike and stopped herself with her hands. 
+----------
+ * **mor** :: mother (noun)
+ * Jeg tok meg selv i å høres ut som moren min. 
+ * I found myself sounding just like my mother. 
+----------
+ * **rask** :: quick (adjective)
+ * Hun tok seg meget raskt inn. 
+ * She recovered very quickly. 
+----------
+ * **jobb** :: work (noun)
+ * Det tar seg dårlig ut å komme full på jobben. 
+ * It doesn't look good coming to work drunk. 
+----------
+ * **adoptere** :: adopt (verb)
+ * De adopterte et barn fra den tredje verden. 
+ * They adopted a child from the third world. 
+----------
+ * **guffen** :: dirty (adjective)
+ * Det var guffent gjort av henne. 
+ * It was a dirty thing she did. 
+----------
+ * **oppvask** :: dishes (noun)
+ * Han lurte seg unna oppvasken hver dag. 
+ * He sneaked out of doing the dishes every day. 
+----------
+ * **dvask** :: inert, languid (adjective)
+ * Foretrekker du dvaske, lubne menn? 
+ * Do you prefer languid, chubby men? 
+----------
+ * **bråk** :: racket, disturbance (noun)
+ * Natt til lørdag måtte Oslo-politiet bringe inn to menn på grunn av bråk i sentrum. 
+ * Late Friday, the Oslo police had to bring in two men for a disturbance downtown. 
+----------
+ * **gravid** :: pregnant (adjective)
+ * Har du hørt at søsteren min er gravid? 
+ * Have you heard that my sister is pregnant? 
 ----------
  # - end of file - 

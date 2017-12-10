@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -1338,5 +1338,45 @@
  * **ontbijt** :: breakfast (noun)
  * Het ontbijt is de belangrijkste maaltijd van de dag. 
  * Breakfast is the most important meal of the day. 
+----------
+ * **boodschappen** :: groceries (noun)
+ * We hebben samen de boodschappen bij de supermarkt gedaan. 
+ * We both did the grocery shopping at the supermarket. 
+----------
+ * **schuim** :: foam (noun)
+ * Mijn dochtertje schaterde van het lachen om al het schuim in bad. 
+ * My daughter wailed with laughter because of all the foam in the bathtub. 
+----------
+ * **kalkoen** :: turkey (noun)
+ * Mijn oma maakt de heerlijkste gevulde kalkoen klaar. 
+ * My grandmother prepares the most delicious stuffed turkey you ever tasted. 
+----------
+ * **schoenen** :: shoes (noun)
+ * Ik kan nooit mijn schoenen vinden als ik haast heb. 
+ * I can never seem to find my shoes when I'm in a hurry. 
+----------
+ * **schavuit** :: rascal (noun)
+ * Mijn dochtertje is een kleine schavuit. 
+ * My daughter is a little rascal. 
+----------
+ * **granaatappel** :: pomegranate (noun)
+ * Het sap van de granaatappel is heel gezond. 
+ * The juice of the pomegranate is very healthy. 
+----------
+ * **oplossing** :: solution (noun)
+ * Eindelijk heb ik de oplossing gevonden voor dit moeilijke probleem. 
+ * Finally I found the solution to this difficult problem. 
+----------
+ * **wattenstaafje** :: cotton swabs (noun)
+ * Je kunt de randen van een grill makkelijk schoonmaken met een wattenstaafje en wat olie. 
+ * You can easily clean the edges of a grill using cotton swabs with some oil on it. 
+----------
+ * **wasmand** :: laundry basket (noun)
+ * Mannen zullen wel nooit in staat zijn hun kleren in de wasmand te dumpen. 
+ * Men will probably never be able to dump their dirty laundry in the laundry basket. 
+----------
+ * **wasgoed** :: dirty laundry (noun)
+ * Smerig wasgoed kan het beste zo snel mogelijk gewassen worden. 
+ * Dirty laundry should be washed immediately. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -1338,5 +1338,45 @@
  * **داشتن** :: to have (verb)
  * برای رخصتی آخرهفته کدام پلان دارید؟ 
  * Do you have any plans for this weekend? 
+----------
+ * **هوا** :: weather (noun)
+ * برای فردا پیشگویی هوا چی است؟ 
+ * What's the weather prediction for tomorrow? 
+----------
+ * **باریدن باران** :: to rain (verb)
+ * باران خواهد بارید، یک چطری همرای تان بیارید. 
+ * It's going to rain, bring an umbrella. 
+----------
+ * **بازی کردن** :: to play (verb)
+ * اطفال خوش دارند در بیرون بازی کنند. 
+ * The children like to play outside. 
+----------
+ * **مورد نظر** :: favorite (adjective)
+ * این یکی از آهنگ های مورد نظر من است. 
+ * This is one of my favorite songs. 
+----------
+ * **فراموش کردن** :: to forget (verb)
+ * او هرگز گفتن لطفاً و تشکر را فراموش نمی کند. 
+ * He never forgets to say please and thank you. 
+----------
+ * **دیدن** :: to see (verb)
+ * آیا باران شهاب ثاقب را دیشب دیدید؟ متحیر کننده بود! 
+ * Did you see the meteor shower last night? Amazing! 
+----------
+ * **کجا** :: where (adverb)
+ * نزدیکترین مارکیت کجا است؟ 
+ * Where is the nearest market? 
+----------
+ * **قهر** :: to be angry (verb)
+ * اگر قهر هستید نفس عمیق بکشید و تا ده حساب کنید. 
+ * If you're angry, take a deep breath and count to ten. 
+----------
+ * **چال** :: trick (noun)
+ * من چال های تو را میفهمم. 
+ * I know your tricks. 
+----------
+ * **راز** :: secret (noun)
+ * وزن باختن کدام راز واقعی ندارد. 
+ * There is no real secret to weight loss. 
 ----------
  # - end of file - 

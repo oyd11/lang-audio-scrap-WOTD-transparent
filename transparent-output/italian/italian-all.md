@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -1338,5 +1338,45 @@
  * **bruciare** :: to burn (verb)
  * Cosa fai tu con i rifiuti del giardino? Li bruci? 
  * What do you do with the garden waste? Do you burn it? 
+----------
+ * **estero** :: foreign (adjective)
+ * Le merci estere vengono controllate all'ufficio importazione. 
+ * The foreign goods are checked at the import office. 
+----------
+ * **La bambina** :: child (noun)
+ * Da bambina mi divertivo a disegnare. 
+ * As a child I enjoyed drawing. 
+----------
+ * **La nave** :: ship (noun)
+ * La nave da crociera 'Alessia' salperà dal molo 7 alle 17.50. 
+ * The cruise ship 'Alessia' will sail from pier 7 at 5:50 PM. 
+----------
+ * **piccolo** :: small (adjective)
+ * Questa valigia è troppo piccola, non avete qualcosa di più grande? 
+ * This suitcase is too small; don't you have something bigger? 
+----------
+ * **occuparsi** :: to deal with (verb)
+ * Mio cugino si occupa di computer, informatica ed elettronica in generale. 
+ * My cousin deals with computers, computer science and electronics in general. 
+----------
+ * **robusto** :: large-built (adjective)
+ * Il mio compagno di squadra è un tipo robusto e anche alto. 
+ * My teammate is a large-built guy, and tall too. 
+----------
+ * **Il braccio** :: arm (noun)
+ * Roberto si è rotto un braccio cadendo dal motorino. 
+ * Roberto broke his arm falling off the moped. 
+----------
+ * **mai** :: never (adverb)
+ * Non è mai consentito chiudere a chiave le uscite di sicurezza. 
+ * The emergency exits are never allowed to be locked. 
+----------
+ * **arrabbiarsi** :: to get mad (verb)
+ * Ultimamente il capo è nervosissimo, si arrabbia per un nonnulla! 
+ * Lately the boss is very nervous, he gets mad over nothing! 
+----------
+ * **oltretutto** :: moreover (adverb)
+ * L'hanno beccato a rubare; oltretutto, è un poliziotto! 
+ * He was caught stealing; moreover, he's a policeman! 
 ----------
  # - end of file - 

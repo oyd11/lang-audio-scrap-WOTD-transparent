@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -1338,5 +1338,45 @@
  * **la gente** :: people (noun)
  * ¡No puedo trabajar con esta gente! 
  * I can't work with these people! 
+----------
+ * **perder los estribos** :: to freak out (expression)
+ * Cálmate y no pierdas los estribos. 
+ * Calm down and don't freak out. 
+----------
+ * **la fecha de caducidad** :: expiration date (expression)
+ * ¡La fecha de caducidad de la leche ya ha pasado! 
+ * This milk's expiration date has come and gone! 
+----------
+ * **el tentempié** :: snack (noun)
+ * Durante la pausa, se sirvieron tentempiés. 
+ * During the break, snacks were served. 
+----------
+ * **el canguro** :: nanny (noun)
+ * Se precisa: canguro para 2 niños. 
+ * Wanted: nanny for 2 kids. 
+----------
+ * **de cabo a rabo** :: from beginning to end (expression)
+ * Para entenderlo, tuve que leerlo todo de cabo a rabo. 
+ * To understand it all, I had to read it from the beginning to the end. 
+----------
+ * **partir de cero** :: to start from scratch (expression)
+ * Hacer el traslado es como si se partiera de cero. 
+ * Moving out is like starting from scratch. 
+----------
+ * **la arpía** :: hag (noun)
+ * Su abuela es muy mala. Es una arpía. 
+ * Her grandma is an old hag. She is so mean. 
+----------
+ * **la pitonisa** :: fortune teller (noun)
+ * La pitonisa predijo tu éxito. 
+ * The fortune teller predicted your success. 
+----------
+ * **el tejemaneje** :: monkey business (noun)
+ * Dijo que su viaje era oficial pero se trató realmente de un tejemaneje. 
+ * He says he traveled for business, but in reality it was monkey business. 
+----------
+ * **la carne picada** :: ground meat (expression)
+ * Necesito medio kilo de carne picada. 
+ * I need half a kilo of ground meat. 
 ----------
  # - end of file - 

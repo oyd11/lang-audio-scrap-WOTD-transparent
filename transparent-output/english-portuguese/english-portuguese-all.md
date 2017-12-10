@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 334 phrases 
+ 344 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -1338,5 +1338,45 @@
  * **absent-minded** :: distraído (adjective)
  * I don't want an absent-minded doctor to operate on me. 
  * Eu não quero que um médico distraído me opere. 
+----------
+ * **to hang** :: pendurar (verb)
+ * I hung lots of posters on my wall. 
+ * Eu pendurei muitos pôsteres na parede. 
+----------
+ * **to drown** :: afogar-se (verb)
+ * Many sailors drown each year. 
+ * Muitos marinheiros se afogam todo ano. 
+----------
+ * **raw** :: cru (adjective)
+ * You should never eat raw meat. 
+ * Você nunca deve comer carne crua. 
+----------
+ * **cooler** :: caixa térmica (noun)
+ * I want to buy a cooler for the drinks. 
+ * Quero uma caixa térmica para as bebidas. 
+----------
+ * **to have a good time** :: divertir muito (verb)
+ * My family and I always have a good time at the restaurant. 
+ * Minha família e eu sempre divertimos muito no restaurante. 
+----------
+ * **successful** :: bem-sucedido (adjective)
+ * Shakira is a successful singer. 
+ * Shakira é uma cantora bem-sucedida. 
+----------
+ * **garlic** :: alho (noun)
+ * Dracula doesn't like garlic. 
+ * O Drácula não gosta do alho. 
+----------
+ * **to find** :: encontrar (verb)
+ * The boy likes to find money in the sofa. 
+ * O garoto gosta de encontrar dinheiro no sofá. 
+----------
+ * **forest** :: floresta (noun)
+ * The hunters are looking for animals in the forest. 
+ * Os caçadores estão procurando animais na floresta. 
+----------
+ * **shocking** :: chocante (adjective)
+ * His death is shocking. 
+ * A morte dele é chocante. 
 ----------
  # - end of file - 
