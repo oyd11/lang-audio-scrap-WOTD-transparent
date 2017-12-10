@@ -17,8 +17,8 @@ let moment = require('moment');
 
 //let lang = "hebrew"
 //let lang = "mandarin"
-let inputBasedir = "./download"
-let outputBasedir = "./output"
+let inputBasedir = "./transparent-download"
+let outputBasedir = "./transparent-output"
 
 function mkDirSync(dir) {
     if (!fs.existsSync(dir)){
