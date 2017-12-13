@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -1378,5 +1378,17 @@
  * **फूल खिलना** :: to flower (verb)
  * पेड़ों पर कुछ ही हफ्तों में फूल खिलेंगे। 
  * The trees will flower in a few weeks. 
+----------
+ * **डरावना** :: scary (adjective)
+ * क्या तुम्हें डरावनी फिल्में पसन्द हैं? 
+ * Do you like scary movies? 
+----------
+ * **पीछे हटना** :: to withdraw (verb)
+ * मुझे उसके आने की आहट सुनाई दे रही है: आइये स्वामी, पीछे हट जाएँ। 
+ * I hear him coming: let's withdraw, my lord. 
+----------
+ * **खोदना** :: to dig (verb)
+ * तब तक खोदो जब तक तुम्हें तेल नहीं मिल जाता। 
+ * Dig until you strike oil. 
 ----------
  # - end of file - 

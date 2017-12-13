@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -1378,5 +1378,17 @@
  * **wasgoed** :: dirty laundry (noun)
  * Smerig wasgoed kan het beste zo snel mogelijk gewassen worden. 
  * Dirty laundry should be washed immediately. 
+----------
+ * **stofzuiger** :: vacuum cleaner (noun)
+ * Mijn dochtertje voelt zich heel belangrijk als ze de stofzuiger mag gebruiken. 
+ * My little girl feels very important when she is allowed to use the vacuum cleaner. 
+----------
+ * **rekenmachine** :: calculator (noun)
+ * Een sommetje oplossen gaat heel gemakkelijk met een rekenmachine. 
+ * It's easy to solve a mathematical problem with a calculator. 
+----------
+ * **tijdschrift** :: magazine (noun)
+ * Mijn favoriete tijdverdrijf is het lezen van een tijdschrift. 
+ * My favorite waste of time is reading a magazine. 
 ----------
  # - end of file - 

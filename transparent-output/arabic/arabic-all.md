@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -1378,5 +1378,17 @@
  * **طلب** :: to order (verb)
  * طلبتُ ساندوتش جبن وعصير برتقال. 
  * I ordered a cheese sandwich and an orange juice. 
+----------
+ * **آمن بـ** :: to believe in (verb)
+ * نحن نؤمن بالصداقة. 
+ * We believe in friendship. 
+----------
+ * **دافع عن** :: to defend (verb)
+ * وافق المحامي أن يدافع عن المتهم. 
+ * The lawyer agreed to defend the accused. 
+----------
+ * **أدانَ** :: to condemn (verb)
+ * المجتمع المدني يُدينُ العنفَ ضد الأطفال. 
+ * Civil society condemns violence against children. 
 ----------
  # - end of file - 

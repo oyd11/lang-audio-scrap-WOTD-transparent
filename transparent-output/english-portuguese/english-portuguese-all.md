@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -1378,5 +1378,17 @@
  * **shocking** :: chocante (adjective)
  * His death is shocking. 
  * A morte dele é chocante. 
+----------
+ * **happy** :: feliz (adjective)
+ * The dog is happy with his bone. 
+ * O cachorro está feliz com o osso. 
+----------
+ * **to attend** :: frenqüentar (verb)
+ * My son attends the university. 
+ * Meu filho freqüenta a faculdade. 
+----------
+ * **tank** :: tanque (noun)
+ * The tank is empty; we need more gas. 
+ * O tanque está vazio; precisamos abastecer. 
 ----------
  # - end of file - 

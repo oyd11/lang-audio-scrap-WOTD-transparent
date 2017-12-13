@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -1378,5 +1378,17 @@
  * **an eitilt** :: flight (noun)
  * An eitilt gan stopadh é? 
  * Is it a non-stop flight? 
+----------
+ * **aistriúchán a dhéanamh** :: to translate (verb)
+ * An féidir le héinne é seo a aistriú dom? 
+ * Can anyone translate this for me? 
+----------
+ * **a léamh** :: to read (verb)
+ * An féidir leat Béarla a léamh? 
+ * Can you read English? 
+----------
+ * **an teanga** :: language (noun)
+ * Cad iad na teangacha atá agat? 
+ * What languages do you speak? 
 ----------
  # - end of file - 

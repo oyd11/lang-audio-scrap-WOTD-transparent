@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -1378,5 +1378,17 @@
  * **ageng** :: large (alus (refined))
  * Gedungne taler ageng. 
  * That building is also large. 
+----------
+ * **toya** :: water (alus (refined))
+ * Toya ring desa nenten kacemarin. 
+ * The water in the village is not polluted. 
+----------
+ * **jelijih** :: gravel (alus (refined))
+ * Kasaring antuk bias lan jelijih. 
+ * It is filtered through sand and gravel. 
+----------
+ * **ngolah** :: to process (alus (refined))
+ * Punapi nika carane ngolah? 
+ * What is the way to process it? 
 ----------
  # - end of file - 

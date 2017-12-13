@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -1378,5 +1378,17 @@
  * **hälsosam** :: healthy (adjective)
  * Det är hälsosamt att motionera dagligen. 
  * Doing daily exercise is a healthy activity. 
+----------
+ * **(en) rörlighet** :: agility (noun)
+ * Jag har inte tillräcklig rörlighet för att spela basket. 
+ * I do not have enough agility to play basket. 
+----------
+ * **(en) ärm** :: sleeve (noun)
+ * Det är kallt; du borde sätta på dig något med långa ärmar. 
+ * It's cold; you'd better wear something with long sleeves. 
+----------
+ * **att få** :: to receive (verb)
+ * Jag skulle hellre vilja få prispengarna kontant. 
+ * I'd rather receive the prize in cash. 
 ----------
  # - end of file - 

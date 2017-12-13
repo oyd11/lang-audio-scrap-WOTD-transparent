@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -1378,5 +1378,17 @@
  * **kukurbo** :: pumpkin (noun)
  * Ni ĉizis kukurbojn por dekoracio. 
  * We carved pumpkins to decorate. 
+----------
+ * **kuniklo** :: rabbit (noun)
+ * Ili aĉetis kuniklon kiel dorlotbeston. 
+ * They bought a pet rabbit. 
+----------
+ * **kverko** :: oak (noun)
+ * Plejparte kverkoj kreskas en ĉi tiu klimato. 
+ * Mostly oaks grow in this climate. 
+----------
+ * **lakto** :: milk (noun)
+ * Alportu al mi glason da lakto, mi petas. 
+ * Bring me a glass of milk, please. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -1378,5 +1378,17 @@
  * **ژاوله** :: chewing gum (noun)
  * زه کولای شم چی په یو وخت کې هم وکرځم او هم ژاوله وژوم. 
  * I can walk and chew gum at the same time. 
+----------
+ * **ګران** :: to be very expensive (expression)
+ * آخري مودل می وانخیست ځکه چی ډېر ګران دی. 
+ * I didn't buy the most recent model because it's so expensive. 
+----------
+ * **کیبورد** :: keyboard (noun)
+ * زه نه پوهېږم چی د کیبورد بڼه څنګه بدله کرم. 
+ * I don't know how to change the keyboard layout. 
+----------
+ * **مڼه** :: apple (noun)
+ * د ورځی د یوې مڼې خوړل ډاکټر لرې ساتي. 
+ * An apple a day keeps the doctor away. 
 ----------
  # - end of file - 

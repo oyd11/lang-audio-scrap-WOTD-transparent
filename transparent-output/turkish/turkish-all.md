@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -1378,5 +1378,17 @@
  * **çoğunluk** :: majority (noun)
  * Sesini duyuran azınlık, çoğu zaman çoğunluğu temsil etmez. 
  * The vocal minority do not represent the majority in most cases. 
+----------
+ * **tekrar etmek** :: to repeat (verb)
+ * Anlamıyorum. Tekrar eder misiniz? 
+ * I don't understand. Can you repeat that? 
+----------
+ * **dil** :: language (noun)
+ * Kaç dil biliyorsun? 
+ * How many languages do you speak? 
+----------
+ * **fiil** :: verb (noun)
+ * Fiil, bir eylem kelimesidir. 
+ * A verb is an action word. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -1378,5 +1378,17 @@
  * **la carne picada** :: ground meat (expression)
  * Necesito medio kilo de carne picada. 
  * I need half a kilo of ground meat. 
+----------
+ * **garrapiñado** :: sugar-coated (adjective)
+ * Mi padre nos trajo almendras garrapiñados. 
+ * My dad brought us sugar-coated treats. 
+----------
+ * **estar de mala leche** :: to be in a bad mood (expression)
+ * No hables con él. Está de mala leche. 
+ * Don't talk to him. He is in a bad mood. 
+----------
+ * **un pelín** :: a little bit (expression)
+ * Un pelín de sal lo hace buenísimo. 
+ * A little bit of salt will make it taste good. 
 ----------
  # - end of file - 

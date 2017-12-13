@@ -6,6 +6,8 @@ if length(ARGS) != 2
     quit()
 end
 
+add_eng_src = true 
+# dir: "eng-src"
 lang1, lang2 = ARGS[1], ARGS[2]
 #lang1 = "Russian"
 #lang2 = "Swedish"

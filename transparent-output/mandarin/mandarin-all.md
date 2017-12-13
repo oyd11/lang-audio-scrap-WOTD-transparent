@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -2066,5 +2066,23 @@
  * 这儿冬天有雪吗？ 
  * Zhèr dōngtiān yǒu xuě ma? 
  * Is there snow in winter here? 
+----------
+ * **暖和** :: warm (adjective)
+ * **nuǎnhuo** 
+ * 今天很暖和。 
+ * Jīntiān hěn nuǎnhuo. 
+ * It's warm today. 
+----------
+ * **凉快** :: cool (adjective)
+ * **liàngkuài** 
+ * 北部夏天很凉快。 
+ * Běibù xiàtiān hěn liángkuài. 
+ * It is cool in the north in summer. 
+----------
+ * **穿** :: to wear (verb)
+ * **chuān** 
+ * 孩子喜欢穿新衣。 
+ * Háizi xǐhuān chuān xīnyī. 
+ * Children like to wear new clothes. 
 ----------
  # - end of file - 

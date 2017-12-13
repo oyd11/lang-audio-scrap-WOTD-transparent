@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -1378,5 +1378,17 @@
  * **oltretutto** :: moreover (adverb)
  * L'hanno beccato a rubare; oltretutto, è un poliziotto! 
  * He was caught stealing; moreover, he's a policeman! 
+----------
+ * **dimenticare** :: to forget (verb)
+ * Ho dimenticato di comprare il latte. 
+ * I forgot to buy the milk. 
+----------
+ * **invece** :: instead (adverb)
+ * Vorrei vivere in campagna, invece che vivere e lavorare in città. 
+ * I would like to live in the country instead of living and working in the city. 
+----------
+ * **Il tentativo** :: attempt (noun)
+ * Al terzo tentativo fallito, una nuova password verrà inviata per e-mail . 
+ * At the third failed attempt, a new password will be sent by e-mail. 
 ----------
  # - end of file - 

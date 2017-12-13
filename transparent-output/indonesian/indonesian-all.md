@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -1378,5 +1378,17 @@
  * **kesempatan** :: chance (noun)
  * Kamu seharusnya beri dia satu kesempatan lagi. 
  * You should give him one more change. 
+----------
+ * **suka sekali** :: to be crazy about (expression)
+ * Aku suka sekali lagu ini! 
+ * I'm crazy about this song! 
+----------
+ * **(aku) tidak tahan** :: (I) can't stand (expression)
+ * Aku tidak tahan mendengar keluhan dia. 
+ * I can't stand to hear her complaint. 
+----------
+ * **kebenaran** :: truth (noun)
+ * Yang aku mau dengar dari kamu adalah kebenaran. 
+ * All I want to hear from you is the truth. 
 ----------
  # - end of file - 

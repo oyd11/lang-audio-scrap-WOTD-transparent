@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -1378,5 +1378,17 @@
  * **راز** :: secret (noun)
  * وزن باختن کدام راز واقعی ندارد. 
  * There is no real secret to weight loss. 
+----------
+ * **تغییر دادن** :: to change (verb)
+ * انترنت زندگی مارا تغییر داده است، چه به طریقه خوب یا بد. 
+ * The internet has changed our lives, for good or bad. 
+----------
+ * **مشکل** :: problem (noun)
+ * راست بنشینید، نشتن خراب در آینده سبب مشکلات کمر میشود. 
+ * Sit up! Bad posture will lead to back problems later on. 
+----------
+ * **نظریه** :: idea (noun)
+ * برای خوب بودن این نظریه صد دلیل دارم. 
+ * I can give you 100 reasons why this is a bad idea. 
 ----------
  # - end of file - 

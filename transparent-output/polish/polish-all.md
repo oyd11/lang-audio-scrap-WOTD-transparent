@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -1378,5 +1378,17 @@
  * **kłopotliwy** :: awkward (adjective)
  * Zadałeś mi raczej kłopotliwe pytanie. 
  * You asked me a rather awkward question. 
+----------
+ * **wygodny** :: comfortable (adjective)
+ * Ta sofa jest bardzo wygodna. 
+ * This sofa is very comfortable. 
+----------
+ * **spokojny** :: peaceful (adjective)
+ * Anna to spokojna, tolerancyjna osoba. 
+ * Anna is a peaceful, tolerant person. 
+----------
+ * **dogodny** :: convenient (adjective)
+ * Mam dogodne połączenie między Warszawą i Krakowem. 
+ * I have a convenient connection between Warsaw and Kraków. 
 ----------
  # - end of file - 

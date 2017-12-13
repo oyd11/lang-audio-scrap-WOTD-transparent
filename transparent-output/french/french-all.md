@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -1378,5 +1378,17 @@
  * **l'augmentation** :: raise (noun)
  * Il va demander une augmentation à son chef pour la nouvelle année. 
  * He's going to ask his boss for a raise for the new year. 
+----------
+ * **la paix** :: peace (noun)
+ * J'espère que 2016 sera une année de paix dans le monde. 
+ * I hope that 2016 will be a year of peace in the world. 
+----------
+ * **autour de** :: around (adverb)
+ * Nous nous sommes installés autour de la cheminée pour discuter. 
+ * We settled around the fireplace to talk. 
+----------
+ * **le don** :: donation (noun)
+ * Je vais faire un don à l'UNICEF en faveur des enfants illettrés. 
+ * I'm going to make a donation to UNICEF for illiterate children. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -1378,5 +1378,17 @@
  * **gravid** :: pregnant (adjective)
  * Har du hørt at søsteren min er gravid? 
  * Have you heard that my sister is pregnant? 
+----------
+ * **yrke** :: career (noun)
+ * Hvilket yrke kommer du til å velge? 
+ * Which career will you choose? 
+----------
+ * **spirituell** :: spiritual (adjective)
+ * Helsepersonell må ta vare på pasientenes spirituelle behov. 
+ * Health workers need to be aware of their patients' spiritual needs. 
+----------
+ * **sjenert** :: bashful (adjective)
+ * Jeg er ei jente på 18 som er enslig, ensom, sjenert og deprimert. 
+ * I am an 18 year old girl who is single, lonely, bashful and depressed. 
 ----------
  # - end of file - 

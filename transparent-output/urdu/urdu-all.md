@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -1378,5 +1378,17 @@
  * **کوئی** :: somebody (noun)
  * کوئی مجھے بتا سکتا ہے کہ ہم سٹیشن پر کب پہنچیں گے؟ 
  * Can someone tell me when we will arrive at the station? 
+----------
+ * **دِکھانا** :: to show (verb)
+ * میں تمہیں دکھاتا ہوں جہاں یہ ہوا تھا. 
+ * I'll show you where it happened. 
+----------
+ * **خانہ بدوش** :: gypsy (noun)
+ * نوٹر ڈیم کا کبڑا"میں ایسمیریلڈا ایک خانہ بدوش تھی. 
+ * Esmeralda in "The Hunchback of Notre Dame" was a gypsy. 
+----------
+ * **جہنم** :: Hell (noun)
+ * کیا آپ کو لگتا ہے کہ جہنم اتنی بری جگہ ہو گی؟ 
+ * Do you think that Hell will be such a bad place? 
 ----------
  # - end of file - 

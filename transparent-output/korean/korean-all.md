@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -1378,5 +1378,17 @@
  * **조심하다** :: to be careful (expression)
  * 야생 코끼리들이 화가 나지 않도록 조심해라. 
  * Be careful not to anger the wild elephants. 
+----------
+ * **프로필** :: profile (noun)
+ * 제 페이스북 프로필을 방문해 주세요. 
+ * Visit my Facebook profile. 
+----------
+ * **사고** :: mind (noun)
+ * 그는 분석적 사고를 가지고 있습니다. 
+ * He's got an analytical mind. 
+----------
+ * **대화하다** :: to chat (verb)
+ * 여러분과 대화를 하게 되어서 기뻤습니다. 
+ * It's been a pleasure chatting with you. 
 ----------
  # - end of file - 

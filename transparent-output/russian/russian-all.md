@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -1378,5 +1378,17 @@
  * **бросать** :: to throw (verb)
  * Он в меня снежок бросил. 
  * He threw a snowball at me. 
+----------
+ * **присяжные** :: jury (noun)
+ * Присяжные достигли решения? 
+ * Has the jury reached a verdict? 
+----------
+ * **считать** :: to count (verb)
+ * Ты можешь сосчитать все конфеты в банке? 
+ * Can you count all the jellybeans in that jar? 
+----------
+ * **очаг** :: hearth (noun)
+ * Мы сидели у очага и пили чай. 
+ * We sat near the hearth sipping tea. 
 ----------
  # - end of file - 

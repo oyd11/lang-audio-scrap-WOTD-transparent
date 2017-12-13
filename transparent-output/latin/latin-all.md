@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -1378,5 +1378,17 @@
  * **corpus** :: body (noun)
  * Mens sana in corpore sano. 
  * A healthy mind in a healthy body. 
+----------
+ * **ultimus** :: farthest, extreme, final (adjective)
+ * Mors ultima linea rerum est. 
+ * Death is everything's final limit. 
+----------
+ * **canis** :: dog (noun)
+ * Puer per agros cum cane cucurrit. 
+ * The boy ran through the fields with his dog. 
+----------
+ * **proscriptus** :: outlaw (noun)
+ * Cum catapultae proscriptae erunt tum soli proscripti catapultas habebunt. 
+ * When catapults are outlawed, then only outlaws will have catapults. 
 ----------
  # - end of file - 

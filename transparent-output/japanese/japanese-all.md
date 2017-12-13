@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -2066,5 +2066,23 @@
  * スーパーで近所のおじいさんに会ったので、「お元気ですか」と聞いた。 
  * Sûpâ de kinjo no ojiisan ni atta node, "ogenkidesuka" to kiita. 
  * I saw an old neighbor at the supermarket and asked him "How are you?" 
+----------
+ * **だれる** :: to be distracted (verb)
+ * **dareru** 
+ * 学生がだれてきた。 
+ * Gakusei ga darete kita. 
+ * The students have been distracted. 
+----------
+ * **バーゲン** :: bargain (noun)
+ * **bâgen** 
+ * バーゲンの時に買った方がいいよ。 
+ * Bâgen no toki ni katta houga iiyo. 
+ * It would be good to buy it when it is a bargain. 
+----------
+ * **逆ギレ** :: to snap at (noun)
+ * **gyakugire** 
+ * タバコを吸っている学生を注意したら、逆ギレされた。 
+ * Tabako o sutteiru gakusei o chuui shitara gyakugire sareta. 
+ * When I scolded a student who was smoking, he snapped at me. 
 ----------
  # - end of file - 

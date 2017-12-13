@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -1378,5 +1378,17 @@
  * **native** :: indígena (adjective)
  * Those are some native fruits. 
  * Esas son unas frutas indígenas. 
+----------
+ * **palm tree** :: palma (noun)
+ * When it was too hot, we sat under a palm tree and drank some lemonade. 
+ * Cuando hacía demasiado calor, nos sentamos debajo de una palma y bebimos alguna limonada. 
+----------
+ * **to fly** :: volar (verb)
+ * I will fly to Argentina in February. 
+ * Yo vuelo a la Argentina en febrero. 
+----------
+ * **blurry** :: borroso (adjective)
+ * This old photograph is blurry. 
+ * Este foto antiguo es borroso. 
 ----------
  # - end of file - 

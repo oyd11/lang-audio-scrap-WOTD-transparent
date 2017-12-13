@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 344 phrases 
+ 347 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -1378,5 +1378,17 @@
  * **agitado** :: frantic (adjective)
  * Meu gato ficou agitado assim que o carro começou a andar. 
  * My cat became frantic as soon as the car began to move. 
+----------
+ * **derrotar** :: to defeat (verb)
+ * Nós derrotamos os inimigos com a ajuda dos nossos amigos. 
+ * We defeated the enemies with the help of our friends. 
+----------
+ * **favela** :: slum (noun)
+ * Pode ser uma favela, mas é um lar. 
+ * It may be a slum, but it's home. 
+----------
+ * **sentir falta de** :: to miss (expression)
+ * Sinto falta de ter um jardim. 
+ * I miss having a garden. 
 ----------
  # - end of file - 
