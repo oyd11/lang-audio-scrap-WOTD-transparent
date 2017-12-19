@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -1390,5 +1390,29 @@
  * **sentir falta de** :: to miss (expression)
  * Sinto falta de ter um jardim. 
  * I miss having a garden. 
+----------
+ * **a não ser que** :: unless (conjunction)
+ * Ele não irá dormir a não ser que você lhe conte uma história. 
+ * He won't go to sleep unless you read him a story. 
+----------
+ * **saudade** :: longing for (expression)
+ * Sinto saudade de casa pois estou morando no exterior. 
+ * I feel longing for my home because I'm living abroad. 
+----------
+ * **sussurrar** :: to whisper (verb)
+ * Adoro ouvir o vento sussurrar pelas árvores. 
+ * I love to hear the wind whisper through the trees. 
+----------
+ * **ao ar livre** :: in the open (expression)
+ * Dormimos ao ar livre, embaixo das estrelas. 
+ * We slept in the open, under the stars. 
+----------
+ * **esperar** :: to hope (verb)
+ * Espero que todos meus amigos venham! 
+ * I hope all my friends will come! 
+----------
+ * **encontro às escuras** :: blind date (expression)
+ * O que você acha de um encontro às escuras com webcam? 
+ * What do you think about a blind date by webcam? 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -1390,5 +1390,29 @@
  * **مڼه** :: apple (noun)
  * د ورځی د یوې مڼې خوړل ډاکټر لرې ساتي. 
  * An apple a day keeps the doctor away. 
+----------
+ * **اخطار ورکول** :: to warn (verb)
+ * د آخر ځل لپاره تاته اخطار درکوم. 
+ * That's the last time I'm going to warn you. 
+----------
+ * **روغتیا** :: health (noun)
+ * روغتیا د دولت څخه بهتره ده. 
+ * Health is better than wealth. 
+----------
+ * **خندا** :: laughter (noun)
+ * خندا تر ټولو ښه دوا ده. 
+ * Laughter is the best medicine. 
+----------
+ * **جال** :: net (noun)
+ * دهشتګر بیا د پولیسو د جال څخه وتختېده. 
+ * The terrorists have once again slipped through the police net. 
+----------
+ * **ګرم** :: hot (adverb)
+ * زما ګرم چای خوښیږي. 
+ * I like hot tea. 
+----------
+ * **قهر** :: anger (noun)
+ * په غصه کې د کنترول نه مه اوځه. 
+ * Don't get carried away by anger. 
 ----------
  # - end of file - 

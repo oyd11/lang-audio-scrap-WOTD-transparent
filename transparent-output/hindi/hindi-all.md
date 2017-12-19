@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -1390,5 +1390,29 @@
  * **खोदना** :: to dig (verb)
  * तब तक खोदो जब तक तुम्हें तेल नहीं मिल जाता। 
  * Dig until you strike oil. 
+----------
+ * **जीवाश्म** :: fossil (noun)
+ * म्यूज़ियम में रखे जीवाश्म क्रिटेशियस काल से हैं। 
+ * The fossils at the museum are from the Cretaceous period. 
+----------
+ * **फोटो खींचना** :: to photograph (verb)
+ * उसने एक दुर्लभ पक्षी का फोटो खींचा। 
+ * She photographed a rare bird. 
+----------
+ * **ठण्डा** :: chilly (adjective)
+ * कितना ठण्डा दिन है! 
+ * What a chilly day! 
+----------
+ * **इंतज़ार करना** :: to wait for (verb)
+ * हम बस का इंतज़ार कर रहे हैं। 
+ * We are waiting for the bus. 
+----------
+ * **स्केटिंग करना** :: to skate (verb)
+ * जब यह तालाब पूरी तरह जम जाता है, तो बच्चे इस पर स्केट करते हैं। 
+ * The children skate on the pond once it is frozen solid. 
+----------
+ * **स्लेड** :: sled (noun)
+ * मेरे दादाजी ने उसे पिछली सर्दियों में एक स्लेड दी थी। 
+ * His grandfather gave him a sled last winter. 
 ----------
  # - end of file - 

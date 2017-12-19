@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 339 phrases 
+ 353 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -1358,5 +1358,61 @@
  * **שנת לימודים** :: school year (noun)
  * בכל סתיו נפתחת מחדש שנת הלימודים. 
  * Every fall, the school year begins anew. 
+----------
+ * **ילד** :: child (noun)
+ * יש לך הרבה מה ללמוד, ילדי. 
+ * You have much to learn, my child. 
+----------
+ * **מעשייה** :: anecdote (noun)
+ * סבא שלי יודע מאות מעשיות. 
+ * My grandfather knows hundreds of anecdotes. 
+----------
+ * **להודיע** :: to announce (verb)
+ * הם יודיעו על הזוכה מחר. 
+ * They will announce the winner tomorrow. 
+----------
+ * **אווז** :: goose (noun)
+ * שני אווזים קולניים חיים ליד הבריכה. 
+ * Two noisy geese live near the pond. 
+----------
+ * **כסף** :: silver (noun)
+ * הבעיה עם כסף היא שהוא הופך כהה בקלות. 
+ * The problem with silver is that it tarnishes so easily. 
+----------
+ * **זיקוקין די-נור** :: fireworks (noun)
+ * את השמים האירו זיקוקין די-נור. 
+ * Fireworks lit the night sky. 
+----------
+ * **מכונית** :: car (noun)
+ * איפה החנית את המכונית! 
+ * Where did you park the car? 
+----------
+ * **בננה** :: banana (noun)
+ * בננות הן דבר בריא. 
+ * Bananas are good for you. 
+----------
+ * **משקפת** :: binoculars (noun)
+ * העבר לי בבקשה את המשקפת. 
+ * Please pass me the binoculars. 
+----------
+ * **עיוורון** :: blindness (noun)
+ * התבוננות בשמש גורמת לעיוורון! 
+ * Staring at the sun causes blindness! 
+----------
+ * **קומקום** :: kettle (noun)
+ * האם הקומקום כבר שרק? 
+ * Has the kettle whistled yet? 
+----------
+ * **מגף** :: boot (noun)
+ * המגפיים שלך בחדר הכניסה. 
+ * Your boots are in the mudroom. 
+----------
+ * **לבנה** :: brick (noun)
+ * אם משעמם לך תספור את הלבנים שבקיר. 
+ * Count the bricks in the wall if you're bored. 
+----------
+ * **להבריש** :: to brush (verb)
+ * היא צריכה להבריש את שערה. 
+ * She needs to brush her hair. 
 ----------
  # - end of file - 

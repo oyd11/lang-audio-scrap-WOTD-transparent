@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -1390,5 +1390,29 @@
  * **очаг** :: hearth (noun)
  * Мы сидели у очага и пили чай. 
  * We sat near the hearth sipping tea. 
+----------
+ * **шлем** :: helmet (noun)
+ * Когда катаешься на велосипеде, надень шлем. 
+ * Wear your helmet when you ride your bike. 
+----------
+ * **погреб** :: cellar (noun)
+ * У них впечатляющий винный погребок. 
+ * They have an impressive wine cellar. 
+----------
+ * **коробка** :: box (noun)
+ * Давайте посмотрим, что в коробке. Ничего! Совсем ничего! 
+ * Now let's see what's in the box. Nothing! Absolutely nothing! 
+----------
+ * **клоун** :: clown (noun)
+ * Нет ничего печальнее, чем слёзы клоуна. 
+ * Nothing is sadder than the tears of a clown. 
+----------
+ * **кондиционер** :: air conditioner (noun)
+ * Включи кондиционер, пожалуйста. 
+ * Turn on the air conditioner, please. 
+----------
+ * **фарш** :: ground meat (noun)
+ * Мне нужно пол-фунта фарша. 
+ * I need half a pound of ground meat. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -1390,5 +1390,29 @@
  * **Il tentativo** :: attempt (noun)
  * Al terzo tentativo fallito, una nuova password verrà inviata per e-mail . 
  * At the third failed attempt, a new password will be sent by e-mail. 
+----------
+ * **L'anno** :: year (noun)
+ * Il 2008 è un anno bisestile e secondo i superstiziosi porta sfortuna. 
+ * 2008 is a leap year, and, according to the superstitious, it brings bad luck. 
+----------
+ * **contento** :: glad (adjective)
+ * Sono così contenta di vedervi! Ho sentito molto la vostra mancanza. 
+ * I am so glad to see you! I missed you very much. 
+----------
+ * **La ferita** :: wound (noun)
+ * La ferita è superficiale, non c'è bisogno di punti. 
+ * The wound is superficial; there is no need for stitches. 
+----------
+ * **La barba** :: beard (noun)
+ * Che barba lunga! Quando ti sei rasato l'ultima volta? 
+ * What a long beard! When was the last time you shaved? 
+----------
+ * **giù** :: downstairs (adverb)
+ * Passo a prenderti alle 8.00: ti suono il campanello e ti aspetto giù. 
+ * I'll pick you up at 8:00: I'll ring the bell and wait for you downstairs. 
+----------
+ * **quotidiano** :: daily (adjective)
+ * In questo periodo la mia routine quotidiana è davvero una noia! 
+ * Right now my daily routine is a real bore! 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -1390,5 +1390,29 @@
  * **sjenert** :: bashful (adjective)
  * Jeg er ei jente på 18 som er enslig, ensom, sjenert og deprimert. 
  * I am an 18 year old girl who is single, lonely, bashful and depressed. 
+----------
+ * **flau** :: embarrassed (adjective)
+ * Jeg var flau over min dårlige oppførsel i går kveld. 
+ * I am embarrassed about my bad behavior yesterday evening. 
+----------
+ * **stygg** :: ugly (adjective)
+ * Jeg liker ikke å se på stygge fotoer. 
+ * I don't like to look at ugly photographs. 
+----------
+ * **hemmelig** :: secret (adjective)
+ * I 1992 startet hemmelige forhandlinger i Oslo angående fredsprosessen i Midtøsten. 
+ * In 1992, secret negotiations began in Oslo on the peace process in the Middle East. 
+----------
+ * **sinnssyk** :: mentally ill (adjective)
+ * I middelalderen trodde mange at sinnssyke mennesker var besatt av onde ånder. 
+ * In the Middle Ages, many believed that the mentally ill were possessed by evil spirits. 
+----------
+ * **ekkelt** :: dubious (adjective)
+ * Det var ekkelt da vi først oppdaget at noe var galt med sønnen. 
+ * It was lousy when we first discovered something was wrong with our son. 
+----------
+ * **uvanlig** :: unusual (adjective)
+ * Det var uvanlig kaldt i Norge denne vinteren. 
+ * It was unusually cold in Norway this winter. 
 ----------
  # - end of file - 

@@ -21,7 +21,7 @@ let lang = process.argv[2]
 let outputBasedir = "./transparent-download"
 
 
-let langDir =  `${outputBasedir}/${lang}` 
+let langDir =  `${outputBasedir}/${lang}`
 let soundDir = `${langDir}/${lang}-sound`
 mkDirSync( outputBasedir )
 mkDirSync( langDir )
@@ -29,14 +29,14 @@ mkDirSync( soundDir )
 
 // Config :: //
 
-let isDownloadExistingXml = false
-let dateFormat = "MM-DD-YYYY"
+let isDownloadExistingXml = true
+const dateFormat = "MM-DD-YYYY"
 let nowDate = moment()
 let endDate = nowDate
 //let startDate = moment("01-01-2017", dateFormat)
-let startDate = moment("11-25-2017", dateFormat)
+let startDate = moment("12-05-2017", dateFormat)
 
-let langHumanToUrl = {
+const langHumanToUrl = {
  "arabic": "arabic",
  "balinese": "bal-eng",
  "balinese-indonesian": "bal-ind",
@@ -69,7 +69,7 @@ let langHumanToUrl = {
 let langString = langHumanToUrl[lang]
 
 // let url = "https://wotd.transparent.com/rss/11-27-2017-swedish-widget.xml"
-for (let d = startDate ; !d.isAfter( endDate,  'day') ; d.add(1, 'days' )) { 
+for (let d = startDate ; !d.isAfter( endDate,  'day') ; d.add(1, 'days' )) {
     let dateString = d.format(dateFormat)
     let filename = `${dateString}-${langString}-widget.xml`
     let xmlUrl = `https://wotd.transparent.com/rss/${filename}`
@@ -78,9 +78,9 @@ for (let d = startDate ; !d.isAfter( endDate,  'day') ; d.add(1, 'days' )) {
         let f = `${langDir}/${filename}`
         let execStr = `curl ${xmlUrl} -o ${f}`
         if (isDownloadExistingXml) {
-            let r = systemSync(execStr) 
+            let r = systemSync(execStr)
         } else {
-            let r = execIfMissing(execStr, f) 
+            let r = execIfMissing(execStr, f)
         }
         console.log("check: ", `${f}`)
     }
@@ -97,19 +97,11 @@ for (let d = startDate ; !d.isAfter( endDate,  'day') ; d.add(1, 'days' )) {
     {
         let f = `${soundDir}/${dateString}-wordsound.mp3`
         let execStr = `curl "${oo["wordsound"]}" -o ${f}`
-        let r = execIfMissing(execStr, f) 
+        let r = execIfMissing(execStr, f)
     }
     {
         let f = `${soundDir}/${dateString}-phrasesound.mp3`
         let execStr = `curl "${oo["phrasesound"]}" -o ${f}`
-        let r = execIfMissing(execStr, f) 
+        let r = execIfMissing(execStr, f)
     }
 }
-
-
-
-
-
-
-
-

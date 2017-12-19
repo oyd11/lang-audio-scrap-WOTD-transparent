@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -1390,5 +1390,29 @@
  * **le don** :: donation (noun)
  * Je vais faire un don à l'UNICEF en faveur des enfants illettrés. 
  * I'm going to make a donation to UNICEF for illiterate children. 
+----------
+ * **mettre** :: to put (verb)
+ * Mets ton bonnet, tu vas attraper froid! 
+ * Put your hat on, you are going to catch cold! 
+----------
+ * **le manteau** :: coat (noun)
+ * J'aime beaucoup la capuche de ton manteau. 
+ * I love the hood of your coat. 
+----------
+ * **fermer** :: to close (verb)
+ * Fermez la porte derrière vous, il fait froid! 
+ * Close the door behind you, it's cold! 
+----------
+ * **le livre** :: book (noun)
+ * Le livre que tu m'as offert était passionnant: je l'ai terminé. 
+ * The book you offered to me was exciting: I've finished it. 
+----------
+ * **louer** :: to rent (verb)
+ * Nous louons un chalet pour aller faire du ski en famille. 
+ * We're renting a cabin for the family to go skiing. 
+----------
+ * **le flocon** :: snowflake (noun)
+ * Tu as un flocon sur le bout du nez ! 
+ * You have a snowflake on your nose! 
 ----------
  # - end of file - 

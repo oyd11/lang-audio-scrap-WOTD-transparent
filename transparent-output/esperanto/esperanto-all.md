@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -1390,5 +1390,29 @@
  * **lakto** :: milk (noun)
  * Alportu al mi glason da lakto, mi petas. 
  * Bring me a glass of milk, please. 
+----------
+ * **lanterno** :: lantern (noun)
+ * Ni havas lanternon okaze de elektra paneo. 
+ * We have a lantern in case of a power outage. 
+----------
+ * **lasi** :: to leave (verb)
+ * La aviadilo forflugis antaŭ dek minutoj. 
+ * The plane left ten minutes ago. 
+----------
+ * **laŭcele** :: adequate (adjective)
+ * Li faris la taskon laŭcele. 
+ * He did an adequate job. 
+----------
+ * **legi** :: to read (verb)
+ * Ĉu vi legis ŝian novan libron? 
+ * Did you read her new book? 
+----------
+ * **leono** :: lion (noun)
+ * Mia nevo ŝatas la leonojn ĉe la zoologia ĝardeno. 
+ * My nephew enjoys the lions at the zoo. 
+----------
+ * **lernejo** :: school (noun)
+ * Li ne volas iri al lernejo. 
+ * He does not want to go to school. 
 ----------
  # - end of file - 

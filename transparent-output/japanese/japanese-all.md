@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -2084,5 +2084,41 @@
  * タバコを吸っている学生を注意したら、逆ギレされた。 
  * Tabako o sutteiru gakusei o chuui shitara gyakugire sareta. 
  * When I scolded a student who was smoking, he snapped at me. 
+----------
+ * **迎えに行く** :: to pick someone up (verb)
+ * **mukae ni iku** 
+ * おばを空港まで迎えに行った。 
+ * Oba o kuukou made mukae ni itta. 
+ * I went to the airport to pick up my aunt. 
+----------
+ * **お久しぶりです** :: I have not seen you for a long time. (expression)
+ * **ohisashiburi desu** 
+ * ３年ぶりに先生に会ったので、「お久しぶりです」と言った。 
+ * Sannen buri ni sensei ni atta node, "ohisashiburidesu" to itta. 
+ * I said "I have not seen you for a long time" to my teacher because 2 years has been past since I saw him last. 
+----------
+ * **じゃあ、また** :: See you later. (expression)
+ * **jaa mata** 
+ * じゃあ、また。田中さん。 
+ * Jaa mata. Tanaka san. 
+ * See you later, Mr. Tanaka. 
+----------
+ * **お買い得** :: good bargain (noun)
+ * **okaidoku** 
+ * このドレスがお買い得です。 
+ * Kono doresu ga okaidoku desu. 
+ * This dress is a good bargain. 
+----------
+ * **黒星** :: lost match (noun)
+ * **kuroboshi** 
+ * 僕たちの今日の試合は黒星だった。 
+ * Bokutachi no kyou no shiai wa kuroboshi datta. 
+ * We lost today's match. 
+----------
+ * **思う** :: to think (verb)
+ * **omou** 
+ * 明日、東京に行こうと思います。 
+ * Asu toukyou ni ikou to omoi masu. 
+ * I think I will go to Tokyo tomorrow. 
 ----------
  # - end of file - 

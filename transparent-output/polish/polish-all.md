@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -1390,5 +1390,29 @@
  * **dogodny** :: convenient (adjective)
  * Mam dogodne połączenie między Warszawą i Krakowem. 
  * I have a convenient connection between Warsaw and Kraków. 
+----------
+ * **gęsty** :: thick (adjective)
+ * Mgła była tak gęsta, że musieliśmy zatrzymać samochód. 
+ * The fog was so thick we had to stop the car. 
+----------
+ * **szczery** :: frank (adjective)
+ * Mieliśmy szczerą rozmowę na temat naszej przyszłości. 
+ * We had a frank conversation about our future. 
+----------
+ * **rozpaczliwy** :: desperate (adjective)
+ * Przesłała mi rozpaczliwe spojrzenie, prosząc o pomoc. 
+ * She gave me a desperate look asking for help. 
+----------
+ * **rozsądny** :: sensible (adjective)
+ * Twoja rada jest rozsądna, zrobię tak, jak mówisz. 
+ * Your advice is sensible; I'll do as you say. 
+----------
+ * **pusty** :: empty (adjective)
+ * Moja torebka jest pusta, chyba zgubiłam mój portfel. 
+ * My bag is empty; I must have lost my wallet. 
+----------
+ * **puszysty** :: fluffy (adjective)
+ * Twój nowy dywan jest puszysty i miękki. 
+ * Your new carpet is fluffy and soft. 
 ----------
  # - end of file - 

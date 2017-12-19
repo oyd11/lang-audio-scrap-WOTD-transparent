@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -1390,5 +1390,29 @@
  * **proscriptus** :: outlaw (noun)
  * Cum catapultae proscriptae erunt tum soli proscripti catapultas habebunt. 
  * When catapults are outlawed, then only outlaws will have catapults. 
+----------
+ * **iungere** :: to join (verb)
+ * Illas urbes una via iunxerunt. 
+ * They joined those cities with one road. 
+----------
+ * **loqui** :: to talk (verb)
+ * Curae leves loquuntur, ingentes stupent. 
+ * Slight griefs talk, great ones are speechless. 
+----------
+ * **conservare** :: to preserve (verb)
+ * Libertatem harum urbium artibus belli conservavimus. 
+ * We preserved the freedom of these cities by using the arts of war. 
+----------
+ * **comes** :: companion (noun)
+ * Culpam poena premit comes. 
+ * Punishment closely follows crime as its companion. 
+----------
+ * **audere** :: to dare (verb)
+ * Solus philosophus negare deos esse audet. 
+ * The philosopher alone dares to deny that the gods exist. 
+----------
+ * **exspectare** :: to expect (verb)
+ * Propter tempestatem mortem exspectavi. 
+ * Because of the storm, I expected death. 
 ----------
  # - end of file - 

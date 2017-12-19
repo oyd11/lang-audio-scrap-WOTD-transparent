@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -1390,5 +1390,29 @@
  * **نظریه** :: idea (noun)
  * برای خوب بودن این نظریه صد دلیل دارم. 
  * I can give you 100 reasons why this is a bad idea. 
+----------
+ * **عجله کردن** :: to hurry (verb)
+ * اگر عجله نکنید سرویس از پیش ما میرود. 
+ * If we don't hurry, we'll miss the bus. 
+----------
+ * **ببخشید** :: sorry (adjective)
+ * سلام به همه! ببخشید نا وقت کردم. 
+ * Hi everyone! Sorry I'm late. 
+----------
+ * **ملامت کردن** :: to blame (verb)
+ * شما نمیتوانید دیگرانرا برای تمام مشکلات خود ملامت کنید. 
+ * You can't blame other people for all your problems. 
+----------
+ * **آفتاب** :: sun (noun)
+ * باغ ها به خاک خوب، آفتاب و آبیاری منظم ضرورت دارند. 
+ * Gardens need good soil, sun, and regular watering. 
+----------
+ * **تکرار کردن** :: to repeat (verb)
+ * نفهمیدم، میتوانید آنرا تکرار کنید؟ 
+ * I don't understand. Can you repeat that? 
+----------
+ * **لسان** :: language (noun)
+ * دری یک لسان رسمی افغانستان است. 
+ * Dari is an official language of Afghanistan. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -1390,5 +1390,29 @@
  * **جہنم** :: Hell (noun)
  * کیا آپ کو لگتا ہے کہ جہنم اتنی بری جگہ ہو گی؟ 
  * Do you think that Hell will be such a bad place? 
+----------
+ * **کام** :: work (noun)
+ * میرا کام یہاں ہو گیا ہے. 
+ * My work here is done. 
+----------
+ * **کبھی نہیں** :: never (adverb)
+ * میں تمہیں کبھی نہیں چھوڑوں گا. 
+ * I will never let you go. 
+----------
+ * **مسکراہٹ** :: smile (noun)
+ * ایک مسکراہٹ "شکریہ" کہنے کا سب سے بہترین طریقہ ہے. 
+ * A smile is the best way to say "thank you." 
+----------
+ * **دروازہ** :: door (noun)
+ * براہ مہربانی دروازہ بند کریں باہر ٹھنڈ ہے. 
+ * Close the door please, it's cold outside. 
+----------
+ * **بدلہ لینا** :: to get revenge (verb)
+ * مقتول نے گُنہگار سے بدلہ لیا. 
+ * The victim got revenge on the wrongdoer. 
+----------
+ * **مایُوسی** :: disappointment (noun)
+ * میں ہار پر اپنی مایوسی کو چھپا نہیں سکتا. 
+ * I couldn't hide my disappointment over the defeat. 
 ----------
  # - end of file - 

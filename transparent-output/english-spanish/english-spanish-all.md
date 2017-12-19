@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -1390,5 +1390,29 @@
  * **blurry** :: borroso (adjective)
  * This old photograph is blurry. 
  * Este foto antiguo es borroso. 
+----------
+ * **to cook** :: cocinar (verb)
+ * My mother cooks some delicious meals in the kitchen. 
+ * Mi madre cocina unas comidas deliciosas en la cocina. 
+----------
+ * **delayed** :: demorado (adjective)
+ * Our flight is delayed. 
+ * Nuestro vuelo está demorado. 
+----------
+ * **knife** :: cuchillo (noun)
+ * The thief has a knife. 
+ * El ladrón tiene un cuchillo. 
+----------
+ * **to get** :: conseguir (verb)
+ * I'm getting the food for the party. 
+ * Yo consigo la comida para la fiesta. 
+----------
+ * **thankful** :: agradecido (adjective)
+ * The family is thankful for the flowers. 
+ * La familia está agradecida por las flores. 
+----------
+ * **trip** :: viaje (noun)
+ * Jorge and Marta are going on a trip to Italy. 
+ * Jorge y Marta hacen un viaje a Italia. 
 ----------
  # - end of file - 

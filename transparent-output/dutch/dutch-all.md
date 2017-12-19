@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -1390,5 +1390,29 @@
  * **tijdschrift** :: magazine (noun)
  * Mijn favoriete tijdverdrijf is het lezen van een tijdschrift. 
  * My favorite waste of time is reading a magazine. 
+----------
+ * **draad** :: thread (noun)
+ * De scheur in de blouse werd vakkundig met naald en draad hersteld. 
+ * The tear in the blouse was skillfully repaired with needle and thread. 
+----------
+ * **borduursel** :: embroidery (noun)
+ * Toen de aanbidder onverwachts op visite kwam, werd het borduursel haastig aan de kant geschoven. 
+ * When the suitor paid an unexpected visit, the embroidery was hastily cast aside. 
+----------
+ * **vliegveld** :: airport (noun)
+ * Het is moeilijke te ontsnappen aan de drukte van het vliegveld. 
+ * It's hard to escape the hustle and bustle of the airport. 
+----------
+ * **fornuis** :: stove (noun)
+ * Ik heb de hele morgen al een lekker stoofpotje op het fornuis staan pruttelen. 
+ * I made a nice stew that's been simmering on the stove the entire morning. 
+----------
+ * **schouwspel** :: spectacle (noun)
+ * De kinderen keken geboeid naar het schouwspel in de circus. 
+ * The children were enthralled by the spectacle in the circus. 
+----------
+ * **pestkop** :: bully (noun)
+ * Het zoontje van de buren is een echte pestkop en maakt de andere kinderen uit de straat bang. 
+ * Our neighbor's son is a real bully and scares the other children in the street. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -1390,5 +1390,29 @@
  * **un pelín** :: a little bit (expression)
  * Un pelín de sal lo hace buenísimo. 
  * A little bit of salt will make it taste good. 
+----------
+ * **desatar** :: to unleash (verb)
+ * La Roja desató su furia, ganó y levantó el trofeo. 
+ * The Spanish team unleashed its fury, won, and raised the trophy. 
+----------
+ * **el entrometido** :: meddler (noun)
+ * No me gusta mi vecina. Es una entrometida. 
+ * I don't like my neighbor. She's a meddler. 
+----------
+ * **el pringado** :: loser (noun)
+ * No te asocies con ellos. Son unos pringados. 
+ * Don't be identified with them. They are losers. 
+----------
+ * **a pesar de** :: in spite of (conjunction)
+ * A pesar del problema, el espectáculo debe continuar. 
+ * In spite of the problem, the show must go on. 
+----------
+ * **seguir** :: to follow (verb)
+ * Sigo a @wilw en Twitter. ¿Y quién no? 
+ * I follow @wilw on Twitter. Who doesn't? 
+----------
+ * **¿Estás de coña?** :: Are you kidding? (expression)
+ * No me lo puedo creer. ¿Estás de coña? 
+ * I can't believe it. Are you kidding? 
 ----------
  # - end of file - 

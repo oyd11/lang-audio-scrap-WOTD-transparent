@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -1390,5 +1390,29 @@
  * **أدانَ** :: to condemn (verb)
  * المجتمع المدني يُدينُ العنفَ ضد الأطفال. 
  * Civil society condemns violence against children. 
+----------
+ * **دخل** :: to enter (verb)
+ * دخل اللصُّ من الباب الخلفي للبيت. 
+ * The thief entered through the back door of the house. 
+----------
+ * **بحث فى موضوع علمي** :: to research (verb)
+ * سأذهب إلى المكتبة لأبحث في موضوع علمي. 
+ * I'm going to the library to research a scientific topic. 
+----------
+ * **أكد** :: to assure (verb)
+ * أكد الطبيب للمريض أن صحته في تحسن. 
+ * The doctor assured the patient that his health was improving. 
+----------
+ * **فقير** :: poor (adjective)
+ * سمير يسكن في حي فقير. 
+ * Samir lives in a poor neighborhood. 
+----------
+ * **فارغ** :: empty (adjective)
+ * المحل فارغ، لايوجد زبائن في هذا الوقت. 
+ * The shop is empty, there are no customers at this time. 
+----------
+ * **حزين** :: sad (adjective)
+ * لِمَ أنت حزين؟ 
+ * Why are you sad? 
 ----------
  # - end of file - 

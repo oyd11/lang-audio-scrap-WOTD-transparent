@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -1390,5 +1390,29 @@
  * **fiil** :: verb (noun)
  * Fiil, bir eylem kelimesidir. 
  * A verb is an action word. 
+----------
+ * **giymek** :: to wear (verb)
+ * Mavi bir elbise giyiyor. 
+ * She is wearing a blue dress. 
+----------
+ * **oksijen** :: oxygen (noun)
+ * Yüksek rakımlardaki havada daha az oksijen var. 
+ * At high elevations, there is less oxygen in the air. 
+----------
+ * **gelir** :: revenue (noun)
+ * Masraflar yükseldi, gelirler düştü. Ne yapabilirsin? 
+ * Costs are up, revenue is down. What can you do? 
+----------
+ * **memeli** :: mammal (noun)
+ * Balinalar ve yunuslar memelidir. 
+ * Whales and dolphins are mammals. 
+----------
+ * **su** :: water (noun)
+ * Yeryüzünün çoğu sularla kaplı. 
+ * The Earth is covered mostly by water. 
+----------
+ * **korku** :: fear (noun)
+ * Karanlıktan korkuyorum. 
+ * I fear the darkness. 
 ----------
  # - end of file - 

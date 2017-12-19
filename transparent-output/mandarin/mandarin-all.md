@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -2084,5 +2084,41 @@
  * 孩子喜欢穿新衣。 
  * Háizi xǐhuān chuān xīnyī. 
  * Children like to wear new clothes. 
+----------
+ * **衣服** :: clothing; clothes (noun)
+ * **yīfu** 
+ * 他穿了一件黑衣服。 
+ * Tā chuānle yī jiàn hēi yīfu. 
+ * He wore one piece of black clothing. 
+----------
+ * **黑** :: black (adjective)
+ * **hēi** 
+ * 教室有黑板。 
+ * Jiàoshì yǒu hēibǎn. 
+ * There is a blackboard in the classroom. 
+----------
+ * **白** :: white (adjective)
+ * **bái** 
+ * 夏天我穿白衬衫。 
+ * Xiàtiān wǒ chuān bái chènshān. 
+ * I wear white shirts in the summer. 
+----------
+ * **绿** :: green (adjective)
+ * **lǜ** 
+ * 绿草很嫩。 
+ * Lǜ cǎo hěn nèn. 
+ * Green grass is tender. 
+----------
+ * **黄** :: yellow (adjective)
+ * **huáng** 
+ * 秋天草黄了。 
+ * Qiūtiān cǎo huáng le. 
+ * Grass turns yellow in the fall. 
+----------
+ * **蓝** :: blue (adjective)
+ * **lán** 
+ * 今天天真蓝。 
+ * Jīntiān tiān zhēn lán. 
+ * The sky is really blue today. 
 ----------
  # - end of file - 

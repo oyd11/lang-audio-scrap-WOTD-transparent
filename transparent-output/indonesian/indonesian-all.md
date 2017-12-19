@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -1390,5 +1390,29 @@
  * **kebenaran** :: truth (noun)
  * Yang aku mau dengar dari kamu adalah kebenaran. 
  * All I want to hear from you is the truth. 
+----------
+ * **perasaan** :: feeling (noun)
+ * Kita perlu membicarakan perasaan kita. 
+ * We need to talk about our feelings. 
+----------
+ * **kelihatan bagus** :: to look good (expression)
+ * Rumah dia kelihatan bagus. 
+ * His house looks good. 
+----------
+ * **menyuruh anjing mengejar (seseorang)** :: to set the dogs (on someone) (expression)
+ * Keluar dari kebunku atau aku akan menyuruh anjing-anjingku mengejar kamu! 
+ * Get out of my orchard or I´ll set the dogs on you! 
+----------
+ * **suka sekali** :: passionate (adjective)
+ * Aku suka sekali fotografi. 
+ * I am passionate about photography. 
+----------
+ * **putih** :: white (adjective)
+ * Aku tidak suka pakai baju putih. 
+ * I don't like to wear white clothes. 
+----------
+ * **parasut** :: parachute (noun)
+ * Apa yang akan terjadi kalau parasutnya tidak terbuka? 
+ * What would happen if the parachute doesn't open? 
 ----------
  # - end of file - 

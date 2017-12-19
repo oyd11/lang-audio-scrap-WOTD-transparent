@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -1390,5 +1390,29 @@
  * **an teanga** :: language (noun)
  * Cad iad na teangacha atá agat? 
  * What languages do you speak? 
+----------
+ * **an mála taistil** :: suitcase (noun)
+ * An féidir leat cuidiú liom mo mhála taistil a iompar, le do thoil? 
+ * Please help me to carry my suitcase. 
+----------
+ * **an fhuinneog** :: window (noun)
+ * Dún an fhuinneog, le do thoil. 
+ * Please close the window. 
+----------
+ * **an stáisiún traenach** :: train station (noun)
+ * An bhfuil an staisiún traenach i bhfad uainn? 
+ * Is the train station far from here? 
+----------
+ * **an t-aerfort** :: airport (noun)
+ * Cén fhad as seo go dtí an t-aerfort? 
+ * How far is it to the airport? 
+----------
+ * **an bhialann** :: restaurant (noun)
+ * An molfá bialann mhaith? 
+ * Can you recommend a good restaurant? 
+----------
+ * **triail a bhaint as** :: to try on (verb)
+ * Ba bhaith liom triail a bhaint as seo. 
+ * I would like to try this on. 
 ----------
  # - end of file - 

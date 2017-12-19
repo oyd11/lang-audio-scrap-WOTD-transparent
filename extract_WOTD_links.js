@@ -32,6 +32,7 @@ function extract_WOTD_links( inputFilename ) {
 {
     let eng = "wotd-widget-sentence-quizmode-space-text big english"
     let u = soup.findAll('div', eng )
+    //for (const q of u)
     for (let i in u) {
         let q = u[i]
         let qq = q.contents[0]

@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -1390,5 +1390,29 @@
  * **ngolah** :: to process (alus (refined))
  * Punapi nika carane ngolah? 
  * What is the way to process it? 
+----------
+ * **pisan** :: very (alus (refined))
+ * Patut pisan! 
+ * Very suitable! 
+----------
+ * **tiing** :: bamboo (biasa (common))
+ * Ngangge tiing kadi puniki. 
+ * Use bamboo like this. 
+----------
+ * **niki** :: this (alus (refined))
+ * Coklat niki organik. 
+ * This chocolate is organic. 
+----------
+ * **seneng** :: to like, to feel happy about (alus (refined))
+ * Titiang seneng produk organik. 
+ * I like organic products. 
+----------
+ * **madaging** :: containing (alus (refined))
+ * Titiang seneng bungkus sane medaging kacang. 
+ * I like the bags containing nuts. 
+----------
+ * **pakeh** :: salty (biasa (common))
+ * Titiang seneng sane pakeh. 
+ * I like the salty ones. 
 ----------
  # - end of file - 

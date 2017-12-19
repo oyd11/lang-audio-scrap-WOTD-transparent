@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -1390,5 +1390,29 @@
  * **대화하다** :: to chat (verb)
  * 여러분과 대화를 하게 되어서 기뻤습니다. 
  * It's been a pleasure chatting with you. 
+----------
+ * **뉴스** :: news (noun)
+ * 요즈음의 경제뉴스는 침울합니다. 
+ * The recent financial news is depressing. 
+----------
+ * **실크해트** :: top hat (noun)
+ * 그 신사분은 자신의 장갑과 실크 해트를 벗었습니다. 
+ * The gentleman took off his gloves and top hat. 
+----------
+ * **친구** :: friend (noun)
+ * 전 기분이 안 좋은 날에는 제 페이스북 친구들이 꼭 다 알게 합니다! 
+ * When I have a bad day, I make sure all my Facebook friends know! 
+----------
+ * **선물** :: gift (noun)
+ * 아이들이 크리스마스 선물을 푸는 것을 보는 게 정말 재미있습니다. 
+ * It´s so funny to see children unwrapping their Christmas gifts. 
+----------
+ * **차다** :: to kick (verb)
+ * 그 문을 열려면, 발로 한 번 세게 차야 합니다. 
+ * To open that door, you need to give it a good kick. 
+----------
+ * **연필깎이** :: pencil sharpener (noun)
+ * 연필깎이 좀 빌려 주실 수 있어요? 
+ * Can you lend me your pencil sharpener? 
 ----------
  # - end of file - 

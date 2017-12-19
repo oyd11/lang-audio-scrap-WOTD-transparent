@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -1390,5 +1390,29 @@
  * **tank** :: tanque (noun)
  * The tank is empty; we need more gas. 
  * O tanque está vazio; precisamos abastecer. 
+----------
+ * **fall** :: Outono (noun)
+ * The months of fall are September, October and November. 
+ * Os meses do Outono são Setembro, Outubro e Novembro. 
+----------
+ * **fresh** :: fresco (adjective)
+ * I enjoy the fresh air in the mountains. 
+ * Eu desfruto o ar fresco das montanhas. 
+----------
+ * **board game** :: jogo de mesa (noun)
+ * The children receive several board games. 
+ * As crianças recebem vários jogos de mesa. 
+----------
+ * **waves** :: ondas (noun)
+ * The waves during the storm are very high. 
+ * As ondas foram altas durante a tempestade. 
+----------
+ * **navy** :: marinho (adjective)
+ * Her sweater is navy blue. 
+ * O suéter dele é azul marinho. 
+----------
+ * **to know** :: conhecer (verb)
+ * I know Los Angeles very well. 
+ * Eu conheço bem Los Angeles. 
 ----------
  # - end of file - 

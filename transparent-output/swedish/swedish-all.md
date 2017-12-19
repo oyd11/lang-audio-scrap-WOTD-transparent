@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 347 phrases 
+ 353 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -1390,5 +1390,29 @@
  * **att få** :: to receive (verb)
  * Jag skulle hellre vilja få prispengarna kontant. 
  * I'd rather receive the prize in cash. 
+----------
+ * **(ett) avtal** :: contract (noun)
+ * Avtalet måste skrivas under inom en vecka. 
+ * The contract must be signed within a week. 
+----------
+ * **allvarlig** :: serious (adjective)
+ * Tjugo personer blev allvarligt skadade. 
+ * Twenty people were seriously injured. 
+----------
+ * **(en) toffel** :: slipper (noun)
+ * Hon tog av sig tofflorna och satte på sig skorna igen. 
+ * She took off her slippers and put on her shoes again. 
+----------
+ * **(en) helikopter** :: helicopter (noun)
+ * Offren för översvämningen räddades av en helikopter. 
+ * The flood victims were rescued by a helicopter. 
+----------
+ * **(en) färgkrita** :: crayon (noun)
+ * Barnen gjorde sina teckningar färgglada med färgkritor. 
+ * The children made their drawings colorful with crayons. 
+----------
+ * **(ett) schack** :: chess (noun)
+ * Vad sägs om ett trevligt parti schack? 
+ * How about a nice game of chess? 
 ----------
  # - end of file - 
