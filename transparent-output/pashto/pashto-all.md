@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -1414,5 +1414,25 @@
  * **قهر** :: anger (noun)
  * په غصه کې د کنترول نه مه اوځه. 
  * Don't get carried away by anger. 
+----------
+ * **نږدې** :: near (expression)
+ * مونږ جومات ته نږدې ژوند کوو. 
+ * We live near the mosque. 
+----------
+ * **ساتل** :: to insulate/to protect (verb)
+ * دا ډېر امن ځای دی. 
+ * This is a very safe place. 
+----------
+ * **دیوال** :: the walls (noun)
+ * دېوالونه غوږونه لري. 
+ * The walls have ears. 
+----------
+ * **خبرې کول** :: to talk (verb)
+ * داسی دی لکه چی دیوال ته چی خبرې کوې. 
+ * It's like talking to a wall. 
+----------
+ * **لوګی** :: smoke (noun)
+ * چیرته چې لوګی وي هلته اور وي. 
+ * Where there's smoke, there's fire. 
 ----------
  # - end of file - 

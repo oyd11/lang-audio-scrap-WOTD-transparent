@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -1414,5 +1414,25 @@
  * **parasut** :: parachute (noun)
  * Apa yang akan terjadi kalau parasutnya tidak terbuka? 
  * What would happen if the parachute doesn't open? 
+----------
+ * **Lucu sekali!** :: How cute! (expression)
+ * Apa ini anakmu? Lucu sekali! 
+ * Is that your son? How cute! 
+----------
+ * **itik** :: duckling (noun)
+ * Itik buruk rupa itu tumbuh menjadi angsa yang cantik. 
+ * The ugly duckling grew up to be a beautiful swan. 
+----------
+ * **mulai** :: to start (verb)
+ * Maraton akan mulai pada jam 8 tepat. 
+ * The marathon will start at 8 o'clock sharp. 
+----------
+ * **Keren sekali!** :: How cool! (expression)
+ * Keren sekali produk Apple yang baru?! 
+ * How cool is Apple's new product?! 
+----------
+ * **pengering rambut** :: hairdryer (noun)
+ * Kalau aku tidak pakai pengering rambut, rambutku tidak kelihatan bagus. 
+ * If I don't use a hairdryer my hair won't look good. 
 ----------
  # - end of file - 

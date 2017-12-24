@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -1414,5 +1414,25 @@
  * **exspectare** :: to expect (verb)
  * Propter tempestatem mortem exspectavi. 
  * Because of the storm, I expected death. 
+----------
+ * **volare** :: to fly, to fly away (verb)
+ * Verba volant, littera scripta manet. 
+ * Words fly away, but the written letter remains. 
+----------
+ * **dubitare** :: to hesitate, to waver, to doubt (verb)
+ * Inter bellum et pacem dubitant. 
+ * They waver between war and peace. 
+----------
+ * **concordia** :: harmony, unity (noun)
+ * Ubi concordia ibi victoria. 
+ * Where there is unity, there is victory. 
+----------
+ * **aetas** :: period of life, age, time (noun)
+ * Fortes viri ante nostram aetatem vivebant. 
+ * Brave men used to live before our age. 
+----------
+ * **salus** :: safety, health (noun)
+ * Salus populi suprema lex. 
+ * The safety of the people is the supreme law. 
 ----------
  # - end of file - 

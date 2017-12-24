@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -1414,5 +1414,25 @@
  * **pakeh** :: salty (biasa (common))
  * Titiang seneng sane pakeh. 
  * I like the salty ones. 
+----------
+ * **pait** :: bitter (biasa (common))
+ * Titiang seneng sane pait. 
+ * I like the bitter ones. 
+----------
+ * **manis** :: sweet (biasa (common))
+ * Titiang seneng sane manis. 
+ * I like the sweet ones. 
+----------
+ * **rasan** :: flavor (biasa (common))
+ * Wenten rasan sane lian? 
+ * Are there other flavors? 
+----------
+ * **indayang** :: to try (alus (refined))
+ * Indayang rasayang coklate niki! 
+ * Please taste this chocolate. 
+----------
+ * **becik** :: good (alus (refined))
+ * Rasan coklatne becik pisan. 
+ * The chocolate flavor is very good. 
 ----------
  # - end of file - 

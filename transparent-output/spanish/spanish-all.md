@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -1414,5 +1414,25 @@
  * **¿Estás de coña?** :: Are you kidding? (expression)
  * No me lo puedo creer. ¿Estás de coña? 
  * I can't believe it. Are you kidding? 
+----------
+ * **de vez en cuando** :: from time to time (expression)
+ * Voy a la playa de vez en cuando. 
+ * I go to the beach from time to time. 
+----------
+ * **el cobijo** :: shelter (noun)
+ * El cobijo es una de las necesidades básicas. 
+ * Shelter is one of the basic needs. 
+----------
+ * **el levantamiento** :: uprising (noun)
+ * El levantamiento trajo consigo los cambios sociales exigidos. 
+ * The uprising brought about the needed social changes. 
+----------
+ * **estar de guardia** :: to be on duty (expression)
+ * No puedo ir este fin de semana, estoy de guardia. 
+ * I can't go this weekend; I am on duty. 
+----------
+ * **la carencia** :: lack (noun)
+ * La carencia de fondos precipitó el cierre de la fábrica. 
+ * The lack of funds hastened the closure of the factory. 
 ----------
  # - end of file - 

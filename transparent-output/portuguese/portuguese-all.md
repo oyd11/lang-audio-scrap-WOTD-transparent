@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -1414,5 +1414,25 @@
  * **encontro às escuras** :: blind date (expression)
  * O que você acha de um encontro às escuras com webcam? 
  * What do you think about a blind date by webcam? 
+----------
+ * **em excesso** :: in excess (expression)
+ * Tudo bem beber contanto que você não o faça em excesso. 
+ * Drinking is OK as long as you don't do it in excess. 
+----------
+ * **prefeito** :: mayor (noun)
+ * Quem é o prefeito do Rio de Janeiro? 
+ * Who's the mayor of Rio de Janeiro? 
+----------
+ * **bagunça** :: mess (noun)
+ * Minha vida está uma bagunça e eu não sei o que fazer. 
+ * My life is a mess and I don’t know what to do. 
+----------
+ * **quebra-cabeça** :: jigsaw puzzle (noun)
+ * Montar quebra-cabeças é um bom exercício mental. 
+ * Putting jigsaw puzzles together is a good mental exercise. 
+----------
+ * **falta de** :: lack of (expression)
+ * Na prova os alunos mostraram sua total falta de preparo. 
+ * In the exam the students revealed their total lack of preparation. 
 ----------
  # - end of file - 

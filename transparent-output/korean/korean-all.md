@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -1414,5 +1414,25 @@
  * **연필깎이** :: pencil sharpener (noun)
  * 연필깎이 좀 빌려 주실 수 있어요? 
  * Can you lend me your pencil sharpener? 
+----------
+ * **인권** :: human rights (noun)
+ * 우리는 인권을 위해서 계속 싸워야합니다. 
+ * We have to keep on fighting for human rights. 
+----------
+ * **풀다** :: to loosen (verb)
+ * 그 분은 앉아서 넥타이를 풀었습니다. 
+ * He sat down and loosened his tie. 
+----------
+ * **그릴에** :: on the grill (expression)
+ * 전 그릴에 구운 생선을 좋아합니다. 
+ * I like fish cooked on the grill. 
+----------
+ * **늪** :: swamp (noun)
+ * 경찰은 늪에서 기결수를 찾지 못했지만, 벌레들은 찾아냈습니다. 
+ * The police didn't find the convict in the swamp, but the bugs did. 
+----------
+ * **어린시절** :: childhood (noun)
+ * 전 어린시절 가졌던 모든 자유로운 시간들이 그리워요. 
+ * I miss all the free time I had in childhood. 
 ----------
  # - end of file - 

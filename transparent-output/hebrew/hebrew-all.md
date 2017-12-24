@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -1414,5 +1414,25 @@
  * **להבריש** :: to brush (verb)
  * היא צריכה להבריש את שערה. 
  * She needs to brush her hair. 
+----------
+ * **לשרוף** :: to burn (verb)
+ * בטעות שרפנו את האומצה. 
+ * We accidentally burned the steak. 
+----------
+ * **אורווה** :: stable (noun)
+ * הסוסים שלהם חיים באורווה. 
+ * Their horses live in the stable. 
+----------
+ * **שמפנייה** :: champagne (noun)
+ * אתה תביא שמפנייה, אנחנו את התותים. 
+ * Bring champagne, we'll supply the strawberries. 
+----------
+ * **מושך** :: attractive (adjective)
+ * אני מודה, זוהי הצעה מושכת. 
+ * I admit, it is an attractive offer. 
+----------
+ * **בוס** :: boss (noun)
+ * הבוס שלנו נוהג בנו באדיבות. 
+ * Our boss treats us courteously. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -1414,5 +1414,25 @@
  * **to know** :: conhecer (verb)
  * I know Los Angeles very well. 
  * Eu conheço bem Los Angeles. 
+----------
+ * **to develop** :: desenvolver (verb)
+ * The town is developing its tourism. 
+ * A cidadezinha está desenvolvendo o turismo. 
+----------
+ * **to fly** :: voar (verb)
+ * I will fly to Argentina in February. 
+ * Vou voar para Argentina em Fevereiro. 
+----------
+ * **fire** :: fogo (noun)
+ * In the summer, there are a lot of fires in the mountains. 
+ * No verão, tem muitos fogos nas montanhas. 
+----------
+ * **to try on** :: provar (verb)
+ * I'm trying on some pants. 
+ * Vou provar algumas calças. 
+----------
+ * **glass** :: vidro (noun)
+ * The parents had to pick up the broken glass when their son broke the window. 
+ * Os pais tinham que recolher o vidro quebrado quando o filho deles quebrou a janela. 
 ----------
  # - end of file - 

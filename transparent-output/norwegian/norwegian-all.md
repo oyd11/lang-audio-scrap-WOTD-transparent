@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -1414,5 +1414,25 @@
  * **uvanlig** :: unusual (adjective)
  * Det var uvanlig kaldt i Norge denne vinteren. 
  * It was unusually cold in Norway this winter. 
+----------
+ * **heldig** :: lucky (adjective)
+ * Bilen til Jakobsen ble smadret av snøskredet i Sunndal forrige uke, men Jakobsen var utrolig heldig, han kom uskadet fra ulykken. 
+ * Jakobsen's car was smashed by the avalanche last week in Sunndal, but Jakobsen was unbelievably lucky -- he was unscathed in the accident. 
+----------
+ * **kjedelig** :: boring (adjective)
+ * På skolen dette året har Julie noen kjedelige timer og håpløse lærere. 
+ * Julie has some boring classes and hopeless teachers at school this year. 
+----------
+ * **elendig** :: wretched (adjective)
+ * Mange fattigfolk i uland lever under elendig vilkår. 
+ * Many poor people in the developing world live under wretched conditions. 
+----------
+ * **urettferdig** :: unjust (adjective)
+ * Mange ungdommer i Norge synes det er urettferdig at de må lære både bokmål og nynorsk. 
+ * Many youth in Norway think it is unjust that they have to learn both Bokmål and Nynorsk. 
+----------
+ * **forskjellig** :: different (adjective)
+ * Menn og kvinner danner minner på forskjellige måter. 
+ * Men and women shape their memories in different ways. 
 ----------
  # - end of file - 

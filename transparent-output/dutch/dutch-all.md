@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -1414,5 +1414,25 @@
  * **pestkop** :: bully (noun)
  * Het zoontje van de buren is een echte pestkop en maakt de andere kinderen uit de straat bang. 
  * Our neighbor's son is a real bully and scares the other children in the street. 
+----------
+ * **prikbord** :: bulletin board (noun)
+ * De tekeningen die onze kinderen maken op de kleuterschool, hangen we thuis op het prikbord. 
+ * The paintings made by our children at Kindergarten are put on display on our bulletin board. 
+----------
+ * **ademhaling** :: breathing (noun)
+ * s Avonds in bed luister ik graag naar je gestage ademhaling. 
+ * At night in bed I love to listen to your steady breathing. 
+----------
+ * **dekbed** :: duvet (noun)
+ * Als je ziek bent dan hoor je lekker onder een warm dekbed te kruipen. 
+ * When you feel ill, you should crawl under a warm duvet. 
+----------
+ * **bewind** :: reign (noun)
+ * De koning regeerde het land met een streng bewind. 
+ * The king ruled the land with an iron reign. 
+----------
+ * **advertentie** :: advertisements (noun)
+ * Door de commotie zijn we helemaal vergeten een advertentie te zetten! 
+ * Through all the commotion we completely forgot to place advertisements! 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -2120,5 +2120,35 @@
  * 今天天真蓝。 
  * Jīntiān tiān zhēn lán. 
  * The sky is really blue today. 
+----------
+ * **紫** :: purple (adjective)
+ * **zǐ** 
+ * 我喜欢紫色。 
+ * Wǒ xǐhuan zǐ sè. 
+ * I like purple. 
+----------
+ * **住** :: to live (verb)
+ * **zhù** 
+ * 你住在哪儿？ 
+ * Nǐ zhù zài nǎr? 
+ * Where do you live? 
+----------
+ * **感冒** :: to have a cold; to catch a cold (verb)
+ * **gǎnmào** 
+ * 孩子感冒了。 
+ * Háizi gǎnmào le. 
+ * The child has caught a cold. 
+----------
+ * **发烧** :: to have a fever (verb)
+ * **fāshāo** 
+ * 我有点儿发烧。 
+ * #N/A! 
+ * I have a bit of a fever. 
+----------
+ * **药** :: medicine (noun)
+ * **yào** 
+ * 我要去买药。 
+ * Wǒ yào qù mǎi yào. 
+ * I need to buy some medicine. 
 ----------
  # - end of file - 

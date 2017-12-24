@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -1414,5 +1414,25 @@
  * **фарш** :: ground meat (noun)
  * Мне нужно пол-фунта фарша. 
  * I need half a pound of ground meat. 
+----------
+ * **в сахаре** :: sugar-coated (adjective)
+ * Отец принёс нам лакомства в сахаре. 
+ * My dad brought us sugar-coated treats. 
+----------
+ * **быть в плохом настроении** :: to be in a bad mood (phrase)
+ * Не разговаривай с ним. Он в плохом настроении. 
+ * Don't talk to him. He's in a bad mood. 
+----------
+ * **чуть-чуть** :: a little bit (adverb)
+ * Чуть-чуть соли не помешает этому супу. 
+ * This soup could use a little bit of salt. 
+----------
+ * **назойливый человек** :: meddler (phrase)
+ * Мне соседка не нравится. Она назойлива. 
+ * I don't like my neighbor. She's a meddler. 
+----------
+ * **неудачник** :: loser (noun)
+ * Не дружи с ними. Они все неудачники. 
+ * Don't be friends with them. They are losers. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -1414,5 +1414,25 @@
  * **triail a bhaint as** :: to try on (verb)
  * Ba bhaith liom triail a bhaint as seo. 
  * I would like to try this on. 
+----------
+ * **an t-árasán** :: apartment (noun)
+ * An bhfuil tú i do chónaí i dteach nó in árasán? 
+ * Do you live in a house or an apartment? 
+----------
+ * **úsáid a dhéanamh** :: to use (verb)
+ * An bhfuil cead agam an seomra folctha a úsáid? 
+ * May I use the bathroom? 
+----------
+ * **an caife** :: coffee (noun)
+ * Ar mhaith leat cupán caife? 
+ * May I offer you some coffee? 
+----------
+ * **cuidiú** :: help (noun)
+ * Go raibh maith agat as do chuidiú. 
+ * Thank you for all your help. 
+----------
+ * **a mhothú** :: to feel (verb)
+ * Tá áthas orm go bhfuil tú ag mothú níos fearr. 
+ * I am glad that you're feeling better. 
 ----------
  # - end of file - 

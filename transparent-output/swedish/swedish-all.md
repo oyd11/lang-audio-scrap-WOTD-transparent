@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -1414,5 +1414,25 @@
  * **(ett) schack** :: chess (noun)
  * Vad sägs om ett trevligt parti schack? 
  * How about a nice game of chess? 
+----------
+ * **(ett) tak** :: roof (noun)
+ * Jag skulle älska att ha en trädgård på taket. 
+ * I would love to have a garden on the roof. 
+----------
+ * **(en) bankomat** :: ATM (noun)
+ * Jag behöver betala kontant. Finns det någon bankomat här? 
+ * I need to pay in cash. Is there an ATM here? 
+----------
+ * **(en) brunn** :: well (noun)
+ * Vad är en artesisk brunn? 
+ * What is an artesian well? 
+----------
+ * **(en) lägenhet** :: flat (noun)
+ * Min lägenhet ligger på första våningen. 
+ * My flat is on the first floor. 
+----------
+ * **tusen** :: thousand (number)
+ * Det finns tusen anledningar till att göra det. 
+ * There are a thousand reasons to do it. 
 ----------
  # - end of file - 

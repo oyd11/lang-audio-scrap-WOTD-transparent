@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -1414,5 +1414,25 @@
  * **حزين** :: sad (adjective)
  * لِمَ أنت حزين؟ 
  * Why are you sad? 
+----------
+ * **مظلم** :: dark (adjective)
+ * تجنب المشي في هذا الشارع لأنه مظلم. 
+ * Avoid walking in the street because it is dark. 
+----------
+ * **بعيد** :: far (adjective)
+ * مقر عملها بعيد عن بيتها. 
+ * Her work is far from her home. 
+----------
+ * **أخضر** :: green (adjective)
+ * يكون العشب أخضر في فصل الربيع. 
+ * The grass is green in the spring. 
+----------
+ * **مُتعب** :: tired (adjective)
+ * لم أحضر للحفل لأنني مُتعب. 
+ * I didn't come to the party because I'm tired. 
+----------
+ * **واضح** :: clear (adjective)
+ * من فضلك اُكتب اسمَك بخط واضح. 
+ * Please, write your name in clear handwriting. 
 ----------
  # - end of file - 

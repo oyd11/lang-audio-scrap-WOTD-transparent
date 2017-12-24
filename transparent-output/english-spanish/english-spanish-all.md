@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -1414,5 +1414,25 @@
  * **trip** :: viaje (noun)
  * Jorge and Marta are going on a trip to Italy. 
  * Jorge y Marta hacen un viaje a Italia. 
+----------
+ * **to travel** :: viajar (verb)
+ * My wife and I travel to Mexico each winter. 
+ * Mi esposa y yo viajamos a México cada invierno. 
+----------
+ * **happy** :: feliz (adjective)
+ * The dog is happy with his bone. 
+ * El perro está feliz con su hueso. 
+----------
+ * **magazines** :: revistas (noun)
+ * You read a lot of magazines on the plane. 
+ * Tú lees muchas revistas en el avión. 
+----------
+ * **to check in** :: facturar (verb)
+ * We're going to check in our luggage. 
+ * Nosotros vamos a facturar nuestro equipaje. 
+----------
+ * **dangerous** :: peligroso (adjective)
+ * It's dangerous if you don't look when crossing the street. 
+ * Es peligroso si tú no miras al cruzar la calle. 
 ----------
  # - end of file - 

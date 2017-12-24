@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -1414,5 +1414,25 @@
  * **quotidiano** :: daily (adjective)
  * In questo periodo la mia routine quotidiana è davvero una noia! 
  * Right now my daily routine is a real bore! 
+----------
+ * **forte** :: strong (adjective)
+ * Quella colla è molto forte, reggerà i pezzi anche sotto tensione. 
+ * That glue is very strong; it will hold the pieces together even under pressure. 
+----------
+ * **mancare** :: to miss (verb)
+ * Ciao mamma, ora devo partire. Mi mancherai tanto! 
+ * Bye mom, I have to leave now. I'll miss you very much! 
+----------
+ * **quindi** :: then (adverb)
+ * Vada diritto per via Rossi, quindi giri a destra. 
+ * Go straight down Rossi Street, then turn right. 
+----------
+ * **L'abito** :: dress (noun)
+ * Indosserai un abito da sera alla cena di gala? 
+ * Will you wear an evening dress at the gala dinner? 
+----------
+ * **Il ramo** :: branch (noun)
+ * I rami del ciliegio sono pieni di fiori. 
+ * The branches of the cherry tree are full of flowers. 
 ----------
  # - end of file - 

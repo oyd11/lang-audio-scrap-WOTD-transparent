@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -1414,5 +1414,25 @@
  * **puszysty** :: fluffy (adjective)
  * Twój nowy dywan jest puszysty i miękki. 
  * Your new carpet is fluffy and soft. 
+----------
+ * **nieudolny** :: inept (adjective)
+ * Była świetnym pracownikiem, ale jako kierownik okazała się nieudolna. 
+ * She was a great worker, but as a manager she turned out to be inept. 
+----------
+ * **niebezpieczny** :: dangerous (adjective)
+ * Zawsze lubił jeździć z niebezpieczną prędkością. 
+ * He has always liked to drive with dangerous speed. 
+----------
+ * **niechętny** :: reluctant (adjective)
+ * Niestety, on był bardzo niechętny, aby nam pomóc. 
+ * Sadly, he was very reluctant to help us. 
+----------
+ * **wrogi** :: hostile (adjective)
+ * Wrogi tłum otoczył dom generała. 
+ * A hostile crowd surrounded the general's house. 
+----------
+ * **dumny** :: proud (adjective)
+ * Jestem dumna z twoich osiągnięć. 
+ * I'm proud of your accomplishments. 
 ----------
  # - end of file - 

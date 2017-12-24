@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -1414,5 +1414,25 @@
  * **स्लेड** :: sled (noun)
  * मेरे दादाजी ने उसे पिछली सर्दियों में एक स्लेड दी थी। 
  * His grandfather gave him a sled last winter. 
+----------
+ * **गला** :: throat (noun)
+ * आज मेरा गला दुख रहा है। 
+ * My throat is hurting today. 
+----------
+ * **स्नातक होना** :: to graduate (verb)
+ * मेरा भाई एक महीने में स्नातक हो जाएगा। 
+ * My brother will graduate in a month. 
+----------
+ * **घास काटने की मशीन** :: lawnmower (noun)
+ * घास काटने की मशीन के लिए गैसोलीन की ज़रूरत होती है। 
+ * The lawnmower needs gasoline. 
+----------
+ * **घास का मैदान** :: meadow (noun)
+ * उस चोटी के नीचे एक बड़ा घास का मैदान फैला हुआ है। 
+ * A vast meadow spreads out below the cliff. 
+----------
+ * **इतिहास** :: history (noun)
+ * उन्होंने विश्वविद्यालय में इतिहास का अध्ययन किया था। 
+ * They studied history at the university. 
 ----------
  # - end of file - 

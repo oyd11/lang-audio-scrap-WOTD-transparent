@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -2120,5 +2120,35 @@
  * 明日、東京に行こうと思います。 
  * Asu toukyou ni ikou to omoi masu. 
  * I think I will go to Tokyo tomorrow. 
+----------
+ * **疲れる** :: to get tired (verb)
+ * **tsukareru** 
+ * 昨日はとても疲れた。 
+ * Kinou wa totemo tsukareta. 
+ * I got very tired yesterday. 
+----------
+ * **おやつ** :: snack (noun)
+ * **oyatsu** 
+ * おやつの時間ですよ。 
+ * Oyatsu no jikan desuyo. 
+ * It's time for a snack. 
+----------
+ * **不景気** :: economic recession (noun)
+ * **fukeiki** 
+ * 不景気でたくさんの会社が倒産した。 
+ * Fukeiki de takusan no kaisha ga tousan shita. 
+ * Many companies went out of business due to the recession. 
+----------
+ * **得意** :: good at (adjective)
+ * **tokui** 
+ * 私は数学が得意です。 
+ * Watashi wa suugaku ga tokui desu 
+ * I am good at math. 
+----------
+ * **恩** :: to owe someone (noun)
+ * **on** 
+ * 恩に着るよ。 
+ * On ni kiruyo. 
+ * I owe you one. 
 ----------
  # - end of file - 

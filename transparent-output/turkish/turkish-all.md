@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -1414,5 +1414,25 @@
  * **korku** :: fear (noun)
  * Karanlıktan korkuyorum. 
  * I fear the darkness. 
+----------
+ * **düğmelemek** :: to button (verb)
+ * O kadar çok yedim ki, pantalonumu zor düğmeliyorum! 
+ * I ate so much I can barely button my pants! 
+----------
+ * **poster** :: poster (noun)
+ * Eski korku filmlerinin posterlerinin kolleksiyonunu yapıyor. 
+ * He collects posters of old horror movies. 
+----------
+ * **oynamak** :: to perform (verb)
+ * Halk tiyatrosunda oynadık. 
+ * We performed in our community theater. 
+----------
+ * **akort etmek** :: to tune (verb)
+ * Uzmanı, bir kemanı kulak yoluyla akort edebilir. 
+ * An expert can tune a violin by ear. 
+----------
+ * **okul yılı** :: school year (noun)
+ * Her sonbaharda yeni bir okul yılı başlar. 
+ * Every fall, the school year begins anew. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -1414,5 +1414,25 @@
  * **مایُوسی** :: disappointment (noun)
  * میں ہار پر اپنی مایوسی کو چھپا نہیں سکتا. 
  * I couldn't hide my disappointment over the defeat. 
+----------
+ * **اترنا** :: to land (verb)
+ * جب جہاز اترے تو بیٹھے رہنا چاہئے. 
+ * One should remain seated when the plane lands. 
+----------
+ * **حادثہ** :: mishap (noun)
+ * ہم کسی حادثے کے بغیر پہنچ گئے. 
+ * We arrived without any mishap. 
+----------
+ * **دِل کی جَلَن** :: heartburn (noun)
+ * فکر دِل کی جَلَن کا سبب بن سکتی ہے. 
+ * Anxiety can cause heartburn. 
+----------
+ * **ٹایلیٹ کو فلش کرنا** :: to flush the toilet (expression)
+ * ٹایلیٹ کو فلش کرنا مت بھولنا. 
+ * Don't forget to flush the toilet. 
+----------
+ * **دھاندلی کرنا** :: to rig (verb)
+ * انتخابات میں دھاندلی تھی. 
+ * The election was rigged. 
 ----------
  # - end of file - 

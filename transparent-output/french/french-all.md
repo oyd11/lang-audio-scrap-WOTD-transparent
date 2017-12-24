@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -1414,5 +1414,25 @@
  * **le flocon** :: snowflake (noun)
  * Tu as un flocon sur le bout du nez ! 
  * You have a snowflake on your nose! 
+----------
+ * **la fille** :: daughter (noun)
+ * J'emmène ma fille skier dans les Alpes. 
+ * I'm taking my daughter to ski in the Alps. 
+----------
+ * **célèbre** :: famous (adjective)
+ * Le Mont-Blanc a rendu Chamonix célèbre dans le monde entier. 
+ * Mont-Blanc made Chamonix famous throughout the whole world. 
+----------
+ * **plaire** :: to please (verb)
+ * Ton cadeau me plaît énormément, merci. 
+ * Your gift really pleases me, thank you. 
+----------
+ * **la route** :: road (noun)
+ * Les routes de montagnes peuvent être dangereuses. 
+ * Mountain roads can be dangerous. 
+----------
+ * **difficile** :: hard (adjective)
+ * Les pistes noires sont les plus difficiles de toutes. 
+ * The black slopes are the most difficult ones. 
 ----------
  # - end of file - 

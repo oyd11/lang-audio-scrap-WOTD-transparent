@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -1414,5 +1414,25 @@
  * **لسان** :: language (noun)
  * دری یک لسان رسمی افغانستان است. 
  * Dari is an official language of Afghanistan. 
+----------
+ * **پوشیدن** :: to wear (verb)
+ * خرقه ای که گفته میشود توسط حضرت محمدص پوشیده شده است در قندهار نگهداری میشود. 
+ * A cloak reputedly worn by Muhammad is stored in Kandahar. 
+----------
+ * **فهمیدن** :: to understand (verb)
+ * دری زبانها اکثر اوقات گپ های فارسی زبانها و تاجکی زبانها را میفهمند. 
+ * Speakers of Dari can often understand speakers of Farsi and Tajiki. 
+----------
+ * **حروف** :: letters (noun)
+ * الفبای دری سی و دو حرف دارد. 
+ * Dari has alphabet has thirty two letters. 
+----------
+ * **ضرورت داشتن** :: to need (verb)
+ * شما به یک قایق کلانتر ضرورت دارید. 
+ * You're going to need a bigger boat. 
+----------
+ * **حوصله** :: patience (noun)
+ * حوصله تقوا است. 
+ * Patience is a virtue. 
 ----------
  # - end of file - 

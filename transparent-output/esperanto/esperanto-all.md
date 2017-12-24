@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 353 phrases 
+ 358 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -1414,5 +1414,25 @@
  * **lernejo** :: school (noun)
  * Li ne volas iri al lernejo. 
  * He does not want to go to school. 
+----------
+ * **lerni** :: to learn (verb)
+ * Mi deziras lerni pli da Esperanto. 
+ * I want to learn more Esperanto. 
+----------
+ * **letero** :: letter (noun)
+ * Mia onklino skribis leteron al mi pasintsemajne. 
+ * My aunt wrote me a letter last week. 
+----------
+ * **levi** :: to raise (verb)
+ * Levu la framon iomete pli alte. 
+ * Raise the frame slightly higher. 
+----------
+ * **liberigi** :: to release (verb)
+ * Vi devas liberigi la fiŝon post kiam vi kaptas ĝin. 
+ * You should release the fish after you catch it. 
+----------
+ * **lifto** :: elevator (noun)
+ * Iru per la lifto al la naŭa etaĝo. 
+ * Take the elevator to the ninth floor. 
 ----------
  # - end of file - 
