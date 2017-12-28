@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -1434,5 +1434,21 @@
  * **lifto** :: elevator (noun)
  * Iru per la lifto al la naŭa etaĝo. 
  * Take the elevator to the ninth floor. 
+----------
+ * **laĉi** :: to tie (verb)
+ * Ilia juna filino lastatempe lernis kiel laĉi siajn ŝuojn. 
+ * Their young daughter recently learned to tie her shoes. 
+----------
+ * **lilio** :: lily (noun)
+ * Rigardu la kiom da lilioj estas en la akvo! 
+ * Look at all the lilies in the water! 
+----------
+ * **limigita** :: limited (adjective)
+ * Ni ĝuste nun havas limigitan nombron da elektoj. 
+ * We have a limited number of options right now. 
+----------
+ * **limigo** :: limitation (noun)
+ * Li limigis la produktadon de la fabriko. 
+ * He placed a limitation on the factory's output. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -2150,5 +2150,29 @@
  * 恩に着るよ。 
  * On ni kiruyo. 
  * I owe you one. 
+----------
+ * **苦手** :: poor at (adjective)
+ * **nigate** 
+ * 私は物理が苦手です。 
+ * Watashi wa butsuri ga nigate desu. 
+ * I am poor at physics. 
+----------
+ * **儲かる** :: to make a profit (verb)
+ * **moukaru** 
+ * あの会社は儲かっているらしい。 
+ * Ano kaisha wa moukatteiru rashii. 
+ * I heard that company is making a profit. 
+----------
+ * **考える** :: to consider (verb)
+ * **kanngaeru** 
+ * もっといい方法を考えた。 
+ * Motto ii houhou o kangaeta. 
+ * I considered a better way. 
+----------
+ * **洗い物** :: dishes (noun)
+ * **araimono** 
+ * 洗い物は私の仕事です。 
+ * Araimono wa watashi no shigoto desu. 
+ * Doing dishes is my job. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -1434,5 +1434,21 @@
  * **a mhothú** :: to feel (verb)
  * Tá áthas orm go bhfuil tú ag mothú níos fearr. 
  * I am glad that you're feeling better. 
+----------
+ * **an chathair** :: city (noun)
+ * Is cathair alainn í seo. 
+ * This is a beautiful city. 
+----------
+ * **an chomharsanacht** :: neighborhood (noun)
+ * Is comharsanacht mhór í seo. 
+ * This is a big neighborhood. 
+----------
+ * **álainn** :: beautiful (adjective)
+ * Tá do thír go hálainn. 
+ * Your country is beautiful. 
+----------
+ * **an bláth** :: the flower (noun)
+ * Tá do bhláthanna go deas. 
+ * Your flowers are lovely. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -1434,5 +1434,21 @@
  * **la carencia** :: lack (noun)
  * La carencia de fondos precipitó el cierre de la fábrica. 
  * The lack of funds hastened the closure of the factory. 
+----------
+ * **ahuyentar** :: to frighten (verb)
+ * El estallido ahuyentó a la gente. 
+ * The explosion frightened the people away. 
+----------
+ * **el cuero cabelludo** :: scalp (expression)
+ * Se ve el cuero cabelludo del calvo. 
+ * The scalp of the bald man is visible. 
+----------
+ * **quitarse a alguien de encima** :: to get rid of somebody (expression)
+ * El político se quitó de encima a su rival. 
+ * The politician got rid of his rival. 
+----------
+ * **descabellado** :: ridiculous (adjective)
+ * Sus respuestas fueron descabelladas. 
+ * Her replies were ridiculous. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -1434,5 +1434,21 @@
  * **becik** :: good (alus (refined))
  * Rasan coklatne becik pisan. 
  * The chocolate flavor is very good. 
+----------
+ * **ten** :: not (alus (refined))
+ * Ten madaging pangawet. 
+ * It does not contain preservatives. 
+----------
+ * **nika** :: that (alus (refined))
+ * Nika sampun becik! 
+ * That was good! 
+----------
+ * **leluu** :: waste (alus (refined))
+ * Cara ngirangin leluu. 
+ * This way reduces waste. 
+----------
+ * **meweh** :: difficult (alus (refined))
+ * Meweh nggih? 
+ * It's difficult, right? 
 ----------
  # - end of file - 

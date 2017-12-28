@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -1434,5 +1434,21 @@
  * **حوصله** :: patience (noun)
  * حوصله تقوا است. 
  * Patience is a virtue. 
+----------
+ * **درس خواندن** :: to study (verb)
+ * تمام شب بیدار بوده برای این امتحان درس میخواندم. 
+ * I've been up all night studying for this test. 
+----------
+ * **سر درد** :: headache (expression)
+ * در وقت خانه رفتن بیروبار ترافیک یک درد سر است. 
+ * The traffic on my drive home is a real headache. 
+----------
+ * **پیاز** :: onion (noun)
+ * اگر پیاز بسیار بزرگ است از نصفش استفاده کن. 
+ * If the onion is too big, use only half of it. 
+----------
+ * **چپس** :: fries (noun)
+ * آیا با آن چپس هم میخواهید؟ 
+ * Do you want fries with that? 
 ----------
  # - end of file - 

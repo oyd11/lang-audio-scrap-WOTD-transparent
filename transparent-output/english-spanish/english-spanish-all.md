@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -1434,5 +1434,21 @@
  * **dangerous** :: peligroso (adjective)
  * It's dangerous if you don't look when crossing the street. 
  * Es peligroso si tú no miras al cruzar la calle. 
+----------
+ * **to cough** :: toser (verb)
+ * Geraldo must be sick; he coughs all of the time. 
+ * Geraldo debe ser enfermo; él tose todo el tiempo. 
+----------
+ * **to smoke** :: fumar (verb)
+ * People who smoke often get cancer. 
+ * La gente que fuma muchas veces consigue cáncer. 
+----------
+ * **dry** :: seco (adjective)
+ * The towels are dry now. 
+ * Las toallas ahora están secas. 
+----------
+ * **ticket** :: billete (noun)
+ * My parents are going to buy tickets for the flight. 
+ * Mis padres van a comprar billetes para el vuelo. 
 ----------
  # - end of file - 

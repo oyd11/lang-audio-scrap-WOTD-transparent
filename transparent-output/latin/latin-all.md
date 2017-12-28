@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -1434,5 +1434,21 @@
  * **salus** :: safety, health (noun)
  * Salus populi suprema lex. 
  * The safety of the people is the supreme law. 
+----------
+ * **cupiditas** :: desire, longing, passion (noun)
+ * Quidam philosophi omnes cupiditates ex se eiecerunt. 
+ * Certain philosophers removed all desires from themselves. 
+----------
+ * **ignis** :: fire (noun)
+ * Solum potestis prohibere ignes silvarum. 
+ * Only you can prevent forest fires. 
+----------
+ * **mutare** :: to change, to alter, to exchange (verb)
+ * Vis belli vitam eius paucis horis mutavit. 
+ * The violence of war changed his life in a few hours. 
+----------
+ * **nolle** :: to not wish, to be unwilling (verb)
+ * Ego nolo Caesar esse. 
+ * I do not wish to be Caesar. 
 ----------
  # - end of file - 

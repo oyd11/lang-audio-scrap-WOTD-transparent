@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -1434,5 +1434,21 @@
  * **difficile** :: hard (adjective)
  * Les pistes noires sont les plus difficiles de toutes. 
  * The black slopes are the most difficult ones. 
+----------
+ * **séjourner** :: to stay (verb)
+ * Nous avons séjourné dans un hôtel au pied des pistes. 
+ * We stayed in a hotel at the bottom of the slopes. 
+----------
+ * **se casser** :: to break (verb)
+ * Elle s'est cassé le bras lors d'une chute à ski. 
+ * She broke her arm in a skiing accident. 
+----------
+ * **la cascade** :: waterfall (noun)
+ * Nous sommes allés voir la cascade de glace. 
+ * We went to see the icy waterfall. 
+----------
+ * **plusieurs** :: several (adjective)
+ * Plusieurs chemins mènent au sommet. 
+ * Several paths lead to the summit. 
 ----------
  # - end of file - 

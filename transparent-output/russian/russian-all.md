@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -1434,5 +1434,21 @@
  * **неудачник** :: loser (noun)
  * Не дружи с ними. Они все неудачники. 
  * Don't be friends with them. They are losers. 
+----------
+ * **несмотря на** :: in spite of (adverb)
+ * Несмотря на проблемы, шоу должно продолжаться. 
+ * In spite of the problem, the show must go on. 
+----------
+ * **следовать** :: to follow (verb)
+ * Я следую за Вилом Виттоном на Твиттере. Кто же не делает этого? 
+ * I follow Wil Wheaton on Twitter. Who doesn't? 
+----------
+ * **Ты смеёшься?** :: Are you kidding? (expression)
+ * Не верю этому. Ты что, смеёшься? 
+ * I can't believe it. Are you kidding? 
+----------
+ * **время от времени** :: from time to time (expression)
+ * Время от времени я хожу на пляж. 
+ * I go to the beach from time to time. 
 ----------
  # - end of file - 

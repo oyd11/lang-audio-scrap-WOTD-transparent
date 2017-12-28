@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -1434,5 +1434,21 @@
  * **forskjellig** :: different (adjective)
  * Menn og kvinner danner minner på forskjellige måter. 
  * Men and women shape their memories in different ways. 
+----------
+ * **$lang=ENGLISH{b}ra, god** :: good, well (adjective)
+ * De fleste kritikerne er enige om at boka var veldig bra skrevet. 
+ * Most critics agree that the book was well written. 
+----------
+ * **misfornøyd** :: dissatisfied (adjective)
+ * Norske sjefer er mer misfornøyde enn svenske sjefer. 
+ * Norwegian bosses are more dissatisfied than Swedish bosses. 
+----------
+ * **vanlig** :: ordinary, habitual, customary (adjective)
+ * Ola Nordmann betrakter seg som et helt vanlig menneske. 
+ * Ola Nordmann (John Doe) considers himself a rather ordinary human. 
+----------
+ * **dårlig** :: bad, poor (adjective)
+ * Olson har ikke dårlig samvittighet overfor sin mor. 
+ * Olson doesn't have a bad conscience about his mother. 
 ----------
  # - end of file - 

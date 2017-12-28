@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -1434,5 +1434,21 @@
  * **בוס** :: boss (noun)
  * הבוס שלנו נוהג בנו באדיבות. 
  * Our boss treats us courteously. 
+----------
+ * **סוס** :: horse (noun)
+ * שמתי את כל הכסף שלי על הסוס הזה, אני מקווה שהוא ינצח. 
+ * I put all my money on that horse, I hope it wins the race. 
+----------
+ * **סיידר** :: cider (noun)
+ * הם מוכרים סיידר תפוחים מתוק. 
+ * They sell sweet apple cider. 
+----------
+ * **אלבום תמונות** :: scrapbook (noun)
+ * הכנתי אלבום תמונות של חופשתנו האחרונה. 
+ * I made a scrapbook of our last vacation. 
+----------
+ * **סיגר** :: cigar (noun)
+ * הסיגרים הם אחד מענפי היצוא הגדולים ביותר של קובה. 
+ * Cigars are one of Cuba's largest exports. 
 ----------
  # - end of file - 

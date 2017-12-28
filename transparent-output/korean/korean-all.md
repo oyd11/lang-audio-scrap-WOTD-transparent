@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -1434,5 +1434,21 @@
  * **어린시절** :: childhood (noun)
  * 전 어린시절 가졌던 모든 자유로운 시간들이 그리워요. 
  * I miss all the free time I had in childhood. 
+----------
+ * **사색에 잠기다** :: to be lost in thought (expression)
+ * 뭐라구요? 미안해요, 사색에 잠겼었어요. 
+ * What did you say? I'm sorry, I was lost in thought. 
+----------
+ * **운** :: chance (noun)
+ * 난 내 장래를 운에 맡기지 않겠습니다. 
+ * I will not leave my future up to chance. 
+----------
+ * **미치게 좋아하다** :: to be crazy about (expression)
+ * 전 이 노래를 미치게 좋아해요! 
+ * I'm crazy about this song! 
+----------
+ * **바람맞히다** :: to stand somebody up (expression)
+ * 당신이 나를 바람맞혔어요! 
+ * You stood me up! 
 ----------
  # - end of file - 

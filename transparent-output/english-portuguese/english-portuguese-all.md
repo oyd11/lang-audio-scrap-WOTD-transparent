@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -1434,5 +1434,21 @@
  * **glass** :: vidro (noun)
  * The parents had to pick up the broken glass when their son broke the window. 
  * Os pais tinham que recolher o vidro quebrado quando o filho deles quebrou a janela. 
+----------
+ * **darkness** :: escuridão (noun)
+ * I can't see in the darkness. 
+ * Não enxergo bem na escuridão. 
+----------
+ * **to faint** :: desmaiar (verb)
+ * The woman fainted after learning the news. 
+ * A mulher desmaiou depois de saber a notícia. 
+----------
+ * **seat** :: assento (noun)
+ * The boy cannot stay still in his seat. 
+ * O menino não consegue ficar no assento. 
+----------
+ * **thankful** :: agradecido (adjective)
+ * The family is thankful for the flowers. 
+ * A família está agradecida pelas flores. 
 ----------
  # - end of file - 

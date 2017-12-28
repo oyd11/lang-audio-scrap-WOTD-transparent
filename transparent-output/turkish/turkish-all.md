@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -1434,5 +1434,21 @@
  * **okul yılı** :: school year (noun)
  * Her sonbaharda yeni bir okul yılı başlar. 
  * Every fall, the school year begins anew. 
+----------
+ * **çekirge** :: grasshopper (noun)
+ * Öğrenecek çok şeyin var, çekirge. 
+ * You have much to learn, grasshopper. 
+----------
+ * **anekdot** :: anecdote (noun)
+ * Dedem yüzlerce anekdot biliyor. 
+ * My grandfather knows hundreds of anecdotes. 
+----------
+ * **duyurmak** :: to announce (verb)
+ * Kimin kazandığını yarın duyuracaklar. 
+ * They will announce the winner tomorrow. 
+----------
+ * **kaz** :: goose (noun)
+ * Göletin yakınında iki gürültücü kaz yaşıyor. 
+ * Two noisy geese live near the pond. 
 ----------
  # - end of file - 

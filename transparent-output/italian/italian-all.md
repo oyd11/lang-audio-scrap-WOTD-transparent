@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -1434,5 +1434,21 @@
  * **Il ramo** :: branch (noun)
  * I rami del ciliegio sono pieni di fiori. 
  * The branches of the cherry tree are full of flowers. 
+----------
+ * **strappare** :: to tear (verb)
+ * Massimo ha strappato la maglietta giocando a calcio. 
+ * Massimo tore his t-shirt while playing soccer. 
+----------
+ * **dentro** :: inside (adverb)
+ * Venite dentro, sta cominciando a grandinare! 
+ * Come inside, it is starting to hail! 
+----------
+ * **Il finocchio** :: fennel (noun)
+ * Mettiamo anche un po' di finocchio nell'insalata? 
+ * Should we also add some fennel to the salad? 
+----------
+ * **L'estate** :: summer (noun)
+ * Quest'estate sarà terribilmente afosa. 
+ * This summer will be awfully sultry. 
 ----------
  # - end of file - 

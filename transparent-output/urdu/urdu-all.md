@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -1434,5 +1434,21 @@
  * **دھاندلی کرنا** :: to rig (verb)
  * انتخابات میں دھاندلی تھی. 
  * The election was rigged. 
+----------
+ * **پرنٹر** :: printer (noun)
+ * پرنٹر میں کاغذ نہیں ہے. 
+ * The printer is out of paper. 
+----------
+ * **شاہراہ** :: highway (noun)
+ * کچھ لوگ کہتے ہیں کہ زندگی ایک شاہراہ ہے. 
+ * Some say that life is a highway. 
+----------
+ * **عمر قید کی سزا** :: life imprisonment (noun)
+ * مجرم کو عمر قید کی سزا سنائی گئی. 
+ * The criminal was sentenced to life imprisonment. 
+----------
+ * **جما عی لینا** :: to yawn (verb)
+ * دوپہر کے کھانے کے بعد، میں جمہائی لینا نہیں روک سکتی. 
+ * After lunch, I can't stop yawning. 
 ----------
  # - end of file - 

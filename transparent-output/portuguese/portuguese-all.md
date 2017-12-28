@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -1434,5 +1434,21 @@
  * **falta de** :: lack of (expression)
  * Na prova os alunos mostraram sua total falta de preparo. 
  * In the exam the students revealed their total lack of preparation. 
+----------
+ * **exibir-se** :: to show off (verb)
+ * Ele fez aquilo só para exibir-se na frente dos seus amigos. 
+ * He did it just to show off in front of his friends. 
+----------
+ * **perceber** :: to notice (verb)
+ * Não consegui perceber a matilha de lobos se aproximando. 
+ * I failed to notice the approaching pack of wolves. 
+----------
+ * **feliz** :: happy (adjective)
+ * Você está feliz? 
+ * Are you happy? 
+----------
+ * **escola de música** :: music academy (noun)
+ * Ele estudou na escola de música de Viena. 
+ * He studied at the music academy in Vienna. 
 ----------
  # - end of file - 

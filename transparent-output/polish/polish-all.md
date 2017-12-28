@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -1434,5 +1434,21 @@
  * **dumny** :: proud (adjective)
  * Jestem dumna z twoich osiągnięć. 
  * I'm proud of your accomplishments. 
+----------
+ * **uważny** :: attentive (adjective)
+ * Jako uważny czytelnik, zauważyłem kilka błędów w twoim tekście. 
+ * As an attentive reader, I noticed a couple of mistakes in your text. 
+----------
+ * **bogaty** :: rich (adjective)
+ * Wyszła za mąż za bogatego człowieka i żyła długo i szczęśliwie. 
+ * She married a rich man and lived happily ever after. 
+----------
+ * **złośliwy** :: nasty (adjective)
+ * Słyszałam kilka złośliwych uwag o tobie. 
+ * I heard some nasty remarks about you. 
+----------
+ * **wiarygodny** :: credible (adjective)
+ * Miał wiarygodne alibi, nic nie mogliśmy zrobić. 
+ * He had a credible alibi; we couldn't do anything. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -1434,5 +1434,21 @@
  * **इतिहास** :: history (noun)
  * उन्होंने विश्वविद्यालय में इतिहास का अध्ययन किया था। 
  * They studied history at the university. 
+----------
+ * **घड़ी** :: clock (noun)
+ * तीस सालों पहले, उस घड़ी के टॉवर पर बिजली गिरी थी। 
+ * Thirty years ago, lightning struck that clock tower. 
+----------
+ * **अस्पताल** :: hospital (noun)
+ * अस्पताल किस तरफ है? 
+ * Which way is the hospital? 
+----------
+ * **नज़रअन्दाज करना** :: to ignore (verb)
+ * आखिरी हिस्से को नज़रअंदाज कर दो। 
+ * Ignore that last part. 
+----------
+ * **का अर्थ होना** :: to imply (verb)
+ * तुम्हें क्या लगता है कि इस भाषण का क्या अर्थ था? 
+ * What do you think the speech implied? 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -1434,5 +1434,21 @@
  * **واضح** :: clear (adjective)
  * من فضلك اُكتب اسمَك بخط واضح. 
  * Please, write your name in clear handwriting. 
+----------
+ * **شاب** :: young (adjective)
+ * جاء إلى الولايات المتحدة عندما كان شاباً. 
+ * He came to the United States when he was young. 
+----------
+ * **هامة** :: important (adjective)
+ * وصلتني رسالة هامة. 
+ * I received an important letter. 
+----------
+ * **معقد** :: complex (adjective)
+ * هذه المشكلة معقدة. 
+ * This problem is complex. 
+----------
+ * **جاف** :: dry (adjective)
+ * الهواء جاف في المنزل. 
+ * The air is dry in the house. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -1434,5 +1434,21 @@
  * **tusen** :: thousand (number)
  * Det finns tusen anledningar till att göra det. 
  * There are a thousand reasons to do it. 
+----------
+ * **(en) svett** :: sweat (noun)
+ * Jag är genomblöt av svett efter att jag sprungit. 
+ * I am soaked in sweat after running. 
+----------
+ * **(ett) kapitel** :: chapter (noun)
+ * Det här kapitlet är jätteintressant. 
+ * This chapter is very interesting. 
+----------
+ * **besk** :: bitter (adjective)
+ * Jag gillar inte beskt kaffe, jag dricker det hellre med lite socker. 
+ * I don't like bitter coffee, I prefer it with a bit of sugar. 
+----------
+ * **att slänga** :: to throw out (verb)
+ * Jag tror din mamma slängde det som var kvar av pajen. 
+ * I think your mom threw out the rest of the pie. 
 ----------
  # - end of file - 

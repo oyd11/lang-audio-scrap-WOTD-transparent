@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -1434,5 +1434,21 @@
  * **advertentie** :: advertisements (noun)
  * Door de commotie zijn we helemaal vergeten een advertentie te zetten! 
  * Through all the commotion we completely forgot to place advertisements! 
+----------
+ * **bierpul** :: tankard (noun)
+ * Toen ik om een glas bier vroeg, kwam de waard terug met een bierpul. 
+ * When I asked for a glass of beer, the innkeeper returned with a tankard. 
+----------
+ * **afgietsel** :: cast (noun)
+ * Een afgietsel is een kopie van een origineel beeld of ander voorwerp. 
+ * A cast is a copy of an original statue or other object. 
+----------
+ * **brandnetel** :: nettle (noun)
+ * Kijk uit dat je niet in de brandnetels valt! 
+ * Be careful you don't fall into the nettles! 
+----------
+ * **zandloper** :: hourglass (noun)
+ * Het leven passeert als zand door een zandloper. 
+ * Life passes by like sand through an hourglass. 
 ----------
  # - end of file - 

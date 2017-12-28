@@ -34,7 +34,7 @@ const dateFormat = "MM-DD-YYYY"
 let nowDate = moment()
 let endDate = nowDate
 //let startDate = moment("01-01-2017", dateFormat)
-let startDate = moment("12-05-2017", dateFormat)
+let startDate = moment("12-18-2017", dateFormat)
 
 const langHumanToUrl = {
  "arabic": "arabic",

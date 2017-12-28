@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -1434,5 +1434,21 @@
  * **pengering rambut** :: hairdryer (noun)
  * Kalau aku tidak pakai pengering rambut, rambutku tidak kelihatan bagus. 
  * If I don't use a hairdryer my hair won't look good. 
+----------
+ * **tertawa** :: to laugh (verb)
+ * Waktu kita lihat fotonya, kita tertawa terbahak-bahak. 
+ * When we saw the picture, we laughed out loud. 
+----------
+ * **cantik** :: beautiful (adjective)
+ * Kamu kelihatan cantik pakai baju itu. 
+ * You look beautiful in that dress. 
+----------
+ * **gratis** :: free (adjective)
+ * Beli dua, gratis satu. 
+ * Buy two, get one free. 
+----------
+ * **saran** :: suggestion (noun)
+ * Saya punya beberapa saran. 
+ * I have some suggestions to make. 
 ----------
  # - end of file - 

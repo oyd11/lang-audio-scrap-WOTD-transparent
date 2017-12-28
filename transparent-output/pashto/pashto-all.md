@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -1434,5 +1434,21 @@
  * **لوګی** :: smoke (noun)
  * چیرته چې لوګی وي هلته اور وي. 
  * Where there's smoke, there's fire. 
+----------
+ * **روغتون** :: hospital (noun)
+ * دا تر ټولو لوی د کلي روغتون دی. 
+ * This is the biggest hospital of the village. 
+----------
+ * **پټ** :: hidden (adverb)
+ * په افغانستان کې دېرې پټي طبعې خزانې شته. 
+ * Afghanistan is rich in hidden natural resources. 
+----------
+ * **وړوکی** :: small (adjective)
+ * زمونږ کور ستاسو د کور څخه وړوکی دی. 
+ * Our house is smaller than yours. 
+----------
+ * **کور** :: house (noun)
+ * مونږ یو ښکلی کور لرو. 
+ * We have a beautiful house. 
 ----------
  # - end of file - 

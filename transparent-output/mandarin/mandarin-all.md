@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 358 phrases 
+ 362 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -2150,5 +2150,29 @@
  * 我要去买药。 
  * Wǒ yào qù mǎi yào. 
  * I need to buy some medicine. 
+----------
+ * **牙** :: tooth (noun)
+ * **yá** 
+ * 我牙疼。 
+ * Wǒ yá téng. 
+ * I have a toothache. 
+----------
+ * **胃** :: stomach (noun)
+ * **wèi** 
+ * 我的胃不舒服。 
+ * Wǒ de wèi bù shūfu. 
+ * My stomach doesn't feel well. 
+----------
+ * **听说** :: to hear of; to hear about (verb)
+ * **tīngshuō** 
+ * 听说她工作得很晚。 
+ * Tīngshūo tā gōngzuò de hěn wǎn. 
+ * I hear she works very late. 
+----------
+ * **生病** :: to get sick; to fall ill (verb-object)
+ * **shēngbìng** 
+ * 我不常生病。 
+ * Wǒ bù cháng shēngbìng. 
+ * I do not get sick often. 
 ----------
  # - end of file - 
