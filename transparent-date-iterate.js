@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 'use strict'
 
 
@@ -22,7 +23,7 @@ let outputBasedir = "./transparent-download"
 
 
 let langDir =  `${outputBasedir}/${lang}`
-let soundDir = `${langDir}/${lang}-sound`
+let soundDir = `./transparent-sound/${lang}-sound`
 mkDirSync( outputBasedir )
 mkDirSync( langDir )
 mkDirSync( soundDir )
