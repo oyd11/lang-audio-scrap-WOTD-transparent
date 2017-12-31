@@ -3,6 +3,8 @@ node_modules/
 transparent-download/
 inno-download-sound/
 inno-download/
+transparent-sound/
+transparent-playlists/
 
 *.sw?
 *.mp3
