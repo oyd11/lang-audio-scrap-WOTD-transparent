@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -1450,5 +1450,17 @@
  * **saran** :: suggestion (noun)
  * Saya punya beberapa saran. 
  * I have some suggestions to make. 
+----------
+ * **capai sekali** :: exhausted (adjective)
+ * Saya kerja seharian, saya capai sekali. 
+ * I've worked all day long; I'm exhausted. 
+----------
+ * **malaikat** :: angel (noun)
+ * Terima kasih atas pertolonganmu; kamu malaikat. 
+ * Thank you for your help; you're an angel. 
+----------
+ * **dengan sedih** :: sadly (adverb)
+ * Gadis malang itu menangis dengan sedih. 
+ * The poor girl started to cry sadly. 
 ----------
  # - end of file - 

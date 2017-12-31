@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -1450,5 +1450,17 @@
  * **plusieurs** :: several (adjective)
  * Plusieurs chemins mènent au sommet. 
  * Several paths lead to the summit. 
+----------
+ * **la crêpe** :: French pancake (noun)
+ * Nous faisons des crêpes pour Mardi Gras. 
+ * We make pancakes for Shrove Tuesday. 
+----------
+ * **se déguiser** :: to disguise (verb)
+ * Il s'est déguisé en pirate pour le Carnaval. 
+ * He was disguised as a pirate for Carnival. 
+----------
+ * **vite** :: fast (adverb)
+ * Il skie beaucoup trop vite, il risque de tomber. 
+ * He skis way too fast, he might fall. 
 ----------
  # - end of file - 

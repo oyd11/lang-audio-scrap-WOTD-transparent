@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -1450,5 +1450,17 @@
  * **zandloper** :: hourglass (noun)
  * Het leven passeert als zand door een zandloper. 
  * Life passes by like sand through an hourglass. 
+----------
+ * **draaikont** :: a fidget (noun)
+ * Mijn zusje is een echte draaikont, ze kan nooit stil blijven zitten. 
+ * My little sister is a real fidget; it's impossible for her to sit still. 
+----------
+ * **geheim** :: secret (noun)
+ * Het is geen geheim dat ik die jongen daar leuk vind. 
+ * It's no secret that I like the boy over there. 
+----------
+ * **driftkikker** :: hothead (noun)
+ * Je hoeft niet meteen in de verdediging te springen, driftkikker! 
+ * You don't have to go all defensive, hothead! 
 ----------
  # - end of file - 

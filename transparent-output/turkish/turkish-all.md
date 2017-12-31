@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -1450,5 +1450,17 @@
  * **kaz** :: goose (noun)
  * Göletin yakınında iki gürültücü kaz yaşıyor. 
  * Two noisy geese live near the pond. 
+----------
+ * **gümüş** :: silver (noun)
+ * Gümüşün sorunu, çok çabuk kararmasıdır. 
+ * The problem with silver is that it tarnishes so easily. 
+----------
+ * **havai fişekler** :: fireworks (noun)
+ * Havai fişekler, gece gökyüzünü aydınlattı. 
+ * Fireworks lit the night sky. 
+----------
+ * **araba** :: car (noun)
+ * Arabayı nereye park ettin? 
+ * Where did you park the car? 
 ----------
  # - end of file - 

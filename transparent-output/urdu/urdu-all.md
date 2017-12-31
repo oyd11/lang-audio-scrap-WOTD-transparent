@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -1450,5 +1450,17 @@
  * **جما عی لینا** :: to yawn (verb)
  * دوپہر کے کھانے کے بعد، میں جمہائی لینا نہیں روک سکتی. 
  * After lunch, I can't stop yawning. 
+----------
+ * **بے وَقُوف** :: fool (noun)
+ * اس بیوہ قوف کو دیکھو۔ وہ اخبار پڑھ رہا ہے لیکن وہ الٹا ہے. 
+ * Check this fool out. He's reading the newspaper but it's upside down. 
+----------
+ * **بھالو** :: teddy bear (noun)
+ * اسکول میں بھالو لانے کی اجازت نہیں ہے. 
+ * Bringing teddy bears to school is not allowed. 
+----------
+ * **تَعرِيف** :: praise (noun)
+ * اس کے اعمال تعریف کے قابل تھے. 
+ * Her deeds were praiseworthy. 
 ----------
  # - end of file - 

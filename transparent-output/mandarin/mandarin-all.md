@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -2174,5 +2174,23 @@
  * 我不常生病。 
  * Wǒ bù cháng shēngbìng. 
  * I do not get sick often. 
+----------
+ * **告诉** :: to tell (verb)
+ * **gàosu** 
+ * 请告诉他一点开会。 
+ * Qǐng gàosù tā yīdiǎn kāihuì. 
+ * Please tell him the meeting is at one o'clock. 
+----------
+ * **散步** :: to take a walk (verb-object)
+ * **sànbù** 
+ * 他吃饭后常常散步。 
+ * Tā chīfàn hòu chángcháng sànbù. 
+ * He often takes a walk after meals. 
+----------
+ * **可是** :: but (conjunction)
+ * **kěshì** 
+ * 我很好，可是太忙。 
+ * Wǒ hěnhǎo, kěshì tài máng. 
+ * I am well, but too busy. 
 ----------
  # - end of file - 

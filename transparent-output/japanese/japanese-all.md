@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -2174,5 +2174,23 @@
  * 洗い物は私の仕事です。 
  * Araimono wa watashi no shigoto desu. 
  * Doing dishes is my job. 
+----------
+ * **あげる** :: to give something to somebody (verb)
+ * **ageru** 
+ * 弟にお菓子を上げた。 
+ * Otouto ni okashi o ageta. 
+ * I gave my brother some sweets. 
+----------
+ * **白星** :: a win (noun)
+ * **shiroboshi** 
+ * 久しぶりの白星だ。 
+ * Hisashiburi no shiroboshi da. 
+ * We won the game after losing many. 
+----------
+ * **生活** :: daily life (noun)
+ * **seikatsu** 
+ * 毎日の生活が充実している。 
+ * Mainichi no seikatsu ga juujitsu shiteiru. 
+ * My daily life is fulfilling. 
 ----------
  # - end of file - 

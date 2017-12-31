@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -1450,5 +1450,17 @@
  * **thankful** :: agradecido (adjective)
  * The family is thankful for the flowers. 
  * A família está agradecida pelas flores. 
+----------
+ * **vacation** :: férias (noun)
+ * I'm going to water ski on my vacation. 
+ * Vou fazer esqui-aquático nas minhas férias. 
+----------
+ * **bat** :: morcego (noun)
+ * The bat lives in the cave. 
+ * O morcego vive na caverna. 
+----------
+ * **rainy** :: chuvoso (adjective)
+ * It's a pretty rainy month. 
+ * Este mês é muito chuvoso. 
 ----------
  # - end of file - 

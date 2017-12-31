@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -1450,5 +1450,17 @@
  * **limigo** :: limitation (noun)
  * Li limigis la produktadon de la fabriko. 
  * He placed a limitation on the factory's output. 
+----------
+ * **litro** :: liter (noun)
+ * Ili alportis du litrojn da sodakvo. 
+ * They bought two liters of soda. 
+----------
+ * **loĝantaro** :: population (noun)
+ * La lando havas grandan loĝantaron. 
+ * The country has a large population. 
+----------
+ * **ludi** :: to play an instrument (verb)
+ * Li ludas pianon kiel majstro. 
+ * He plays the piano like a master. 
 ----------
  # - end of file - 

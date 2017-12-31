@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -1450,5 +1450,17 @@
  * **کور** :: house (noun)
  * مونږ یو ښکلی کور لرو. 
  * We have a beautiful house. 
+----------
+ * **اوسېدل** :: to stay (verb)
+ * ولې خپل جمپر نه اوباسې او یو څه وخت نه اوسیږې؟ 
+ * Why don't you take off your coat and stay a while? 
+----------
+ * **آزاد** :: independent (adjective)
+ * پاکستان یو آزاد هیواد دی. 
+ * Pakistan is an independent state. 
+----------
+ * **مېز** :: table (noun)
+ * دا کتابونه په میز کیده. 
+ * Put these books on the table. 
 ----------
  # - end of file - 

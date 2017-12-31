@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -1450,5 +1450,17 @@
  * **جاف** :: dry (adjective)
  * الهواء جاف في المنزل. 
  * The air is dry in the house. 
+----------
+ * **عام** :: general (adjective)
+ * المدير العام متغيب. 
+ * The general manager is absent. 
+----------
+ * **صحيّ** :: healthy (adjective)
+ * هذا غذاءٌ صحيّ. 
+ * This is healthy food. 
+----------
+ * **عادي** :: normal (adjective)
+ * من العادي أنْ يلعبَ الأطفالُ كثيراً. 
+ * It is normal that children play a lot. 
 ----------
  # - end of file - 

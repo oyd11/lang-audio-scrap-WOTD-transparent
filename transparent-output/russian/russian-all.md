@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -1450,5 +1450,17 @@
  * **время от времени** :: from time to time (expression)
  * Время от времени я хожу на пляж. 
  * I go to the beach from time to time. 
+----------
+ * **кров** :: shelter (noun)
+ * Кров - одна из трёх основных потребностей. 
+ * Shelter is one of the three basic needs. 
+----------
+ * **восстание** :: uprising (noun)
+ * Восстание повлекло необходимые социальные перемены. 
+ * The uprising brought about the needed social changes. 
+----------
+ * **дежурить** :: to be on duty (verb)
+ * В этот выходной я пойти не могу. Я дежурю. 
+ * I can't go this weekend, I am on duty. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -1450,5 +1450,17 @@
  * **바람맞히다** :: to stand somebody up (expression)
  * 당신이 나를 바람맞혔어요! 
  * You stood me up! 
+----------
+ * **진실** :: truth (noun)
+ * 진실은 어딘가에 있어요. 
+ * The truth is out there. 
+----------
+ * **감정** :: feeling (noun)
+ * 우리 감정에 대해서 이야기할 필요가 있어요. 
+ * We need to talk about our feelings. 
+----------
+ * **좋아 보이다** :: to look good (expression)
+ * 이 연회는 좋아 보입니다. 
+ * This banquet looks good. 
 ----------
  # - end of file - 

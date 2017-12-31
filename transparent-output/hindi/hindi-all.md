@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -1450,5 +1450,17 @@
  * **का अर्थ होना** :: to imply (verb)
  * तुम्हें क्या लगता है कि इस भाषण का क्या अर्थ था? 
  * What do you think the speech implied? 
+----------
+ * **कर** :: tax (noun)
+ * अपने करों का भुगतान करना न भूलें! 
+ * Do not forget to pay your taxes! 
+----------
+ * **बेहतर बनाना** :: to improvise (verb)
+ * अभिनेताओं ने पूरे दृश्य को बेहतर बना दिया। 
+ * The actors improvised the entire scene. 
+----------
+ * **सर्दी** :: winter (noun)
+ * सर्दियाँ आ रही हैं। 
+ * Winter is coming. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -1450,5 +1450,17 @@
  * **L'estate** :: summer (noun)
  * Quest'estate sarà terribilmente afosa. 
  * This summer will be awfully sultry. 
+----------
+ * **scrivere** :: to write (verb)
+ * Ti scriveremo una cartolina dalla Svezia. 
+ * We will write you a postcard from Sweden. 
+----------
+ * **temere** :: to fear (verb)
+ * Sono molto in ritardo… temo che abbiano avuto un incidente. 
+ * They are very late... I fear that they were in an accident. 
+----------
+ * **circa** :: about (adverb)
+ * Sono passati circa 6 mesi dalla sua ultima visita. 
+ * It has been about 6 months since your last visit. 
 ----------
  # - end of file - 

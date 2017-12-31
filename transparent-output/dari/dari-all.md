@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -1450,5 +1450,17 @@
  * **چپس** :: fries (noun)
  * آیا با آن چپس هم میخواهید؟ 
  * Do you want fries with that? 
+----------
+ * **ستارۀ فلم** :: movie star (noun)
+ * ستارۀ فلم مورد نظر تان کی است؟ 
+ * Who's your favorite movie star? 
+----------
+ * **غذای دریایی** :: seafood (noun)
+ * من غذای دریایی را خوش دارم اما دوستم با غذا دریایی حساسیت دارد. 
+ * I love seafood, but my friend is allergic to it. 
+----------
+ * **نشستن** :: to sit down (verb)
+ * بعضی وقت خوش دارم بنشینم و یک کتاب خوب بخوانم. 
+ * Sometimes I just like to sit down with a good book. 
 ----------
  # - end of file - 

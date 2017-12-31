@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -1450,5 +1450,17 @@
  * **att slänga** :: to throw out (verb)
  * Jag tror din mamma slängde det som var kvar av pajen. 
  * I think your mom threw out the rest of the pie. 
+----------
+ * **(en) markeringspenna** :: marker (noun)
+ * Jag vill ha den orange markeringspennan, tack. 
+ * I want the orange marker, please. 
+----------
+ * **(en) hink** :: bucket (noun)
+ * Valrossen har en hink. 
+ * The walrus has a bucket. 
+----------
+ * **(en) hund** :: dog (noun)
+ * Hon och hennes kompisar tränar agility med sina hundar. 
+ * She and her friends do agility training with their dogs. 
 ----------
  # - end of file - 

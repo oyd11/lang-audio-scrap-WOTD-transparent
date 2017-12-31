@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -1450,5 +1450,17 @@
  * **nolle** :: to not wish, to be unwilling (verb)
  * Ego nolo Caesar esse. 
  * I do not wish to be Caesar. 
+----------
+ * **trahere** :: to drag (verb)
+ * Se ex mari traxerunt seque Caesari potenti commiserunt. 
+ * They dragged themselves from the sea and entrusted themselves to powerful Caesar. 
+----------
+ * **optimus** :: best (adjective)
+ * Fames est optimus coquus. 
+ * Hunger is the best cook. 
+----------
+ * **copia** :: troops; abundance (noun)
+ * Caesar non poterat suas copias cum copiis regis iungere. 
+ * Caesar was not able to join his troops with the troops of the king. 
 ----------
  # - end of file - 

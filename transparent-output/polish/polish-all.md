@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -1450,5 +1450,17 @@
  * **wiarygodny** :: credible (adjective)
  * Miał wiarygodne alibi, nic nie mogliśmy zrobić. 
  * He had a credible alibi; we couldn't do anything. 
+----------
+ * **mdły** :: insipid (adjective)
+ * Z powodu choroby serca, jego dieta była raczej mdła. 
+ * Due to his heart disease, his diet was rather insipid. 
+----------
+ * **przyszłość** :: the future (noun)
+ * Cała przyszłość jest jeszcze przed nami. 
+ * The whole future is ahead of us. 
+----------
+ * **przeszłość** :: the past (noun)
+ * Miała tak interesującą przeszłość, że zdecydowała się napisać o tym książkę. 
+ * She had such an interesting past, she decided to write a book about it. 
 ----------
  # - end of file - 

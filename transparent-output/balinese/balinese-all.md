@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -1450,5 +1450,17 @@
  * **meweh** :: difficult (alus (refined))
  * Meweh nggih? 
  * It's difficult, right? 
+----------
+ * **mani** :: tomorrow (biasa (common))
+ * Buin mani dadi manyi. 
+ * The harvest is tomorrow. 
+----------
+ * **teken** :: by (biasa (common))
+ * Padine kamaha teken kedise. 
+ * The rice was eaten by birds. 
+----------
+ * **sing** :: not (biasa (common))
+ * Masane sing kene baan mastiang. 
+ * The season cannot be predicted. 
 ----------
  # - end of file - 

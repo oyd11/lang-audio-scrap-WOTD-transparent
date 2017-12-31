@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -1450,5 +1450,17 @@
  * **סיגר** :: cigar (noun)
  * הסיגרים הם אחד מענפי היצוא הגדולים ביותר של קובה. 
  * Cigars are one of Cuba's largest exports. 
+----------
+ * **לחבק** :: to hug (verb)
+ * הנערה הצעירה חיבקה את אביה. 
+ * The young girl hugged her father. 
+----------
+ * **לדקלם** :: to recite (verb)
+ * אתה יכול לדקלם את הפואמה העתיקה? 
+ * Can you recite the old poem? 
+----------
+ * **שאלה** :: question (noun)
+ * ענה בבקשה על השאלה בכנות. 
+ * Please answer the question honestly. 
 ----------
  # - end of file - 

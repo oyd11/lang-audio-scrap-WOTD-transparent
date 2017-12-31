@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -1450,5 +1450,17 @@
  * **descabellado** :: ridiculous (adjective)
  * Sus respuestas fueron descabelladas. 
  * Her replies were ridiculous. 
+----------
+ * **quedarse con el cambio** :: to keep the change (expression)
+ * Quédate con el cambio, amigo. 
+ * Keep the change, friend. 
+----------
+ * **el solapamiento** :: overlapping (noun)
+ * El solapamiento de funciones a veces ocasiona conflictos. 
+ * Sometimes conflicts arise from overlapping functions. 
+----------
+ * **la caja** :: box (noun)
+ * Busca en la caja de herramientas. 
+ * Search in the toolbox. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -1450,5 +1450,17 @@
  * **escola de música** :: music academy (noun)
  * Ele estudou na escola de música de Viena. 
  * He studied at the music academy in Vienna. 
+----------
+ * **estufa** :: greenhouse (noun)
+ * Os cientistas estão preocupados com o Efeito Estufa. 
+ * Scientists worry about the Greenhouse Effect. 
+----------
+ * **tentativa** :: attempt (noun)
+ * Ele falhou na tentativa de bater o recorde mundial. 
+ * He failed in his attempt to beat the world record. 
+----------
+ * **discussão** :: argument (noun)
+ * Tivemos uma discussão sobre dinheiro. 
+ * We had an argument about money. 
 ----------
  # - end of file - 

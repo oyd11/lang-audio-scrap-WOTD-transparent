@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -1450,5 +1450,17 @@
  * **ticket** :: billete (noun)
  * My parents are going to buy tickets for the flight. 
  * Mis padres van a comprar billetes para el vuelo. 
+----------
+ * **to try** :: intentar (verb)
+ * I try to study to get good grades. 
+ * Yo intento estudiar para sacar buenas notas. 
+----------
+ * **sticky** :: pegajoso (adjective)
+ * The floor is sticky in the supermarket. 
+ * El suelo está pegajoso en el supermercado. 
+----------
+ * **seat** :: asiento (noun)
+ * The boy cannot stay still in his seat. 
+ * El muchacho no puede quedarse tranquilo en su asiento. 
 ----------
  # - end of file - 

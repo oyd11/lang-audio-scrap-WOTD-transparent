@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -1450,5 +1450,17 @@
  * **an bláth** :: the flower (noun)
  * Tá do bhláthanna go deas. 
  * Your flowers are lovely. 
+----------
+ * **a fheiceáil** :: to see (verb)
+ * Feicfidh mé níos déanaí thú. 
+ * See you later. 
+----------
+ * **an- (prefix)** :: very (adverb)
+ * Tá an-áthas orm bualadh leat. 
+ * I'm very glad to meet you. 
+----------
+ * **a scríobh** :: to write (verb)
+ * Scríobh amach é, le do thoil. 
+ * Please write it down for me. 
 ----------
  # - end of file - 

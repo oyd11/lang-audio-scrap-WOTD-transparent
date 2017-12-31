@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 362 phrases 
+ 365 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -1450,5 +1450,17 @@
  * **dårlig** :: bad, poor (adjective)
  * Olson har ikke dårlig samvittighet overfor sin mor. 
  * Olson doesn't have a bad conscience about his mother. 
+----------
+ * **skallet** :: bald (adjective)
+ * Hun foretrekker skallede menn; jo mindre hår, dess bedre. 
+ * She prefers bald men; the less hair the better. 
+----------
+ * **avgjørende** :: decisive (adjective)
+ * Senatorens støtte kan være avgjørende for presidenten i en tøff valgkampanje. 
+ * The senator's support can be decisive for the president in a tough election campaign. 
+----------
+ * **meningsløs** :: meaningless (adjective)
+ * Denne filmen var altfor full av meningsløs vold etter min smak. 
+ * This film was too full of meaningless violence for my taste. 
 ----------
  # - end of file - 
