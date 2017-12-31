@@ -41,8 +41,16 @@ cd("./transparent-sound/") do
     end 
     base_phases = split.(all_phrases,"phrasesound") .|> el(1)
     reps = 3
-    r = repmat(base_phases,reps) |> shuffle
-    filelist = 
+    run_length = 10
+    r = []
+    for s = 1:run_length:length(base_phases)-run_length
+        end_ind = min(length(base_phases),s+run_length)
+        new_phrases = base_phases[s:end_ind]
+        for r_ind in 1:reps
+            append!(r,new_phrases |> shuffle)
+        end
+    end
+
     fn_rep_playlist = "../transparent-playlists/0_$(lang)-rep.m3u8"
     println("Creating: $(fn_rep_playlist)")
     open(fn_rep_playlist,"w") do f
