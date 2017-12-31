@@ -23,7 +23,8 @@ Goal: Make a list with all phrases, each phrase highlighted and played.
 <li> неудачник </li>
 <li> loser </li>
 <audio controls="controls" id="ph1">
-    <source src="12-24-2017-phrasesound.mp3" type="audio/mpeg" />
+    "
+    <source src="../transparent-sound/russian-sound/12-24-2017-phrasesound.mp3" type="audio/mpeg" />
       Your browser does not support the audio element.
       </audio>
 </ul>
@@ -31,7 +32,7 @@ Goal: Make a list with all phrases, each phrase highlighted and played.
 <li> Мне соседка не нравится. Она назойлива.  </li>
 <li>I don't like my neighbor. She's a meddler</li>
 <audio controls="controls" id="ph2">
-    <source src="12-23-2017-phrasesound.mp3" type="audio/mpeg" />
+    <source src="../transparent-sound/russian-sound/12-23-2017-phrasesound.mp3" type="audio/mpeg" />
       Your browser does not support the audio element.
       </audio>
 </ul>
@@ -39,7 +40,7 @@ Goal: Make a list with all phrases, each phrase highlighted and played.
 <li id='text3'> Чуть-чуть соли не помешает этому супу.  </li>
   <li>This soup could use a little bit of salt.</li>
 <audio controls="controls" id="ph3">
-    <source src="12-22-2017-phrasesound.mp3" type="audio/mpeg" />
+    <source src="../transparent-sound/russian-sound/12-22-2017-phrasesound.mp3" type="audio/mpeg" />
       Your browser does not support the audio element.
       </audio>
 </ul>
@@ -55,6 +56,22 @@ Goal: Make a list with all phrases, each phrase highlighted and played.
     let text3 = document.getElementById('text3')
     let ph3 = document.getElementById('ph3')
 
+    let n= document.createElement("li")
+    text1.parentElement.appendChild(n)
+    n.textContent = "ენა"
+    n.style.fontSize= "150%"
+
+    document.getElementById('ph1').addEventListener('play',
+         function(e) { 
+        text1.style.color='red'
+        text1.style.fontSize='150%'
+        })
+
+    document.getElementById('ph1').addEventListener('pause',
+         function(e) { 
+        text1.style = null
+        })
+
     document.getElementById('ph1').addEventListener('ended',
          function(e) { 
 //                alert('End ph1')
@@ -65,7 +82,7 @@ Goal: Make a list with all phrases, each phrase highlighted and played.
         })
     document.getElementById('ph3').addEventListener('ended',
          function(e) { 
-                alert('End ph3')
+        //        alert('End ph3')
         })
 
 </script>
