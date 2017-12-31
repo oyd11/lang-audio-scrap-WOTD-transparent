@@ -40,7 +40,7 @@ cd("./transparent-sound/") do
         glob("*-phrasesound.mp3")
     end 
     base_phases = split.(all_phrases,"phrasesound") .|> el(1)
-    reps = 3
+    reps = 7
     run_length = 10
     r = []
     for s = 1:run_length:length(base_phases)-run_length
@@ -51,7 +51,7 @@ cd("./transparent-sound/") do
         end
     end
 
-    fn_rep_playlist = "../transparent-playlists/0_$(lang)-rep.m3u8"
+    fn_rep_playlist = "../transparent-playlists/0_$(lang)-rep-$reps.m3u8"
     println("Creating: $(fn_rep_playlist)")
     open(fn_rep_playlist,"w") do f
         println(f, "#EXTM3U")
