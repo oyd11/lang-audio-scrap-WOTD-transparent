@@ -1,11 +1,15 @@
 # balinese WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
  * Dados tiang ngeroko di kamar? 
  * Can I smoke in the room? 
+----------
+ * **ibi** :: yesterday (biasa (common))
+ * Ibi maan dasa kampil. 
+ * Yesterday we got ten sacks. 
 ----------
  * **kamar** :: room (biasa)
  * Ten dados ngeroko di kamar. 

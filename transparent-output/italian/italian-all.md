@@ -1,11 +1,15 @@
 # italian WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
  * Esprimetevi più semplicemente e la gente capirà! 
  * Express yourself more simply, and people will understand! 
+----------
+ * **La neve** :: snow (noun)
+ * Quando c'è la neve in città è una gran seccatura! 
+ * When there is snow in the city, it is very annoying! 
 ----------
  * **L'ala** :: wing (noun)
  * Le ali della mosca sono trasparenti e leggerissime. 

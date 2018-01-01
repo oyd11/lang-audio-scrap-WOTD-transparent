@@ -1,11 +1,15 @@
 # english-portuguese WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
  * My wife and I travel to Mexico each winter. 
  * Minha esposa e eu viajamos ao México cada inverno. 
+----------
+ * **countryside** :: campo (noun)
+ * We're going to have a picnic in the countryside. 
+ * Nós vamos ter um piquenique no campo. 
 ----------
  * **fun** :: divertimento (adjective)
  * The class is difficult, although I admit that it is fun. 

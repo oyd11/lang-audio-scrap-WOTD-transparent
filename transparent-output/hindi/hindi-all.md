@@ -1,11 +1,15 @@
 # hindi WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
  * मुझे नहीं पता कि कीबोर्ड का लेआउट कैसे बदलते हैं। 
  * I don't know how to change the keyboard layout. 
+----------
+ * **सजा हुआ** :: decorated (adjective)
+ * उसका घर, हमेशा की तरह, बहुत अच्छे से सजा हुआ है। 
+ * Her house is, as usual, very well decorated. 
 ----------
  * **सेब** :: apple (noun)
  * रोज़ एक सेब खाना आपको डॉक्टर से दूर रखता है। 

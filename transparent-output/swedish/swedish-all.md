@@ -1,11 +1,15 @@
 # swedish WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
  * Den skallige mannens huvudsvål syntes. 
  * The scalp of the bald man was visible. 
+----------
+ * **(ett) helgon** :: saint (noun)
+ * Jag är inget helgon. 
+ * I'm not a saint. 
 ----------
  * **att bli av med (någon)** :: to get rid of (somebody) (expression)
  * Politikern blev av med sin motståndare. 

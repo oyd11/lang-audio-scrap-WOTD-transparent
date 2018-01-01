@@ -1,11 +1,15 @@
 # irish WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
  * Ba mhaith liom ceapaire a ordú. 
  * I would like to order a sandwich. 
+----------
+ * **a thuiscint** :: to understand (verb)
+ * Is deacair dom an Ghaeilge a thuiscint. 
+ * Understanding Irish is difficult for me. 
 ----------
  * **an tsráid** :: the street (noun)
  * Is sráid aontreo í seo 

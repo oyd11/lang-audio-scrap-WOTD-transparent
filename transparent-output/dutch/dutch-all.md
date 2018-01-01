@@ -1,11 +1,15 @@
 # dutch WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
  * Ik zou dolgraag een tuin op het dak aanleggen. 
  * I would love to build a garden on the roof. 
+----------
+ * **eetstokjes** :: chopsticks (noun)
+ * Probeer maar eens een stukje vlees op te pakken met je eetstokjes. 
+ * Try and pick up a piece of meat with your chopsticks! 
 ----------
  * **de geldautomaat** :: ATM (expression)
  * Ik moet contant betalen. Is er hier ergens een geldautomaat? 

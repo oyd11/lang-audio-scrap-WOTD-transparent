@@ -1,11 +1,15 @@
 # english-spanish WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
  * Geraldo must be sick; he coughs all of the time. 
  * Geraldo debe ser enfermo; él tose todo el tiempo. 
+----------
+ * **to change** :: cambiar (verb)
+ * I have to change my habits. 
+ * Yo tengo que cambiar mis hábitos. 
 ----------
  * **to smoke** :: fumar (verb)
  * People who smoke often get cancer. 

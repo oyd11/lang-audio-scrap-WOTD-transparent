@@ -1,11 +1,15 @@
 # pashto WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
  * دا کتابونه په میز کیده. 
  * Put these books on the table. 
+----------
+ * **ورو ویل** :: to mumble (verb)
+ * .زه هغه څوک یم چی تاسره مرسته کولای شم" جان ورو وویل" 
+ * "I am the one who can help you," mumbled John. 
 ----------
  * **ورو ویل** :: to mumble (verb)
  * .زه هغه څوک یم چی تاسره مرسته کولای شم" جان ورو وویل" 

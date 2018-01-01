@@ -1,11 +1,15 @@
 # portuguese WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
  * Aqui está o remédio que te comprei. 
  * Here is the medicine I bought for you. 
+----------
+ * **pauta** :: agenda (noun)
+ * O sexto item na pauta parece muito interessante. 
+ * The sixth item on the agenda looks very interesting. 
 ----------
  * **ali** :: there (adverb)
  * Olha a Paula ali! Viu como ela cresceu. 

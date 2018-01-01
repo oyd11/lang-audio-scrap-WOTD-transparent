@@ -1,11 +1,15 @@
 # polish WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
  * Z powodu choroby serca, jego dieta była raczej mdła. 
  * Due to his heart disease, his diet was rather insipid. 
+----------
+ * **wejście** :: entrance (noun)
+ * Jeśli ich nie ma, to zostaw tę paczkę przy wejściu do garażu. 
+ * If they're not in, leave this package by the entrance to the garage. 
 ----------
  * **przyszłość** :: the future (noun)
  * Cała przyszłość jest jeszcze przed nami. 

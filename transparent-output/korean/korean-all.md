@@ -1,11 +1,15 @@
 # korean WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
  * 옛시를 암송할 수 있어요? 
  * Can you recite the old poem? 
+----------
+ * **개를 풀다** :: to set the dogs (on someone) (expression)
+ * 우리 과수원에서 나가지 않으면 개를 풀겁니다! 
+ * Get out of my orchard or I´ll set the dogs on you! 
 ----------
  * **질문** :: question (noun)
  * 정직하게 질문에 답을 하시기 바랍니다. 

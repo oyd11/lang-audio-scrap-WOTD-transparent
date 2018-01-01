@@ -1,7 +1,11 @@
 # norwegian WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
+----------
+ * **effektiv** :: efficient (adjective)
+ * Du må begynne å lese mer effektivt. 
+ * You must begin to read more efficiently. 
 ----------
  * **effektiv** :: efficient (adjective)
  * Du må begynne å lese mer effektivt. 

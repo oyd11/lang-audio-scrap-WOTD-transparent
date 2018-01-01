@@ -1,11 +1,15 @@
 # urdu WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
  * کیا تم مجھے اپنا پینسل شارپنر ادھار دو گے؟ 
  * Can you lend me your pencil sharpener? 
+----------
+ * **دل** :: heart (noun)
+ * میرے دل نے ایک دھَڑکَن چھوڑ دی. 
+ * My heart skipped a beat. 
 ----------
  * **انسانی حقوق** :: human rights (noun)
  * ہمیں انسانی حقوق کے لیے لڑائی جاری رکھنا ہے. 

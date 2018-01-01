@@ -1,11 +1,15 @@
 # esperanto WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
  * La venko de la teamo estis miraklo. 
  * The team's win was a miracle. 
+----------
+ * **ludkuboj** :: dice (noun)
+ * Estas via vico ĵeti la ludkubojn. 
+ * It's your turn to roll the dice. 
 ----------
  * **trompi** :: to fool (verb)
  * Ĉu la artefarita planto trompis vin? 

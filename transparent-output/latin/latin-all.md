@@ -1,11 +1,15 @@
 # latin WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
  * Se ex mari traxerunt seque Caesari potenti commiserunt. 
  * They dragged themselves from the sea and entrusted themselves to powerful Caesar. 
+----------
+ * **cras** :: tomorrow (adverb)
+ * Cras amet qui numquam amavit. 
+ * May he love tomorrow who has never loved before. 
 ----------
  * **optimus** :: best (adjective)
  * Fames est optimus coquus. 

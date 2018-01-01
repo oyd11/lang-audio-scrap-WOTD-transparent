@@ -1,11 +1,15 @@
 # indonesian WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
  * Apa kamu sudah menyelesaikan pekerjaan rumah? 
  * Have you finished the home work? 
+----------
+ * **kemalangan** :: misfortune (noun)
+ * Banyak kemalangan yang terjadi di dunia saat ini. 
+ * There are a lot of misfortunes happening in the world today. 
 ----------
  * **berbunga** :: to flower (verb)
  * Pohon-pohon itu akan berbunga dalam beberapa minggu. 

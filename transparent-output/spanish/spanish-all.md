@@ -1,11 +1,15 @@
 # spanish WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
  * Los niños construyen una fortaleza de nieve. 
  * The kids are building a snow fort. 
+----------
+ * **los invitados** :: guests (noun)
+ * Los invitados a la boda ya están empezando a llegar! 
+ * Our wedding guests are starting to arrive! 
 ----------
  * **medio cocido** :: medium rare (adjective)
  * Me gusta el bistec medio cocido. 

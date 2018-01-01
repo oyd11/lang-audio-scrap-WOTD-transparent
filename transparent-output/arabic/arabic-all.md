@@ -1,11 +1,15 @@
 # arabic WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
  * سارتدي بنطالاً أسوداً وقميصاً أبيضاً. 
  * I will wear black pants and a white shirt. 
+----------
+ * **خاص** :: private (adjective)
+ * لديه طائرة خاصة. 
+ * He has a private airplane. 
 ----------
  * **صورة** :: picture (noun)
  * هل تستطيع أن تأخذ صورة لهذا التمثال؟ 

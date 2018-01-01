@@ -1,11 +1,15 @@
 # turkish WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
  * Beni görünce, yanaklarımdan iki kez öptü. 
  * When she saw me, she kissed me twice on the cheeks. 
+----------
+ * **muz** :: banana (noun)
+ * Muz faydalıdır. 
+ * Bananas are good for you. 
 ----------
  * **brokoli** :: broccoli (noun)
  * Brokoliyi buharda pişirilmiş olarak mı, yoksa çiğ olarak mı tercih edersiniz? 

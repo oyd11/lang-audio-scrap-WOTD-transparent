@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -8,6 +8,12 @@
  * 生日蛋糕很漂亮。 
  * Shēngrì dàngāo hěn piaòliang. 
  * The birthday cake is very beautiful. 
+----------
+ * **租** :: to rent (verb)
+ * **zū** 
+ * 他想租一间房。 
+ * Tā xiǎng zū yī jiān fáng. 
+ * He wants to rent a room. 
 ----------
  * **葡萄酒** :: grape wine (noun)
  * **pútáojiǔ** 

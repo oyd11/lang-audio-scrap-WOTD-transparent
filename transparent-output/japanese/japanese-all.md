@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -8,6 +8,12 @@
  * 二人のアーティストがコラボして素晴らしい曲を作った。 
  * Futari no âthisuto ga korabo shite subarasii kyoku o tsukutta. 
  * The collaboration of these two artists made this wonderful song. 
+----------
+ * **合格する** :: to pass a test (verb)
+ * **goukaku suru** 
+ * 大学試験に合格した。 
+ * Daigakushiken ni goukaku shita. 
+ * I passed the entrance exam of the university. 
 ----------
  * **傘** :: umbrella (noun)
  * **kasa** 

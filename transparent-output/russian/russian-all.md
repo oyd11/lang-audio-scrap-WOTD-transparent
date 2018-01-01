@@ -1,11 +1,15 @@
 # russian WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
  * Бифштекс случайно пригорел. 
  * We accidentally burned the steak. 
+----------
+ * **недостаток** :: lack (noun)
+ * Недостаток средств ускорил закрытие фабрики. 
+ * The lack of funds hastened the closure of the factory. 
 ----------
  * **конюшня** :: stable (noun)
  * Их лошади живут на конюшне. 

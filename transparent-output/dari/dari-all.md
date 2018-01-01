@@ -1,11 +1,15 @@
 # dari WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
  * بعضی مردم به اشاره نمی فهمند. 
  * Some people just can't take a hint. 
+----------
+ * **چمن** :: lawn (noun)
+ * از چمن من دور شوید. 
+ * Get off my lawn. 
 ----------
  * **سطح مشترک** :: interface (noun)
  * این پروگرام یک سطح مشترک خوب دارد. 

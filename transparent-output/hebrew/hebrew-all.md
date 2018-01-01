@@ -1,11 +1,15 @@
 # hebrew WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
  * בחרנו מקום ישיבה באקראי. 
  * We chose a seat at random. 
+----------
+ * **רופא שיניים** :: dentist (noun)
+ * הייתי אצל רופא השיניים אלפי פעמים, אז אני יודעת איך זה. 
+ * I've been to the dentist a thousand times, so I know the drill. 
 ----------
  * **להעליב** :: to offend (verb)
  * לא התכוונתי להעליב אותך. 

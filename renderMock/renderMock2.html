@@ -1,0 +1,109 @@
+
+<HTML>
+
+<HEAD>
+
+<TITLE>Your Title Here</TITLE>
+
+</HEAD>
+
+<HR>
+
+Draft page: let's write a script that creates these statically for now !
+
+later worry about how to do this interactively etc
+
+Goal: Make a list with all phrases, each phrase highlighted and played.
+
+(ie, not preload all audio, start with 'today' cache locally scroll as you go)
+
+<ul>
+<li id='text1'> Не дружи с ними. Они все неудачники. </li>
+<li> Don't be friends with them. They are losers. </li>
+<li> неудачник </li>
+<li> loser </li>
+<audio controls="controls" id="ph1">
+    "
+    <source src="../transparent-sound/russian-sound/12-24-2017-phrasesound.mp3" type="audio/mpeg" />
+      Your browser does not support the audio element.
+      </audio>
+</ul>
+<ul>
+<li> Мне соседка не нравится. Она назойлива.  </li>
+<li>I don't like my neighbor. She's a meddler</li>
+<audio controls="controls" id="ph2">
+    <source src="../transparent-sound/russian-sound/12-23-2017-phrasesound.mp3" type="audio/mpeg" />
+      Your browser does not support the audio element.
+      </audio>
+</ul>
+<ul>
+<li id='text3'> Чуть-чуть соли не помешает этому супу.  </li>
+  <li>This soup could use a little bit of salt.</li>
+<audio controls="controls" id="ph3">
+    <source src="../transparent-sound/russian-sound/12-22-2017-phrasesound.mp3" type="audio/mpeg" />
+      Your browser does not support the audio element.
+      </audio>
+</ul>
+<hr>
+
+
+</BODY>
+
+
+<script type='text/javascript'>
+
+prefix_ids = ["translation","enphrase","wordtype","word","fnphrase",
+    "wotd:transliteratedWord","wotd:transliteratedSentence"]
+    
+
+newUl = document.createElement("ul")
+document.body.appendChild(newUl)
+for (let i = 0 ; i<5 ; ++i) {
+    let newLi= document.createElement("li")
+    newUl.appendChild(newLi)
+    newLi.textContent = "a" + i
+    newLi.setAttribute("id","a"+i)
+}
+newHr = document.createElement("hr")
+document.body.appendChild(newHr)
+
+
+    let text1 = document.getElementById('text1')
+    text1.style.color='blue'
+    let text3 = document.getElementById('text3')
+    let ph3 = document.getElementById('ph3')
+
+    let n= document.createElement("li")
+    text1.parentElement.appendChild(n)
+    n.textContent = "ენა"
+    n.style.fontSize= "150%"
+
+    document.getElementById('ph1').addEventListener('play',
+         function(e) { 
+        text1.style.color='red'
+        text1.style.fontSize='150%'
+        })
+
+    document.getElementById('ph1').addEventListener('pause',
+         function(e) { 
+        text1.style = null
+        })
+
+    document.getElementById('ph1').addEventListener('ended',
+         function(e) { 
+//                alert('End ph1')
+//                document.getElementById('ph3').play()
+        text3.style.color='red'
+         ph3.play()
+
+        })
+    document.getElementById('ph3').addEventListener('ended',
+         function(e) { 
+        //        alert('End ph3')
+        })
+
+</script>
+
+</HTML>
+
+ 

@@ -1,11 +1,15 @@
 # french WOTD : 
 ----------
- 365 phrases 
+ 366 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
  * Que t'est-il arrivé ? Tu as les cheveux en bataille ! 
  * What happened? Your hair is a mess! 
+----------
+ * **chinois** :: Chinese (adjective)
+ * Aujourd'hui, c'est le nouvel an chinois. 
+ * Today is the Chinese New Year. 
 ----------
  * **l'abat-jour** :: lampshade (noun)
  * Lors d'une brocante, j'ai trouvé cet abat-jour du 19è siècle, c'est une pièce rare. 
