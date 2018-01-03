@@ -22,10 +22,10 @@ const stopButton = document.createElement("button")
 }
 
 
-relavant_fields = ["translation","enphrase","wordtype","word","fnphrase",
+const relavant_fields = ["translation","enphrase","wordtype","word","fnphrase",
     "wotd:transliteratedWord","wotd:transliteratedSentence"]
 
-prefix_ids = {
+const prefix_ids = {
     "w" : "word ul",
     "auw" : "audio word only",
     "au" : "audio phrase",
@@ -34,9 +34,9 @@ prefix_ids = {
 
 const lang = Object.keys(j)[0]
 j[lang].forEach( (w,ind) => {
-const wordUl = document.createElement("ul")
-document.body.appendChild(wordUl)
-wordUl.setAttribute("id","w_"+ind)
+    const wordUl = document.createElement("ul")
+    document.body.appendChild(wordUl)
+    wordUl.setAttribute("id","w_"+ind)
 {
     const newLi= document.createElement("li")
     newLi.textContent = `${w["word"]} :: ${w["translation"]} (${w["wordtype"]})`
@@ -80,13 +80,15 @@ wordUl.setAttribute("id","w_"+ind)
     document.body.appendChild(newHr)
 }
 
-} )
+})
 
 const playlist = { start: 0, end: j[lang].length }
 
 //for (let ind = playlist.start ; ind < playlist.end ; ++ind ) {
 
+// TODO: Some struct keeping all global state:
 let curPlaying = null
+
 playButton.addEventListener("click", (ev) => {
     function addEventsAndPlay(ind) {
         const w = document.getElementById(`w_${ind}`)
