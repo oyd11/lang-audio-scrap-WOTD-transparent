@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -15,9 +15,17 @@
  * रोज़ एक सेब खाना आपको डॉक्टर से दूर रखता है। 
  * An apple a day keeps the doctor away. 
 ----------
+ * **ज़रूरत पड़ना** :: to need (verb)
+ * तुम्हें एक बड़ी नाव की ज़रूरत पड़ेगी। 
+ * You're going to need a bigger boat. 
+----------
  * **चेतावनी देना** :: to warn (verb)
  * मैं तुम्हें आखिरी बार चेतावनी दे रही हूँ। 
  * That's the last time I'm going to warn you. 
+----------
+ * **जंक मेल फोल्डर** :: junk mail folder (expression)
+ * ई-मेल गलती से आपके जंक मेल फोल्डर में चली गई हो सकती है। 
+ * The email may have accidentally gone into your junk mail folder. 
 ----------
  * **स्वास्थ्य** :: health (noun)
  * स्वास्थ्य दुनिया की किसी भी दौलत से बेहतर है। 

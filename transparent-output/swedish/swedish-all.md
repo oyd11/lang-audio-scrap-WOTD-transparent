@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -15,9 +15,17 @@
  * Politikern blev av med sin motståndare. 
  * The politician got rid of his rival. 
 ----------
+ * **okänd** :: unknown (adjective)
+ * Hans tillhåll är okänt, men man tror att han flytt landet. 
+ * His whereabouts are unknown, but they think he's fled the country. 
+----------
  * **löjlig** :: ridiculous (adjective)
  * Hennes svar var löjliga. 
  * Her replies were ridiculous. 
+----------
+ * **(ett) stöd** :: support (noun)
+ * Tack för ditt stöd. 
+ * Thanks for your support. 
 ----------
  * **att behålla växeln** :: to keep the change (expression)
  * Behåll växeln, vännen. 

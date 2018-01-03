@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -21,11 +21,23 @@
  * Wǒ zhǐ hē pútaojiǔ. 
  * I only drink grape wine. 
 ----------
+ * **厨房** :: kitchen (noun)
+ * **chúfáng** 
+ * 这间厨房太小。 
+ * Zhè jiān chúfáng tài xiǎo. 
+ * This kitchen is too small. 
+----------
  * **红** :: red (adjective)
  * **hóng** 
  * 这红花很美。 
  * Zhè hónghuā hěnměi. 
  * This red flower is very pretty. 
+----------
+ * **办** :: to deal with, to do, to take care of, to manage (verb)
+ * **bàn** 
+ * 我有很多事要办。 
+ * Wǒ yǒu hěnduō shì yào bàn. 
+ * I have a lot to take care of. 
 ----------
  * **漂亮** :: beautiful (adjective)
  * **piàoliang** 

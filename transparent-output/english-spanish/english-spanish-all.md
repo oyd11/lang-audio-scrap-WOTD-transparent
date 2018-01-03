@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -15,9 +15,17 @@
  * People who smoke often get cancer. 
  * La gente que fuma muchas veces consigue cáncer. 
 ----------
+ * **stressed** :: estresado (adjective)
+ * She is stressed out because of her work. 
+ * Ella está muy estresada por su trabajo. 
+----------
  * **dry** :: seco (adjective)
  * The towels are dry now. 
  * Las toallas ahora están secas. 
+----------
+ * **slippery** :: resbaloso (adjective)
+ * The streets are slippery this morning. 
+ * Las calles están resbalosas esta mañana. 
 ----------
  * **ticket** :: billete (noun)
  * My parents are going to buy tickets for the flight. 

@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -15,9 +15,17 @@
  * هل تستطيع أن تأخذ صورة لهذا التمثال؟ 
  * Can you take a picture of this statue? 
 ----------
+ * **خجول** :: shy (adjective)
+ * قطتي خجولة جدا. 
+ * My cat is very shy. 
+----------
  * **ثلاجة** :: refrigerator (noun)
  * يجبُ أن تضع الحليب في الثلاجة. 
  * You should put the milk in the refrigerator. 
+----------
+ * **مُفاجىء** :: sudden (adjective)
+ * كان قرار انتقالها إلى بوسطن مفاجئاً. 
+ * Her decision to move to Boston was sudden. 
 ----------
  * **مطعم** :: restaurant (noun)
  * هذا المطعم يقدم دجاجاً مشوياً لذيذاً. 

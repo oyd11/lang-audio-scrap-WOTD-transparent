@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -15,9 +15,17 @@
  * Cała przyszłość jest jeszcze przed nami. 
  * The whole future is ahead of us. 
 ----------
+ * **wyjście** :: exit (noun)
+ * Na wszelki wypadek zapamiętaj, gdzie jest wyjście ewakuacyjne. 
+ * Just in case, remember where the emergency exit is. 
+----------
  * **przeszłość** :: the past (noun)
  * Miała tak interesującą przeszłość, że zdecydowała się napisać o tym książkę. 
  * She had such an interesting past, she decided to write a book about it. 
+----------
+ * **na pewno** :: certainly (adverb)
+ * Nie martw się, on na pewno przyjdzie. 
+ * Don't worry, he will certainly come. 
 ----------
  * **wejście** :: entrance (noun)
  * Jeśli ich nie ma, to zostaw tę paczkę przy wejściu do garażu. 

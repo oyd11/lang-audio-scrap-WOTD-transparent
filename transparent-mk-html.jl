@@ -7,9 +7,13 @@ include("ShellCommands.jl")
 using ShellCommands
 
 lang = "russian"
-lang = "hebrew"
+#lang = "hebrew"
+#lang = "spanish"
 
 include("head-part.html.jl")
+
+date_format = DateFormat("mm-dd-yyyy")
+mk_date(str) = Date(str, date_format )
 
 o_list = cd("transparent-download/$lang") do
     j_files = glob("*.json")
@@ -20,7 +24,7 @@ o_list = cd("transparent-download/$lang") do
         o["wotd:transliteratedSentence"]
         o
     end
-    return o_list
+    return sort(o_list ; by=x->x["date"]|>mk_date)
 end # cd
 
 cd("transparent-html") do

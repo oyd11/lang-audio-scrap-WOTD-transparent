@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -15,9 +15,17 @@
  * 정직하게 질문에 답을 하시기 바랍니다. 
  * Please answer the question honestly. 
 ----------
+ * **열정적이다** :: passionate (adjective)
+ * 전 사진에 대해 열정적입니다. 
+ * I am passionate about photography. 
+----------
  * **치과의사** :: dentist (noun)
  * 6개월에 한 번씩 치과의사에게 상담하세요. 
  * Consult your dentist every six months. 
+----------
+ * **흰** :: white (adjective)
+ * 전 흰 옷을 입는 게 싫어요. 
+ * I don't like to wear white clothes. 
 ----------
  * **그리다** :: to draw (verb)
  * 미술가는 훌륭한 그림을 그렸습니다. 

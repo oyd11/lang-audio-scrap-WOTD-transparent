@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -15,9 +15,17 @@
  * Их лошади живут на конюшне. 
  * Their horses live in the stable. 
 ----------
+ * **пугать** :: to frighten (verb)
+ * Взрыв испугал людей. 
+ * The explosion frightened the people. 
+----------
  * **шампанское** :: champagne (noun)
  * Несите шампанское, а мы принесём клубнику. 
  * Bring champagne, we'll supply the strawberries. 
+----------
+ * **кожа черепа** :: scalp (noun)
+ * У лысого мужчины видна кожа черепа. 
+ * The scalp of the bald man is visible. 
 ----------
  * **заманчивый** :: attractive (adjective)
  * Признаюсь, это заманчивое предложение. 

@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -18,6 +18,14 @@
  * **ډکول** :: to fill (verb)
  * زما گیلاس ډېر مه ډکوه. 
  * Don't fill my glass up. 
+----------
+ * **ډکول** :: to fill (verb)
+ * زما گیلاس ډېر مه ډکوه. 
+ * Don't fill my glass up. 
+----------
+ * **خبر اوسېدل** :: to be aware of (expression)
+ * ته د خپلو کارونو د انجام نه خبر یې؟ 
+ * Are you aware of the consequences of your actions? 
 ----------
  * **خبر اوسېدل** :: to be aware of (expression)
  * ته د خپلو کارونو د انجام نه خبر یې؟ 

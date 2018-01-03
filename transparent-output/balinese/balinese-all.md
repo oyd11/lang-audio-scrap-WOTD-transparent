@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -15,9 +15,17 @@
  * Ten dados ngeroko di kamar. 
  * It is prohibited to smoke in the room. 
 ----------
+ * **enem** :: six (biasa (common))
+ * Masane panese biasane enem bulan. 
+ * The hot season usually is six months. 
+----------
  * **di** :: at, in (biasa)
  * Dados nike ngeroko di kamare. 
  * It is permissible to smoke in your own room. 
+----------
+ * **melah** :: good (biasa (common))
+ * Upon-upon padine melah. 
+ * The rice crop is good. 
 ----------
  * **napi** :: what (halus)
  * Napi sarane sane wenten ring villa driki? 

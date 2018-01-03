@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -15,9 +15,17 @@
  * Brokoliyi buharda pişirilmiş olarak mı, yoksa çiğ olarak mı tercih edersiniz? 
  * Do you prefer to steam broccoli or to eat it raw? 
 ----------
+ * **dürbün** :: binoculars (noun)
+ * Lütfen dürbünü bana ver. 
+ * Please pass me the binoculars. 
+----------
  * **kaçırmak** :: to abduct (verb)
  * Dün gece rüyamda uzaylılar tarafından kaçırıldığımı gördüm. 
  * Last night I dreamt I was being abducted by aliens. 
+----------
+ * **körlük** :: blindness (noun)
+ * Güneşe bakmak, körlüğe sebep olur! 
+ * Staring at the sun causes blindness! 
 ----------
  * **yağmurlama sistemi** :: sprinkler (noun)
  * Yangın yayılmadı, çünkü yağmurlama sistemi aktifleşti. 

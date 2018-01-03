@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -15,9 +15,17 @@
  * The class is difficult, although I admit that it is fun. 
  * A aula é difícil, apesar do que admito que é divertida. 
 ----------
+ * **to smoke** :: fumar (verb)
+ * People who smoke often get cancer. 
+ * As pessoas que fumam freqüentemente contraem câncer. 
+----------
  * **bloody** :: sangrento (adjective)
  * War is often bloody. 
  * Muitas vezes, as guerras são sangrentas. 
+----------
+ * **to shout** :: gritar (verb)
+ * She shouts every time she sees a horror movie. 
+ * Ela grita sempre que assiste filme de terror. 
 ----------
  * **ancient** :: antigo (adjective)
  * I saw some ancient ruins in Mexico. 

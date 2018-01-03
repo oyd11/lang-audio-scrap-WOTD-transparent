@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -15,9 +15,17 @@
  * Le ali della mosca sono trasparenti e leggerissime. 
  * The fly's wings are transparent and very light. 
 ----------
+ * **meglio** :: better (adverb)
+ * Farai meglio ad andare a scuola domani! 
+ * You had better go to school tomorrow! 
+----------
  * **Il labbro** :: lip (noun)
  * Hai le labbra ancora sporche di gelato. 
  * You still have ice cream on your lips! 
+----------
+ * **caro** :: expensive (adjective)
+ * I ristoranti stanno diventando sempre più cari. 
+ * Restaurants are becoming more and more expensive. 
 ----------
  * **cercare** :: to look for (verb)
  * Ho perso un orecchino nell'erba; è meglio se lo cerco prima che faccia buio. 

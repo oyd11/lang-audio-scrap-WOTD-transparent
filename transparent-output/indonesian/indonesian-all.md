@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -15,9 +15,17 @@
  * Pohon-pohon itu akan berbunga dalam beberapa minggu. 
  * The trees will flower in a few weeks. 
 ----------
+ * **nama** :: name (noun)
+ * Siapa nama anda? 
+ * What's your name? 
+----------
  * **menakutkan** :: scary (adjective)
  * Apa kamu suka filem menakutkan? 
  * Do you like scary movies? 
+----------
+ * **bertemu** :: to meet (verb)
+ * Senang bertemu anda. 
+ * It is a pleasure to meet you. 
 ----------
  * **mundur** :: to withdraw (verb)
  * Hamba dengar dia datang: mari kita mundur, Tuanku. 

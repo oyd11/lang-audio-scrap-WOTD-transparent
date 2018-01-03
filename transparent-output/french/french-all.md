@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -15,9 +15,17 @@
  * Lors d'une brocante, j'ai trouvé cet abat-jour du 19è siècle, c'est une pièce rare. 
  * I found this lampshade from the 19th century at an antiques fair: it's a collector's item. 
 ----------
+ * **boire** :: to drink (verb)
+ * On se retrouve vers 16 heures pour boire un chocolat chaud. 
+ * We meet around 4 pm to drink a hot chocolate. 
+----------
  * **la serpillère** :: mop (noun)
  * Le chat a renversé son lait, je demanderai alors à la femme de ménage de passer la serpillère. 
  * The cat spilt its milk so I'll ask the housekeeper to mop the floor. 
+----------
+ * **le mois** :: month (noun)
+ * Février est le plus court des mois de l'année. 
+ * February is the shortest month of the year. 
 ----------
  * **accueillant** :: welcoming (adjective)
  * Les Italiens sont réputés pour être des gens très accueillants. 

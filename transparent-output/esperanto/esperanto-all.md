@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -15,9 +15,17 @@
  * Ĉu la artefarita planto trompis vin? 
  * Did the artificial plant fool you? 
 ----------
+ * **luno** :: moon (noun)
+ * La luno estas brila ĉi-nokte. 
+ * The moon is bright tonight. 
+----------
  * **monato** :: month (noun)
  * Ĉi tiu monato estas pli mallonga ol la sekvonta monato. 
  * This month is shorter than the next month. 
+----------
+ * **lupreni** :: to rent (verb)
+ * Ŝi luprenis domon apud la lago. 
+ * She rented a house on the lake. 
 ----------
  * **monero** :: coin (noun)
  * Ni vetĵetis moneron por decidi. 

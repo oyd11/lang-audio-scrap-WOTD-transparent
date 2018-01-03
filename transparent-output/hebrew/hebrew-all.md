@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -15,9 +15,17 @@
  * לא התכוונתי להעליב אותך. 
  * I didn't mean to offend you. 
 ----------
+ * **לצייר** :: to draw (verb)
+ * הצייר צייר דמות מעולה. 
+ * The artist drew an excellent figure. 
+----------
  * **סוכנות רכב** :: car dealership (noun)
  * סוכנות הרכב המקומית שלי לא מחזיקה את הדגם שאני מחפשת. 
  * My local car dealership doesn't have the model I'm looking for. 
+----------
+ * **לגרום נזק** :: to damage (verb)
+ * אל תגרום נזק לאריזה. 
+ * Do not damage the package. 
 ----------
  * **זקן תיש** :: goatee (noun)
  * הוא נראה קצת מרושע עם זקן תיש. 

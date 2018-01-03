@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -14,6 +14,14 @@
  * **herlig** :: delightful (adjective)
  * Du burde gå ut og nyte den nydelige dagen i dag. 
  * You should go out and enjoy the delightful day today. 
+----------
+ * **herlig** :: delightful (adjective)
+ * Du burde gå ut og nyte den nydelige dagen i dag. 
+ * You should go out and enjoy the delightful day today. 
+----------
+ * **utvilsom** :: undoubtable (adjective)
+ * Det er utvilsomt morsomt å lære seg et nytt språk. 
+ * It's undoubtedly fun to learn a new language. 
 ----------
  * **utvilsom** :: undoubtable (adjective)
  * Det er utvilsomt morsomt å lære seg et nytt språk. 

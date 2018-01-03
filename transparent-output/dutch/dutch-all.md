@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -15,9 +15,17 @@
  * Ik moet contant betalen. Is er hier ergens een geldautomaat? 
  * I need to pay in cash. Is there an ATM here? 
 ----------
+ * **framboos** :: raspberry (noun)
+ * Kwarktaart framboos en aardbei zijn hier absolute favoriet! 
+ * Raspberry and strawberry cheesecake are absolute favorites here! 
+----------
  * **de put** :: well (noun)
  * Wat is een artesische bron? 
  * What is an artesian well? 
+----------
+ * **ganzenveer** :: quill (noun)
+ * Vroeger schreven de schrijvers met inkt en een ganzenveer. 
+ * In the old times, writers wrote with ink and a quill. 
 ----------
  * **het appartement** :: apartment (noun)
  * Mijn appartement is op de begane grond. 

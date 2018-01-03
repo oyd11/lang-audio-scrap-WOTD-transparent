@@ -95,7 +95,7 @@ playButton.addEventListener("click", (ev) => {
             // rm curr events?
         })
         curPlaying = au
-        curPlaying.play()
+        au.play()
     }
     if (null != curPlaying) {
         curPlaying.play()

@@ -20,20 +20,6 @@ j =
       "wotd:transliteratedWord": {}
     },
     {
-      "translation": "lack",
-      "enphrase": "The lack of funds hastened the closure of the factory.",
-      "phrasesound": "http://wotd.transparent.com/russian/level-1/2011/sound/0303_Russian_WOTD_Sentences.mp3",
-      "wordsound": "http://wotd.transparent.com/russian/level-1/2011/sound/0303_Russian_WOTD_Words.mp3",
-      "wotd:transliteratedSentence": {},
-      "notes": {},
-      "date": "01-01-2018",
-      "wordtype": "noun",
-      "word": "недостаток",
-      "fnphrase": "Недостаток средств ускорил закрытие фабрики.",
-      "langname": "Russian",
-      "wotd:transliteratedWord": {}
-    },
-    {
       "translation": "stable",
       "enphrase": "Their horses live in the stable.",
       "phrasesound": "http://wotd.transparent.com/russian/level-1/2011/sound/0432_Russian_WOTD_Sentences.mp3",
@@ -5128,6 +5114,48 @@ j =
       "fnphrase": "В этот выходной я пойти не могу. Я дежурю.",
       "langname": "Russian",
       "wotd:transliteratedWord": {}
+    },
+    {
+      "translation": "lack",
+      "enphrase": "The lack of funds hastened the closure of the factory.",
+      "phrasesound": "http://wotd.transparent.com/russian/level-1/2011/sound/0303_Russian_WOTD_Sentences.mp3",
+      "wordsound": "http://wotd.transparent.com/russian/level-1/2011/sound/0303_Russian_WOTD_Words.mp3",
+      "wotd:transliteratedSentence": {},
+      "notes": {},
+      "date": "01-01-2018",
+      "wordtype": "noun",
+      "word": "недостаток",
+      "fnphrase": "Недостаток средств ускорил закрытие фабрики.",
+      "langname": "Russian",
+      "wotd:transliteratedWord": {}
+    },
+    {
+      "translation": "to frighten",
+      "enphrase": "The explosion frightened the people.",
+      "phrasesound": "http://wotd.transparent.com/russian/level-1/2011/sound/0304_Russian_WOTD_Sentences.mp3",
+      "wordsound": "http://wotd.transparent.com/russian/level-1/2011/sound/0304_Russian_WOTD_Words.mp3",
+      "wotd:transliteratedSentence": {},
+      "notes": {},
+      "date": "01-02-2018",
+      "wordtype": "verb",
+      "word": "пугать",
+      "fnphrase": "Взрыв испугал людей.",
+      "langname": "Russian",
+      "wotd:transliteratedWord": {}
+    },
+    {
+      "translation": "scalp",
+      "enphrase": "The scalp of the bald man is visible.",
+      "phrasesound": "http://wotd.transparent.com/russian/level-1/2011/sound/0305_Russian_WOTD_Sentences.mp3",
+      "wordsound": "http://wotd.transparent.com/russian/level-1/2011/sound/0305_Russian_WOTD_Words.mp3",
+      "wotd:transliteratedSentence": {},
+      "notes": {},
+      "date": "01-03-2018",
+      "wordtype": "noun",
+      "word": "кожа черепа",
+      "fnphrase": "У лысого мужчины видна кожа черепа.",
+      "langname": "Russian",
+      "wotd:transliteratedWord": {}
     }
   ]
 }
@@ -5228,7 +5256,7 @@ playButton.addEventListener("click", (ev) => {
             // rm curr events?
         })
         curPlaying = au
-        curPlaying.play()
+        au.play()
     }
     if (null != curPlaying) {
         curPlaying.play()

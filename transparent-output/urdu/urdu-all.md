@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -15,9 +15,17 @@
  * ہمیں انسانی حقوق کے لیے لڑائی جاری رکھنا ہے. 
  * We have to keep on fighting for human rights. 
 ----------
+ * **لوگ** :: people (noun)
+ * میں ان لوگوں کے ساتھ کام نہیں کر سکتا! 
+ * I can't work with these people! 
+----------
  * **ڈھیلا کرنا** :: to loosen (verb)
  * وہ بیٹھ گیا اور اپنی ٹائی ڈھيلی کی. 
  * He sat down and loosened his tie. 
+----------
+ * **پریشان ہونا** :: to freak out (verb)
+ * پریشان مت ہونا لیکن میں نے ابھی تاش کے ایک کھیل میں ہماری ساری بچت کھو دی. 
+ * Don't freak out, but I just lost our entire savings in a poker game. 
 ----------
  * **گرل پر** :: on the grill (expression)
  * مجھے گرل پر پکی مچھلی پسند ہے. 

@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -15,9 +15,17 @@
  * Olha a Paula ali! Viu como ela cresceu. 
  * Look at Paula over there! See how she grew up? 
 ----------
+ * **aconselhar** :: to advise (verb)
+ * O médico a aconselhou como cuidar de seu bebê. 
+ * The doctor advised her how to take care of her baby. 
+----------
  * **moço** :: young man (noun)
  * Que moço bonito! 
  * What a handsome young man! 
+----------
+ * **começar** :: to start (verb)
+ * Vamos começar esta festa. 
+ * Let's get this party started. 
 ----------
  * **roupas** :: clothes (noun)
  * Sueli está sempre usando roupa nova. 

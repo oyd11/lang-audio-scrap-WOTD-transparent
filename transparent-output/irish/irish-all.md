@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -15,9 +15,17 @@
  * Is sráid aontreo í seo 
  * This is a one-way street. 
 ----------
+ * **deacair** :: difficult (adjective)
+ * Is deacair dom an Ghaeilge a labhairt. 
+ * Speaking Irish is difficult for me. 
+----------
  * **go maith** :: well (adverb)
  * Tá mé go maith, agus tusa? 
  * I am fine, and you? 
+----------
+ * **an pas** :: passport (noun)
+ * Ní féidir liom mo phas a fháil. 
+ * I can't find my passport. 
 ----------
  * **Fáilte romhat!** :: Welcome! (expression)
  * Fáilte romhat! 

@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -15,9 +15,17 @@
  * این پروگرام یک سطح مشترک خوب دارد. 
  * The program has a very nice user interface. 
 ----------
+ * **اجازه** :: permission (noun)
+ * عفو خواستن آسانتر از اجازه خواستن است. 
+ * It's easier to ask forgiveness than permission. 
+----------
  * **سال کبیسه** :: leap year (expression)
  * سال آینده سال کبیسه است. 
  * Next year is a leap year. 
+----------
+ * **بچه خاله** :: cousin (maternal aunt's son) (noun)
+ * من ده بچۀ خاله دارم. 
+ * I have ten cousins. 
 ----------
  * **سر خط** :: headline (noun)
  * سرخط ها را امروز خوانده ای؟ 

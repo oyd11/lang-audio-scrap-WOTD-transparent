@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -21,11 +21,23 @@
  * Amega furisou dakara, kasa o motte itta houga iiyo. 
  * Take the umbrella with you, as it looks like it's going to rain. 
 ----------
+ * **現金** :: cash (noun)
+ * **genkin** 
+ * 現金をあまり持ち歩かないほうがいい。 
+ * Genkin o amari mochiarukanai houga ii. 
+ * You had better not carry cash around. 
+----------
  * **礼金** :: key money (noun)
  * **reikin** 
  * このアパートの敷金と礼金がそれぞれ1か月分必要だ。 
  * Kono apâto no shikikin to reikin ga sorezore ikkagetsubun hitsuyou da. 
  * The owner of the apartment demands the security deposit of one month's rent and another one month for the key money. 
+----------
+ * **アレルギー** :: allergy (noun)
+ * **arerugî** 
+ * 私は花粉アレルギーです。 
+ * Watashi wa kafun arerugî desu. 
+ * I have an allergy to pollen. 
 ----------
  * **土産** :: souvenir (noun)
  * **miyage** 

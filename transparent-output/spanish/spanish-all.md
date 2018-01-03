@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -15,9 +15,17 @@
  * Me gusta el bistec medio cocido. 
  * I like my steak medium rare. 
 ----------
+ * **tener cuidado** :: to be careful (expression)
+ * Debe tener cuidado de no tomar mucho el sol. 
+ * You should be careful not to sunbathe too much. 
+----------
  * **el relleno** :: stuffing (noun)
  * Nosotros comemos mucho relleno con el pavo. 
  * We eat a lot of stuffing with the turkey. 
+----------
+ * **el perfil** :: profile (noun)
+ * Visita mi perfil de Facebook. 
+ * Visit my Facebook profile. 
 ----------
  * **reunirse** :: to get together (verb)
  * Toda la familia se reúne en los días festivos. 

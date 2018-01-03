@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 366 phrases 
+ 368 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -15,9 +15,17 @@
  * Fames est optimus coquus. 
  * Hunger is the best cook. 
 ----------
+ * **acer** :: sharp (adjective)
+ * Cicero nomina omnium civium acri memoria tenebat. 
+ * Cicero used to keep the names of all the citizens in his sharp memory. 
+----------
  * **copia** :: troops; abundance (noun)
  * Caesar non poterat suas copias cum copiis regis iungere. 
  * Caesar was not able to join his troops with the troops of the king. 
+----------
+ * **sapiens** :: wise person (noun)
+ * Dictum sapienti sat est. 
+ * A word to a wise person is sufficient. 
 ----------
  * **cras** :: tomorrow (adverb)
  * Cras amet qui numquam amavit. 
