@@ -3,7 +3,11 @@
 using Glob
 using JSON
 
+include("ShellCommands.jl")
+using ShellCommands
+
 lang = "russian"
+lang = "hebrew"
 
 include("head-part.html.jl")
 
@@ -17,9 +21,16 @@ o_list = cd("transparent-download/$lang") do
         o
     end
     return o_list
-end
+end # cd
 
+cd("transparent-html") do
+    open("./$(lang)_all.json","w") do f
+        JSON.print(f, Dict([lang => o_list]), 2)
+    end
 
+    run(sh`cat script01.js $(lang)_all.json script02.js > $(lang)_all.js`)
+
+end # cd
 
 
 

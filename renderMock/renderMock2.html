@@ -51,21 +51,108 @@ Goal: Make a list with all phrases, each phrase highlighted and played.
 
 
 <script type='text/javascript'>
-
-prefix_ids = ["translation","enphrase","wordtype","word","fnphrase",
-    "wotd:transliteratedWord","wotd:transliteratedSentence"]
-    
-
-newUl = document.createElement("ul")
-document.body.appendChild(newUl)
-for (let i = 0 ; i<5 ; ++i) {
-    let newLi= document.createElement("li")
-    newUl.appendChild(newLi)
-    newLi.textContent = "a" + i
-    newLi.setAttribute("id","a"+i)
+j = 
+{
+  "russian": [
+    {
+      "translation": "to burn",
+      "enphrase": "We accidentally burned the steak.",
+      "phrasesound": "http://wotd.transparent.com/russian/level-1/2011/sound/0431_Russian_WOTD_Sentences.mp3",
+      "wordsound": "http://wotd.transparent.com/russian/level-1/2011/sound/0431_Russian_WOTD_Words.mp3",
+      "wotd:transliteratedSentence": {},
+      "notes": {},
+      "date": "01-01-2017",
+      "wordtype": "verb",
+      "word": "пригорать",
+      "fnphrase": "Бифштекс случайно пригорел.",
+      "langname": "Russian",
+      "wotd:transliteratedWord": {}
+    },
+    {
+      "translation": "lack",
+      "enphrase": "The lack of funds hastened the closure of the factory.",
+      "phrasesound": "http://wotd.transparent.com/russian/level-1/2011/sound/0303_Russian_WOTD_Sentences.mp3",
+      "wordsound": "http://wotd.transparent.com/russian/level-1/2011/sound/0303_Russian_WOTD_Words.mp3",
+      "wotd:transliteratedSentence": {},
+      "notes": {},
+      "date": "01-01-2018",
+      "wordtype": "noun",
+      "word": "недостаток",
+      "fnphrase": "Недостаток средств ускорил закрытие фабрики.",
+      "langname": "Russian",
+      "wotd:transliteratedWord": {}
+    },
+    {
+      "translation": "stable",
+      "enphrase": "Their horses live in the stable.",
+      "phrasesound": "http://wotd.transparent.com/russian/level-1/2011/sound/0432_Russian_WOTD_Sentences.mp3",
+      "wordsound": "http://wotd.transparent.com/russian/level-1/2011/sound/0432_Russian_WOTD_Words.mp3",
+      "wotd:transliteratedSentence": {},
+      "notes": {},
+      "date": "01-02-2017",
+      "wordtype": "noun",
+      "word": "конюшня",
+      "fnphrase": "Их лошади живут на конюшне.",
+      "langname": "Russian",
+      "wotd:transliteratedWord": {}
+    } ]
 }
-newHr = document.createElement("hr")
-document.body.appendChild(newHr)
+
+relavant_fields = ["translation","enphrase","wordtype","word","fnphrase",
+    "wotd:transliteratedWord","wotd:transliteratedSentence"]
+
+prefix_ids = {
+    "w" : "word ul",
+    "auw" : "audio word only",
+    "au" : "audio phrase",
+    "ww" : "word li",
+}
+
+lang = "russian"
+j[lang].forEach( (w,ind) => {
+    const wordUl = document.createElement("ul")
+    document.body.appendChild(wordUl)
+    wordUl.setAttribute("id","w_"+ind)
+    {
+        const newLi= document.createElement("li")
+        newLi.textContent = `${w["word"]} :: ${w["translation"]} (${w["wordtype"]})`
+        wordUl.appendChild(newLi)
+    }
+    {
+        const newLi= document.createElement("li")
+        newLi.textContent = w["fnphrase"]
+        newLi.setAttribute("id","ww_"+ind)
+        wordUl.appendChild(newLi)
+    }
+    {
+        const newLi= document.createElement("li")
+        newLi.textContent = w["enphrase"]
+        wordUl.appendChild(newLi)
+    }
+    {
+        const audioElement = document.createElement("audio")
+        audioElement.setAttribute("id","au_"+ind)
+        audioElement.setAttribute("src",
+            `../transparent-sound/${lang}-sound/${w["date"]}-phrasesound.mp3`)
+        audioElement.controls = true
+        wordUl.appendChild(audioElement)
+    }
+    {
+        const audioElement = document.createElement("audio")
+        audioElement.setAttribute("id","auw_"+ind)
+        audioElement.setAttribute("src",
+            `../transparent-sound/${lang}-sound/${w["date"]}-wordsound.mp3`)
+        audioElement.controls = true
+        wordUl.appendChild(audioElement)
+    }
+    {
+        const newHr = document.createElement("hr")
+        document.body.appendChild(newHr)
+    }
+
+} )
+
+    
 
 
     let text1 = document.getElementById('text1')
