@@ -6,22 +6,25 @@ using JSON
 include("ShellCommands.jl")
 using ShellCommands
 
-lang = "russian"
-#lang = "hebrew"
-#lang = "spanish"
+langs = ["arabic" ,"english-spanish" ,"irish" ,"norwegian" ,"swedish" ,"balinese" ,"esperanto" ,"italian" ,"pashto" ,"turkish" ,"balinese-indonesian" ,"french" ,"japanese" ,"polish" ,"urdu" ,"dari" ,"hebrew" ,"korean" ,"portuguese" ,"dutch" ,"hindi" ,"latin" ,"russian" ,"english-portuguese" ,"indonesian" ,"mandarin" ,"spanish"]
 
-include("head-part.html.jl")
 
 date_format = DateFormat("mm-dd-yyyy")
 mk_date(str) = Date(str, date_format )
+
+#langs = ["hebrew"]
+for lang in langs
+
+    println("lang: $lang")
+
 
 o_list = cd("transparent-download/$lang") do
     j_files = glob("*.json")
     o_list = map(j_files) do fn
         o = JSON.parsefile(fn)
-        o["word"], o["fnphrase"]
-        o["wotd:transliteratedWord"]
-        o["wotd:transliteratedSentence"]
+#        o["word"], o["fnphrase"]
+#        o["wotd:transliteratedWord"]
+#        o["wotd:transliteratedSentence"]
         o
     end
     return sort(o_list ; by=x->x["date"]|>mk_date)
@@ -37,4 +40,5 @@ cd("transparent-html") do
 end # cd
 
 
+end # lang loop
 

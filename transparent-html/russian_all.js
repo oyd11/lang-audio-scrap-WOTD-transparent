@@ -5193,6 +5193,10 @@ const prefix_ids = {
     "ww" : "word li",
 }
 
+function isempty(obj) {
+    return null == obj || Object.keys(obj).length == 0
+}
+
 const lang = Object.keys(j)[0]
 j[lang].forEach( (w,ind) => {
     const wordUl = document.createElement("ul")
@@ -5200,13 +5204,22 @@ j[lang].forEach( (w,ind) => {
     wordUl.setAttribute("id","w_"+ind)
 {
     const newLi= document.createElement("li")
-    newLi.textContent = `${w["word"]} :: ${w["translation"]} (${w["wordtype"]})`
+    const wt = w["wotd:transliteratedWord"] 
+    const wt_text = isempty(wt) ? "" : `(${wt})`
+    newLi.textContent = `${w["word"]} ${wt_text} :: ${w["translation"]} (${w["wordtype"]})`
     wordUl.appendChild(newLi)
 }
 {
     const newLi= document.createElement("li")
     newLi.textContent = w["fnphrase"]
     newLi.setAttribute("id","ww_"+ind)
+    wordUl.appendChild(newLi)
+}
+const wwt = w["wotd:transliteratedSentence"]
+if (null != wwt && !isempty(wwt)) {
+    const newLi= document.createElement("li")
+    newLi.textContent = wwt
+    newLi.setAttribute("id","wwt_"+ind)
     wordUl.appendChild(newLi)
 }
 {
@@ -5254,6 +5267,7 @@ playButton.addEventListener("click", (ev) => {
     function addEventsAndPlay(ind) {
         const w = document.getElementById(`w_${ind}`)
         const ww = document.getElementById(`ww_${ind}`)
+        const wwt = document.getElementById(`wwt_${ind}`)
         const au =  document.getElementById(`au_${ind}`)
 //        const auNext =  document.getElementById(`au_${ind+1}`)
         au.addEventListener('play', (ev) => { 
