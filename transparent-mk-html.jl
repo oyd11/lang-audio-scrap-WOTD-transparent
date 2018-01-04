@@ -35,7 +35,7 @@ cd("transparent-html") do
         JSON.print(f, Dict([lang => o_list]), 2)
     end
 
-    run(sh`cat script01.js $(lang)_all.json script02.js > $(lang)_all.js`)
+    run(sh`cat ../render/script01.js $(lang)_all.json ../render/script02.js > $(lang)_all.js`)
 
 end # cd
 
