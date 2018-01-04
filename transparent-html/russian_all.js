@@ -5261,6 +5261,7 @@ playButton.addEventListener("click", (ev) => {
             w.style.fontSize='150%'
             ww.style.color='red'
             ww.style.fontSize='150%'
+            w.scrollIntoView({inline: "center", behavior:"instant"})
         })
         au.addEventListener('ended', (ev) => { 
             w.style = null
