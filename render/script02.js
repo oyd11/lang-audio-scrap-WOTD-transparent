@@ -38,8 +38,10 @@ function isempty(obj) {
 
 const lang = Object.keys(j)[0]
 j[lang].forEach( (w,ind) => {
+    const wordDiv = document.createElement("div")
+    document.body.appendChild(wordDiv)
     const wordUl = document.createElement("ul")
-    document.body.appendChild(wordUl)
+    wordDiv.appendChild(wordUl)
     wordUl.setAttribute("id","w_"+ind)
 {
     const newLi= document.createElement("li")
@@ -72,6 +74,7 @@ if (null != wwt && !isempty(wwt)) {
     audioElement.setAttribute("src",
         `../transparent-sound/${lang}-sound/${w["date"]}-phrasesound.mp3`)
 //    audioElement.controls = true
+    audioElement.preload="none" // "auto|metadata|none">
     wordUl.appendChild(audioElement)
 }
 {
@@ -87,6 +90,15 @@ if (null != wwt && !isempty(wwt)) {
     newLi.textContent = w["date"]
     newLi.style.fontSize="60%"
     wordUl.appendChild(newLi)
+}
+{
+    wordUl.addEventListener("mouseenter", (ev) => {
+//        wordDiv.style.fontSize='150%'
+        wordDiv.style.color='aqua'
+    })
+    wordUl.addEventListener("mouseleave", (ev) => {
+        wordDiv.style=null
+    })
 }
 {
     const newHr = document.createElement("hr")
@@ -111,9 +123,9 @@ playButton.addEventListener("click", (ev) => {
 //        const auNext =  document.getElementById(`au_${ind+1}`)
         au.addEventListener('play', (ev) => { 
             w.style.color='lime'
-            w.style.fontSize='150%'
+            w.style.fontSize='110%'
             ww.style.color='red'
-            ww.style.fontSize='150%'
+            ww.style.fontSize='110%'
             w.scrollIntoView({inline: "center", behavior:"instant"})
         })
         au.addEventListener('ended', (ev) => { 

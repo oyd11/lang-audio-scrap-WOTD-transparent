@@ -6,7 +6,7 @@ using JSON
 include("ShellCommands.jl")
 using ShellCommands
 
-langs = ["arabic" ,"english-spanish" ,"irish" ,"norwegian" ,"swedish" ,"balinese" ,"esperanto" ,"italian" ,"pashto" ,"turkish" ,"balinese-indonesian" ,"french" ,"japanese" ,"polish" ,"urdu" ,"dari" ,"hebrew" ,"korean" ,"portuguese" ,"dutch" ,"hindi" ,"latin" ,"russian" ,"english-portuguese" ,"indonesian" ,"mandarin" ,"spanish"]
+langs = ["russian", "arabic" ,"english-spanish" ,"irish" ,"norwegian" ,"swedish" ,"balinese" ,"esperanto" ,"italian" ,"pashto" ,"turkish" ,"balinese-indonesian" ,"french" ,"japanese" ,"polish" ,"urdu" ,"dari" ,"hebrew" ,"korean" ,"portuguese" ,"dutch" ,"hindi" ,"latin" ,"english-portuguese" ,"indonesian" ,"mandarin" ,"spanish"]
 
 
 date_format = DateFormat("mm-dd-yyyy")
