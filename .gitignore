@@ -1,6 +1,7 @@
 
 node_modules/
 transparent-download/
+transparent-html/*.json
 inno-download-sound/
 inno-download/
 transparent-sound/
