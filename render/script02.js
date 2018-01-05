@@ -1,6 +1,55 @@
 
 // assumed: defined 'j' - JSON + 'lang' - language string
 
+// TODO: Some struct keeping all global state:
+// all global state - kept here:
+let curPlaying = null
+
+// end of state variables.. everything else - should be in the DOM
+function addEventsAndPlay(ind) {
+    const w = document.getElementById(`w_${ind}`)
+    const ww = document.getElementById(`ww_${ind}`)
+    const wwt = document.getElementById(`wwt_${ind}`)
+    const au =  document.getElementById(`au_${ind}`)
+    function setEvents() {
+        au.addEventListener('play', onPlay)
+        au.addEventListener('ended', onEnded)
+        au.addEventListener('pause', onPause)
+    }
+    function rmEvents() {
+        au.removeEventListener('play', onPlay)
+        au.removeEventListener('ended', onEnded)
+        au.removeEventListener('pause', onPause)
+    }
+    function onPlay(ev) { 
+        console.log('play: ', ind)
+        w.style.color='lime'
+        w.style.fontSize='110%'
+        ww.style.color='red'
+        ww.style.fontSize='110%'
+        w.scrollIntoView({inline: "center", behavior:"instant"})
+    }
+    function onEnded(ev) { 
+        console.log('ended: ', ind)
+        w.style = null
+        ww.style = null
+        rmEvents()
+        if (ind< playlist.end) {
+            addEventsAndPlay(ind+1)
+        }
+        // rm curr events?
+    }
+    function onPause(ev) { 
+        console.log('pause: ', ind)
+        w.style = null
+        ww.style = null
+ //       rmEvents()
+        // rm curr events?
+    }
+    setEvents()
+    curPlaying = au
+    au.play()
+}
 {
     const newHr = document.createElement("hr")
     document.body.appendChild(newHr)
@@ -29,7 +78,9 @@ const prefix_ids = {
     "w" : "word ul",
     "auw" : "audio word only",
     "au" : "audio phrase",
-    "ww" : "word li",
+    "ww" : "phrase li",
+    "wd" : "word div",
+    "wwt" : "phrase translitaration",
 }
 
 function isempty(obj) {
@@ -42,6 +93,7 @@ j[lang].forEach( (w,ind) => {
     document.body.appendChild(wordDiv)
     const wordUl = document.createElement("ul")
     wordDiv.appendChild(wordUl)
+    wordDiv.setAttribute("id","wd_"+ind)
     wordUl.setAttribute("id","w_"+ind)
 {
     const newLi= document.createElement("li")
@@ -68,14 +120,14 @@ if (null != wwt && !isempty(wwt)) {
     newLi.textContent = w["enphrase"]
     wordUl.appendChild(newLi)
 }
+const au = document.createElement("audio")
 {
-    const audioElement = document.createElement("audio")
-    audioElement.setAttribute("id","au_"+ind)
-    audioElement.setAttribute("src",
+    au.setAttribute("id","au_"+ind)
+    au.setAttribute("src",
         `../transparent-sound/${lang}-sound/${w["date"]}-phrasesound.mp3`)
-//    audioElement.controls = true
-    audioElement.preload="none" // "auto|metadata|none">
-    wordUl.appendChild(audioElement)
+//    au.controls = true
+    au.preload="none" // "auto|metadata|none">
+    wordUl.appendChild(au)
 }
 {
     const audioElement = document.createElement("audio")
@@ -92,12 +144,22 @@ if (null != wwt && !isempty(wwt)) {
     wordUl.appendChild(newLi)
 }
 {
-    wordUl.addEventListener("mouseenter", (ev) => {
+    function mDownPlayThis(ev) {
+            wordDiv.style.color='red'
+            if (null != curPlaying) {
+                curPlaying.pause()
+            }
+            curPlaying = au
+            addEventsAndPlay(ind)
+        }
+    wordDiv.addEventListener("mouseenter", (ev) => {
 //        wordDiv.style.fontSize='150%'
         wordDiv.style.color='aqua'
+        wordDiv.addEventListener("mousedown", mDownPlayThis)
     })
-    wordUl.addEventListener("mouseleave", (ev) => {
+    wordDiv.addEventListener("mouseleave", (ev) => {
         wordDiv.style=null
+        wordDiv.removeEventListener("mousedown", mDownPlayThis)
     })
 }
 {
@@ -111,34 +173,8 @@ const playlist = { start: 0, end: j[lang].length }
 
 //for (let ind = playlist.start ; ind < playlist.end ; ++ind ) {
 
-// TODO: Some struct keeping all global state:
-let curPlaying = null
 
 playButton.addEventListener("click", (ev) => {
-    function addEventsAndPlay(ind) {
-        const w = document.getElementById(`w_${ind}`)
-        const ww = document.getElementById(`ww_${ind}`)
-        const wwt = document.getElementById(`wwt_${ind}`)
-        const au =  document.getElementById(`au_${ind}`)
-//        const auNext =  document.getElementById(`au_${ind+1}`)
-        au.addEventListener('play', (ev) => { 
-            w.style.color='lime'
-            w.style.fontSize='110%'
-            ww.style.color='red'
-            ww.style.fontSize='110%'
-            w.scrollIntoView({inline: "center", behavior:"instant"})
-        })
-        au.addEventListener('ended', (ev) => { 
-            w.style = null
-            ww.style = null
-            if (ind< playlist.end) {
-                addEventsAndPlay(ind+1)
-            }
-            // rm curr events?
-        })
-        curPlaying = au
-        au.play()
-    }
     if (null != curPlaying) {
         curPlaying.play()
     } else {
