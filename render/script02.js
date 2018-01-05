@@ -22,7 +22,7 @@ function addEventsAndPlay(ind) {
         au.removeEventListener('pause', onPause)
     }
     function onPlay(ev) { 
-        console.log('play: ', ind)
+//        console.log('play: ', ind)
         w.style.color='lime'
         w.style.fontSize='110%'
         ww.style.color='red'
@@ -30,7 +30,7 @@ function addEventsAndPlay(ind) {
         w.scrollIntoView({inline: "center", behavior:"instant"})
     }
     function onEnded(ev) { 
-        console.log('ended: ', ind)
+ //       console.log('ended: ', ind)
         w.style = null
         ww.style = null
         rmEvents()
@@ -40,34 +40,42 @@ function addEventsAndPlay(ind) {
         // rm curr events?
     }
     function onPause(ev) { 
-        console.log('pause: ', ind)
+  //      console.log('pause: ', ind)
         w.style = null
         ww.style = null
  //       rmEvents()
         // rm curr events?
     }
+    rmEvents() // possible cleanup
     setEvents()
     curPlaying = au
     au.play()
 }
+const divWrapper = document.createElement("div")
+divWrapper.className = "wrapper"
+const divPlayControls= document.createElement("div")
+divPlayControls.className = "PlayControls"
+const divWordList = document.createElement("div")
+divWordList.className = "WordList"
 {
-    const newHr = document.createElement("hr")
-    document.body.appendChild(newHr)
+    document.body.appendChild(divWrapper)
+    divWrapper.appendChild(divPlayControls)
+    divWrapper.appendChild(divWordList)
 }
 const playButton = document.createElement("button")
 const pauseButton = document.createElement("button")
 const stopButton = document.createElement("button")
 {
     playButton.appendChild(document.createTextNode("play-all"))
-    document.body.appendChild(playButton);
+    divPlayControls.appendChild(playButton)
     pauseButton.appendChild(document.createTextNode("pause"))
-    document.body.appendChild(pauseButton);
+    divPlayControls.appendChild(pauseButton)
     stopButton.appendChild(document.createTextNode("stop"))
-    document.body.appendChild(stopButton);
+    divPlayControls.appendChild(stopButton);
 }
 {
     const newHr = document.createElement("hr")
-    document.body.appendChild(newHr)
+    divPlayControls.appendChild(newHr)
 }
 
 
@@ -90,7 +98,7 @@ function isempty(obj) {
 const lang = Object.keys(j)[0]
 j[lang].forEach( (w,ind) => {
     const wordDiv = document.createElement("div")
-    document.body.appendChild(wordDiv)
+    divWordList.appendChild(wordDiv)
     const wordUl = document.createElement("ul")
     wordDiv.appendChild(wordUl)
     wordDiv.setAttribute("id","wd_"+ind)
@@ -164,7 +172,7 @@ const au = document.createElement("audio")
 }
 {
     const newHr = document.createElement("hr")
-    document.body.appendChild(newHr)
+    wordDiv.appendChild(newHr)
 }
 
 })
