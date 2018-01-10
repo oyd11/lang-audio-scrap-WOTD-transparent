@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -31,29 +31,57 @@
  * Toda la familia se reúne en los días festivos. 
  * The whole family gets together on holidays. 
 ----------
+ * **la mente** :: mind (noun)
+ * Tiene una mente analítica. 
+ * He's got an analytical mind. 
+----------
  * **crujiente** :: crunchy (adjective)
  * Estas papas fritas están crujientes. 
  * These French fries are crunchy. 
+----------
+ * **charlar** :: to chat (verb)
+ * Ha sido un placer charlar contigo. 
+ * It's been a pleasure to chat with you. 
 ----------
  * **el año** :: year (noun)
  * El año nuevo viene pronto. 
  * The new year is coming soon. 
 ----------
+ * **el ovni** :: UFO (noun)
+ * "Ovni" significa "objeto volante no identificado". 
+ * "UFO" stands for "unidentified flying object". 
+----------
  * **venir** :: to come (verb)
  * Lo siento, pero nosotros no podemos venir a tu fiesta. 
  * I'm sorry, but we can't come to your party. 
+----------
+ * **las noticias** :: news (noun)
+ * Sin noticias, buenas noticias. 
+ * No news is good news. 
 ----------
  * **sino** :: but rather (conjunction)
  * No tomo café, sino té. 
  * I don't drink coffee, but tea instead. 
 ----------
+ * **la chistera** :: top hat (noun)
+ * El caballero se quitó los guantes y chistera. 
+ * The gentleman took off his gloves and top hat. 
+----------
  * **además** :: in addition (adverb)
  * Además, la clase era intensa. 
  * In addition, the class was intense. 
 ----------
+ * **el amigo** :: friend (noun)
+ * Cuando tengo un mal día, me aseguro de que lo sepan todos mis amigos de Facebook! 
+ * When I have a bad day, I make sure all my Facebook friends know! 
+----------
  * **atropellar** :: to run over (verb)
  * Los que manejan rápido atropellan a los animalillos. 
  * People who drive fast run over small animals. 
+----------
+ * **el regalo** :: gift (noun)
+ * Es muy divertido ver a los niños abrir sus regalos de Navidad. 
+ * It´s so funny to see children unwrapping their Christmas gifts. 
 ----------
  * **el recogedor** :: dustpan (noun)
  * Busco un recogedor para el polvo. 

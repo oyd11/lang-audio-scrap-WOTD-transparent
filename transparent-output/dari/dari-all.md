@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -31,29 +31,57 @@
  * سرخط ها را امروز خوانده ای؟ 
  * Have you read the headlines this morning? 
 ----------
+ * **مو** :: hair (noun)
+ * موی او بسیار مقبول است. 
+ * Her hair looks really good when she leaves it down. 
+----------
  * **دو شنبه** :: Monday (noun)
  * در افغانستان دو شنبه روز سوم هفته است. 
  * Monday is the third day of the week in Afghanistan. 
+----------
+ * **تکمیل کردن** :: to complete (verb)
+ * این پروژه را در یک ماه تکمیل خواهیم کرد. 
+ * We will complete this project in one month. 
 ----------
  * **آب شدن** :: to melt (verb)
  * برف زمستان وقت آب شده است. 
  * The winter snow has already melted. 
 ----------
+ * **سرنشین** :: passenger (noun)
+ * به سرنشین موتر ضرر نرسیده بود. 
+ * The passenger of the vehicle was unharmed. 
+----------
  * **پیش نویس** :: draft (noun)
  * فردا پیش نویس اول آماده خواهد بود. 
  * The first draft will be ready by tomorrow. 
+----------
+ * **ساختمان** :: structure (noun)
+ * نمایشگاه دارای ساختمان متحرک بود. 
+ * The exhibit included several mobile structures. 
 ----------
  * **صد پا** :: centipede (noun)
  * در تشت تشناب یک صد پا است. 
  * There is a centipede in the bathtub! 
 ----------
+ * **آتش** :: fire (noun)
+ * در تعمیر آتش است. 
+ * There is fire in the building. 
+----------
  * **گداختن** :: to defrost, to thaw (verb)
  * قبل از گذاشتن در داش فیل مرغ را باید بگدازید. 
  * You have to defrost the turkey before putting it in the oven. 
 ----------
+ * **کومه** :: cheek (noun)
+ * وقتی مرا دید دو بار مرا از کومه هایم بوسید. 
+ * When she saw me, she kissed me twice on the cheeks. 
+----------
  * **کشتی بادی** :: sailboat (noun)
  * کشتی بادی توسط باد حرکت میکند. 
  * Sailboats rely on the wind to power them. 
+----------
+ * **قبض بودن** :: to be constipated (expression)
+ * وقتی که قبض هستید باید بسیار آب بنوشید. 
+ * You have to drink a lot of water when you're constipated. 
 ----------
  * **موافق بودن** :: to agree (verb)
  * در آن موضوع همرای شما موافق هستم. 

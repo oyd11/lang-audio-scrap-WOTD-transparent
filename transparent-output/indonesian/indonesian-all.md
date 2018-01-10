@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -31,29 +31,57 @@
  * Hamba dengar dia datang: mari kita mundur, Tuanku. 
  * I hear him coming: let's withdraw, my lord. 
 ----------
+ * **enak** :: delicious (adjective)
+ * Ini enak sekali. 
+ * That was delicious. 
+----------
  * **menggali** :: to dig (verb)
  * Gali sampai kamu temukan minyak. 
  * Dig until you strike oil. 
+----------
+ * **bicara** :: to speak (verb)
+ * Saya bisa bicara bahasa Jerman sedikit. 
+ * I speak a little German. 
 ----------
  * **fosil** :: fossil (noun)
  * Fosil di museum itu dari periode Cretaceous. 
  * The fossils at the museum are from the Cretaceous period. 
 ----------
+ * **pertama** :: first (adjective)
+ * Ini bukan pertama dan terakhir kalinya. 
+ * It's not the first time, and won't be the last. 
+----------
  * **memotret** :: to photograph (verb)
  * Dia memotret seekor burung langka. 
  * She photographed a rare bird. 
+----------
+ * **minta maaf** :: to apologize (verb)
+ * Saya minta maaf, saya tidak bermaksud mengatakan itu. 
+ * I apologize, I'm didn't mean to say that. 
 ----------
  * **dingin** :: chilly (adjective)
  * Hari yang dingin! 
  * What a chilly day! 
 ----------
+ * **toko** :: store (noun)
+ * Aku mau pergi ke toko, mau ikut dengan saya? 
+ * I'm going to the store, want to go with me? 
+----------
  * **menunggu** :: to wait for (verb)
  * Kami sedang menunggu bis. 
  * We are waiting for the bus. 
 ----------
+ * **lebih suka** :: to prefer (verb)
+ * Kurma ini enak, tapi aku lebih suka nanas. 
+ * The dates are delicious, but I prefer pineapple. 
+----------
  * **berseluncur** :: to skate (verb)
  * Anak-anak berseluncur di danau ketika danau itu membeku. 
  * The children skate on the pond once it is frozen solid. 
+----------
+ * **Jumat** :: Friday (noun)
+ * Aku senang sekali karena besok hari Jumat! 
+ * I'm so glad tomorrow is Friday! 
 ----------
  * **kereta luncur** :: sled (noun)
  * Kakeknya memberi dia kereta luncur musim dingin lalu. 

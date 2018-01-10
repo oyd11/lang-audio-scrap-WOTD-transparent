@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -31,29 +31,57 @@
  * Jeśli ich nie ma, to zostaw tę paczkę przy wejściu do garażu. 
  * If they're not in, leave this package by the entrance to the garage. 
 ----------
- * **wyjście** :: exit (noun)
- * Na wszelki wypadek zapamiętaj, gdzie jest wyjście ewakuacyjne. 
- * Just in case, remember where the emergency exit is. 
-----------
- * **na pewno** :: certainly (adverb)
- * Nie martw się, on na pewno przyjdzie. 
- * Don't worry, he will certainly come. 
-----------
  * **jutro** :: tomorrow (adverb)
  * Jutro muszę wstać o piątej rano. 
  * Tomorrow I have to get up at 5AM. 
+----------
+ * **wyjście** :: exit (noun)
+ * Na wszelki wypadek zapamiętaj, gdzie jest wyjście ewakuacyjne. 
+ * Just in case, remember where the emergency exit is. 
 ----------
  * **wczoraj** :: yesterday (adverb)
  * Zapomniałam, że wczoraj były jego urodziny. 
  * I forgot that yesterday was his birthday. 
 ----------
+ * **na pewno** :: certainly (adverb)
+ * Nie martw się, on na pewno przyjdzie. 
+ * Don't worry, he will certainly come. 
+----------
  * **zawsze** :: always (adverb)
  * Kiedy się z nim spotykałam, zawsze przynosił mi kwiaty. 
  * When I used to see him, he always brought me flowers. 
 ----------
+ * **jutro** :: tomorrow (adverb)
+ * Jutro muszę wstać o piątej rano. 
+ * Tomorrow I have to get up at 5AM. 
+----------
  * **rzadko** :: rarely (adverb)
  * Bardzo rzadko mamy okazję próbować nowych egzotycznych dań. 
  * We rarely have a chance to try new exotic dishes. 
+----------
+ * **wczoraj** :: yesterday (adverb)
+ * Zapomniałam, że wczoraj były jego urodziny. 
+ * I forgot that yesterday was his birthday. 
+----------
+ * **czasem** :: sometimes (adverb)
+ * Czasem sama nie wiem co z nim zrobić. 
+ * Sometimes I don't know what to do with him. 
+----------
+ * **zawsze** :: always (adverb)
+ * Kiedy się z nim spotykałam, zawsze przynosił mi kwiaty. 
+ * When I used to see him, he always brought me flowers. 
+----------
+ * **razem** :: together (adverb)
+ * Zaczęliśmy mieszkać razem dopiero po ślubie. 
+ * We started to live together only after getting married. 
+----------
+ * **rzadko** :: rarely (adverb)
+ * Bardzo rzadko mamy okazję próbować nowych egzotycznych dań. 
+ * We rarely have a chance to try new exotic dishes. 
+----------
+ * **już** :: already (adverb)
+ * Pracuję w tej samej firmie już ponad osiem lat. 
+ * I've been working for the same company for more than eight years already. 
 ----------
  * **czasem** :: sometimes (adverb)
  * Czasem sama nie wiem co z nim zrobić. 

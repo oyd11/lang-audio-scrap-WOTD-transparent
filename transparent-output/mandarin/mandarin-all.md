@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -45,11 +45,23 @@
  * Huāyuán zhēn piàoliang. 
  * The garden is really beautiful. 
 ----------
+ * **让** :: to allow, to let (verb)
+ * **ràng** 
+ * 爸爸不让我喝啤酒。 
+ * Bàba bú ràng wǒ hē píjiǔ. 
+ * Dad does not allow me to drink beer. 
+----------
  * **中餐** :: Chinese food (noun)
  * **zhōngcān** 
  * 我喜欢中餐。 
  * Wǒ xǐhuān zhōngcān. 
  * I like Chinese food. 
+----------
+ * **帮助** :: to help (verb)
+ * **bāngzhù** 
+ * 我可以帮助你吗？ 
+ * Wǒ kěyǐ bāngzhù nǐ ma? 
+ * May I help you? 
 ----------
  * **西餐** :: western food (noun)
  * **xīcān** 
@@ -57,11 +69,23 @@
  * Xīcān hěn fāngbiàn. 
  * Western food is very convenient. 
 ----------
+ * **经理** :: manager (noun)
+ * **jīnglǐ** 
+ * 今天经理有会。 
+ * Jīntiān jīnglǐ yǒu huì. 
+ * The manager has a meeting today. 
+----------
  * **啤酒** :: beer (noun)
  * **píjiǔ** 
  * 我们喝了三瓶啤酒。 
  * Wǒmen hē le sānpíng píjiǔ. 
  * We drank three bottles of beer. 
+----------
+ * **可能** :: maybe (adverb)
+ * **kěnèng** 
+ * 明天可能下雨。 
+ * Míngtiān kěnéng xiàyǔ. 
+ * It might rain tomorrow. 
 ----------
  * **面包** :: bread, roll (noun)
  * **miànbāo** 
@@ -69,17 +93,35 @@
  * Wǒ měitiān dōu chī miànbāo. 
  * I eat bread every day. 
 ----------
+ * **等** :: to wait (verb)
+ * **děng** 
+ * 我等了很久。 
+ * Wǒ děng le hěn jiǔ. 
+ * I waited for a long time. 
+----------
  * **牛奶** :: milk (noun)
  * **niúnǎi** 
  * 牛奶对你的身体好。 
  * Niúnǎi duì nǐde shēntǐ hǎo. 
  * Milk is good for your health. 
 ----------
+ * **客厅** :: living room (noun)
+ * **kètīng** 
+ * 我们的客厅很大。 
+ * Wǒmén de kètīng hěn dà. 
+ * Our living room is very large. 
+----------
  * **商店** :: shop, store (noun)
  * **shāngdiàn** 
  * 这儿有很多商店。 
  * Zhèr yǒu hěn duō shāngdiàn. 
  * There are many stores here. 
+----------
+ * **方便** :: convenient (adjective)
+ * **fāngbiàn** 
+ * 这儿买东西很方便。 
+ * Zhèr mǎi dōngxi hěn fāngbiàn. 
+ * It is convenient to go shopping here. 
 ----------
  * **有名** :: famous (adjective)
  * **yǒumíng** 

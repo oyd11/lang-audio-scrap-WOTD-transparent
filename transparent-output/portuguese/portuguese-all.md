@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -31,29 +31,57 @@
  * Sueli está sempre usando roupa nova. 
  * Sueli is always wearing new clothes. 
 ----------
+ * **tempestade** :: storm (noun)
+ * Houve uma tempestade ontem à noite. 
+ * There was a storm last night. 
+----------
  * **vermelho** :: red (adjective)
  * Vermelho é minha cor favorita. 
  * Red is my favorite color. 
+----------
+ * **apresentar** :: to introduce (verb)
+ * Gostaria de apresentar nosso próximo palestrante, o Sr. Jordan Chase. 
+ * I'd like to introduce our next speaker, Mr. Jordan Chase. 
 ----------
  * **amarelo** :: yellow (adjective)
  * Verde e amarelo são as cores da bandeira brasileira. 
  * Green and yellow are the colors of the Brazilian flag. 
 ----------
+ * **pobre** :: destitute (adjective)
+ * A maioria da população é pobre. 
+ * The majority of the population is destitute. 
+----------
  * **cor-de-rosa** :: pink (adjective)
  * Todo o guarda-roupa dela é cor-de-rosa. 
  * Her whole wardrobe is pink. 
+----------
+ * **condizer** :: to match (verb)
+ * Sua versão dos acontecimentos não condiz com a verdade. 
+ * Her version of the events does not match up with the truth. 
 ----------
  * **adorar** :: to adore (expression)
  * Meus filhos adoram sair para brincar. 
  * My children love to go out to play. 
 ----------
+ * **ir acampar** :: to go camping (expression)
+ * Eu ia acampar quando era criança. 
+ * I used to go camping as a child. 
+----------
  * **aniversário** :: birthday (noun)
  * Feliz aniversário! 
  * Happy birthday! 
 ----------
+ * **parar de chover** :: to stop raining (expression)
+ * Quando parar de chover vamos fazer uma caminhada. 
+ * When it stops raining we will go for a walk. 
+----------
  * **errado** :: wrong (adjective)
  * Eu disse que ele estava errado. 
  * I told you he was wrong. 
+----------
+ * **contanto que** :: as long as (conjunction)
+ * Não me importo com a aparência do quarto, contanto que seja limpo. 
+ * I don't care how the room looks as long as it is clean. 
 ----------
  * **também** :: too/as well (adverb)
  * Eu gosto de filme romântico também. 

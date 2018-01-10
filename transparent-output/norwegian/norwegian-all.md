@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -31,9 +31,21 @@
  * Jeg forstår dessverre kun litt norsk. 
  * I only understand a little Norwegian, unfortunately. 
 ----------
+ * **dessverre** :: unfortunately (adverb)
+ * Jeg forstår dessverre kun litt norsk. 
+ * I only understand a little Norwegian, unfortunately. 
+----------
  * **knapt** :: hardly (adverb)
  * I 1993 kostet en datamaskin over 3000 kr. Nå er prisen knapt 3000 kr. 
  * In 1993 a computer cost over 3,000 kroner. Now the price is hardly 3,000 kroner. 
+----------
+ * **knapt** :: hardly (adverb)
+ * I 1993 kostet en datamaskin over 3000 kr. Nå er prisen knapt 3000 kr. 
+ * In 1993 a computer cost over 3,000 kroner. Now the price is hardly 3,000 kroner. 
+----------
+ * **hjemme** :: at home (adverb)
+ * Det er ingen andre hjemme nå. 
+ * There isn't anyone one else home now. 
 ----------
  * **hjemme** :: at home (adverb)
  * Det er ingen andre hjemme nå. 
@@ -43,6 +55,14 @@
  * Vi har ingen mat og vi sulter i hjel. 
  * We have no food and are starving to death. 
 ----------
+ * **til det ytterste** :: to the extreme (adverb)
+ * Vi har ingen mat og vi sulter i hjel. 
+ * We have no food and are starving to death. 
+----------
+ * **Østersjøen** :: Baltic Sea (noun)
+ * Den 28. september 1994 sank ferga "Estonia" i Østersjøen. 
+ * The ferryboat "Estonia" sank in the Baltic Sea on September 28, 1994. 
+----------
  * **Østersjøen** :: Baltic Sea (noun)
  * Den 28. september 1994 sank ferga "Estonia" i Østersjøen. 
  * The ferryboat "Estonia" sank in the Baltic Sea on September 28, 1994. 
@@ -50,6 +70,14 @@
  * **tåre** :: tear (noun)
  * Etter at jeg leste den triste historien, hadde jeg tårer i øynene. 
  * After I read that sad story, I had tears in my eyes. 
+----------
+ * **tåre** :: tear (noun)
+ * Etter at jeg leste den triste historien, hadde jeg tårer i øynene. 
+ * After I read that sad story, I had tears in my eyes. 
+----------
+ * **dugnad** :: community service volunteer project (noun)
+ * En dugnad holdes hver onsdag for å vedlikeholde fellesområdene. 
+ * A community work period is held each Wednesday to maintain the common areas. 
 ----------
  * **dugnad** :: community service volunteer project (noun)
  * En dugnad holdes hver onsdag for å vedlikeholde fellesområdene. 

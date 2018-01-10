@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -31,29 +31,57 @@
  * स्वास्थ्य दुनिया की किसी भी दौलत से बेहतर है। 
  * Health is better than wealth. 
 ----------
+ * **ब्लॉक करना** :: to block (verb)
+ * मित्र, तुमने मुझे ट्विटर पर ब्लॉक क्यों कर दिया? 
+ * Why'd you block me on Twitter, friend? 
+----------
  * **हंसना** :: laughter (noun)
  * हंसना सबसे बढ़िया दवाई है। 
  * Laughter is the best medicine. 
+----------
+ * **धैर्य** :: patience (noun)
+ * धैर्य एक सदगुण है। 
+ * Patience is a virtue. 
 ----------
  * **नैपकिन** :: napkin (noun)
  * कृपया, क्या तुम मुझे एक नैपकिन ला दोगे? 
  * Can you bring me another napkin, please? 
 ----------
+ * **जोखिम उठाना** :: to venture (verb)
+ * जोखिम उठाए बिना कुछ हासिल नहीं होता। 
+ * Nothing ventured, nothing gained. 
+----------
  * **गुस्सा** :: anger (noun)
  * गुस्से के कारण आपे से बाहर न हो जाओ। 
  * Don't get carried away by anger. 
+----------
+ * **पढ़ना** :: to study (verb)
+ * मुझे कल की परीक्षा के लिए पढ़ना है। 
+ * I have to study for tomorrow's exam. 
 ----------
  * **माफ करना** :: to forgive (verb)
  * गलती करना मानवीय स्वभाव है, लेकिन क्षमा कर देना ईश्वरीय गुण है। 
  * To err is human, to forgive divine. 
 ----------
+ * **सिरदर्द** :: headache (noun)
+ * मैं सिरदर्द से पीड़ित हूँ। 
+ * I am suffering from a headache. 
+----------
  * **तनाव** :: stress (noun)
  * अत्यधिक तनाव के कारण मैं सो नहीं पा रही हूँ। 
  * I'm under too much stress to sleep. 
 ----------
+ * **प्याज़** :: onion (noun)
+ * मुझे सलाद और सैंडविच में कच्चा प्याज़ बिलकुल पसन्द नहीं! 
+ * I hate raw onion in salads and sandwiches! 
+----------
  * **दीवारें** :: the walls (noun)
  * दीवारों के भी कान होते हैं। 
  * The walls have ears. 
+----------
+ * **फ्राइज़** :: fries (noun)
+ * क्या आपको इसके साथ फ्राइज़ चाहिए? 
+ * Do you want fries with that? 
 ----------
  * **बात करना** :: to talk (verb)
  * यह तो ऐसा है जैसे कि दीवार से बातें करना। 

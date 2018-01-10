@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -31,29 +31,57 @@
  * Ho perso un orecchino nell'erba; è meglio se lo cerco prima che faccia buio. 
  * I've lost an earring in the grass; I had better look for it before it gets dark. 
 ----------
+ * **agitare** :: to shake (verb)
+ * Ricorda di agitare bene il composto prima dell'uso. 
+ * Remember to shake the compound well before using it. 
+----------
  * **stradale** :: road (adjective)
  * I cartelli stradali non erano chiari e ci siamo persi. 
  * The road signs weren't clear so we got lost. 
+----------
+ * **ieri** :: yesterday (adverb)
+ * So cosa faccio, non sono nata ieri! 
+ * I know what I am doing; I wasn't born yesterday! 
 ----------
  * **bere** :: to drink (verb)
  * Ieri sera ho bevuto troppo vino ed oggi ho un forte mal di testa. 
  * Last night I drank too much wine, and today I have a horrible headache. 
 ----------
+ * **L'estraneo** :: stranger (noun)
+ * Non invitare estranei a casa, per favore. 
+ * Please do not invite strangers into the house. 
+----------
  * **scoprire** :: to realize (verb)
  * Ogni giorno scopro di amarti più del giorno prima. Buon San Valentino! 
  * Every day I realize that I love you more than the day before. Happy St. Valentine's Day. 
+----------
+ * **addormentarsi** :: to fall asleep (verb)
+ * Ti sei addormentato durante il concerto! E hai russato! 
+ * You fell asleep during the concert! And you snored! 
 ----------
  * **togliere** :: to remove (verb)
  * Togliere le melanzane dal forno dopo mezz'ora e servirle subito. 
  * Remove the eggplant from the oven after half an hour, and serve them immediately. 
 ----------
+ * **mangiare** :: to eat (verb)
+ * Andrete a mangiare fuori per il tuo compleanno? 
+ * Will you go out to eat on your birthday? 
+----------
  * **alto** :: high (adjective)
  * Il Monte Bianco, con i suoi 4810 metri, è la vetta più alta d'Italia. 
  * Mont Blanc, at 4,810 meters, is the highest peak in Italy. 
 ----------
+ * **salvare** :: to save (verb)
+ * I pescatori hanno salvato tutti i naufraghi. 
+ * The fishermen saved all the shipwrecks. 
+----------
  * **così** :: like that (adverb)
  * Non rimproverarlo così, non l'ha fatto apposta! 
  * Don't scold him like that, he didn't do it on purpose! 
+----------
+ * **trovare** :: to find (verb)
+ * Ho trovato un portafoglio con dentro una carta di credito. 
+ * I found a wallet with a credit card inside. 
 ----------
  * **La nebbia** :: fog (noun)
  * In autunno c'è sempre una fitta nebbia in questa regione. 

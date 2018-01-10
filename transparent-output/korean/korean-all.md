@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -31,29 +31,57 @@
  * 미술가는 훌륭한 그림을 그렸습니다. 
  * The artist drew an excellent figure. 
 ----------
+ * **낙하산** :: parachute (noun)
+ * 낙하산이 펴지지 않으면 어떻게 되는 거죠? 
+ * What would happen if the parachute doesn't open? 
+----------
  * **훼손하다** :: to damage (verb)
  * 그 소포를 훼손하지 마세요. 
  * Do not damage the package. 
+----------
+ * **정말 귀엽다!** :: How cute! (expression)
+ * 얘가 네 아들이야? 정말 귀엽다! 
+ * Is that your son? How cute! 
 ----------
  * **차이** :: difference (noun)
  * 하루로 이렇게 차이가 나다니! 
  * What a difference a day makes! 
 ----------
+ * **오리 새끼** :: duckling (noun)
+ * 그 미운 오리 새끼가 자라서 아름다운 백조가 되었어요. 
+ * The ugly duckling grew up to be a beautiful swan. 
+----------
  * **나누다** :: to divide (verb)
  * 케익을 똑같이 나누자. 
  * Let's divide the cake into equal parts. 
+----------
+ * **시동을 걸다** :: to start (verb)
+ * 차에 시동이 걸리지 않아. 
+ * The car won't start. 
 ----------
  * **주다** :: to give (verb)
  * 그녀의 생일에 무엇을 주었니? 
  * What did you give her for her birthday? 
 ----------
+ * **정말 멋있어!** :: How cool! (expression)
+ * 애플의 새 상품은 정말 멋있어?! 
+ * How cool is Apple's new product?! 
+----------
  * **의심하다** :: to doubt (verb)
  * 측정의 정확성을 의심합니다. 
  * I doubt the accuracy of the measurements. 
 ----------
+ * **헤어드라이어** :: hairdryer (noun)
+ * 헤어드라이어를 사용하지 않으면 내 머리는 보기 싫을 거야. 
+ * If I don't use a hairdryer my hair won't look good. 
+----------
  * **샤워하다** :: to shower (verb)
  * 윗층 화장실에서 샤워하세요. 
  * You can shower in the bathroom upstairs. 
+----------
+ * **큰 소리로 웃다** :: to laugh out loud (expression)
+ * 사진을 봤을 때 우리는 큰 소리로 웃었습니다. 
+ * When we saw the picture, we laughed out loud. 
 ----------
  * **설명하다** :: to explain (verb)
  * 한 번 더 풀이법을 설명해 보세요. 

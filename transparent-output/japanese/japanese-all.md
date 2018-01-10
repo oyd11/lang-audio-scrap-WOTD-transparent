@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -45,11 +45,23 @@
  * Ryokou no ato wa, tomodachi ni omiyage o wasurenaide. 
  * Remember to bring a souvenir for your friends after returning from traveling. 
 ----------
+ * **割り勘** :: splitting of the bill (noun)
+ * **warikan** 
+ * 割り勘で払おう。 
+ * Warikan de haraou. 
+ * Let's split the bill. 
+----------
  * **懐かしい** :: to remind oneself of (adjective)
  * **natsukashii** 
  * 母の料理が懐かしい。 
  * Haha no ryouri ga natsukashii. 
  * It reminds me of my mother's cooking. 
+----------
+ * **エンタメ** :: entertainment (noun)
+ * **entame** 
+ * 今日のエンタメニュースをまだ読んでいない。 
+ * Kyou no entame nyûsu o mada yonde inai. 
+ * I have not yet read the entertainment news today. 
 ----------
  * **菓子** :: sweets (noun)
  * **kashi** 
@@ -57,11 +69,23 @@
  * Okashi o tabesugi naide. 
  * Do not eat too many sweets for a snack. 
 ----------
+ * **ゲットする** :: to get (verb)
+ * **getto suru** 
+ * コンサートのチケットをゲットした。 
+ * Konsâto no chiketto o getto shitayo. 
+ * I got the ticket for the concert. 
+----------
  * **幸せ** :: happiness (adjective)
  * **shiawase** 
  * 子供に恵まれてとても幸せです。 
  * Kodomo ni megumarete totemo shiawase desu. 
  * I am very happy to have my children. 
+----------
+ * **敵** :: enemy (noun)
+ * **teki** 
+ * 彼を敵にまわさないほうがいいですよ。 
+ * Kare o teki ni mawasanai houga iidesuyo. 
+ * Do not make him your enemy. 
 ----------
  * **古い** :: old (adjective)
  * **furui** 
@@ -69,17 +93,35 @@
  * Ano ojiisan no kangaekata wa furui. 
  * The grandpa's way of thinking is old. 
 ----------
+ * **味方** :: ally (noun)
+ * **mikata** 
+ * 彼が私たちの味方だ。 
+ * Karega watashitachi no mikata da. 
+ * He is our ally. 
+----------
  * **定年** :: retirement (noun)
  * **teinen** 
  * この会社の定年は65歳です。 
  * Kono kaisha no teinen wa 65 sai desu. 
  * This company's retirement age is 65. 
 ----------
+ * **留学する** :: to study abroad (verb)
+ * **ryuugaku suru** 
+ * フランスに留学してみたい。 
+ * Furansu ni ryuugaku shite mitai. 
+ * I would like to study abroad in France. 
+----------
  * **願書** :: application (noun)
  * **gansho** 
  * 願書の締め切りは明日です。 
  * Gansho no shimekiri wa asu desu. 
  * The deadline of the application is tomorrow. 
+----------
+ * **感謝する** :: to appreciate (verb)
+ * **kansha suru** 
+ * 両親に感謝しています。 
+ * Ryoushin ni kansha shite imasu. 
+ * I really appreciate my parents. 
 ----------
  * **稼ぐ** :: to earn money (verb)
  * **kasegu** 

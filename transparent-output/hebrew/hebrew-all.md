@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -31,29 +31,57 @@
  * הוא נראה קצת מרושע עם זקן תיש. 
  * He looks kind of sinister with a goatee. 
 ----------
+ * **הבדל** :: difference (noun)
+ * זה הבדל של יום ולילה. 
+ * What a difference a day makes! 
+----------
  * **גופה** :: corpse (noun)
  * המשטרה מצאה שתי גופות בזירת הפשע. 
  * The police found two corpses at the scene of the crime. 
+----------
+ * **לחלק** :: to divide (verb)
+ * בוא נחלק את העוגה לחלקים שווים. 
+ * Let's divide the cake into equal parts. 
 ----------
  * **לבחור** :: to select (verb)
  * בתפריט הראשי יש לבחור "אפשרויות". 
  * From the main menu, select "options". 
 ----------
+ * **לתת** :: to give (verb)
+ * מה נתת לה ליום ההולדת שלה? 
+ * What did you give her for her birthday? 
+----------
  * **מזל רע** :: bad luck (expression)
  * אם לא היה לי מזל רע, לא היה לי מזל בכלל! 
  * If it weren't for bad luck, I'd have no luck at all! 
+----------
+ * **לפקפק** :: to doubt (verb)
+ * אני מפקפקת בדיוקן של המידות. 
+ * I doubt the accuracy of the measurements. 
 ----------
  * **כבד** :: liver (noun)
  * אלכוהול עלול להזיק לכבד. 
  * Alcohol can be harmful to the liver. 
 ----------
+ * **להתקלח** :: to shower (verb)
+ * אתה יכול להתקלח בחדר האמבטיה למעלה. 
+ * You can shower in the bathroom upstairs. 
+----------
  * **לחלוט** :: to brew (verb)
  * צריך לחלוט את התה קצת יותר זמן. 
  * The tea has to brew for a little bit longer. 
 ----------
+ * **להסביר** :: to explain (verb)
+ * הסבר לי את הפתרון עוד פעם. 
+ * Explain the solution to me one more time. 
+----------
  * **קצב** :: butcher (noun)
  * לקצב המקומי יש תמיד את נתחי הבשר הטובים ביותר. 
  * The local butcher always has the best cuts of meat. 
+----------
+ * **זר** :: alien (adjective)
+ * המנהגים שלנו נראים לך לבטח זרים. 
+ * Our customs must seem alien to you. 
 ----------
  * **סרט** :: movie (noun)
  * זה הצליח בסרט! 

@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -31,29 +31,57 @@
  * Behåll växeln, vännen. 
  * Keep the change, friend. 
 ----------
+ * **(en) bit** :: piece (noun)
+ * Jag skulle vilja ha en liten bit tårta, tack. 
+ * I would like a small piece of cake, please. 
+----------
  * **att explodera** :: to explode (verb)
  * Hans nya uppfinning exploderade på bara några minuter. 
  * His new invention exploded within minutes. 
+----------
+ * **först** :: at first (expression)
+ * Först visste jag inte vad jag skulle säga. 
+ * At first I didn't know what to say. 
 ----------
  * **att kamma** :: to comb (verb)
  * Kamma ditt hår i duschen för att spara tid. 
  * Comb your hair in the shower to save time. 
 ----------
+ * **(en) brist** :: shortage (noun)
+ * I Europa råder det brist på bostäder. 
+ * In Europe there is housing shortage. 
+----------
  * **komisk** :: comical (adjective)
  * Hon uttrycker sig på ett komiskt sätt. 
  * She has a comical way of saying things. 
+----------
+ * **till slut** :: in the end (expression)
+ * Till slut var jag tvungen att erkänna att han hade rätt. 
+ * In the end I had to admit that he was right. 
 ----------
  * **vanlig** :: common (adjective)
  * I Sverige är det vanligt att äta pasta med ketchup. 
  * In Sweden it is common to eat pasta with ketchup. 
 ----------
+ * **blyg** :: shy (adjective)
+ * Att skaffa vänner är svårt när man är extremt blyg. 
+ * Making friends is hard when you are painfully shy. 
+----------
  * **att ansluta** :: to connect (verb)
  * Teknikern ska ansluta kablarna till cd-spelaren. 
  * The technician will connect the cables to the CD player. 
 ----------
+ * **(en) blomma** :: flower (noun)
+ * En hemlig beundrare har skickat mig blommor! 
+ * A secret admirer has sent me flowers! 
+----------
  * **att underhålla** :: to maintain (verb)
  * Simon är den som underhåller nätverket. 
  * Simon is the one who maintains the network. 
+----------
+ * **än** :: yet (adverb)
+ * Hon har inte gått än. 
+ * She hasn't gone yet. 
 ----------
  * **att fundera på** :: to consider (verb)
  * Jag funderar på att åka till Ryssland nästa månad. 

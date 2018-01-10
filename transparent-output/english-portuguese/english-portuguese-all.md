@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -31,29 +31,57 @@
  * I saw some ancient ruins in Mexico. 
  * Eu vi umas ruínas antigas no México. 
 ----------
+ * **husband** :: marido (noun)
+ * Have you met my husband? He's over there. 
+ * Você ja conheceu meu marido? Ele está ali. 
+----------
  * **to appear** :: aparecer (verb)
  * Your name does not appear on the list. 
  * Teu nome não aparece na lista. 
+----------
+ * **eye-catching** :: chamativo (adjective)
+ * She is wearing an eye-catching dress. 
+ * Ela está usando um vestido muito chamativo. 
 ----------
  * **slippery** :: escarregadio (adjective)
  * The streets are slippery this morning. 
  * As ruas estão escarregadias hoje de manhã. 
 ----------
+ * **year** :: ano (noun)
+ * The new year will begin soon. 
+ * O ano novo irá começar em breve. 
+----------
  * **to run over** :: atropelar (verb)
  * People who drive fast run over small animals. 
  * As pessoas que dirigem rápido atropelam os animais pequenos. 
+----------
+ * **Christmas** :: Natal (noun)
+ * Christmas is on December 25. 
+ * O Natal é no dia 25 de Dezembro. 
 ----------
  * **clever** :: esperto (adjective)
  * The detective is very clever when searching for criminals. 
  * O detetive é muito esperto quando busca os crimosos. 
 ----------
+ * **orange** :: laranja (adjective)
+ * My pumpkin is very orange. 
+ * Minha abóbora é muito laranja. 
+----------
  * **to count** :: contar (verb)
  * The vendor counts her money. 
  * O vendedor conta seu dinheiro. 
 ----------
+ * **bratty** :: moleque (adjective)
+ * The boys who are shouting at the girls are very bratty. 
+ * Os garotos que estão gritando com as meninas são muito moleques. 
+----------
  * **walk** :: passeio (noun)
  * My friends and I go for walks around town. 
  * Meus amigos e eu fazemos passeios na cidade. 
+----------
+ * **affectionately** :: carinhosamente (adverb)
+ * He welcomed us very affectionately. 
+ * Ele nos recebeu muito carinhosamente 
 ----------
  * **wart** :: verruga (noun)
  * The thief has several warts on his face. 

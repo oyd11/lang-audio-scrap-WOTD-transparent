@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -31,29 +31,57 @@
  * Признаюсь, это заманчивое предложение. 
  * I admit, it is an attractive offer. 
 ----------
+ * **избавиться (от кого-то)** :: to get rid (of somebody) (verb)
+ * Политик избавился от своего конкурента. 
+ * The politician got rid of his rival. 
+----------
  * **начальник** :: boss (noun)
  * Начальник обходится с нами вежливо. 
  * Our boss treats us courteously. 
+----------
+ * **смехотворный** :: ridiculous (adjective)
+ * Её ответы были смехотворны. 
+ * Her replies were ridiculous. 
 ----------
  * **лошадь** :: horse (noun)
  * Я всмотрелась и увидела прямо передо собой лошадь. 
  * I looked, and before me was a horse! 
 ----------
+ * **оставить сдачу себе** :: to keep the change (phrase)
+ * Друг, оставь себе сдачу. 
+ * Keep the change, friend. 
+----------
  * **сидр** :: cider (noun)
  * Они продают сладкий яблочный сидр. 
  * They sell sweet apple cider. 
+----------
+ * **взрываться** :: to explode (verb)
+ * Его последнее изобретение взорвалось в первые же минуты. 
+ * His new invention exploded within minutes. 
 ----------
  * **альбом на память** :: scrapbook (noun)
  * Я сделала альбом на память о нашем отпуске. 
  * I made a scrapbook of our last vacation. 
 ----------
+ * **расчёсывать** :: to comb (verb)
+ * Расчёсывая волосы в душе, вы экономите время. 
+ * Comb your hair in the shower to save time. 
+----------
  * **сигара** :: cigar (noun)
  * Сигары являются одним из основных экспортных товаров Кубы. 
  * Cigars are one of Cuba's largest exports. 
 ----------
+ * **забавный** :: comical (adjective)
+ * Она забавно разговаривает. 
+ * She has a comical way of saying things. 
+----------
  * **обнять** :: to hug (verb)
  * Девочка обняла плюшевого мишку. 
  * The young girl hugged her teddy bear. 
+----------
+ * **обыкновенный** :: common (adjective)
+ * Зарянка обыкновенная - предвестник весны. 
+ * The common robin is said to be a harbinger of spring. 
 ----------
  * **разделывать** :: to carve (verb)
  * Он разделал жареное мясо с точностью и умением хирурга. 

@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -31,29 +31,57 @@
  * Yangın yayılmadı, çünkü yağmurlama sistemi aktifleşti. 
  * The fire did not spread because the sprinklers were activated. 
 ----------
+ * **çaydanlık** :: kettle (noun)
+ * Çaydanlığın düdüğü öttü mü? 
+ * Has the kettle whistled yet? 
+----------
  * **kayalık** :: cliff (noun)
  * İngiltere'ye ziyaretimiz sırasında, Dover kayalıklarını ziyaret ettik. 
  * During our trip around England we visited the cliffs of Dover. 
+----------
+ * **bot** :: boot (noun)
+ * Botların holde. 
+ * Your boots are in the entry hall. 
 ----------
  * **aramak** :: to call (verb)
  * Bu akşam beni ararsan bir plan yaparız. 
  * If you call me tonight, we'll make plans then. 
 ----------
+ * **tuğla** :: brick (noun)
+ * Canın sıkıldıysa, duvardaki tuğlaları say. 
+ * Count the bricks in the wall if you're bored. 
+----------
  * **uçuş kartı** :: boarding pass (noun)
  * Gişeye geldiğinizde, lütfen uçuş kartınız hazır olsun. 
  * Please, have your boarding pass ready at the counter. 
+----------
+ * **fırçalamak** :: to brush (verb)
+ * Saçını fırçalaması gerek. 
+ * She needs to brush her hair. 
 ----------
  * **ipucu vermek** :: to give a hint (verb)
  * Bana çok güzel bir ipucu verdi. 
  * He gave me a very good hint. 
 ----------
+ * **yakmak** :: to burn (verb)
+ * Kazara bifteği yaktık. 
+ * We accidentally burned the steak. 
+----------
  * **arayüz** :: interface (noun)
  * Programın çok güzel bir kullanıcı arayüzü var. 
  * The program has a very nice user interface. 
 ----------
+ * **ahır** :: stable (noun)
+ * Atlar ahırda yaşar. 
+ * Their horses live in the stable. 
+----------
  * **artık yıl** :: leap year (noun)
  * Gelecek yıl, artık yıl olacak. 
  * Next year is a leap year. 
+----------
+ * **şampanya** :: champagne (noun)
+ * Sen şampanyayı getir, biz çilekleri alırız. 
+ * Bring champagne, we'll supply the strawberries. 
 ----------
  * **manşet** :: headline (noun)
  * Bu sabah manşetleri gördün mü? 

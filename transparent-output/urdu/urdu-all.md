@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -31,29 +31,57 @@
  * مجھے گرل پر پکی مچھلی پسند ہے. 
  * I like fish cooked on the grill. 
 ----------
+ * **تاریخ انتہاء** :: expiration date (noun)
+ * اس دودھ کی تاریخ انتہاء آئی اور چلی گئی! 
+ * This milk's expiration date has come and gone! 
+----------
  * **دلدل** :: swamp (noun)
  * پولیس کو دلدل میں مجرم نہیں ملا،لیکن کیڑوں کو مل گیا. 
  * The police didn't find the convict in the swamp, but the bugs did. 
+----------
+ * **سنیک** :: snack (noun)
+ * بریک کے دوران، سنیکس پیش کیے گئے. 
+ * During the break, snacks were served. 
 ----------
  * **بچپن** :: childhood (noun)
  * مجھے بچپن کا تمام فارغ وقت یاد آتا ہے. 
  * I miss all the free time I had in childhood. 
 ----------
+ * **آیا** :: nanny (noun)
+ * مطلوب: دو بچوں کے لئے آیا. 
+ * Wanted: nanny for two kids. 
+----------
  * **سوچ میں گم ہونا** :: to be lost in thought (verb)
  * کیا کہا تم نے؟ میں معافی چاہتا ہوں، میں سوچ میں گم گیا تھا. 
  * What did you say? I'm sorry, I was lost in thought. 
+----------
+ * **شروع سے آخر تک** :: from beginning to end (expression)
+ * میں نے اسے دو مرتبہ پڑھا شروع سے آخر تک. 
+ * I read it from beginning to the end twice. 
 ----------
  * **موقع** :: chance (noun)
  * میں اپنے مستقبل کو اتفاق پر نہیں چھوڑوں گا. 
  * I will not leave my future up to chance. 
 ----------
+ * **شروع سے شروع کرنا** :: to start from scratch (expression)
+ * باہر منتقل ہونا شروع سے شروع کرنےکی طرح ہے. 
+ * Moving out is like starting from scratch. 
+----------
  * **کسی کے بارے میں دیوانہ ہونا** :: to be crazy about (expression)
  * میں اس گانے کے بارے میں دیوانہ ہوں! 
  * I'm crazy about this song! 
 ----------
+ * **نَجُومی** :: fortune teller (noun)
+ * نَجُومی نے آپ کی کامیابی کی پیشن گوئی کی. 
+ * The fortune teller predicted your success. 
+----------
  * **احساس** :: feeling (noun)
  * ہمیں اپنے احساسات کے بارے میں بات کرنے کی ضرورت ہے. 
  * We need to talk about our feelings. 
+----------
+ * **سیاہی** :: inky (adjective)
+ * سياہ رات کے آسمان میں ستارے نہیں تھے. 
+ * The inky night sky had no stars. 
 ----------
  * **کتوں کو چھوڑنا (کسی پر)** :: to set the dogs (on someone) (expression)
  * میرے باغ سے باہر نکل جاو ورنہ میں تم پر کتے چھوڑ دوں گا! 

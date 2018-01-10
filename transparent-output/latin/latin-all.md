@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -31,29 +31,57 @@
  * Cras amet qui numquam amavit. 
  * May he love tomorrow who has never loved before. 
 ----------
- * **acer** :: sharp (adjective)
- * Cicero nomina omnium civium acri memoria tenebat. 
- * Cicero used to keep the names of all the citizens in his sharp memory. 
-----------
- * **sapiens** :: wise person (noun)
- * Dictum sapienti sat est. 
- * A word to a wise person is sufficient. 
-----------
  * **monstrum** :: monster, omen (noun)
  * Cyclops erat monstrum horrendum, informe, ingens. 
  * The Cyclops was a horrible, hideous, and huge monster. 
+----------
+ * **acer** :: sharp (adjective)
+ * Cicero nomina omnium civium acri memoria tenebat. 
+ * Cicero used to keep the names of all the citizens in his sharp memory. 
 ----------
  * **subito** :: suddenly (adverb)
  * Difficile est longum subito deponere amorem. 
  * It is difficult to give up a long love suddenly. 
 ----------
+ * **sapiens** :: wise person (noun)
+ * Dictum sapienti sat est. 
+ * A word to a wise person is sufficient. 
+----------
  * **varius** :: varying, fickle (adjective)
  * "Varium et mutabile semper femina." - Aenedia Vergilii 
  * "A woman is always a fickle and changeable thing." - Vergil's Aeneid 
 ----------
+ * **monstrum** :: monster, omen (noun)
+ * Cyclops erat monstrum horrendum, informe, ingens. 
+ * The Cyclops was a horrible, hideous, and huge monster. 
+----------
  * **felix** :: happy, fortunate (adjective)
  * Felix qui potuit rerum cognoscere causas. 
  * Happy is the person who has been able to learn the causes of things. 
+----------
+ * **subito** :: suddenly (adverb)
+ * Difficile est longum subito deponere amorem. 
+ * It is difficult to give up a long love suddenly. 
+----------
+ * **poeticus** :: poetic (adjective)
+ * Ars poetica est non omnia dicere. 
+ * The poetic art is not to say everything. 
+----------
+ * **varius** :: varying, fickle (adjective)
+ * "Varium et mutabile semper femina." - Aenedia Vergilii 
+ * "A woman is always a fickle and changeable thing." - Vergil's Aeneid 
+----------
+ * **lapis** :: stone (noun)
+ * Gutta cavat lapidem, non vi sed saepe cadendo. 
+ * The drop hollows out the stone, not with force but by falling often. 
+----------
+ * **felix** :: happy, fortunate (adjective)
+ * Felix qui potuit rerum cognoscere causas. 
+ * Happy is the person who has been able to learn the causes of things. 
+----------
+ * **beatus** :: blessed, happy, fortunate (adjective)
+ * Nihil est ab omni parte beatum. 
+ * Nothing is fortunate in every part. 
 ----------
  * **poeticus** :: poetic (adjective)
  * Ars poetica est non omnia dicere. 

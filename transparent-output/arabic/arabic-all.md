@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -31,29 +31,57 @@
  * هذا المطعم يقدم دجاجاً مشوياً لذيذاً. 
  * This restaurant serves delicious grilled chicken. 
 ----------
+ * **حكيم** :: wise (adjective)
+ * والدي رجل حكيم. 
+ * My father is a wise man. 
+----------
  * **بوظة** :: ice cream (noun)
  * هل تفضل بوظة الفراولة أو الفانيليا؟ 
  * Do you prefer vanilla or strawberry ice cream? 
+----------
+ * **خطأ** :: wrong (adjective)
+ * أنا آسف ، حكمكم خطأ. 
+ * I am sorry, your judgment is wrong. 
 ----------
  * **حذاء رياضي** :: sneakers (noun)
  * هذا الحذاء الرياضي مريح. 
  * Those sneakers are comfortable. 
 ----------
+ * **دقيق** :: accurate (adjective)
+ * الرجاء ، كن دقيقاً! 
+ * Please, be accurate! 
+----------
  * **أردني** :: Jordanian (adjective)
  * أمس ، شاهدتُ فيلماً أردنياً. 
  * Yesterday, I watched a Jordanian movie. 
+----------
+ * **بينما** :: while (adverb of time)
+ * كان يغني بينما كنتُ أعمل. 
+ * He was singing while I was working. 
 ----------
  * **أمريكيّ** :: American (adjective)
  * العلمُ الاميركيّ أزرق وأحمر وأبيض. 
  * The American flag is blue, red, and white. 
 ----------
+ * **طوال** :: throughout (adverb of time)
+ * الجرّاحُ عمل طوال الليل. 
+ * The surgeon worked throughout the night. 
+----------
  * **فرنسيّ** :: French (adjective)
  * منطقة بوردو تنتج أفضل نبيذ فرنسيّ. 
  * The region of Bordeaux produces the best French wine. 
 ----------
+ * **خلف** :: behind (adverb of place)
+ * الكنيسة خلف مركز الشرطة. 
+ * The church is behind the police station. 
+----------
  * **سعودية** :: Saudi (adjective)
  * الحكومة السعودية صوتت على القانون الجديد. 
  * The Saudi government voted on the new law. 
+----------
+ * **فوق** :: above (adverb of place)
+ * يعيش صديقي في منزلٍ فوق المخبز. 
+ * My friend lives in a house above the bakery. 
 ----------
  * **مغربية** :: Moroccan (adjective)
  * هي حضّرتْ وجبة مغربية. 

@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -31,29 +31,57 @@
  * Mijn appartement is op de begane grond. 
  * My apartment is on the first floor. 
 ----------
+ * **geraamte** :: skeleton (noun)
+ * We hebben achter in de tuin het skelet van een hond gevonden. 
+ * We found the skeleton of a dog in the back yard. 
+----------
  * **duizend** :: thousand (determiner)
  * Er zijn wel duizend redenen om het te doen. 
  * There are a thousand reasons to do it. 
+----------
+ * **goudsmid** :: goldsmith (noun)
+ * De goudsmid was bezig met het maken van een prachtige ring. 
+ * The goldsmith was working on a beautiful ring. 
 ----------
  * **het zweet** :: sweat (noun)
  * Ik druip van het zweet na het joggen. 
  * I am dripping with sweat after jogging. 
 ----------
+ * **hangslot** :: padlock (noun)
+ * De dieven hadden het hangslot van de schuur kapot gemaakt. 
+ * The thieves had broken the padlock of the shed. 
+----------
  * **het hoofdstuk** :: chapter (noun)
  * Dit hoofdstuk is heel interessant. 
  * This chapter is very interesting. 
+----------
+ * **hommel** :: bumblebee (noun)
+ * Hommels vliegen van bloem naar bloem en zijn minder agressief dan bijen. 
+ * Bumblebees fly from flower to flower and are less aggressive than bees. 
 ----------
  * **bitter** :: bitter (adjective)
  * Ik hou niet van bittere koffie, ik drink het liever met een beetje suiker. 
  * I don't like bitter coffee, I prefer it with a bit of sugar. 
 ----------
+ * **ijsvogel** :: kingfisher (noun)
+ * In de Aqua Zoo in Leeuwarden hebben we een ijsvogel gezien. 
+ * In the Aqua Zoo in Leeuwarden we saw a kingfisher. 
+----------
  * **achterwege laten** :: to dispense with (expression)
  * Laten we de onnodige details achterwege laten. 
  * Let's dispense with the unnecessary details. 
 ----------
+ * **jukbeen** :: cheekbone (noun)
+ * Door de klap werd mijn jukbeen gebroken. 
+ * The force of the hit broke my cheekbone. 
+----------
  * **de emmer** :: bucket (noun)
  * De walrus heeft een emmer. 
  * The walrus has a bucket. 
+----------
+ * **kapmes** :: machete (noun)
+ * Een kapmes is onmisbaar als je door de woeste jungle wilt trekken. 
+ * A machete is a necessary tool to traverse the wild jungle. 
 ----------
  * **de hond** :: dog (noun)
  * De kinderen moeten de hond drie keer per dag uitlaten. 

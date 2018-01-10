@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -31,29 +31,57 @@
  * Les Italiens sont réputés pour être des gens très accueillants. 
  * Italians are known to be very welcoming people. 
 ----------
+ * **par hasard** :: by chance (adverb)
+ * Nous nous sommes rencontrés par hasard chez des amis communs. 
+ * We met by chance at the home of mutual friends. 
+----------
  * **se la couler douce** :: to take it easy (expression)
  * Elle a été renvoyée par son patron car certains de ses collègues disaient qu'elle se la coulait douce. 
  * She was fired by her boss because some of her colleagues said she was taking it easy. 
+----------
+ * **se souvenir** :: to remember (verb)
+ * Je me souviendrai toujours de notre premier rendez-vous galant! 
+ * I will always remember our first date! 
 ----------
  * **autrement** :: otherwise (adverb)
  * Je pensais que ce serait simple, autrement je ne t'aurais pas demander de me remplacer ! 
  * I'd thought it would be simple, otherwise I wouldn't have asked you replace me! 
 ----------
+ * **amoureux** :: in love (adjective)
+ * Il est très amoureux de cette jeune fille. 
+ * He is very in love with this girl. 
+----------
  * **se tourner les pouces** :: to twiddle one's thumbs (expression)
  * Nous déménageons ! Tu ferais mieux de nous aider au lieu de te tourner les pouces ! 
  * We're moving! You'd better help us instead of twiddling your thumbs! 
+----------
+ * **surprendre** :: to surprise (verb)
+ * Il veut surprendre sa fiancée en lui préparant un repas aux chandelles. 
+ * He wants to surprise his fiancée by preparing a candlelight dinner. 
 ----------
  * **les fiançailles** :: engagement (noun)
  * La fête de fiançailles de mes voisins était particulièrement réussie ! 
  * My neighbor's engagement party was a great success! 
 ----------
+ * **l'employé de bureau** :: office employee (noun)
+ * Il est employé de bureau chez IBM. 
+ * He is an office employee at IBM. 
+----------
  * **l'âme sœur** :: soul mate (noun)
  * De nombreuses agences matrimoniales vous promettent de trouver l'âme sœur, mais ce n'est pas une tâche aisée. 
  * Many matrimonial agencies promise to find you a soul mate, but this is not an easy task. 
 ----------
+ * **la randonnée** :: hike (noun)
+ * Elle a fait une randonnée de 10 kilomètres dans les montagnes. 
+ * She hiked 10 kilometers in the mountains. 
+----------
  * **exiger** :: to require (verb)
  * Certains jours exigent plus de café que d'autres. 
  * Some days require more coffee than others. 
+----------
+ * **inaugurer** :: to launch (verb)
+ * Ils inaugurent un nouveau magasin chaque mois. 
+ * They launch a new store every month. 
 ----------
  * **tatillon** :: finicky (adverb)
  * Mon nouveau patron est très tatillon, je ne suis pas sûre que nous allons nous entendre. 

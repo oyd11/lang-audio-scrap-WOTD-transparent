@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -31,29 +31,57 @@
  * Ni vetĵetis moneron por decidi. 
  * We flipped a coin to decide. 
 ----------
+ * **magra** :: gaunt (adjective)
+ * La magra kato probable estas forvaginto. 
+ * The gaunt cat is probably a stray. 
+----------
  * **mono** :: money (noun)
  * Neniu ŝajnas havi sufiĉan monon. 
  * Nobody seems to have enough money. 
+----------
+ * **makuli** :: to stain (verb)
+ * Suko de vinbero makulas blankan tapiŝon. 
+ * Grape juice stains white carpet. 
 ----------
  * **mordi** :: to bite (verb)
  * Mia hundo ne mordos vin. 
  * My dog will not bite you. 
 ----------
+ * **malatenta** :: negligent (adjective)
+ * Malatenta veturisto frapis nian aŭton. 
+ * A negligent driver hit our car. 
+----------
  * **moskito** :: mosquito (noun)
  * La moskitoj ne lasas min trankvila! 
  * The mosquitoes will not leave me alone! 
+----------
+ * **malgaja** :: morose (adjective)
+ * Li aspektas malgaja hodiaŭ. 
+ * He appears morose today. 
 ----------
  * **motorciklo** :: motorcycle (noun)
  * Li ŝparis sian monon por aĉeti motorciklo. 
  * He saved his money to buy a motorcycle. 
 ----------
+ * **malkovri** :: to uncover (verb)
+ * Ilia ekspedicio malkovris antikvajn ruinojn. 
+ * Their expedition uncovered ancient ruins. 
+----------
  * **mucida** :: musty (adjective)
  * La malnovaj kurtenoj havas mucidan odoron. 
  * The old curtains have a musty odor. 
 ----------
+ * **mildiĝi** :: to subside (verb)
+ * Mia kapdoloro mildiĝis pasintnokte. 
+ * My headache subsided last night. 
+----------
  * **muelilo** :: mill (noun)
  * La rivera urbo havas multajn malnovajn muelejojn. 
  * The river city has many old mills. 
+----------
+ * **malmunti** :: to take apart (verb)
+ * Li malmuntis la motoron facile. 
+ * He took apart the engine easily. 
 ----------
  * **muldaĵo** :: cast (noun)
  * Muldaĵo kovras lian rompitan brakon. 

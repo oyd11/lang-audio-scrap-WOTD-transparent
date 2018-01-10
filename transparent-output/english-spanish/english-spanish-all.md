@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -31,29 +31,57 @@
  * My parents are going to buy tickets for the flight. 
  * Mis padres van a comprar billetes para el vuelo. 
 ----------
+ * **ice** :: hielo (noun)
+ * We want ice in our drinks. 
+ * Nosotros queremos hielo en nuestras bebidas. 
+----------
  * **to try** :: intentar (verb)
  * I try to study to get good grades. 
  * Yo intento estudiar para sacar buenas notas. 
+----------
+ * **to slip** :: resbalar (verb)
+ * The woman slipped on the ice. 
+ * La mujer resbaló en el hielo. 
 ----------
  * **sticky** :: pegajoso (adjective)
  * The floor is sticky in the supermarket. 
  * El suelo está pegajoso en el supermercado. 
 ----------
+ * **flag** :: bandera (noun)
+ * The American flag has fifty stars. 
+ * La bandera de los estados unidos tiene cincuenta estrellas. 
+----------
  * **seat** :: asiento (noun)
  * The boy cannot stay still in his seat. 
  * El muchacho no puede quedarse tranquilo en su asiento. 
+----------
+ * **lawn gnome** :: gnomo de jardín (noun)
+ * My neighbors have a lawn gnome in their garden. 
+ * Mis vecinos tienen un gnomo de jardín en su patio. 
 ----------
  * **to change** :: cambiar (verb)
  * I have to change my habits. 
  * Yo tengo que cambiar mis hábitos. 
 ----------
+ * **to snow** :: nevar (expression)
+ * It will snow a lot this week. 
+ * Nevará mucho esta semana. 
+----------
  * **stressed** :: estresado (adjective)
  * She is stressed out because of her work. 
  * Ella está muy estresada por su trabajo. 
 ----------
+ * **frozen** :: congelado (adjective)
+ * My hands feel frozen. 
+ * Me siento las manos congeladas. 
+----------
  * **slippery** :: resbaloso (adjective)
  * The streets are slippery this morning. 
  * Las calles están resbalosas esta mañana. 
+----------
+ * **Hanukkah** :: Jánuca (noun)
+ * Jewish people celebrate Hanukkah with a menorah. 
+ * Los judíos celebran Jánuca con una menorá. 
 ----------
  * **ice** :: hielo (noun)
  * We want ice in our drinks. 

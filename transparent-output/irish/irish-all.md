@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -31,29 +31,57 @@
  * Fáilte romhat! 
  * Welcome! 
 ----------
+ * **an Satharn** :: Saturday (noun)
+ * An bhfuil sibh ar oscailt Dé Satharn? 
+ * Are you open on Saturday? 
+----------
  * **Albain** :: Scotland (noun)
  * Tá an deartháir is sine liom ina chónaí in Albain. 
  * My oldest brother lives in Scotland. 
+----------
+ * **an carr** :: car (noun)
+ * Tá mo charr briste. 
+ * My car has broken down. 
 ----------
  * **gairid** :: recently (adverb)
  * Is le gairid a tógadh an teach seo. 
  * This house was built recently. 
 ----------
+ * **an guthán sóghluaiste** :: mobile phone (noun)
+ * An féidir liom do ghuthán sóghluaiste a úsáid? 
+ * May I use your cell phone? 
+----------
  * **inné** :: yesterday (adverb)
  * Chuamar síos tí Choilm inné. 
  * We went down to Colm's house yesterday. 
+----------
+ * **an timpiste** :: accident (noun)
+ * Tharla timpiste. 
+ * There has been an accident. 
 ----------
  * **mall** :: slowly (adverb)
  * Chuaigh sé go mall trí na sráideanna. 
  * He went slowly through the streets. 
 ----------
+ * **an dochtúir** :: doctor (noun)
+ * An bhfuil dochtúir anseo? 
+ * Is there a doctor here? 
+----------
  * **idir** :: between (adverb)
  * Ní fheiceann sé difríocht mhór idir an dá rothar. 
  * He does not see a big difference between the two bicycles. 
 ----------
+ * **an focal** :: word (noun)
+ * Níl an focal sin agam. 
+ * I don't know that word. 
+----------
  * **go mall** :: slowly (adverb)
  * Labhair go mall, le do thoil. 
  * Please speak slowly. 
+----------
+ * **fada** :: long (adjective)
+ * Táimid ag fanacht le fada. 
+ * We have been waiting for a long time. 
 ----------
  * **mór** :: big (adjective)
  * Is comharsanacht mhór í seo. 

@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -31,29 +31,57 @@
  * Napi sarane sane wenten ring villa driki? 
  * What facilities are provided in this villa? 
 ----------
+ * **amoncen** :: how many (biasa (common))
+ * Amongken tiang maan eduman? 
+ * How many shares do I get? 
+----------
  * **dija** :: where (biasa)
  * Ring dija nike kamar tiange? 
  * Where is my room? 
+----------
+ * **malajah** :: to study, to learn (biasa (common))
+ * Tiang edot malajah manyi. 
+ * I want to learn how to harvest. 
 ----------
  * **sane** :: which (halus)
  * Dije nike restoran sane paek? 
  * Where is the restaurant that is closest? 
 ----------
+ * **sira** :: who (alus (refined))
+ * Sareng sira ka pura? 
+ * Who are you going with to the temple? 
+----------
  * **ngelangi** :: to swim (biasa)
  * Tiang lakar ngelangi di kolam. 
  * I am going to swim in the swimming pool. 
+----------
+ * **mbok** :: older sister (alus (refined))
+ * Ttiiang merika sareng mbok tiange. 
+ * I am going there with my older sister. 
 ----------
  * **cerik** :: small children (biasa)
  * Dije nike kola anak cerike? 
  * Where is the pool for children? 
 ----------
+ * **luung** :: good (biasa (common))
+ * Luung sajaan. 
+ * Very good. 
+----------
  * **sirep** :: to sleep, to relax (halus)
  * Ida masirep ring bale bengong punika. 
  * He sleeps in the gazebo. 
 ----------
+ * **manyi** :: harvest (biasa (common))
+ * Apang nawang caran anak manyi. 
+ * One should know how to harvest. 
+----------
  * **bale bengong** :: gazebo (biasa (kruna mider))
  * Putu mapijet di bale bengonge. 
  * Putu is enjoying a massage in the gazebo. 
+----------
+ * **kenken** :: how (biasa (common))
+ * Kenken dogen carane anak manyi ento? 
+ * Just how does one do the harvest? 
 ----------
  * **tamu** :: guest (biasa (kapara))
  * Tamune majemuh di kolam. 

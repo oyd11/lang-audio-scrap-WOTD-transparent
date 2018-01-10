@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 368 phrases 
+ 375 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -35,9 +35,21 @@
  * د چاودنې اواز ماته ټکان راکړ. 
  * The sound of the explosion startled me. 
 ----------
+ * **ټکان ورکول** :: to startle (verb)
+ * د چاودنې اواز ماته ټکان راکړ. 
+ * The sound of the explosion startled me. 
+----------
  * **ناندرۍ وهل** :: to quarrel (verb)
  * هغوی ټول وخت په ناندرئ وهلو تېر کړ. 
  * They spent the whole time quarrelling. 
+----------
+ * **ناندرۍ وهل** :: to quarrel (verb)
+ * هغوی ټول وخت په ناندرئ وهلو تېر کړ. 
+ * They spent the whole time quarrelling. 
+----------
+ * **نازولی** :: spoiled, pampered (adjective)
+ * هغه یو نازولی ماشوم دی. 
+ * He is a spoiled child. 
 ----------
  * **نازولی** :: spoiled, pampered (adjective)
  * هغه یو نازولی ماشوم دی. 
@@ -47,6 +59,14 @@
  * زه د خپل قسمت خاوند یم. 
  * I am the master of my own destiny. 
 ----------
+ * **خاوند** :: master, owner (noun)
+ * زه د خپل قسمت خاوند یم. 
+ * I am the master of my own destiny. 
+----------
+ * **بخت** :: luck (noun)
+ * څه خراب بخت! 
+ * What bad luck! 
+----------
  * **بخت** :: luck (noun)
  * څه خراب بخت! 
  * What bad luck! 
@@ -54,6 +74,14 @@
  * **لږ تر لږه** :: at least (expression)
  * لږ تر لږه هغې خو څه وکړل. 
  * At least he did something. 
+----------
+ * **لږ تر لږه** :: at least (expression)
+ * لږ تر لږه هغې خو څه وکړل. 
+ * At least he did something. 
+----------
+ * **سپک** :: profanity (noun)
+ * دلته باید سپک ونه ویل شي. 
+ * One shouldn't use profanity here. 
 ----------
  * **سپک** :: profanity (noun)
  * دلته باید سپک ونه ویل شي. 
