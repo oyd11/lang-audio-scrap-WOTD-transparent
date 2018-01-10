@@ -40,24 +40,25 @@ cd("./transparent-sound/") do
         glob("*-phrasesound.mp3")
     end 
     base_phases = split.(all_phrases,"phrasesound") .|> el(1)
-    reps = 7
-    run_length = 10
-    r = []
-    for s = 1:run_length:length(base_phases)-run_length
-        end_ind = min(length(base_phases),s+run_length)
-        new_phrases = base_phases[s:end_ind]
-        for r_ind in 1:reps
-            append!(r,new_phrases |> shuffle)
+    for reps in [3,7]
+        run_length = 10
+        r = []
+        for s = 1:run_length:length(base_phases)-run_length
+            end_ind = min(length(base_phases),s+run_length)
+            new_phrases = base_phases[s:end_ind]
+            for r_ind in 1:reps
+                append!(r,new_phrases |> shuffle)
+            end
         end
-    end
 
-    fn_rep_playlist = "../transparent-playlists/0_$(lang)-rep-$reps.m3u8"
-    println("Creating: $(fn_rep_playlist)")
-    open(fn_rep_playlist,"w") do f
-        println(f, "#EXTM3U")
-        for fn in r
-            println(f, "$(lang)-sound/$(fn)phrasesound.mp3")
-            println(f, "$(lang)-sound/$(fn)wordsound.mp3")
+        fn_rep_playlist = "../transparent-playlists/0_$(lang)-rep-$reps.m3u8"
+        println("Creating: $(fn_rep_playlist)")
+        open(fn_rep_playlist,"w") do f
+            println(f, "#EXTM3U")
+            for fn in r
+                println(f, "$(lang)-sound/$(fn)phrasesound.mp3")
+                println(f, "$(lang)-sound/$(fn)wordsound.mp3")
+            end
         end
     end
 
