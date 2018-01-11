@@ -64,10 +64,10 @@ function addEventsAndPlay(ind) {
         w.style.color='lime'
         w.style.fontSize='110%'
         ww.style.color='red'
-        ww.style.fontSize='110%'
+        ww.style.fontSize='135%'
         if (existsNotEmpty(wwt)) {
             wwt.style.color='red'
-            wwt.style.fontSize='110%'
+            wwt.style.fontSize='135%'
         }
         w.scrollIntoView({inline: "center", behavior:"instant"})
     }
