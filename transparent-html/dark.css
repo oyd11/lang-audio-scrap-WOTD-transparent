@@ -17,6 +17,11 @@ audio {
       color: #ffffff;
 }
 
+input {
+      background-color: #101010;
+      color: #ffffff;
+}
+
 .wrapper {
 }
 .PlayControls {

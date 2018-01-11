@@ -1,11 +1,50 @@
 
+// utils: 
+function existsNotEmpty(w) {
+    return  null != w && !isempty(w) 
+}
+
 // assumed: defined 'j' - JSON + 'lang' - language string
+const lang = Object.keys(j)[0]
+const sentenceList = j[lang]
 
 // TODO: Some struct keeping all global state:
 // all global state - kept here:
 let curPlaying = null
+// since HTML storage is per _domain_+protocol, not page
+const storagePrefix = `trans::WOTD-${lang}::`
 
 // end of state variables.. everything else - should be in the DOM
+
+const divWrapper = document.createElement("div")
+divWrapper.className = "wrapper"
+const divPlayControls= document.createElement("div")
+
+// Controls tab + player function:
+divPlayControls.className = "PlayControls"
+const divWordList = document.createElement("div")
+divWordList.className = "WordList"
+{
+    document.body.appendChild(divWrapper)
+    divWrapper.appendChild(divPlayControls)
+    divWrapper.appendChild(divWordList)
+}
+const playButton = document.createElement("button")
+const pauseButton = document.createElement("button")
+const stopButton = document.createElement("button")
+const inputPlayIndex = document.createElement("input")
+inputPlayIndex.setAttribute("type", "number")
+inputPlayIndex.setAttribute("min", 0)
+inputPlayIndex.setAttribute("max", sentenceList.length - 1)
+{
+    playButton.appendChild(document.createTextNode("play-all"))
+    divPlayControls.appendChild(playButton)
+    pauseButton.appendChild(document.createTextNode("pause"))
+    divPlayControls.appendChild(pauseButton)
+    stopButton.appendChild(document.createTextNode("stop"))
+    divPlayControls.appendChild(stopButton)
+    divPlayControls.appendChild(inputPlayIndex)
+}
 function addEventsAndPlay(ind) {
     const w = document.getElementById(`w_${ind}`)
     const ww = document.getElementById(`ww_${ind}`)
@@ -22,17 +61,22 @@ function addEventsAndPlay(ind) {
         au.removeEventListener('pause', onPause)
     }
     function onPlay(ev) { 
-//        console.log('play: ', ind)
         w.style.color='lime'
         w.style.fontSize='110%'
         ww.style.color='red'
         ww.style.fontSize='110%'
+        if (existsNotEmpty(wwt)) {
+            wwt.style.color='red'
+            wwt.style.fontSize='110%'
+        }
         w.scrollIntoView({inline: "center", behavior:"instant"})
     }
     function onEnded(ev) { 
- //       console.log('ended: ', ind)
         w.style = null
-        ww.style = null
+//        ww.style = null
+        if (existsNotEmpty(wwt)) {
+ //       wwt.style = null
+        }
         rmEvents()
         if (ind< playlist.end) {
             addEventsAndPlay(ind+1)
@@ -40,43 +84,24 @@ function addEventsAndPlay(ind) {
         // rm curr events?
     }
     function onPause(ev) { 
-  //      console.log('pause: ', ind)
         w.style = null
-        ww.style = null
- //       rmEvents()
-        // rm curr events?
+//        ww.style = null
     }
     rmEvents() // possible cleanup
     setEvents()
     curPlaying = au
+    localStorage.setItem(`${storagePrefix}playIndex`,ind)
+    inputPlayIndex.value = ind
     au.play()
-}
-const divWrapper = document.createElement("div")
-divWrapper.className = "wrapper"
-const divPlayControls= document.createElement("div")
-divPlayControls.className = "PlayControls"
-const divWordList = document.createElement("div")
-divWordList.className = "WordList"
-{
-    document.body.appendChild(divWrapper)
-    divWrapper.appendChild(divPlayControls)
-    divWrapper.appendChild(divWordList)
-}
-const playButton = document.createElement("button")
-const pauseButton = document.createElement("button")
-const stopButton = document.createElement("button")
-{
-    playButton.appendChild(document.createTextNode("play-all"))
-    divPlayControls.appendChild(playButton)
-    pauseButton.appendChild(document.createTextNode("pause"))
-    divPlayControls.appendChild(pauseButton)
-    stopButton.appendChild(document.createTextNode("stop"))
-    divPlayControls.appendChild(stopButton);
 }
 {
     const newHr = document.createElement("hr")
     divPlayControls.appendChild(newHr)
 }
+// End of 'controls' tab
+
+
+// rendering words view:
 
 
 const relavant_fields = ["translation","enphrase","wordtype","word","fnphrase",
@@ -95,8 +120,7 @@ function isempty(obj) {
     return null == obj || Object.keys(obj).length == 0
 }
 
-const lang = Object.keys(j)[0]
-j[lang].forEach( (w,ind) => {
+sentenceList.forEach( (w,ind) => {
     const wordDiv = document.createElement("div")
     divWordList.appendChild(wordDiv)
     const wordUl = document.createElement("ul")
@@ -117,7 +141,9 @@ j[lang].forEach( (w,ind) => {
     wordUl.appendChild(newLi)
 }
 const wwt = w["wotd:transliteratedSentence"]
-if (null != wwt && !isempty(wwt)) {
+
+
+if (existsNotEmpty(wwt)){
     const newLi= document.createElement("li")
     newLi.textContent = wwt
     newLi.setAttribute("id","wwt_"+ind)
@@ -183,16 +209,33 @@ const playlist = { start: 0, end: j[lang].length }
 //for (let ind = playlist.start ; ind < playlist.end ; ++ind ) {
 
 
+let startIndex = 0
+
+{
+    // read-local storage, and if exists - start playing there:
+    const savedPlayIndex = Number(localStorage.getItem(`${storagePrefix}playIndex`))
+    if (null != savedPlayIndex) {
+        startIndex = savedPlayIndex
+    }
+}
+
+inputPlayIndex.value = startIndex
+
 playButton.addEventListener("click", (ev) => {
     if (null != curPlaying) {
-        curPlaying.play()
-    } else {
-        addEventsAndPlay(0)
-    }
+        curPlaying.pause()
+        curPlaying.currentTime = 0 
+    } 
+    const playIndex = Number(inputPlayIndex.value)
+    addEventsAndPlay(playIndex)
 })
 
 pauseButton.addEventListener("click", (ev) => {
-    curPlaying.pause()
+    if ( curPlaying.paused ) { 
+        curPlaying.play() 
+    } else {
+        curPlaying.pause() 
+    }
 })
 
 stopButton.addEventListener("click", (ev) => {
