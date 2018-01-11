@@ -128,8 +128,8 @@ if (null != wwt && !isempty(wwt)) {
     newLi.textContent = w["enphrase"]
     wordUl.appendChild(newLi)
 }
-const au = document.createElement("audio")
 {
+    const au = document.createElement("audio")
     au.setAttribute("id","au_"+ind)
     au.setAttribute("src",
         `../transparent-sound/${lang}-sound/${w["date"]}-phrasesound.mp3`)
@@ -153,13 +153,14 @@ const au = document.createElement("audio")
 }
 {
     function mDownPlayThis(ev) {
-            wordDiv.style.color='red'
-            if (null != curPlaying) {
-                curPlaying.pause()
-            }
-            curPlaying = au
-            addEventsAndPlay(ind)
+        wordDiv.style.color='red'
+        if (null != curPlaying) {
+            curPlaying.pause()
+            curPlaying.currentTime = 0
         }
+//        curPlaying = au
+        addEventsAndPlay(ind)
+    }
     wordDiv.addEventListener("mouseenter", (ev) => {
 //        wordDiv.style.fontSize='150%'
         wordDiv.style.color='aqua'
