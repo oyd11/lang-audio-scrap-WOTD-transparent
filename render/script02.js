@@ -65,7 +65,6 @@ function addEventsAndPlay(ind) {
         ww.style.color='red'
         ww.style.fontSize='135%'
         if (null != wwt) {
-            console.log("WWT: Red")
             wwt.style.color='red'
             wwt.style.fontSize='135%'
         }
