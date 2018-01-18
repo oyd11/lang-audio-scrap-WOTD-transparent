@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -87,33 +87,65 @@
  * Jag funderar på att åka till Ryssland nästa månad. 
  * I'm considering visiting Russia next month. 
 ----------
+ * **kläder(na)** :: clothes (noun)
+ * Ta av dig de där smutsiga kläderna! 
+ * Take those dirty clothes off! 
+----------
  * **att bygga** :: to build (verb)
  * Bygg inte ditt hus på sand. 
  * Don't build your house on sand. 
+----------
+ * **(en) låga** :: flame (noun)
+ * Lågan förstörde det hemliga meddelandet på några sekunder. 
+ * The flame destroyed the secret message in seconds. 
 ----------
  * **att förvandla** :: to convert (verb)
  * Alkemisterna lyckades aldrig förvandla bly till guld. 
  * Alchemists never did manage to convert lead into gold. 
 ----------
+ * **emot** :: against (preposition)
+ * Ibland känns det som att hela världen är emot mig! 
+ * Sometimes it feels like the whole world is against me! 
+----------
  * **(en) flickvän** :: girlfriend (noun)
  * Hon har varit min flickvän i två månader. 
  * She has been my girlfriend for two months. 
+----------
+ * **(ett) ljus** :: light (noun)
+ * Vi kommer att se saker klarare i dagsljuset. 
+ * We'll see things clearly in the cold light of day. 
 ----------
  * **(en) rättelse** :: correction (noun)
  * Tidningen publicerade en liten rättelse. 
  * The newspaper issued a small correction. 
 ----------
+ * **(ett) erbjudande** :: offer (noun)
+ * Jag godtar ditt erbjudande. 
+ * I accept your offer. 
+----------
  * **kosmisk** :: cosmic (adjective)
  * Var passar vi in i det stora kosmiska schemat? 
  * Where do we fit in the grand cosmic scheme? 
+----------
+ * **(ett) slut** :: end (noun)
+ * Slutet av den boken är mycket bra skrivet. 
+ * The end of that book is very well written. 
 ----------
  * **(en) maskeraddräkt** :: costume (noun)
  * Barn i USA klär ut sig i maskeraddräkter varje år på Halloween. 
  * Children in the US wear costumes every year on Halloween. 
 ----------
+ * **att gifta sig** :: to get married (verb)
+ * När ska du gifta dig? 
+ * When are you getting married? 
+----------
  * **(en) kristall** :: crystal (noun)
  * En fin kristallkrona hänger från taket. 
  * A fine crystal chandelier hangs from the ceiling. 
+----------
+ * **att älska** :: to love (verb)
+ * Jag kommer att älska dig för alltid. 
+ * I will love you forever. 
 ----------
  * **överlappande** :: overlapping (verb)
  * Ibland uppstår konflikter genom överlappande arbetsuppgifter. 

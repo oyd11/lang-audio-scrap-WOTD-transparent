@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -87,33 +87,65 @@
  * Kakeknya memberi dia kereta luncur musim dingin lalu. 
  * His grandfather gave him a sled last winter. 
 ----------
+ * **mempunyai** :: to have (verb)
+ * Apa kamu punya rencana akhir minggu ini? 
+ * Do you have any plans for this weekend? 
+----------
  * **tenggorokan** :: throat (noun)
  * Tenggorokanku sakit hari ini. 
  * My throat is hurting today. 
+----------
+ * **cuaca** :: weather (noun)
+ * Apa ramalan cuaca besok? 
+ * What's the weather prediction for tomorrow? 
 ----------
  * **lulus** :: to graduate (verb)
  * Adikku akan lulus satu bulan lagi. 
  * My brother will graduate in a month. 
 ----------
+ * **hujan** :: to rain (verb)
+ * Hari ini akan hujan, bawa payung. 
+ * It's going to rain, bring an umbrella. 
+----------
  * **mesin pemotong rumput** :: lawnmower (noun)
  * Mesin pemotong rumput ini perlu bensin. 
  * The lawnmower needs gasoline. 
+----------
+ * **bermain** :: to play (verb)
+ * Anak-anak suka bermain di luar. 
+ * The children like to play outside. 
 ----------
  * **padang rumput** :: meadow (noun)
  * Padang rumput yang luas membentang di bawah tebing. 
  * A vast meadow spreads out below the cliff. 
 ----------
+ * **kesukaan** :: favorite (noun)
+ * Ini adalah lagu kesukaan saya. 
+ * This is one of my favorite songs. 
+----------
  * **sejarah** :: history (noun)
  * Mereka belajar sejarah di universitas. 
  * They studied history at the university. 
+----------
+ * **lupa** :: to forget (verb)
+ * Dia tidak pernah lupa bilang tolong dan terima kasih. 
+ * He never forgets to say please and thank you. 
 ----------
  * **jam** :: clock (noun)
  * Tiga puluh tahun yang lalu, petir menyambar menara jam itu. 
  * Thirty years ago, lightning struck that clock tower. 
 ----------
+ * **melihat** :: to see (verb)
+ * Apa kamu lihat hujan meteor semalam? Menakjubkan! 
+ * Did you see the meteor shower last night? Amazing! 
+----------
  * **rumah sakit** :: hospital (noun)
  * Di mana rumah sakit? 
  * Where is the hospital? 
+----------
+ * **di mana** :: where (adverb)
+ * Di mana pasar terdekat? 
+ * Where is the nearest market? 
 ----------
  * **abaikan** :: to ignore (verb)
  * Abaikan bagian terakhir. 

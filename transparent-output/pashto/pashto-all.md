@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -91,9 +91,21 @@
  * ته کولای شې چی زما په غیاب کې پروژه روانه وساتې. 
  * You can keep the project going in my absence. 
 ----------
+ * **غیاب** :: absence (noun)
+ * ته کولای شې چی زما په غیاب کې پروژه روانه وساتې. 
+ * You can keep the project going in my absence. 
+----------
  * **په پټه** :: in secret (expression)
  * هغه په پټه د پیسو اخیستلو څخه انکار وکړ. 
  * He denied having received any money secretly. 
+----------
+ * **په پټه** :: in secret (expression)
+ * هغه په پټه د پیسو اخیستلو څخه انکار وکړ. 
+ * He denied having received any money secretly. 
+----------
+ * **ټال** :: swing (noun)
+ * مورې، زه غواړم چی په ټال کې و زانګم. 
+ * Mom, I want to swing. 
 ----------
  * **ټال** :: swing (noun)
  * مورې، زه غواړم چی په ټال کې و زانګم. 
@@ -103,6 +115,14 @@
  * وایي وخت هغه اور دی چی مونږ پکې سوزو. 
  * They say time is the fire in which we burn. 
 ----------
+ * **سوزول** :: to burn (verb)
+ * وایي وخت هغه اور دی چی مونږ پکې سوزو. 
+ * They say time is the fire in which we burn. 
+----------
+ * **تخم** :: seed (noun)
+ * هغوی د یوې ښې رابطې تخم کرلی دی. 
+ * They sowed the seeds for a beautiful relationship. 
+----------
  * **تخم** :: seed (noun)
  * هغوی د یوې ښې رابطې تخم کرلی دی. 
  * They sowed the seeds for a beautiful relationship. 
@@ -111,9 +131,21 @@
  * آیا ستا خسر دا ځل اعتراض ونکړ؟ 
  * Didn't your father-in-law object this time? 
 ----------
+ * **اعتراض کول** :: to object (expression)
+ * آیا ستا خسر دا ځل اعتراض ونکړ؟ 
+ * Didn't your father-in-law object this time? 
+----------
  * **مېلمه پاله** :: stewardess, flight attendant (noun)
  * زما لور مېلمه پاله ده. 
  * My daughter works as a stewardess. 
+----------
+ * **مېلمه پاله** :: stewardess, flight attendant (noun)
+ * زما لور مېلمه پاله ده. 
+ * My daughter works as a stewardess. 
+----------
+ * **هېرول** :: to forget (expression)
+ * زما د بازار څخه د بسکیټو راوړل هېر شول. 
+ * I forgot to bring biscuits from the bazaar (market). 
 ----------
  * **هېرول** :: to forget (expression)
  * زما د بازار څخه د بسکیټو راوړل هېر شول. 

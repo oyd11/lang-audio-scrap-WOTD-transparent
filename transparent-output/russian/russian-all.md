@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -87,33 +87,65 @@
  * Он разделал жареное мясо с точностью и умением хирурга. 
  * He carved the roast with the skilled precision of a surgeon. 
 ----------
+ * **соединять** :: to connect (verb)
+ * Техник подсоединит провода. 
+ * The technician will connect the wires. 
+----------
  * **рассказать по памяти** :: to recite (verb)
  * Ты можешь рассказать по памяти это старое стихотворение? 
  * Can you recite the old poem? 
+----------
+ * **поддерживать** :: to maintain (verb)
+ * Лесники поддерживают лесные тропинки в хорошем состоянии. 
+ * The rangers maintain hiking trails in the forest. 
 ----------
  * **вопрос** :: question (noun)
  * Пожалуйста, честно ответь на этот вопрос. 
  * Please answer the question honestly. 
 ----------
+ * **рассматривать** :: to consider (verb)
+ * Пожалуйста, рассмотрите мою кандидатуру на эту должность. 
+ * Please consider me for the job. 
+----------
  * **зубной врач** :: dentist (phrase)
  * Я была у зубного врача тысячу раз, так что я знаю всю процедуру. 
  * I've been to the dentist a thousand times, so I know the drill. 
+----------
+ * **строить** :: to build (verb)
+ * Не стройте дом на песке. 
+ * Don't build your house on sand. 
 ----------
  * **рисовать** :: to draw (verb)
  * Художник нарисовал отличный эскиз. 
  * The artist drew an excellent sketch. 
 ----------
+ * **превращать** :: to convert (verb)
+ * Алхимикам так и не удалось превратить свинец в золото. 
+ * Alchemists never did manage to convert lead into gold. 
+----------
  * **повреждать** :: to damage (verb)
  * Не повреди коробку. 
  * Do not damage the package. 
+----------
+ * **девушка** :: girlfriend (noun)
+ * Она его девушка уже два месяца. 
+ * She has been my girlfriend for two months. 
 ----------
  * **разница** :: difference (noun)
  * Всего один день, а какая разница! 
  * What a difference a day makes! 
 ----------
+ * **поправка** :: correction (noun)
+ * Газета выпустила небольшую поправку. 
+ * The newspaper issued a small correction. 
+----------
  * **делить** :: to divide (verb)
  * Давайте поделим торт на равные части. 
  * Let's divide the cake into equal parts. 
+----------
+ * **сердце** :: heart (noun)
+ * Здоровое сердце – залог здоровой жизни. 
+ * A healthy heart leads to a healthy life. 
 ----------
  * **дарить** :: to give (verb)
  * Что ты ей подарил на день рождения? 

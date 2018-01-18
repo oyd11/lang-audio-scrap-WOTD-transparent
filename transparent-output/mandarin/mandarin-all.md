@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -129,11 +129,23 @@
  * Tāde shū hěn yǒumíng. 
  * His book is famous. 
 ----------
+ * **热心** :: enthusiastic (adjective)
+ * **rèxīn** 
+ * 他很热心地帮助我。 
+ * Tā hěn rèxīn de bāngzhù wǒ. 
+ * He helps me enthusiastically. 
+----------
  * **报纸** :: newspaper (noun)
  * **bào zhǐ** 
  * 我要看今天的报纸。 
  * Wǒ yào kàn jīntiān de bào zhǐ. 
  * I want to read today's newspaper. 
+----------
+ * **服务** :: to serve (verb)
+ * **fúwù** 
+ * 这家商店服务很好。 
+ * Zhè jiā shāngdiàn fúwù hěn hǎo. 
+ * This store's servuce is very good. 
 ----------
  * **书** :: book (noun)
  * **shū** 
@@ -141,11 +153,23 @@
  * Tā zuòchē cháng kànshū. 
  * He often reads while taking the bus. 
 ----------
+ * **新** :: new (adjective)
+ * **xīn** 
+ * 这个书店是新的。 
+ * Zhè ge shūdiàn shì xīnde. 
+ * This bookstore is new. 
+----------
  * **苹果** :: apple (noun)
  * **píngguǒ** 
  * 我一天吃一个苹果。 
  * Wǒ yī tiān chī yí gè píngguǒ. 
  * I eat an apple a day. 
+----------
+ * **旧** :: old (adjective)
+ * **jiù** 
+ * 我的衣服很旧。 
+ * Wǒde yīfu hěn jiù. 
+ * My clothes are very old. 
 ----------
  * **橘子** :: orange (noun)
  * **júzi** 
@@ -153,11 +177,23 @@
  * Zhōngguó júzi hěn tián. 
  * Chinese oranges are very sweet. 
 ----------
+ * **回** :: to return (verb)
+ * **huí** 
+ * 他已经回家了。 
+ * Tā yǐjīng huíjiā le. 
+ * He has already gone home. 
+----------
  * **香蕉** :: banana (noun)
  * **xiāngjiāo** 
  * 香蕉不贵。 
  * Xiāngjiāo bú guì. 
  * Bananas are not expensive. 
+----------
+ * **山** :: mountain (noun)
+ * **shān** 
+ * 中国有很多大山。 
+ * Zhōngguó yǒu hěnduō dà shān. 
+ * There are many big mountains in China. 
 ----------
  * **送** :: to give (verb)
  * **sòng** 
@@ -165,11 +201,23 @@
  * Tā sòng wǒ yī běn shū. 
  * He gave me a book. 
 ----------
+ * **河** :: river (noun)
+ * **hé** 
+ * 黄河在中国。 
+ * Huánghé zài zhōngguó. 
+ * The Yellow River is in China. 
+----------
  * **礼物** :: gift (noun)
  * **lǐwù** 
  * 你的圣诞礼物是什么？ 
  * Nǐ de shèngdàn lǐwù shì shénme? 
  * What is your Christmas gift? 
+----------
+ * **刚才** :: just now (adverb)
+ * **gāngcái** 
+ * 他刚才来找过你。 
+ * Tā gāngcái lái zhǎoguò nǐ. 
+ * He has just come to look for you. 
 ----------
  * **笔** :: pen (noun)
  * **bǐ** 

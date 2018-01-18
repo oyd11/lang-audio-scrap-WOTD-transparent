@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -87,33 +87,65 @@
  * זה הצליח בסרט! 
  * It worked in the movie! 
 ----------
+ * **דוגמה** :: example (noun)
+ * תמיד עדיף להדגים. 
+ * It's always best to lead by example. 
+----------
  * **לחרוט** :: to carve (verb)
  * מישהו חרט את שמו על גזע העץ הזה. 
  * Someone carved their name into the bark of that tree. 
+----------
+ * **לבחור** :: to choose (verb)
+ * בחר קלף, כל קלף שהוא. 
+ * Choose a card, any card. 
 ----------
  * **פירות יבשים** :: dried fruit (noun)
  * פירות יבשים עשירים בחלבונים. 
  * Dried fruit is rich in protein. 
 ----------
+ * **מלא מרץ** :: energetic (adjective)
+ * אפילו אחרי הליכה ממושכת הכלבלב שלה מלא מרץ! 
+ * Even after a long walk, her puppy is energetic! 
+----------
  * **סופר** :: writer (noun)
  * אני רוצה להיות סופרת כשאגדל. 
  * I want to be a writer when I grow up. 
+----------
+ * **טעות** :: mistaken (adjective)
+ * היתה לו בעיה של טעות בזיהוי. 
+ * His was a case of mistaken identity. 
 ----------
  * **שח-מט** :: check-mate (noun)
  * עוד שני מהלכים וזה שח-מט. 
  * I'm two moves away from a check-mate. 
 ----------
+ * **יוצא מן הכלל** :: exception (noun)
+ * לכל כלל יש יוצא מן הכלל. 
+ * There are exceptions to every rule. 
+----------
  * **פריך** :: crispy (adjective)
  * אני אוהבת דגנים כשהם עדיין פריכים. 
  * I like cereal when it's still crispy. 
+----------
+ * **רוח רפאים** :: ghost (noun)
+ * אומרים שהבית הישן רדוף רוחות רפאים. 
+ * They say that ghosts haunt the old house. 
 ----------
  * **תסריט** :: script (noun)
  * את התסריט לסרטו האחרון הוא כתב בעצמו. 
  * He wrote the script for his last movie himself. 
 ----------
+ * **לסיים** :: to finish (verb)
+ * האם סיימת את הספר? 
+ * Have you finished the book? 
+----------
  * **צונאמי** :: tsunami (noun)
  * יש התרעת צונאמי באזור זה. 
  * There is a tsunami alert in this area. 
+----------
+ * **לפרוח** :: to flower (verb)
+ * העצים יפרחו בעוד שבועות אחדים. 
+ * The trees will flower in a few weeks. 
 ----------
  * **גולש אינטרנט** :: internet user (noun)
  * רוב גולשי האינטרנט מצפים למהירויות חיבור גבוהות. 

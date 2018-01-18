@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -87,33 +87,65 @@
  * Ars poetica est non omnia dicere. 
  * The poetic art is not to say everything. 
 ----------
- * **lapis** :: stone (noun)
- * Gutta cavat lapidem, non vi sed saepe cadendo. 
- * The drop hollows out the stone, not with force but by falling often. 
-----------
- * **beatus** :: blessed, happy, fortunate (adjective)
- * Nihil est ab omni parte beatum. 
- * Nothing is fortunate in every part. 
-----------
  * **aurum** :: gold (noun)
  * Ignis aurum probat, miseria fortes viros. 
  * Fire tests gold; adversity tests strong men. 
+----------
+ * **lapis** :: stone (noun)
+ * Gutta cavat lapidem, non vi sed saepe cadendo. 
+ * The drop hollows out the stone, not with force but by falling often. 
 ----------
  * **adiuvare** :: to help, to aid (verb)
  * Liber philosophi homines prudenti consilio adiuvat. 
  * The philosopher's book helps people with its wise counsel. 
 ----------
+ * **beatus** :: blessed, happy, fortunate (adjective)
+ * Nihil est ab omni parte beatum. 
+ * Nothing is fortunate in every part. 
+----------
  * **par** :: equal, like (adjective)
  * llle mi par esse deo videtur. 
  * He seems to me to be equal to a god. 
+----------
+ * **aurum** :: gold (noun)
+ * Ignis aurum probat, miseria fortes viros. 
+ * Fire tests gold; adversity tests strong men. 
 ----------
  * **mater** :: mother (noun)
  * Mater omnium bonarum artium sapientia est. 
  * The mother of all good arts is wisdom. 
 ----------
+ * **adiuvare** :: to help, to aid (verb)
+ * Liber philosophi homines prudenti consilio adiuvat. 
+ * The philosopher's book helps people with its wise counsel. 
+----------
  * **excusare** :: to excuse, to make an excuse for (verb)
  * Ignorantia iuris neminem excusat. 
  * Ignorance of the law excuses no one. 
+----------
+ * **par** :: equal, like (adjective)
+ * llle mi par esse deo videtur. 
+ * He seems to me to be equal to a god. 
+----------
+ * **saeculum** :: age, century (noun)
+ * Vivit et vivet per omnium saeculorum memoriam. 
+ * He lives and will live through the memory of all ages. 
+----------
+ * **mater** :: mother (noun)
+ * Mater omnium bonarum artium sapientia est. 
+ * The mother of all good arts is wisdom. 
+----------
+ * **parare** :: to provide (verb)
+ * Fortuna amicos parat, inopia amicos probat. 
+ * Fortune provides friends; poverty tests them. 
+----------
+ * **excusare** :: to excuse, to make an excuse for (verb)
+ * Ignorantia iuris neminem excusat. 
+ * Ignorance of the law excuses no one. 
+----------
+ * **incipere** :: to begin, to commence (verb)
+ * Incipimus veritatem intellegere, quae homines adiuvat. 
+ * We are beginning to understand the truth, which helps all people. 
 ----------
  * **saeculum** :: age, century (noun)
  * Vivit et vivet per omnium saeculorum memoriam. 

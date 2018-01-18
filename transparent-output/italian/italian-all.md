@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -87,33 +87,65 @@
  * In autunno c'è sempre una fitta nebbia in questa regione. 
  * In the fall there is always a thick fog in this area. 
 ----------
+ * **capace** :: skilled (adjective)
+ * Tecnico giovane e capace cercasi per lavoro dinamico. 
+ * Young and skilled engineer wanted for dynamic job. 
+----------
  * **approfittare** :: to take advantage (verb)
  * Ho approfittato dei saldi invernali per comprarmi un cappotto elegante. 
  * I took advantage of the winter sales to buy a nice coat. 
+----------
+ * **tedesco** :: German (adjective)
+ * La letteratura tedesca vanta diversi premi Nobel. 
+ * German literature features several Nobel laureates. 
 ----------
  * **Il cognome** :: last name (noun)
  * Per favore, scriva il suo cognome accanto alla data di nascita. 
  * Please write your last name beside your birth date. 
 ----------
+ * **Il bicchiere** :: drinking glass (noun)
+ * In quel locale servono la birra in bicchieri di plastica. 
+ * In that pub they serve beer in plastic glasses. 
+----------
  * **principale** :: main (adjective)
  * Il problema principale di alcuni paesi è la mancanza d'acqua potabile. 
  * In some countries, the main problem is the lack of drinkable water. 
+----------
+ * **Il diavolo** :: devil (noun)
+ * Cosimo è la tipica persona che fa sempre l'avvocato del diavolo. 
+ * Cosimo is the type of person who always acts as Devil's advocate. 
 ----------
  * **viaggiare** :: to travel (verb)
  * Preferisco viaggiare in aereo piuttosto che in treno, e tu? 
  * I prefer to travel by plane rather than by train, and you? 
 ----------
+ * **La gamba** :: leg (noun)
+ * Zoppica perché ha la gamba destra leggermente più corta della sinistra. 
+ * He limps because his right leg is slightly shorter than the left one. 
+----------
  * **osare** :: to dare (verb)
  * Ma come osa! Lei non può leggere la mia posta! 
  * How dare you! You have no right to read my mail! 
+----------
+ * **L'unghia** :: fingernail (noun)
+ * Quando sono molto nervosa mi mangio le unghie. 
+ * When I am very nervous I chew my fingernails. 
 ----------
  * **La zanzara** :: mosquito (noun)
  * Sono stato a passeggiare sul fiume, e le zanzare mi hanno punta dappertutto! 
  * I went for a walk by the river, and the mosquitoes bit me all over! 
 ----------
+ * **mantenere** :: to keep (verb)
+ * Non riesco a mantenere la linea perché sono golosa. 
+ * I can't keep in shape because I am a glutton. 
+----------
  * **accendere** :: to light (verb)
  * Il ragazzo ha acceso il fuoco per cucinare le salsicce. 
  * The boy lit the fire to roast the sausages. 
+----------
+ * **Il prezzo** :: price (noun)
+ * I prezzi sono aumentati ancora! 
+ * Prices have increased again! 
 ----------
  * **rumoroso** :: noisy (adjective)
  * Quest'auto è molto rumorosa, secondo me c'è qualcosa che non va. 

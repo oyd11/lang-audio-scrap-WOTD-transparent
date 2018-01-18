@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -87,33 +87,65 @@
  * میرے باغ سے باہر نکل جاو ورنہ میں تم پر کتے چھوڑ دوں گا! 
  * Get out of my orchard or I´ll set the dogs on you! 
 ----------
+ * **توہین** :: insult (noun)
+ * میں یہ توہین برداشت نہیں کروں گا! 
+ * I will not tolerate this insult! 
+----------
  * **جذباتی** :: passionate (adjective)
  * میں فوٹوگرافی کے بارے میں جذباتی ہوں. 
  * I am passionate about photography. 
+----------
+ * **دلچسپی لینا** :: to interest (verb)
+ * زبان کی تعلیم مجھے دلچسپ لگتی ہے. 
+ * Language studies interest me. 
 ----------
  * **سفید** :: white (adjective)
  * میں سفید کپڑے پہننا پسند نہیں کرتا. 
  * I don't like to wear white clothes. 
 ----------
+ * **ہر سال** :: every year (adverb)
+ * ہم ہر سال ساحل سمندر کا دورہ کرتے ہیں. 
+ * We visit the beach every year. 
+----------
  * **پیراشوٹ** :: parachute (noun)
  * کیا ہوگا اگر پیراشوٹ نہیں کھلے گا؟ 
  * What would happen if the parachute doesn't open? 
+----------
+ * **پھینکنا** :: to throw (verb)
+ * اس نے مجھ پر ایک برف کا گولا پھینکا. 
+ * He threw a snowball at me. 
 ----------
  * **کتنا پیارا!** :: How cute! (expression)
  * آپ کا بیٹا ہے؟ کتنا پیارا! 
  * Is that your son? How cute! 
 ----------
+ * **گنتی کرنا** :: to count (verb)
+ * کیا آپ اس بوتل میں موجود تمام جیلی بینس گن سکتے ہیں؟ 
+ * Can you count all the jellybeans in that jar? 
+----------
  * **چُوزہ** :: duckling (noun)
  * بدسورت چُوزہ بڑا ہو کر ایک خوبصورت ہنس بن گیا. 
  * The ugly duckling grew up to be a beautiful swan. 
+----------
+ * **انگیٹھی** :: hearth (noun)
+ * ہم انگیٹھی کے قریب بیٹھے چائے کے گھونٹ لے رہے تھے. 
+ * We sat near the hearth sipping tea. 
 ----------
  * **چالو کرنا** :: to start (verb)
  * گاڑی چالو نہیں ہو گی. 
  * The car won't start. 
 ----------
+ * **ہیلمیٹ** :: helmet (noun)
+ * آپ اپنی موٹر سائیکل کی سواری کرتے ہوئے اپنا ہیلمیٹ پہنئے. 
+ * Wear your helmet when you ride your bike. 
+----------
  * **کتنا اچھا!** :: How cool! (expression)
  * ایپل کی نئی چیز کتنی اچھی ہے؟! 
  * How cool is Apple's new product?! 
+----------
+ * **تہ خانہ** :: cellar (noun)
+ * ان کے پاس ایک شاندار آب و ہوا کو کنٹرول کرنے والا شراب کا تہ خانہ ہے. 
+ * They have an impressive climate-controlled wine cellar. 
 ----------
  * **ہیئر ڈرائر** :: hairdryer (noun)
  * اگر میں ہیئر ڈرائر کا استعمال نہ کروں تو میرے بال اچھے نہیں لگیں گے. 

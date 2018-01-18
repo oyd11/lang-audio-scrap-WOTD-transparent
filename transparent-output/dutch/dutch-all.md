@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -87,33 +87,65 @@
  * De kinderen moeten de hond drie keer per dag uitlaten. 
  * The children have to walk the dog three times a day. 
 ----------
+ * **knoopsgat** :: buttonhole (noun)
+ * De jonge vrouw stak een bloem in het knoopsgat van de jas van haar man. 
+ * The young wife put a flower through the buttonhole of her husband's coat. 
+----------
  * **de heilige** :: saint (noun)
  * Ik ben geen heilige. 
  * I'm not a saint. 
+----------
+ * **studeren** :: to study (verb)
+ * Als je in een bepaald beroep wilt uitblinken, moet je veel studeren. 
+ * When you want to excel in a certain profession, you have to study a lot. 
 ----------
  * **onbekend** :: unknown (adjective)
  * Zijn verblijfplaats is onbekend, maar ik denk dat hij het land is ontvlucht. 
  * His whereabouts are unknown, but I think he fled the country. 
 ----------
+ * **schaatsen** :: to skate (verb)
+ * Ik hoop dat het flink gaat vriezen, dan kunnen we lekker gaan schaatsen. 
+ * I hope it's going to freeze so we can go ice-skating. 
+----------
  * **de steun** :: support (noun)
  * Bedankt voor jullie steun. 
  * Thanks for your support. 
+----------
+ * **gillen** :: to scream (verb)
+ * Ik gil vaak als ik naar enge films kijk. 
+ * I often scream when I watch scary movies. 
 ----------
  * **het stukje** :: piece (noun)
  * Ik heb een stukje papier nodig. 
  * I need a piece a paper. 
 ----------
+ * **mopperen** :: to grumble (verb)
+ * Als mijn vader een slecht humeur heeft, moppert hij vaak. 
+ * When Dad is in a lousy mood, he grumbles a lot. 
+----------
  * **eerst** :: at first (expression)
  * Eerst wist ik niet wat ik moest zeggen. 
  * At first I didn't know what to say. 
+----------
+ * **grijnzen** :: to smirk (verb)
+ * Mijn zusje grijnst altijd als ze iets ondeugends heeft gedaan. 
+ * My little sister always smirks when she has been naughty. 
 ----------
  * **het tekort** :: shortage (noun)
  * In Europa bestaat een tekort aan woonruimte. 
  * In Europe there is housing shortage. 
 ----------
+ * **stelen** :: to steal (verb)
+ * Je hebt mijn hart weten te stelen. 
+ * You found a way to steal my heart. 
+----------
  * **uiteindelijk** :: in the end (expression)
  * Uiteindelijk moest ik toegeven dat hij gelijk had. 
  * In the end I had to admit that he was right. 
+----------
+ * **huldigen** :: to honor (verb)
+ * We willen de reddingswerkers huldigen vanwege hun uitzonderlijke prestaties. 
+ * We want to honor the rescue team because of their exceptional achievements. 
 ----------
  * **verlegen** :: shy (adjective)
  * Het is moeilijk om vrienden te maken als je dodelijk verlegen bent. 

@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -87,33 +87,65 @@
  * Mon nouveau patron est très tatillon, je ne suis pas sûre que nous allons nous entendre. 
  * My new boss is very finicky; I'm not sure we will be able to get along. 
 ----------
+ * **la rentrée** :: start of the school year (noun)
+ * Courage, c'est la rentrée ! 
+ * Take heart, school is starting again! 
+----------
  * **être tiraillé** :: to be torn (expression)
  * Dans son nouveau poste, mon frère est tiraillé entre son travail et sa famille. 
  * For this new job my brother is torn between his work and his family. 
+----------
+ * **l'exposition** :: exhibit (noun)
+ * L'exposition de Monet est absolument superbe. 
+ * The Monet exhibit is absolutely superb. 
 ----------
  * **flâner** :: to stroll (verb)
  * Les Parisiens aiment flâner dans les rues de Montmartre, c'est un endroit original et apaisant. 
  * Parisians like strolling in the streets of Montmartre, it's a unique and peaceful place. 
 ----------
+ * **le vernissage** :: opening (of a show) (noun)
+ * J'irai au vernissage de ce jeune artiste prometteur. 
+ * I'll go to this promising young artist's opening. 
+----------
  * **tricot** :: knitting (noun)
  * Ces jeunes retraités organisent un atelier tricot tous les mercredis après-midis. 
  * These new retirees organize a knitting workshop every Wednesday afternoon. 
+----------
+ * **la permission** :: permission (noun)
+ * Il est plus facile de demander pardon que la permission. 
+ * It's easier to ask forgiveness than permission. 
 ----------
  * **courtiser** :: to court (verb)
  * Après l'avoir courtisée pendant des mois, Paul a enfin demandé Sophie en mariage le jour de la Saint-Valentin. 
  * After courting her for months, Paul finally proposed to Sophie on Valentine's Day. 
 ----------
+ * **la crémaillère** :: housewarming party (noun)
+ * Vous êtes tous invités à ma crémaillère ! 
+ * You're all invited to my housewarming party! 
+----------
  * **laisser tomber** :: to dump (expression)
  * Ma sœur fréquentait un type très gentil, elle l'a laissé tomber sans explication. 
  * My sister was dating a very nice guy, she dumped him without any explanation. 
+----------
+ * **la panne sèche** :: running out of gas (noun)
+ * Il vaut mieux prendre un peu d'essence ou nous allons risquer une panne sèche ! 
+ * We'd better get some gas or we are risking a dry tank! 
 ----------
  * **idolâtrer** :: to idolize (verb)
  * Ma nièce idolâtre sa mère, il n'y a personne de plus important au monde. 
  * My niece idolizes her mother, there's nobody more important in the world. 
 ----------
+ * **se tordre de rire** :: to writhe with laughter (expression)
+ * Les petites filles se tordaient de rire en pensant au clown. 
+ * The little girls were writhing with laughter thinking about the clown. 
+----------
  * **noyade** :: drowning (adjective)
  * Le drapeau rouge a été hissé sur la plage en raison du risque de noyade. 
  * The red flag was hoisted on the beach this morning because of the high risk of drowning. 
+----------
+ * **rétrécir** :: to shrink (verb)
+ * Ton pull va rétrécir si tu le laves à plus de 60°C. 
+ * Your sweater will shrink if you wash it over 60°C (140°F). 
 ----------
  * **l'autoroute** :: highway (noun)
  * Certains disent que la vie est une autoroute. 

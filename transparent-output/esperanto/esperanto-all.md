@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -87,33 +87,65 @@
  * Muldaĵo kovras lian rompitan brakon. 
  * A cast covers his broken arm. 
 ----------
+ * **malprofunda** :: shallow (adjective)
+ * La libro havis malprofundan intrigon. 
+ * The book had a shallow plot. 
+----------
  * **murmuri** :: to mutter (verb)
  * Li murmuris ion malklaran. 
  * He muttered something unintelligible. 
+----------
+ * **malsaniga** :: unhealthy (adjective)
+ * La fumado estas malsaniga kutimo. 
+ * Smoking is an unhealthy habit. 
 ----------
  * **muŝo** :: fly (noun)
  * Frapu tiun muŝon! 
  * Swat that fly! 
 ----------
+ * **malvarmetigi** :: to cool (verb)
+ * La ventumilo malvarmetigos la ĉambron. 
+ * The fan will cool the room. 
+----------
  * **naĝbaseno** :: swimming pool (noun)
  * Ni devas viziti la publikan naĝbasenon. 
  * We should visit the public swimming pool. 
+----------
+ * **malvigla** :: languid (adjective)
+ * Mi sentas min malvigla dum la varmega vetero. 
+ * I feel languid in the hot weather. 
 ----------
  * **naĝi** :: to swim (verb)
  * Infanoj ofte naĝas en la lago. 
  * Children often swim in the lake. 
 ----------
+ * **malzorga** :: reckless (adjective)
+ * Kia malprudenta stiristo! 
+ * What a reckless driver! 
+----------
  * **narciso** :: daffodil (noun)
  * Narcisoj bordas ambaŭajn flankojn de la strato. 
  * Daffodils line both sides of the road. 
+----------
+ * **mararmeo** :: navy (noun)
+ * Ilia filo deĵoras en la Usona Mararmeo. 
+ * Their son serves in the United States Navy. 
 ----------
  * **neebla** :: impossible (adjective)
  * Vi ne povas fari neeblan taskon. 
  * You cannot do an impossible task. 
 ----------
+ * **marbordo** :: beach (noun)
+ * Ŝi kaj mi iros morgaŭ al la marbordo. 
+ * She and I will go to the beach tomorrow. 
+----------
  * **neĝi** :: to snow (verb)
  * Laŭ la prognozo, neĝos morgaŭ. 
  * The forecast says that it will snow tomorrow. 
+----------
+ * **marmoto** :: groundhog (noun)
+ * Ĉu la marmoto vidis sian ombron? 
+ * Did the groundhog see his shadow? 
 ----------
  * **pruntedonanto** :: lender (noun)
  * Estu nek pruntedonanto nek prunteprenanto. 

@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -87,33 +87,65 @@
  * هي حضّرتْ وجبة مغربية. 
  * She prepared a Moroccan meal. 
 ----------
+ * **تحت** :: under (adverb of place)
+ * يختبئ القطّ تحت السلّم. 
+ * The cat is hiding under the stairs. 
+----------
  * **ألمانيّ** :: German (adjective)
  * أخي يَدرسُ التاريخ الألمانيّ. 
  * My brother is studying German history. 
+----------
+ * **بين** :: between (adverb of place)
+ * مكتبي بين السرير والنافذة. 
+ * My desk is between the bed and the window. 
 ----------
  * **صينية** :: Chinese (adjective)
  * الثقافة الصينية متنوعة. 
  * The Chinese culture is diverse. 
 ----------
+ * **حيث** :: where (adverb of place)
+ * تناولنا العشاء في المطعم حيث كنت أعمل. 
+ * We had dinner at the restaurant where I used to work. 
+----------
  * **أوروبية** :: European (adjective)
  * اليورو هو العملة الأوروبية. 
  * The Euro is the European currency. 
+----------
+ * **أمس** :: yesterday (adverb)
+ * هذا الفيلم عُرضَ أمس. 
+ * This movie came out yesterday. 
 ----------
  * **آسيويّ** :: Asian (adjective)
  * ثمة معرض للفنون الآسيوية في المدينة. 
  * There is an Asian arts exhibit in town. 
 ----------
+ * **الآن** :: now (adverb)
+ * هل تسمعني الآن؟ 
+ * Do you hear me now? 
+----------
  * **مكسيكية** :: Mexican (adjective)
  * الرئيسُ المكسيكيّ سيقوم بزيارة للولايات المتحدة في العام المقبل. 
  * The Mexican president will visit the USA next year. 
+----------
+ * **هنا** :: here (adverb)
+ * ولدوا هنا. 
+ * They were born here. 
 ----------
  * **إسبانية** :: Spanish (adjective)
  * اِعتقلتْ الشرطة الإسبانية إرهابياً. 
  * The Spanish police arrested a terrorist. 
 ----------
+ * **هناك** :: there (adverb)
+ * يمكنك الجلوس هناك. 
+ * You can sit there. 
+----------
  * **يونانيّ** :: Greek (adjective)
  * هذا الأستاذ يُدرّسُ الفلسفة اليونانية. 
  * This professor teaches Greek philosophy. 
+----------
+ * **أقل** :: less (adjective)
+ * يتقاضى أقل من زوجته. 
+ * He makes less money than his wife. 
 ----------
  * **فلسطينيّ** :: Palestinian (adjective)
  * من هو رئيس السلطة الفلسطينية الجديد؟ 

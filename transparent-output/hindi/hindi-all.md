@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -87,33 +87,65 @@
  * यह तो ऐसा है जैसे कि दीवार से बातें करना। 
  * It's like talking to a wall. 
 ----------
+ * **समुद्र-तट** :: beach (noun)
+ * मैं और वो कल समुद्र तट पर जाएंगे। 
+ * She and I will go to the beach tomorrow. 
+----------
  * **धुंआ** :: smoke (noun)
  * जहां धुंआ होता है वहीं आग भी होती है। 
  * Where there's smoke, there's fire. 
+----------
+ * **ऊदबिलाव** :: groundhog (noun)
+ * क्या ऊदबिलाव ने अपनी परछाई देखी? 
+ * Did the groundhog see his shadow? 
 ----------
  * **पागल** :: crazy (adjective)
  * हम सभी किसी न किसी तरह से थोड़े पागल होते ही हैं। 
  * We're all a little crazy in one way or another. 
 ----------
+ * **चढ़ाई चढ़ना** :: to hike (verb)
+ * क्या तुम जंगलों में से होते हुए चढ़ाई चढ़ना चाहते हो? 
+ * Do you want to hike through the woods? 
+----------
  * **बिलकुल न सो पाना** :: to not sleep a wink (expression)
  * अनिद्रा की बीमारी के कारण मैं रात भर सो नहीं पाई। 
  * I didn't sleep a wink all night because I had insomnia. 
+----------
+ * **गणित** :: mathematics (noun)
+ * मुझे गणित में कभी भी अच्छे ग्रेड प्राप्त नहीं हुए। 
+ * I never received good grades in mathematics. 
 ----------
  * **ठहरना** :: to stay (verb)
  * तुम क्यों नहीं अपना कोट उतार कर कुछ देर के लिए ठहर जाते? 
  * Why don't you take off your coat and stay a while? 
 ----------
+ * **सिक्का** :: coin (noun)
+ * मैं फैसला नहीं कर सकती। चलो, एक सिक्का उछालते हैं। 
+ * I can't decide. Let's flip a coin. 
+----------
  * **बिक्री पर होना** :: to be on sale (phrase)
  * मुझे असल में इसकी ज़रूरत नहीं है, लेकिन यह बिक्री पर है! 
  * I don't really need this, but it's on sale! 
+----------
+ * **पैसा** :: money (noun)
+ * लगता है किसी के पास भी पर्याप्त पैसा नहीं है। 
+ * Nobody seems to have enough money. 
 ----------
  * **वीभत्स** :: grotesque (adjective)
  * लड़ाई का दृश्य बहुत वीभत्स लग रहा था। 
  * The fight scene looked quite grotesque. 
 ----------
+ * **काटना** :: to bite (verb)
+ * मेरा कुत्ता तुम्हें नहीं काटेगा। 
+ * My dog will not bite you. 
+----------
  * **बुदबुदाना** :: to mumble (verb)
  * "ठीक है, मैं कर लूंगा", जॉन बुदबुदाया। 
  * "Fine, I'll do it," mumbled John. 
+----------
+ * **मच्छर** :: mosquito (noun)
+ * ये मच्छर मेरा पीछा नहीं छोड़गें! 
+ * The mosquitoes will not leave me alone! 
 ----------
  * **भर जाना** :: to fill (verb)
  * उसकी एक झलक भी उसे खुशी से भर देती है। 

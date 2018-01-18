@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -87,33 +87,65 @@
  * Tamune majemuh di kolam. 
  * The guests are tanning by the swimming pool. 
 ----------
+ * **telun** :: three days ago (biasa (common))
+ * Uli telun anake sube mulai manyi. 
+ * The people started harvesting three days ago. 
+----------
  * **duri** :: in the back (biasa (kapara))
  * Di duri ada lapangan tenis. 
  * There is a tennis court in the back. 
+----------
+ * **melukat** :: to purify (biasa (common))
+ * Dije tongos anak melukat? 
+ * Where can one get purified in holy water? 
 ----------
  * **negak** :: to sit (biasa (kapara))
  * Tiang negak di sisin pasihe. 
  * I am sitting on the beach. 
 ----------
+ * **dini** :: here (biasa (common))
+ * Dini tongos anake melukat. 
+ * Here is the place one gets purified with holy water. 
+----------
  * **jagi** :: be going to (halus (alus mider))
  * Tiang jagi numbas woh-wohan. 
  * I am going to buy some fruit. 
+----------
+ * **leteh** :: dirt (alus (refined))
+ * Ngilangin sakancan leteh di deweke. 
+ * It's for removing impurities from the body. 
 ----------
  * **sajaan** :: very, too, really (biasa (kapara))
  * Salake manis sajaan. 
  * This snake fruit tastes very sweet. 
 ----------
+ * **kasukan** :: peace (alus (refined))
+ * Apang nemu kasukan lan padewekan nirmala. 
+ * In order to find inner peace and happiness. 
+----------
  * **icen** :: to be given, to have (halus (alus singgih))
  * Icen tiang anggur akilo, nggih? 
  * Could I have 1 kilo of grapes, please? 
+----------
+ * **tiang** :: I (biasa (common))
+ * Oh keto, mare tiang nawang. 
+ * Oh it's like that, just now I know. 
 ----------
  * **dados** :: why, you may (halus (alus mider))
  * Dados mael sajaan? 
  * Why is this so expensive? 
 ----------
+ * **tirta** :: holy water (alus (refined))
+ * Sampun nunas tirta? 
+ * Have you requested holy water? 
+----------
  * **mael** :: expensive (biasa (kapara))
  * Niki ten mael. 
  * This is not expensive. 
+----------
+ * **nunas** :: to request (alus (refined))
+ * Titiang jagi nunas tirta penyucian. 
+ * May I request holy water? 
 ----------
  * **mudah** :: cheap (biasa (kapara))
  * Niki sampun mudah. 

@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -87,33 +87,65 @@
  * Busco un recogedor para el polvo. 
  * I'm looking for a dustpan. 
 ----------
+ * **dar una patada** :: to kick (expression)
+ * Para abrir esa puerta, se necesita darle una buena patada. 
+ * To open that door, you need to give it a good kick. 
+----------
  * **varios** :: several (adjective)
  * Hay varios muchachos en la clase. 
  * There are several boys in the class. 
+----------
+ * **el más allá** :: afterlife (expression)
+ * Nos veremos de nuevo en el más allá. 
+ * We'll meet again in the afterlife. 
 ----------
  * **la correa** :: leash (noun)
  * Necesitamos una correa para el perro. 
  * We need a leash for the dog. 
 ----------
+ * **el sacapuntas** :: pencil sharpener (noun)
+ * ¿Puedes prestarme tu sacapuntas? 
+ * Can you lend me your pencil sharpener? 
+----------
  * **la ardilla** :: squirrel (noun)
  * Las ardillas buscan nueces en los árboles. 
  * The squirrels search for nuts in the trees. 
+----------
+ * **los derechos humanos** :: human rights (expression)
+ * Debemos continuar luchando por los derechos humanos. 
+ * We have to keep on fighting for human rights. 
 ----------
  * **la linterna** :: flashlight (noun)
  * Usamos una linterna para ver dentro del agujero. 
  * We use a flashlight to see into the hole. 
 ----------
+ * **aflojar** :: to loosen (verb)
+ * Se sentó y se aflojó la corbata. 
+ * He sat down and loosened his tie. 
+----------
  * **desarrollar** :: to develop (verb)
  * El pueblo se está desarrollando turísticamente. 
  * The town is developing its tourism. 
+----------
+ * **encandilar** :: to dazzle (verb)
+ * Se encandiló con la belleza de Laura. 
+ * He was dazzled by Laura's beauty. 
 ----------
  * **esto** :: this (adjective)
  * Esto va a solucionar tus problemas. 
  * This is going to solve your problems. 
 ----------
+ * **a la plancha** :: on the grill (expression)
+ * Me gusta el pescado a la plancha. 
+ * I like fish on the grill. 
+----------
  * **cariñosamente** :: affectionately (adverb)
  * Le saludo cariñosamente. 
  * A very affectionate hello to you. 
+----------
+ * **la ciénaga** :: swamp (noun)
+ * ¿Shrek vivía en un castillo o en una ciénaga? 
+ * Did Shrek live in a castle or in a swamp? 
 ----------
  * **oler** :: to smell (verb)
  * Me gusta oler las flores. 

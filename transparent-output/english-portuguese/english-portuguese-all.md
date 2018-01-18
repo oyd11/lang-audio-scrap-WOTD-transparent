@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -87,33 +87,65 @@
  * The thief has several warts on his face. 
  * O ladrão tem várias verrugas no rosto. 
 ----------
+ * **to sunbathe** :: tomar sol (verb)
+ * If you sunbathe a lot it's bad for your skin. 
+ * Se você tomar muito sol, prejudica sua pele. 
+----------
  * **exciting** :: emocionante (adjective)
  * It's an exciting game. 
  * É um jogo emocionante. 
+----------
+ * **stressed** :: estressado (adjective)
+ * She is stressed out because of her work. 
+ * Ela está estressada por causa do trabalho. 
 ----------
  * **recently** :: recentemente (adverb)
  * We haven't seen each other recently. 
  * Não nos vemos recentemente. 
 ----------
+ * **to die** :: morrer (verb)
+ * Mr. Martínez was 92 when he died. 
+ * O Sr. Martínez tinha 92 anos quando morreu. 
+----------
  * **entertaining** :: divertido (adjective)
  * The circus is entertaining for my kids, but not for me. 
  * O circo é divertido para minhas crianças, mas não é para mim. 
+----------
+ * **spring** :: primavera (noun)
+ * Spring begins in March every year. 
+ * A primavera começa em Março todos os anos. 
 ----------
  * **high school** :: colégio (noun)
  * Is your high school big? 
  * O seu colégio é grande? 
 ----------
+ * **playful** :: brincalhão (adjective)
+ * Your hamster is very playful. 
+ * Seu hamster é muito brincalhão. 
+----------
  * **building** :: prédio (noun)
  * There are a lot of buildings in the city. 
  * Tem muitos prédios na cidade. 
+----------
+ * **blurry** :: desfocado (adjective)
+ * This old photograph is blurry. 
+ * Esta velha fotografia está desfocada. 
 ----------
  * **to snack** :: lanchar (verb)
  * I always snack on potato chips in the afternoon. 
  * Eu sempre lancho com batatinhas fritas à tarde. 
 ----------
+ * **to bury** :: enterrar (verb)
+ * That cemetery is full, so they can't bury anybody. 
+ * Esse cemitério está cheio, porém eles não podem enterrar mais ninguém. 
+----------
  * **young** :: jovem (adjective)
  * They are young parents. 
  * São pais muito jovens. 
+----------
+ * **tasty** :: saboroso (adjective)
+ * This cheese pizza is very tasty. 
+ * Esta pizza de queijo é muito saborosa. 
 ----------
  * **to save** :: salvar (verb)
  * The organization saves many endangered animals. 

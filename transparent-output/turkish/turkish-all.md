@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -87,33 +87,65 @@
  * Bu sabah manşetleri gördün mü? 
  * Did you see the headlines this morning? 
 ----------
+ * **ilgi çekiçi** :: attractive (adjective)
+ * Kabul etmeliyim ki ilgi çekici bir teklif. 
+ * I admit, it is an attractive offer. 
+----------
  * **Pazartesi** :: Monday (noun)
  * Sende Pazartesi gününün mahmurluğu var! 
  * Looks like someone has a case of the Mondays! 
+----------
+ * **patron** :: boss (noun)
+ * Patronumuz bize saygılı davranıyor. 
+ * Our boss treats us courteously. 
 ----------
  * **erimek** :: to melt (verb)
  * Kış mevsiminin karları çoktan eridi. 
  * The winter snow has already melted. 
 ----------
+ * **at** :: horse (noun)
+ * Bir baktım, karşımda soluk renkli bir at vardı! 
+ * I looked, and before me was a pale horse! 
+----------
  * **taslak** :: draft (noun)
  * İlk taslak yarına hazır olacak. 
  * The first draft will be ready by tomorrow. 
+----------
+ * **elma şırası** :: cider (noun)
+ * Tatlı elma şırası satıyorlar. 
+ * They sell sweet apple cider. 
 ----------
  * **örümcek** :: spider (noun)
  * Banyo küvetinde bir örümcek var! En azından tertemiz olur. 
  * There is a spider in the bathtub! At least he'll be clean. 
 ----------
+ * **albüm** :: scrapbook (noun)
+ * Son tatilimizle ilgili bir albüm yaptım. 
+ * I made a scrapbook of our last vacation. 
+----------
  * **buzunu çözmek** :: to thaw (verb)
  * Hindiyi fırına atmadan önce, buzunu çözmeniz gerek. 
  * You have to thaw the turkey before putting it in the oven. 
+----------
+ * **puro** :: cigar (noun)
+ * Puro, Küba'nın en büyük ihraç ürünlerinden biri. 
+ * Cigars are one of Cuba's largest exports. 
 ----------
  * **yelkenli tekne** :: sailboat (noun)
  * Yelkenli tekneler, suyun üzerinde hareket etmek için rüzgar gücünden yararlanırlar. 
  * Sailboats use wind to move on the water. 
 ----------
+ * **sarılmak** :: to hug (verb)
+ * Genç kız babasına sarıldı. 
+ * The young girl hugged her father. 
+----------
  * **aynı fikirde olmak** :: to agree (verb)
  * Bu konuda sizinle aynı fikirdeyim. 
  * I agree with you on that issue. 
+----------
+ * **ezbere okumak** :: to recite (verb)
+ * O eski şiiri ezbere okuyabilir misin? 
+ * Can you recite that old poem? 
 ----------
  * **rastgele** :: at random (expression)
  * Rastgele bir koltuk seçtik. 

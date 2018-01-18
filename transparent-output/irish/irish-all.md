@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -87,33 +87,65 @@
  * Is comharsanacht mhór í seo. 
  * This is a big neighborhood. 
 ----------
+ * **an bainisteoir** :: manager (noun)
+ * Ba mhaith liom labhairt leis an mbainisteoir. 
+ * I would like to speak to the manager. 
+----------
  * **cinnte** :: certainly (adverb)
  * Is maith, cinnte. 
  * Yes, certainly. 
+----------
+ * **an bheoir** :: beer (noun)
+ * Ba mhaith liom gloine beorach na háite. 
+ * I would like a glass of the local beer. 
 ----------
  * **ró-dhéanach** :: too late (adverb)
  * Tá sé ró-dhéanach. 
  * It is too late. 
 ----------
+ * **a bheartú** :: to plan (verb)
+ * Tá beartaithe againn fanacht go ceann trí lá. 
+ * We plan to stay for three days. 
+----------
  * **ngar** :: near (adverb)
  * Cónaíonn siad i ngar do chathair na Gaillimhe. 
  * They live near Galway City. 
+----------
+ * **a ordú** :: to order (verb)
+ * Ba mhaith liom ceapaire a ordú. 
+ * I would like to order a sandwich. 
 ----------
  * **cogar** :: listen (expression)
  * Cogar, ná déan dearmad go bhfuil Siobhán agus Mark ag teacht le haghaidh dinnéir anocht. 
  * Listen, don't forget that Siobhán and Mark are coming for dinner tonight. 
 ----------
+ * **an tsráid** :: the street (noun)
+ * Is sráid aontreo í seo 
+ * This is a one-way street. 
+----------
  * **arís** :: again (adverb)
  * Inis dom arís é, cé hiad? 
  * Who are they, again? 
+----------
+ * **go maith** :: well (adverb)
+ * Tá mé go maith, agus tusa? 
+ * I am fine, and you? 
 ----------
  * **Ceart go leor.** :: Okay. (expression)
  * Ceart go leor. 
  * Okay. 
 ----------
+ * **Fáilte romhat!** :: Welcome! (expression)
+ * Fáilte romhat! 
+ * Welcome! 
+----------
  * **dian** :: hard (adverb)
  * Oibrím go dian agus ansin ligim mo scíth. 
  * I work hard and then I take a rest. 
+----------
+ * **Albain** :: Scotland (noun)
+ * Tá an deartháir is sine liom ina chónaí in Albain. 
+ * My oldest brother lives in Scotland. 
 ----------
  * **freisin** :: also (adverb)
  * Tá mise ag dul chun na hEorpa freisin. 

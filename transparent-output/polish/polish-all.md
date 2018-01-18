@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -87,33 +87,65 @@
  * Czasem sama nie wiem co z nim zrobić. 
  * Sometimes I don't know what to do with him. 
 ----------
- * **razem** :: together (adverb)
- * Zaczęliśmy mieszkać razem dopiero po ślubie. 
- * We started to live together only after getting married. 
-----------
- * **już** :: already (adverb)
- * Pracuję w tej samej firmie już ponad osiem lat. 
- * I've been working for the same company for more than eight years already. 
-----------
  * **całkiem** :: fairly (adverb)
  * Znam go całkiem dobrze i wiem, że nigdy by tego nie zrobił. 
  * I know him fairly well, and he would never do that. 
+----------
+ * **razem** :: together (adverb)
+ * Zaczęliśmy mieszkać razem dopiero po ślubie. 
+ * We started to live together only after getting married. 
 ----------
  * **nadal** :: still (adverb)
  * Nadal nie wiem, o co jej chodzi. 
  * I still don't know what she meant. 
 ----------
+ * **już** :: already (adverb)
+ * Pracuję w tej samej firmie już ponad osiem lat. 
+ * I've been working for the same company for more than eight years already. 
+----------
  * **wszędzie** :: everywhere (adverb)
  * Szukaliśmy jej wszędzie, ale nie mogliśmy jej znaleźć. 
  * We looked for her everywhere, but we couldn't find her. 
+----------
+ * **całkiem** :: fairly (adverb)
+ * Znam go całkiem dobrze i wiem, że nigdy by tego nie zrobił. 
+ * I know him fairly well, and he would never do that. 
 ----------
  * **teraz** :: now (adverb)
  * Nie mam czasu, aby się tym teraz zajmować. 
  * I don't have time to deal with it right now. 
 ----------
+ * **nadal** :: still (adverb)
+ * Nadal nie wiem, o co jej chodzi. 
+ * I still don't know what she meant. 
+----------
  * **tymczasem** :: meanwhile (adverb)
  * Oglądałaś telewizję, a tymczasem obiad się przypalał. 
  * You were watching TV and meanwhile our dinner was getting burned. 
+----------
+ * **wszędzie** :: everywhere (adverb)
+ * Szukaliśmy jej wszędzie, ale nie mogliśmy jej znaleźć. 
+ * We looked for her everywhere, but we couldn't find her. 
+----------
+ * **przeciwnie** :: on the contrary (adverb)
+ * Nie jestem zła, wręcz przeciwnie, cieszę się, że przyszedłeś. 
+ * I'm not angry; on the contrary, I'm glad you came. 
+----------
+ * **teraz** :: now (adverb)
+ * Nie mam czasu, aby się tym teraz zajmować. 
+ * I don't have time to deal with it right now. 
+----------
+ * **Boże Narodzenie** :: Christmas (expression)
+ * W tym roku spędzę Boże Narodzenie w domu z rodziną. 
+ * This year I'm going to spend Christmas at home with family. 
+----------
+ * **tymczasem** :: meanwhile (adverb)
+ * Oglądałaś telewizję, a tymczasem obiad się przypalał. 
+ * You were watching TV and meanwhile our dinner was getting burned. 
+----------
+ * **chyba** :: maybe (adverb)
+ * Chyba będziemy musieli zacząć z tym od początku. 
+ * Maybe we'll have to start with this from the beginning. 
 ----------
  * **przeciwnie** :: on the contrary (adverb)
  * Nie jestem zła, wręcz przeciwnie, cieszę się, że przyszedłeś. 

@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -87,33 +87,65 @@
  * در آن موضوع همرای شما موافق هستم. 
  * I agree with you on that issue. 
 ----------
+ * **گلپی** :: cauliflower (noun)
+ * آیا گلپی را خوش دارید؟ 
+ * Do you like cauliflower? 
+----------
  * **گذشتن** :: to overtake, to pass (verb)
  * شما نمیتوانید در این امتداد سرک بگذرید. 
  * You can't pass in this stretch of road. 
+----------
+ * **اخطتاف کردن** :: to abduct (verb)
+ * دیشب خواب دیدم که بیگانگان مرا اخطتاف میکنند. 
+ * Last night I dreamt I was being abducted by aliens. 
 ----------
  * **بطور تصادفی** :: at random (expression)
  * چوکی را بطور تصادفی انتخاب کردیم. 
  * We chose a seat at random. 
 ----------
+ * **آبپاش** :: sprinkler (noun)
+ * آتش توسعه نیافت بخاطریکه آبپاش ها فعال بودند. 
+ * The fire did not spread because the sprinklers were activated. 
+----------
  * **خفه کردن** :: to offend (verb)
  * من نمیخواستم ترا خفه کنم. 
  * I didn't mean to offend you. 
+----------
+ * **صخره** :: cliff (noun)
+ * در جریان سفر ما در اطراف انگلستان صخره های دوور را دیدیم. 
+ * During our trip around England we visited the cliffs of Dover. 
 ----------
  * **موتر فروشی** :: car dealership (noun)
  * مادلی را که من میخواهم موتر فروشی منطقه من ندارد. 
  * My local car dealership doesn't have the model I'm looking for. 
 ----------
+ * **درخت** :: tree (noun)
+ * بیایید که آنجا نزدیک درخت استراحت کنیم. 
+ * Let's take a rest next to tree over there. 
+----------
  * **ریش فرانسوی** :: goatee (noun)
  * همرای ریش فرانسوی بد معاش واری معلوم میشود. 
  * He looks kind of sinister with a goatee. 
+----------
+ * **زنگ** :: call (verb)
+ * امشب برایم زنگ بزن باز پلان جور میکنیم. 
+ * Call me tonight and we'll make plans. 
 ----------
  * **نشان دادن** :: to show (verb)
  * پول را نشان بدهید. 
  * Show me the money! 
 ----------
+ * **تکت** :: ticket (noun)
+ * تکت تان کجا است؟ 
+ * Where is your ticket? 
+----------
  * **جسد** :: corpse (noun)
  * پولیس در صحنه جرم دو جسد را یافتند. 
  * The police found two corpses at the scene of the crime. 
+----------
+ * **اشاره** :: hint (noun)
+ * بعضی مردم به اشاره نمی فهمند. 
+ * Some people just can't take a hint. 
 ----------
  * **انتخاب کردن** :: to select (verb)
  * از مینو "اپشنس" را انتخاب کنید. 

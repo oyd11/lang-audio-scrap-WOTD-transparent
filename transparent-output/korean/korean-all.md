@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -87,33 +87,65 @@
  * 한 번 더 풀이법을 설명해 보세요. 
  * Explain the solution to me one more time. 
 ----------
+ * **아름답다** :: beautiful (adjective)
+ * 그 드레스를 입으니 정말 아름답군요. 
+ * You look beautiful in that dress. 
+----------
  * **외계인** :: alien (noun)
  * 우주에는 외계인들이 있습니까? 
  * Are there aliens in outer space? 
+----------
+ * **공짜** :: free (noun)
+ * 두 개 사면, 하나 공짜. 
+ * Buy two, get one free. 
 ----------
  * **모범** :: example (noun)
  * 모범을 보임으로써 리드하는 것이 제일 좋다. 
  * It's always best to lead by example. 
 ----------
+ * **제안** :: suggestion (noun)
+ * 저에게 몇 가지 제안이 있습니다. 
+ * I have some suggestions to make. 
+----------
  * **고르다** :: to choose (verb)
  * 아무 카드나 한 장 고르세요. 
  * Choose a card, any card. 
+----------
+ * **탈진한** :: exhausted (adjective)
+ * 하루 종일 일을 했더니 탈진한 상탭니다. 
+ * I've worked all day long; I'm exhausted. 
 ----------
  * **힘이 넘치다** :: to be energetic (expression)
  * 산책을 오래 했는데도 그녀의 강아지는 아직도 힘이 넘칩니다! 
  * Even after a long walk, her puppy is energetic! 
 ----------
+ * **천사** :: angel (noun)
+ * 도와줘서 감사합니다. 당신은 정말 천사예요. 
+ * Thank you for your help; you're an angel. 
+----------
  * **잘못 알고 있다** :: to be mistaken (expression)
  * 영화가 한 시간짜리인 줄 알았는데 내가 잘못 알고 있었어. 
  * I thought the movie was one hour long, but I was mistaken. 
+----------
+ * **비통하게** :: bitterly (adverb)
+ * 그 불쌍한 소녀가 비통하게 울기 시작했어요. 
+ * The poor girl started to cry bitterly. 
 ----------
  * **예외** :: exception (noun)
  * 모든 규칙에는 예외가 있습니다. 
  * There are exceptions to every rule. 
 ----------
+ * **불운** :: misfortune (noun)
+ * 난 말야, 오늘 가혹한 불운을 겪었어. 
+ * I'm suffering the slings and arrows of misfortune today, I tell you. 
+----------
  * **유령** :: ghost (noun)
  * 저 낡은 집에 유령이 나타난다고들 말합니다. 
  * They say that ghosts haunt the old house. 
+----------
+ * **이름** :: name (noun)
+ * 이름이 뭐예요? 
+ * What's your name? 
 ----------
  * **끝내다** :: to finish (verb)
  * 그 책 다 끝냈니? 

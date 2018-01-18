@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -87,33 +87,65 @@
  * Eu gosto de filme romântico também. 
  * I like romantic movies, too. 
 ----------
+ * **ficar doente** :: to get sick (expression)
+ * Não posso ficar doente agora, minhas férias começam amanhã. 
+ * I can't get sick now, my vacation starts tomorrow! 
+----------
  * **fome** :: hunger (noun)
  * Estou com tanta fome! 
  * I am so hungry 
+----------
+ * **certamente** :: certainly (adverb)
+ * Certamente concordo com todos aqueles que disseram isso. 
+ * Certainly, I agree with all those who say that. 
 ----------
  * **alugar** :: to rent (expression)
  * Quem alugou a casa da Maria? 
  * Who rented Maria's house? 
 ----------
+ * **país** :: country (noun)
+ * Este é um lindo país. 
+ * This is a beautiful country. 
+----------
  * **vender** :: to sell (expression)
  * Preciso vender meu carro velho. 
  * I need to sell my old car. 
+----------
+ * **enganar** :: to cheat (verb)
+ * Você acha que consegue me enganar? Pense novamente! 
+ * Do you think you can cheat me? Think again! 
 ----------
  * **ontem** :: yesterday (adverb)
  * Meu pai chegou de viagem ontem a noite. 
  * My father arrived from his trip last night. 
 ----------
+ * **onda** :: wave (noun)
+ * Gosto das ondas do Mar Negro. 
+ * I like the waves of the Black Sea. 
+----------
  * **passeio** :: a drive (noun)
  * Vamos dar um passeio de carro. 
  * Let's go for a drive. 
+----------
+ * **confiar em alguém** :: to trust somebody (expression)
+ * Ele sempre nos engana; não confio nele. 
+ * He always deceives us; I don't trust him. 
 ----------
  * **fazer** :: to do, to make (expression)
  * O ônibus faz muito barulho. 
  * The bus makes a lot of noise. 
 ----------
+ * **trombadinha** :: pick-pocket (noun)
+ * A polícia prendeu um trombadinha ontem à noite. 
+ * The police arrested a pick-pocket last night. 
+----------
  * **correr** :: to run (expression)
  * Você correrá na maratona de São Silvestre? 
  * Will you run the São Silvestre marathon? 
+----------
+ * **ser um chato** :: to be a bore (expression)
+ * Ele é um professor muito chato. 
+ * He is such a bore of a teacher. 
 ----------
  * **parque** :: park (noun)
  * Vamos levar as crianças no parque hoje a tarde. 

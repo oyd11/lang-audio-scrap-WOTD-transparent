@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -87,33 +87,65 @@
  * We want ice in our drinks. 
  * Nosotros queremos hielo en nuestras bebidas. 
 ----------
+ * **fountain** :: fuente (noun)
+ * She threw a coin in the fountain and made a wish. 
+ * Ella echó una moneda en el fuente y hizo un deseo. 
+----------
  * **to slip** :: resbalar (verb)
  * The woman slipped on the ice. 
  * La mujer resbaló en el hielo. 
+----------
+ * **exciting** :: emocionante (adjective)
+ * It's an exciting game. 
+ * Es un partido emocionante. 
 ----------
  * **flag** :: bandera (noun)
  * The American flag has fifty stars. 
  * La bandera de los estados unidos tiene cincuenta estrellas. 
 ----------
+ * **evening** :: tarde (noun)
+ * We like to sit on the porch and have a glass of wine on summer evenings. 
+ * En las tardes del verano, nos gusta sentar en el porche y tomar un vaso de vino. 
+----------
  * **lawn gnome** :: gnomo de jardín (noun)
  * My neighbors have a lawn gnome in their garden. 
  * Mis vecinos tienen un gnomo de jardín en su patio. 
+----------
+ * **to surprise** :: sorprender (verb)
+ * The police want to surprise the robber outside of the bank. 
+ * La policía quiere sorprender al ladrón afuera del banco. 
 ----------
  * **to snow** :: nevar (expression)
  * It will snow a lot this week. 
  * Nevará mucho esta semana. 
 ----------
+ * **almond** :: almendra (noun)
+ * Almonds are one of my favorite snacks. 
+ * Las almendras son uno de mis bocados preferidos 
+----------
  * **frozen** :: congelado (adjective)
  * My hands feel frozen. 
  * Me siento las manos congeladas. 
+----------
+ * **board game** :: juego de mesa (noun)
+ * The children receive several board games. 
+ * Los niños reciben varios juegos de mesa. 
 ----------
  * **Hanukkah** :: Jánuca (noun)
  * Jewish people celebrate Hanukkah with a menorah. 
  * Los judíos celebran Jánuca con una menorá. 
 ----------
+ * **to decorate** :: decorar (verb)
+ * My family and I decorate the Christmas tree. 
+ * Mi familia y yo decoramos el árbol de Navidad. 
+----------
  * **fountain** :: fuente (noun)
  * She threw a coin in the fountain and made a wish. 
  * Ella echó una moneda en el fuente y hizo un deseo. 
+----------
+ * **sunny** :: soleado (adjective)
+ * It's a sunny day. 
+ * Es un día soleado. 
 ----------
  * **exciting** :: emocionante (adjective)
  * It's an exciting game. 

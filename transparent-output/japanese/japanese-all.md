@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -129,11 +129,23 @@
  * Ginkouin wa okane o takusan kasegu. 
  * A banker earns a lot of money. 
 ----------
+ * **同窓会** :: reunion (noun)
+ * **dousoukai** 
+ * 10月に高校の同窓会に行く予定です。 
+ * Juugatsu ni koukou no dousoukai ni iku yotei desu. 
+ * I plan to go to a high school reunion in October. 
+----------
  * **足りる** :: to be enough (verb)
  * **tariru** 
  * これだけじゃ足りないです。 
  * Koredake ja tarinai desu. 
  * This is not enough. 
+----------
+ * **卒業生** :: graduate (noun)
+ * **sotsugyousei** 
+ * 彼は京都大学の卒業生だ。 
+ * Kare wa kyouto daigaku no sotsugyousei da. 
+ * He graduated from Kyoto University. 
 ----------
  * **まずい** :: not tasty (adjective)
  * **mazui** 
@@ -141,11 +153,23 @@
  * Asagohan wa mazukatta. 
  * The breakfast was not tasty. 
 ----------
+ * **結局** :: in the end (adverb)
+ * **kekkyoku** 
+ * がんばったのに、結局だめだった。 
+ * Ganbatta noni, kekkyoku dame datta. 
+ * I tried hard, but it was in vain in the end. 
+----------
  * **携帯** :: cell phone (noun)
  * **keitai** 
  * 携帯はとても便利です。 
  * Keitai wa totemo benri desu. 
  * Cell phones are very convenient. 
+----------
+ * **頑張る** :: to do one's best (verb)
+ * **ganbaru** 
+ * 山田さん、がんばってね。 
+ * Yamada san, ganbatte ne. 
+ * Do your best, Mr. Yamada. 
 ----------
  * **やる** :: to water (verb)
  * **yaru** 
@@ -153,11 +177,23 @@
  * Hanani mizu o yatta. 
  * I watered my flower. 
 ----------
+ * **欠席する** :: to be absent (verb)
+ * **kesseki suru** 
+ * 大事な会議に欠席してしまった。 
+ * Daijina kaigi ni kesseki site shimatta. 
+ * I was absent from an important meeting. 
+----------
  * **ありがとう** :: Thank you. (expression)
  * **arigatou** 
  * 本を貸してくれてどうもありがとう。 
  * Hon o kashite kurete doumo arigatou. 
  * Thank you for lending me the book. 
+----------
+ * **出席する** :: to attend (verb)
+ * **shusseki suru** 
+ * 来週のパーティーに出席するつもりです。 
+ * Raishuu no pâthî ni shusseki suru tsumori desu. 
+ * I plan to attend the party next week. 
 ----------
  * **けっこうです** :: No thank you. (expression)
  * **kekkou desu** 
@@ -165,11 +201,23 @@
  * Onakaga ippai nanode kekkou desu. 
  * No thank you. I am full. 
 ----------
+ * **そっくり** :: to look similar (adjective)
+ * **sokkuri** 
+ * 私は母にそっくりです。 
+ * Watashi wa haha ni sokkuri desu. 
+ * I look similar to my mother. 
+----------
  * **失礼します** :: Excuse me. (expression)
  * **shitsurei shimasu** 
  * 社長の部屋に入るときは「失礼します」と言わなければならない。 
  * Shachou no heya ni hairu toki wa "shitsurei shimasu" to iwanakereba naranai. 
  * You must say "Shitsureishimasu" when you enter the president's room. 
+----------
+ * **退職する** :: to retire (verb)
+ * **taishoku suru** 
+ * 早く退職したいです。 
+ * Hayaku taishoku shitai desu. 
+ * I want to retire early. 
 ----------
  * **ごめんなさい** :: I am sorry. (expression)
  * **gomennasai** 

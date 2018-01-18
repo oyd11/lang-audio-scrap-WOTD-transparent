@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 375 phrases 
+ 383 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -87,9 +87,21 @@
  * Noen internasjonale ekspertmøter prøver å løse bankkrisen. 
  * A few international think tanks are trying to solve the banking crisis. 
 ----------
+ * **ekspertmøte** :: think tank (noun)
+ * Noen internasjonale ekspertmøter prøver å løse bankkrisen. 
+ * A few international think tanks are trying to solve the banking crisis. 
+----------
  * **jordskjelv** :: earthquake (noun)
  * Et kraftig jordskjelv rammet Kinas Sichuan-provinsen i fjor. 
  * A powerful earthquake struck China's Sichuan province last year. 
+----------
+ * **jordskjelv** :: earthquake (noun)
+ * Et kraftig jordskjelv rammet Kinas Sichuan-provinsen i fjor. 
+ * A powerful earthquake struck China's Sichuan province last year. 
+----------
+ * **omsorgsbolig** :: care home (noun)
+ * Etter et kort sykehusopphold måtte faren min flytte til en omsorgsbolig. 
+ * After a short hospital say, my father had to move to a health care facility. 
 ----------
  * **omsorgsbolig** :: care home (noun)
  * Etter et kort sykehusopphold måtte faren min flytte til en omsorgsbolig. 
@@ -99,6 +111,14 @@
  * Etter at Larson hadde drukket et par øl og ble tatt for promillekjøring, mistet han sertifikatet. 
  * After Larson had drunk a few beers and was caught drunk driving, he lost his driver's license. 
 ----------
+ * **promillekjøring** :: drunk driving (noun)
+ * Etter at Larson hadde drukket et par øl og ble tatt for promillekjøring, mistet han sertifikatet. 
+ * After Larson had drunk a few beers and was caught drunk driving, he lost his driver's license. 
+----------
+ * **sjåfør** :: driver (noun)
+ * Alle bil- og bussjåfører må kjøre forsiktig over fjellene om vinteren. 
+ * All car and bus drivers have to drive over the mountains carefully during the winter. 
+----------
  * **sjåfør** :: driver (noun)
  * Alle bil- og bussjåfører må kjøre forsiktig over fjellene om vinteren. 
  * All car and bus drivers have to drive over the mountains carefully during the winter. 
@@ -107,9 +127,21 @@
  * En arktisk storm forårsaker vanskelig kjøreforhold over store deler av Nordland. 
  * An arctic storm is causing tough driving conditions in many parts of Nordland. 
 ----------
+ * **storm** :: storm (noun)
+ * En arktisk storm forårsaker vanskelig kjøreforhold over store deler av Nordland. 
+ * An arctic storm is causing tough driving conditions in many parts of Nordland. 
+----------
  * **datter** :: daughter (noun)
  * Annika er den eldste av de tre døtrene. 
  * Annika is the oldest of the three daughters. 
+----------
+ * **datter** :: daughter (noun)
+ * Annika er den eldste av de tre døtrene. 
+ * Annika is the oldest of the three daughters. 
+----------
+ * **konkurranse** :: competition (noun)
+ * Kommer du til å delta i den store konkurransen om global oppvarming? 
+ * Are you going to participate in the big competition about Global Warming? 
 ----------
  * **konkurranse** :: competition (noun)
  * Kommer du til å delta i den store konkurransen om global oppvarming? 
