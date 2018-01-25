@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -155,9 +155,21 @@
  * هر څومره ژر چی کیږی زه به هلته واوسم. 
  * I will be there as soon as I can. 
 ----------
+ * **هر څومره ژر** :: as soon as (conjunction)
+ * هر څومره ژر چی کیږی زه به هلته واوسم. 
+ * I will be there as soon as I can. 
+----------
  * **خوړل کېدل** :: to corrode, to eat away (verb)
  * هغه بخیلۍ خوړلی دی. 
  * He is eaten up with jealousy. 
+----------
+ * **خوړل کېدل** :: to corrode, to eat away (verb)
+ * هغه بخیلۍ خوړلی دی. 
+ * He is eaten up with jealousy. 
+----------
+ * **وحشي** :: frantic, frenzied, wild (adjective)
+ * هغه وحشي شو. 
+ * He became frantic. 
 ----------
  * **وحشي** :: frantic, frenzied, wild (adjective)
  * هغه وحشي شو. 
@@ -167,6 +179,14 @@
  * هغوی د خپلو ملګرو په مرسته دښمنانو ته ماتې ورکړه. 
  * They defeated the enemies with the help of their friends. 
 ----------
+ * **ماتې ورکول** :: to defeat (verb)
+ * هغوی د خپلو ملګرو په مرسته دښمنانو ته ماتې ورکړه. 
+ * They defeated the enemies with the help of their friends. 
+----------
+ * **اتڼ** :: Afghan national dance (noun)
+ * زه اتڼ کولې شم. 
+ * I can dance the Afghan national dance. 
+----------
  * **اتڼ** :: Afghan national dance (noun)
  * زه اتڼ کولې شم. 
  * I can dance the Afghan national dance. 
@@ -174,6 +194,14 @@
  * **خرڅول** :: to sell something (verb)
  * خرڅول او اخیستل په بازار کې وشول. 
  * Buying and selling took place in the bazaar. 
+----------
+ * **خرڅول** :: to sell something (verb)
+ * خرڅول او اخیستل په بازار کې وشول. 
+ * Buying and selling took place in the bazaar. 
+----------
+ * **ترڅو** :: unless (conjunction)
+ * ترڅو چې ورته یوه قصه ونه وایې هغه نه ویده کیږي. 
+ * He won't go to sleep unless you tell him a story. 
 ----------
  * **ترڅو** :: unless (conjunction)
  * ترڅو چې ورته یوه قصه ونه وایې هغه نه ویده کیږي. 

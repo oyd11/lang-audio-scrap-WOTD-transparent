@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -151,29 +151,57 @@
  * Nie jestem zła, wręcz przeciwnie, cieszę się, że przyszedłeś. 
  * I'm not angry; on the contrary, I'm glad you came. 
 ----------
- * **Boże Narodzenie** :: Christmas (expression)
- * W tym roku spędzę Boże Narodzenie w domu z rodziną. 
- * This year I'm going to spend Christmas at home with family. 
-----------
- * **chyba** :: maybe (adverb)
- * Chyba będziemy musieli zacząć z tym od początku. 
- * Maybe we'll have to start with this from the beginning. 
-----------
  * **bardzo** :: very (adverb)
  * Ostatnie wyniki były bardzo interesujące. 
  * The latest results were very interesting. 
+----------
+ * **Boże Narodzenie** :: Christmas (expression)
+ * W tym roku spędzę Boże Narodzenie w domu z rodziną. 
+ * This year I'm going to spend Christmas at home with family. 
 ----------
  * **trudny** :: difficult (adjective)
  * Język polski nie jest trudnym językiem. 
  * Polish is not a difficult language. 
 ----------
+ * **chyba** :: maybe (adverb)
+ * Chyba będziemy musieli zacząć z tym od początku. 
+ * Maybe we'll have to start with this from the beginning. 
+----------
  * **mieszkać** :: to live, to stay (verb)
  * Ona mieszka w Gdańsku. 
  * She lives in Gdańsk. 
 ----------
+ * **bardzo** :: very (adverb)
+ * Ostatnie wyniki były bardzo interesujące. 
+ * The latest results were very interesting. 
+----------
  * **jesień** :: autumn (noun)
  * Jesień jest w tym roku wyjątkowo zimna. 
  * Autumn this year is exceptionally cold. 
+----------
+ * **trudny** :: difficult (adjective)
+ * Język polski nie jest trudnym językiem. 
+ * Polish is not a difficult language. 
+----------
+ * **teściowa** :: mother-in-law (noun)
+ * Jej teściowa jest zaskakująco miłą osobą. 
+ * Her mother-in-law is a surprisingly nice person. 
+----------
+ * **mieszkać** :: to live, to stay (verb)
+ * Ona mieszka w Gdańsku. 
+ * She lives in Gdańsk. 
+----------
+ * **sąsiad** :: male neighbor (noun)
+ * Mamy bardzo miłych sąsiadów. 
+ * We have very nice neighbors. 
+----------
+ * **jesień** :: autumn (noun)
+ * Jesień jest w tym roku wyjątkowo zimna. 
+ * Autumn this year is exceptionally cold. 
+----------
+ * **kupować** :: to buy (verb)
+ * Nie chcemy kupować nowego samochodu. 
+ * We don't want to buy a new car. 
 ----------
  * **teściowa** :: mother-in-law (noun)
  * Jej teściowa jest zaskakująco miłą osobą. 

@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -151,29 +151,57 @@
  * من هو رئيس السلطة الفلسطينية الجديد؟ 
  * Who is the new Palestinian President? 
 ----------
+ * **معظم** :: most (noun)
+ * معظم المشاركين حاضرون. 
+ * Most of the participants are present. 
+----------
  * **إسرائيليّ** :: Israeli (adjective)
  * لا يمكنك السفر إلى إيران إذا كان لديك جواز سفر إسرائيلي. 
  * You can not travel to Iran if you have an Israeli passport. 
+----------
+ * **بسرعة** :: rapidly (prepostion)
+ * طبقة الجليد تذوب بسرعة. 
+ * The glacier is melting rapidly. 
 ----------
  * **حكوميّ** :: governmental (adjective)
  * الرئيس يستخدم السلطة الحكومية. 
  * The president uses governmental power. 
 ----------
+ * **الأقل** :: the least (adjective)
+ * هذا البرنامج هو الأقل كلفة. 
+ * This program is the least expensive one. 
+----------
  * **برلمانية** :: parliamentary (adjective)
  * ستكون هناك مناقشة برلمانية حول الإجهاض. 
  * There will be parliamentary debate about abortion. 
+----------
+ * **بسهولة** :: easily (preposition)
+ * هو لا يقتنع بسهولة أبداً. 
+ * He is never convinced easily. 
 ----------
  * **شعبية** :: popular (adjective)
  * فاز في الانتخابات عن طريق التصويت الشعبيّ 
  * He won the elections by popular vote. 
 ----------
+ * **عاجلاً** :: soon (adverb)
+ * يجب أن ترى الطبيب عاجلاً. 
+ * You should see a doctor soon. 
+----------
  * **محترف** :: professional (adjective)
  * هؤلاء اللاعبون محترفون. 
  * Those players are professionals. 
 ----------
+ * **غداً** :: tomorrow (adverb)
+ * سألتقي بأصدقائي غداً. 
+ * I will meet my friends tomorrow. 
+----------
  * **أيّد** :: to support (verb)
  * نحن لا نؤيّد هذا الاقتراح. 
  * We don't support this proposal. 
+----------
+ * **أيضاً** :: also (adverb)
+ * أحب الموسيقى و الرقص أيضاً. 
+ * I love music and dance also. 
 ----------
  * **بعث** :: to send (verb)
  * يعتقد اليهود والمسيحيون والمسلمون أنَّ الله بعث الأنبياء و الرسل. 

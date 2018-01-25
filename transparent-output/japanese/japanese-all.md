@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -225,11 +225,23 @@
  * Otouto wa nani o shitemo "gomennasai" to iwanai. 
  * My brother does not say "I'm sorry", no matter what he does. 
 ----------
+ * **雪かき** :: snow plowing (noun)
+ * **yukikaki** 
+ * 冬は雪かきが大変です。 
+ * Fuyu wa yukikaki ga taihen desu. 
+ * Snow plowing is hard in winter. 
+----------
  * **すみません** :: Excuse me. (expression)
  * **sumimasen** 
  * すみません。これをください。 
  * Sumimasen. Kore o kudasai. 
  * Excuse me. Please give me this. 
+----------
+ * **楽しい** :: cheerful (adjective)
+ * **tanoshii** 
+ * 父は楽しい人です。 
+ * Chichi wa tanoshii hito desu. 
+ * My father is a cheerful person. 
 ----------
  * **失礼しました** :: I'm very sorry about that. (expression)
  * **shitsurei shimashita** 
@@ -237,11 +249,23 @@
  * Okyakusama no ashi o funde shimattanode, "shitsurei simashita" to iimashita. 
  * I said "I am very sorry about that" to the client when I accidentally stepped on his foot. 
 ----------
+ * **ご馳走** :: feast (noun)
+ * **gochisou** 
+ * 感謝祭のご馳走が楽しみです。 
+ * Kanshasai no gochisou ga tanoshimi desu. 
+ * I look forward to having a Thanksgiving feast. 
+----------
  * **マザコン** :: mama's boy (noun)
  * **mazakon** 
  * マザコンの男とは結婚したくない。 
  * Mazakon no otoko towa kekkon shitakunai. 
  * I do not want to marry a mama's boy. 
+----------
+ * **掃除する** :: to clean (verb)
+ * **souji suru** 
+ * 部屋を掃除した。 
+ * Heya o souji shita 
+ * I cleaned my room. 
 ----------
  * **環境問題** :: environmental issues (noun)
  * **kankyoumondai** 
@@ -249,17 +273,35 @@
  * Kankyoumondai wa minna no mondai da. 
  * Environmental issues are everybody's problem. 
 ----------
+ * **洗濯する** :: to do laundry (verb)
+ * **senntaku suru** 
+ * お天気が悪いから、洗濯はできない。 
+ * Otenki ga warui kara, sentaku wa dekinai. 
+ * Because it is bad weather today, I cannot do laundry. 
+----------
  * **近道** :: shortcut (noun)
  * **chikamichi** 
  * 近道して家に帰ろう。 
  * Chikamichi shite ie ni kaerou. 
  * Let's take the shortcut home. 
 ----------
+ * **だめ** :: no good (adjective)
+ * **dame** 
+ * 危ない所へ行ってはだめです。 
+ * Abunai tokoro e ittewa dame desu. 
+ * It is not good to go to a dangerous place. 
+----------
  * **残業** :: overtime work (noun)
  * **zangyou** 
  * 残業が多くて大変だ。 
  * zangyou ga ookute taihen da 
  * It's hard to have this much overtime work. 
+----------
+ * **腰** :: lower back (noun)
+ * **koshi** 
+ * 腰が痛くて動けません。 
+ * Koshi ga itakute ugokemasen. 
+ * My lower back hurts and cannot move. 
 ----------
  * **お元気ですか** :: How are you? (expression)
  * **ogenkidesuka** 

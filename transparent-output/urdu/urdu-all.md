@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -151,29 +151,57 @@
  * اگر میں ہیئر ڈرائر کا استعمال نہ کروں تو میرے بال اچھے نہیں لگیں گے. 
  * If I don't use a hairdryer my hair won't look good. 
 ----------
+ * **ڈبا** :: box (noun)
+ * اب دیکھتے ہیں کہ ڈ بے میں کیا ہے. کچھ نہیں! بالکل بھی نہیں! 
+ * Now let's see what's in the box. Nothing! Absolutely nothing! 
+----------
  * **زور سے ہنسنا** :: to laugh out loud (verb)
  * جب ہم نے تصویر کو دیکھا، تو ہم زور سے ہنس پڑے. 
  * When we saw the picture, we laughed out loud. 
+----------
+ * **ائر کنڈشنر** :: air conditioner (noun)
+ * ائر کنڈیشنر چالو کریں، براہ مہربانی. 
+ * Turn on the air conditioner, please. 
 ----------
  * **خوبصورت** :: beautiful (adjective)
  * تم اس لباس میں خوبصورت لگ رہی ہو. 
  * You look beautiful in that dress. 
 ----------
+ * **قیمہ** :: ground meat (noun)
+ * مجھے آدھا پونڈ قیمہ چاہئے. 
+ * I need half a pound of ground meat. 
+----------
  * **مفت** :: free (adjective)
  * دو خریدیں، ایک مفت لے لیں. 
  * Buy two, get one free. 
+----------
+ * **تھوڑا سا** :: a little bit (expression)
+ * یہ سوپ تھوڑا سا نمک استعمال کر سکتا ہے. 
+ * This soup could use a little bit of salt. 
 ----------
  * **تجویز** :: suggestion (noun)
  * میں نے کچھ تجاویز کرنی ہیں. 
  * I have some suggestions to make. 
 ----------
+ * **مداخلت کرنے والا** :: meddler (noun)
+ * میں اپنے پڑوسی کو پسند نہیں کرتا. وہ مداخلت کرنے والی ہے. 
+ * I don't like my neighbor. She's a meddler. 
+----------
  * **تھکنا** :: exhausted (adjective)
  * میں نے دن بھر کام کیا ہے میں تھک گیا ہوں. 
  * I've worked all day long; I'm exhausted. 
 ----------
+ * **کے باوجود** :: in spite of (conjunction)
+ * اس مسئلہ کے باوجود، شو ہر حال میں جاری رہنا چاہئے. 
+ * In spite of the problem, the show must go on. 
+----------
  * **فرشتہ** :: angel (noun)
  * آپ کی مدد کے لئے آپ کا شکریہ؛ آپ فرشتہ ہیں. 
  * Thank you for your help; you're an angel. 
+----------
+ * **تم مذاق کر رہے ہو؟** :: Are you kidding? (expression)
+ * میں یقین نہیں کر سکتا. کیا تم مذاق کر رہے ہو؟ 
+ * I can't believe it. Are you kidding? 
 ----------
  * **تَلخی سے** :: bitterly (adverb)
  * بیچاری لڑکی نے تَلخی سے رونا شروع کر دیا. 

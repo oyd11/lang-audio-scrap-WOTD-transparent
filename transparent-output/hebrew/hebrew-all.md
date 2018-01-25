@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -151,29 +151,57 @@
  * רוב גולשי האינטרנט מצפים למהירויות חיבור גבוהות. 
  * Most internet users expect fast connection speeds. 
 ----------
+ * **מפחיד** :: scary (adjective)
+ * אתה אוהב סרטים מפחידים? 
+ * Do you like scary movies? 
+----------
  * **ראסטות** :: dreadlocks (noun)
  * ראסטות לא מתאימות לך. 
  * Dreadlocks don't look good on you. 
+----------
+ * **לסגת** :: to withdraw (verb)
+ * אני שומע אותו בא: בוא ניסוג, אדוני. 
+ * I hear him coming: let's withdraw, my lord. 
 ----------
  * **מזעזע** :: shocking (adjective)
  * הצילומים של התאונה היו מזעזעים. 
  * The footage of the accident was shocking. 
 ----------
+ * **לחפור** :: to dig (verb)
+ * אתה חופר לעצמך קבר. 
+ * You are digging your own grave. 
+----------
  * **להזדעף** :: to pout (verb)
  * מה אמרת לאחותך? היא שוב הזדעפה. 
  * What did you say to your sister? She's pouting again. 
+----------
+ * **מאובן** :: fossil (noun)
+ * המאובנים במוזיאון הם מעידן הקרטיקון. 
+ * The fossils at the museum are from the Cretaceous period. 
 ----------
  * **לצידך** :: by your side (expression)
  * אני רוצה לבלות את שארית חיי לצידך. 
  * I want to spend the rest of my life by your side. 
 ----------
+ * **לצלם** :: to photograph (verb)
+ * היא צילמה ציפור נדירה. 
+ * She photographed a rare bird. 
+----------
  * **מטרה** :: target (noun)
  * החץ פגע במרכז המטרה. 
  * The arrow hit the center of the target. 
 ----------
+ * **קריר** :: chilly (adjective)
+ * איזה יום קריר! 
+ * What a chilly day! 
+----------
  * **עוגיות** :: cookies (noun)
  * אימא שלי תמיד שולחת לי קופסה עם עוגיות לחג המולד. 
  * My mother always sends me a box of cookies for Christmas. 
+----------
+ * **לחכות** :: to wait for (verb)
+ * אנחנו מחכים לאוטובוס. 
+ * We are waiting for the bus. 
 ----------
  * **בחיים לא** :: not in a million years (expression)
  * בחיים לא הייתי רוצה לראות את הסרט הזה. 

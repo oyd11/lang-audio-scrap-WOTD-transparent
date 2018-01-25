@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -151,29 +151,57 @@
  * Tá mise ag dul chun na hEorpa freisin. 
  * I am also going to Europe. 
 ----------
+ * **gairid** :: recently (adverb)
+ * Is le gairid a tógadh an teach seo. 
+ * This house was built recently. 
+----------
  * **nach** :: not (expression)
  * Nach bhfuil tú ag dul chun tí? 
  * Aren't you going to the house? 
+----------
+ * **inné** :: yesterday (adverb)
+ * Chuamar síos tí Choilm inné. 
+ * We went down to Colm's house yesterday. 
 ----------
  * **leis** :: with him (expression)
  * Ní aontaím leis. 
  * I do not agree with him. 
 ----------
+ * **mall** :: slowly (adverb)
+ * Chuaigh sé go mall trí na sráideanna. 
+ * He went slowly through the streets. 
+----------
  * **orm** :: on me (expression)
  * Tá slaghdán orm. 
  * I have a cold. 
+----------
+ * **idir** :: between (adverb)
+ * Ní fheiceann sé difríocht mhór idir an dá rothar. 
+ * He does not see a big difference between the two bicycles. 
 ----------
  * **againn** :: at us (expression)
  * Níl mórán oibre le déanamh againn. 
  * We don't have much work to do. 
 ----------
+ * **go mall** :: slowly (adverb)
+ * Labhair go mall, le do thoil. 
+ * Please speak slowly. 
+----------
  * **seo** :: this (expression)
  * An bhfuil mórán le feiceáil sa chathair seo? 
  * Is there much to see in this city? 
 ----------
+ * **mór** :: big (adjective)
+ * Is comharsanacht mhór í seo. 
+ * This is a big neighborhood. 
+----------
  * **ceolchoirme** :: concert (noun)
  * Is féidir leat dul chun na ceolchoirme más mian leat. 
  * You can go to the concert if you want to. 
+----------
+ * **cinnte** :: certainly (adverb)
+ * Is maith, cinnte. 
+ * Yes, certainly. 
 ----------
  * **smaoineamh** :: idea (noun)
  * B'fhéidir go bhfuil smaoineamh níos fearr agatsa. 

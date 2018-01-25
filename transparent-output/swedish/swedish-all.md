@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -151,29 +151,57 @@
  * Ibland uppstår konflikter genom överlappande arbetsuppgifter. 
  * Sometimes conflicts arise from overlapping job duties. 
 ----------
+ * **(en) pumpa** :: pumpkin (noun)
+ * Pumpan är den mest köpta grönsaken i oktober. 
+ * The pumpkin is the most bought vegetable in October. 
+----------
  * **(en) gäst** :: guests (noun)
  * Våra bröllopsgäster börjar anlända nu! 
  * Our wedding guests are starting to arrive! 
+----------
+ * **att avgå** :: to take off (verb)
+ * Planet avgick för tio minuter sedan. Vad ska vi göra? 
+ * The plane took off ten minutes ago. What do we do? 
 ----------
  * **Varning!** :: Watch out! (interjection)
  * Varning för hunden! 
  * Be careful of the dog! 
 ----------
+ * **(en) skola** :: school (noun)
+ * Han vill inte gå till skolan idag. 
+ * He does not want to go to school today. 
+----------
  * **(en) profil** :: profile (noun)
  * Gå in på min Facebook-profil. 
  * Visit my Facebook profile. 
+----------
+ * **att lära sig** :: to learn (verb)
+ * Jag vill lära mig mer svenska. 
+ * I want to learn more Swedish. 
 ----------
  * **att prata** :: to chat (verb)
  * Det var verkligen roligt att prata med dig. 
  * It's been a pleasure chatting with you. 
 ----------
+ * **(en) hiss** :: elevator (noun)
+ * Ta hissen upp till nionde våningen. 
+ * Take the elevator to the ninth floor. 
+----------
  * **nyheter** :: news (noun)
  * Inga nyheter är bra nyheter. 
  * No news is good news. 
 ----------
+ * **att spela (ett instrument)** :: to play (an instrument) (verb)
+ * Han spelar piano som en virtuos. 
+ * He plays the piano like a virtuoso. 
+----------
  * **(en) cylinderhatt** :: top hat (noun)
  * Gentlemannen tog av sig sina handskar och cylinderhatt. 
  * The gentleman took off his gloves and top hat. 
+----------
+ * **(en) tärning** :: dice (noun)
+ * Det är din tur att kasta tärningarna. 
+ * It's your turn to roll the dice. 
 ----------
  * **(en) vän** :: friend (noun)
  * När jag har en dålig dag, ser jag till att alla mina Facebook-vänner får veta det! 

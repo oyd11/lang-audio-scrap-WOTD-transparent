@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -151,29 +151,57 @@
  * Rastgele bir koltuk seçtik. 
  * We chose a seat at random. 
 ----------
+ * **soru** :: question (noun)
+ * Lütfen soruyu dürüstçe cevaplayın. 
+ * Please answer the question honestly. 
+----------
  * **gücendirmek** :: to offend (verb)
  * Sizi gücendirmek istemedim. 
  * I didn't mean to offend you. 
+----------
+ * **diş hekimi** :: dentist (noun)
+ * Diş hekimine binlerce kere gittim, o yüzden usulü biliyorum. 
+ * I've been to the dentist a thousand times, so I know the drill. 
 ----------
  * **otomobil bayii** :: car dealership (noun)
  * Aradığım model, yerel otomobil bayiinde yok. 
  * My local car dealership doesn't have the model I'm looking for. 
 ----------
+ * **çizmek** :: to draw (verb)
+ * Ressam, mükemmel bir şekil çizdi. 
+ * The artist drew an excellent figure. 
+----------
  * **keçi sakal** :: goatee (noun)
  * Keçi sakalıyla biraz uğursuz görünüyor. 
  * He looks kind of sinister with a goatee. 
+----------
+ * **hasar vermek** :: to damage (verb)
+ * Pakete hasar verme. 
+ * Do not damage the package. 
 ----------
  * **ceset** :: corpse (noun)
  * Polis olay yerinde iki ceset buldu. 
  * The police found two corpses at the scene of the crime. 
 ----------
+ * **fark** :: difference (noun)
+ * Bir gün nasıl fark ettiriyor! 
+ * What a difference a day makes! 
+----------
  * **seçmek** :: to select (verb)
  * Ana menüden, "seçenekler"i seçin. 
  * From the main menu, select "options". 
 ----------
+ * **bölmek** :: to divide (verb)
+ * Pastayı eşit parçalara bölelim. 
+ * Let's divide the cake into equal parts. 
+----------
  * **kötü şans** :: bad luck (expression)
  * Eğer kötü şans da olmasaydı, hiç şansım olmazdı! 
  * If it weren't for bad luck, I'd have no luck at all! 
+----------
+ * **vermek** :: to give (verb)
+ * Doğum gününde ona ne verdin? 
+ * What did you give her for her birthday? 
 ----------
  * **karaciğer** :: liver (noun)
  * Alkol karaciğere zararlıdır. 

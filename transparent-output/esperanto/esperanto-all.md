@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -151,29 +151,57 @@
  * Estu nek pruntedonanto nek prunteprenanto. 
  * Neither a lender nor a borrower be. 
 ----------
+ * **marŝadi** :: to hike (verb)
+ * Ĉu vi ŝatas marŝadi tra la arbaro? 
+ * Do you want to hike through the woods? 
+----------
  * **nova** :: new (adjective)
  * Mia frato aĉetis novan televidilon. 
  * My brother bought a new television. 
+----------
+ * **marteli** :: to hammer (verb)
+ * Ĉu vi martelis la finajn tri najlojn? 
+ * Did you hammer the last three nails? 
 ----------
  * **obstrukci** :: to impede (verb)
  * Pluraj alkoj obstrukcis trafikon antaŭ kelkaj tagoj. 
  * Several moose impeded traffic the other day. 
 ----------
+ * **masko** :: mask (noun)
+ * La bandito surhavis nigran maskon. 
+ * The bandit wore a black mask. 
+----------
  * **oceano** :: ocean (noun)
  * Ni naĝos en la oceano tuj kiam ĝi varmiĝas. 
  * We will swim in the ocean once it warms. 
+----------
+ * **matematiko** :: mathematics (noun)
+ * Neniam mi ricevis bonajn notojn pri matematiko. 
+ * I never received good grades in mathematics. 
 ----------
  * **oksikoko** :: cranberry (noun)
  * Ni ŝatas manĝi freŝajn oksikokojn. 
  * We like to eat fresh cranberries. 
 ----------
+ * **mekanikisto** :: auto mechanic (noun)
+ * Mekanikisto riparis nian aŭton. 
+ * A mechanic fixed our car. 
+----------
  * **olivo** :: olive (noun)
  * La restoracio ofertas frititajn olivojn. 
  * The restaurant serves fried olives. 
 ----------
+ * **meleagro** :: turkey (noun)
+ * Ili prezentos meleagron dum la manĝo. 
+ * They will serve a turkey during the meal. 
+----------
  * **ora** :: golden (adjective)
  * La muzeo havas statuon de orkolora birdo. 
  * The museum has a golden bird statue. 
+----------
+ * **memoraĵo** :: memorial (noun)
+ * Ŝtona memoriga monumento staras meze de la parko. 
+ * A stone memorial sits in the center of the park. 
 ----------
  * **ordigi** :: to arrange (verb)
  * Ŝi ordigas sian librobreton ĉiu-monate. 

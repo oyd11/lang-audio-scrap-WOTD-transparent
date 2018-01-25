@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -151,29 +151,57 @@
  * Abaikan bagian terakhir. 
  * Ignore that last part. 
 ----------
+ * **marah** :: to be angry (verb)
+ * Kalau kamu marah, tarik nafas dalam dalam dan hitung sampai sepuluh. 
+ * If you're angry, take a deep breath and count to ten. 
+----------
  * **menyampaikan secara tidak langsung** :: to imply (verb)
  * Menurut kamu apa maksud pidato itu secara tidak langsung? 
  * What do you think the speech implied? 
+----------
+ * **cara** :: trick (noun)
+ * Bagaimana caranya membuat pasta yang sempurna? 
+ * What is the trick to making a perfect pasta? 
 ----------
  * **pajak** :: tax (noun)
  * Jangan lupa membayar pajakmu! 
  * Do not forget to pay your taxes! 
 ----------
+ * **rahasia** :: secret (noun)
+ * Kalau aku bilang kamu, bukan rahasia lagi namanya! 
+ * If I tell you, it won't be a secret anymore! 
+----------
  * **berimprovisasi** :: to improvise (verb)
  * Aktor-aktor itu berimprovisasi di sepanjang adegan. 
  * The actors improvised the entire scene. 
+----------
+ * **merubah** :: to change (verb)
+ * Internet telah merubah hidup kita, baik maupun buruk. 
+ * The internet has changed our lives, for good or bad. 
 ----------
  * **musim dingin** :: winter (noun)
  * Musim dingin akan datang. 
  * Winter is coming. 
 ----------
+ * **masalah** :: problem (noun)
+ * Duduk yang tegak! Postur buruk akan mengakibatkan masalah punggung nantinya. 
+ * Sit up! Bad posture will lead to back problems later on. 
+----------
  * **dihiasi** :: to be decorated (verb)
  * Rumahnya, seperti biasa, dihiasi sangat baik. 
  * Her house is, as usual, very well decorated. 
 ----------
+ * **ide** :: Idea (noun)
+ * Aku bisa berikan paling tidak sepuluh alasan kenapa hal ini ide yang baik. 
+ * I can give you at least ten reasons why this is a good idea. 
+----------
  * **membutuhkan** :: to need (verb)
  * Kamu membutuhkan kapal yang lebih besar. 
  * You're going to need a bigger boat. 
+----------
+ * **cepat-cepat** :: to hurry (verb)
+ * Kalau kita tidak cepat-cepat, kita akan ketinggalan bis. 
+ * If we don't hurry, we'll miss the bus. 
 ----------
  * **surat sampah** :: junk mail (noun)
  * Emailnya mungkin tidak sengaja masuk ke tempat surat sampahmu. 

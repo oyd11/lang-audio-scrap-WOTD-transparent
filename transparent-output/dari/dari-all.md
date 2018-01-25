@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -151,29 +151,57 @@
  * از مینو "اپشنس" را انتخاب کنید. 
  * From the main menu, select "options". 
 ----------
+ * **سطح مشترک** :: interface (noun)
+ * این پروگرام یک سطح مشترک خوب دارد. 
+ * The program has a very nice user interface. 
+----------
  * **طالع بد** :: bad luck (expression)
  * اگر بخاطر طالع بد نمی بود من شاید هیچ طالع نمیداشتم! 
  * If it weren't for bad luck, I wouldn't have any luck at all! 
+----------
+ * **سال کبیسه** :: leap year (expression)
+ * سال آینده سال کبیسه است. 
+ * Next year is a leap year. 
 ----------
  * **جگر** :: liver (noun)
  * الکول میتواند برای جگرمضر واقع شود. 
  * Alcohol can be harmful to the liver. 
 ----------
+ * **سر خط** :: headline (noun)
+ * سرخط ها را امروز خوانده ای؟ 
+ * Have you read the headlines this morning? 
+----------
  * **دم کردن** :: to brew (tea) (verb)
  * چای باید برای چند لحظه دیگر هم دم بخورد. 
  * The tea has to brew for a little bit longer. 
+----------
+ * **دو شنبه** :: Monday (noun)
+ * در افغانستان دو شنبه روز سوم هفته است. 
+ * Monday is the third day of the week in Afghanistan. 
 ----------
  * **قصاب** :: butcher (noun)
  * قساب این گوشت کباب را برایم مفت داد. 
  * The butcher gave me this steak for free. 
 ----------
+ * **آب شدن** :: to melt (verb)
+ * برف زمستان وقت آب شده است. 
+ * The winter snow has already melted. 
+----------
  * **فلم** :: movie (noun)
  * در فلم خو کار میداد! 
  * It worked in the movie! 
 ----------
+ * **پیش نویس** :: draft (noun)
+ * فردا پیش نویس اول آماده خواهد بود. 
+ * The first draft will be ready by tomorrow. 
+----------
  * **کندن کاری کردن** :: to carve (verb)
  * کسی نامش را در پوست آن درخت کندن کاری کرده است. 
  * Somebody carved their name into the bark of that tree. 
+----------
+ * **صد پا** :: centipede (noun)
+ * در تشت تشناب یک صد پا است. 
+ * There is a centipede in the bathtub! 
 ----------
  * **میوه خشک** :: dried fruit (noun)
  * میوه خشک غنی از پروتین است. 

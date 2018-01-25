@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -151,29 +151,57 @@
  * Me gusta oler las flores. 
  * I like to smell the flowers. 
 ----------
+ * **la niñez** :: childhood (noun)
+ * ¿Cómo gastó usted su niñez? 
+ * How did you spend your childhood? 
+----------
  * **estrecho** :: narrow (adjective)
  * El túnel en la cueva es estrecho. 
  * The tunnel in the cave is narrow. 
+----------
+ * **ensimismarse** :: to be lost in thought (verb)
+ * ¿Qué ha dicho? Lo siento, estaba ensimismado. 
+ * What did you say? I'm sorry; I was lost in thought. 
 ----------
  * **tozudo** :: obstinate (adjective)
  * Él es muy tozudo y no quiere escucharme. 
  * He is very obstinate and doesn't want to listen. 
 ----------
+ * **el azar** :: chance (noun)
+ * No dejaré mi futuro al azar. 
+ * I will not leave my future up to chance. 
+----------
  * **el portátil** :: laptop computer (noun)
  * Quiero comprarme un nuevo portátil. 
  * I want to buy a new laptop computer. 
+----------
+ * **chiflar** :: to be crazy about (verb)
+ * ¡Me chifla esta canción! 
+ * I'm crazy about this song! 
 ----------
  * **la varicela** :: chicken pox (noun)
  * Cuando era pequeño tuve la varicela. 
  * When I was little I got the chicken pox. 
 ----------
+ * **dejar a alguien plantado** :: to stand somebody up (expression)
+ * ¡Me dejaste plantado! 
+ * You stood me up! 
+----------
  * **atender** :: to help (verb)
  * La enfermera atiende a los pacientes. 
  * The nurse helps the patients. 
 ----------
+ * **la verdad** :: truth (noun)
+ * La verdad está ahí fuera. 
+ * The truth is out there. 
+----------
  * **asistir a** :: to attend (verb)
  * Mi hijo asiste a la universidad. 
  * My son attends the university. 
+----------
+ * **el sentimiento** :: feeling (noun)
+ * Tenemos que hablar de nuestros sentimientos. 
+ * We need to talk about our feelings. 
 ----------
  * **averiguar** :: to find out (verb)
  * Tengo que averiguar la verdad. 

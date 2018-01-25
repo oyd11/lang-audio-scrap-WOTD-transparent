@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -151,29 +151,57 @@
  * Certains disent que la vie est une autoroute. 
  * Some say that life is a highway. 
 ----------
+ * **potelé** :: chubby (adjective)
+ * Oh quel joli bébé potelé ! 
+ * Oh, what a nice chubby baby! 
+----------
  * **le verger** :: orchard (noun)
  * Tous les fruits servis au déjeuner viennent du verger de mon voisin. 
  * All the fruits served for lunch come from my neighbor's orchard. 
+----------
+ * **barbouillé** :: queasy (adjective)
+ * Le poisson au restaurant n'était pas frais ; maintenant je me sens tout barbouillé. 
+ * The fish at the restaurant wasn't fresh; I'm feeling all queasy now. 
 ----------
  * **boursicoter** :: to dabble in the stock market (verb)
  * Depuis que mon cousin boursicote, il a perdu plus de deux mille euros ! 
  * Since my cousin dabbles in stocks and shares he has lost more than two thousand Euros! 
 ----------
+ * **mitigé** :: mixed (adjective)
+ * Les résultats des dernières élections étaient mitigés. 
+ * The results of the last elections were mixed. 
+----------
  * **la gommette** :: sticker (noun)
  * La maîtresse distribue des gommettes pour récompenser les élèves de leur bon travail. 
  * The teacher distributes stickers to reward the pupils for their good work. 
+----------
+ * **marmonner** :: to mutter (verb)
+ * Cesse de marmonner dans ta barbe ! 
+ * Stop muttering to yourself! 
 ----------
  * **propager** :: to spread (verb)
  * La 1ère chaine de télévision nationale a propagé la nouvelle en moins d'une heure. 
  * The major TV channel spread the news in less than one hour. 
 ----------
+ * **la pelouse** :: lawn (noun)
+ * Ne restez pas sur la pelouse. 
+ * Don't stay on the lawn. 
+----------
  * **le crapaud** :: toad (noun)
  * Sous le sort des sorcières, le prince charmant se transforma en crapaud. 
  * Under the witches' spell, the charming prince turned into a toad. 
 ----------
+ * **le muguet** :: Lily of the Valley (noun)
+ * Un brin de muguet le premier mai vous apportera du bonheur toute l'année. 
+ * A sprig of Lily of the Valley on May first will bring you happiness all year long. 
+----------
  * **flageller** :: to scourge (verb)
  * Au Moyen-âge on flagellait les servants si le travail n'était pas fait correctement. 
  * In the Middle Ages, servants were scourged if the work was not done properly. 
+----------
+ * **la cave à vin** :: wine cellar (noun)
+ * Mon père qui habite Bordeaux a une cave à vin impressionnante ! 
+ * My father, who lives in Bordeaux, has an impressive wine cellar! 
 ----------
  * **à peine** :: barely (adverb)
  * Mon fils a rencontré le Président de la République, il était si impressionné qu'il pouvait à peine parler. 

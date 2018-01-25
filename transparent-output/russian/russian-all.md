@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -151,29 +151,57 @@
  * Что ты ей подарил на день рождения? 
  * What did you give her for her birthday? 
 ----------
+ * **космический** :: cosmic (adjective)
+ * Как мы вписываемся в эту грандиозную космическую картину? 
+ * Where do we fit in the grand cosmic scheme? 
+----------
  * **сомневаться** :: to doubt (verb)
  * Я сомневаюсь в точности этих измерений. 
  * I doubt the accuracy of the measurements. 
+----------
+ * **костюм** :: tuxedo (noun)
+ * На вечеринке они были в замысловатых костюмах. 
+ * They wore elaborate tuxedos to the party. 
 ----------
  * **принимать душ** :: to take a shower (expression)
  * Ты можешь принять душ в ванной наверху. 
  * You can take a shower in the bathroom upstairs. 
 ----------
+ * **хрусталь** :: crystal (noun)
+ * В комнате висит люстра из чистого хрусталя. 
+ * A fine crystal chandelier hangs in the room. 
+----------
  * **объяснять** :: to explain (verb)
  * Объясни мне решение ещё разок. 
  * Explain the solution to me one more time. 
+----------
+ * **частично совпадающий** :: overlapping (noun)
+ * Иногда конфликты возникают из-за частично совпадающих служебных обязанностей. 
+ * Sometimes conflicts arise from overlapping job duties. 
 ----------
  * **чуждый** :: alien (adjective)
  * Наверное, наши обычаи для вас чуждые. 
  * Our customs must seem alien to you. 
 ----------
+ * **мыслить** :: to think (verb)
+ * Нам нужно мыслить неординарно. 
+ * We need to think outside the box. 
+----------
  * **пример** :: example (noun)
  * Лучший пример тот, который подаёшь сам. 
  * It's always best to lead by example. 
 ----------
+ * **гости** :: guests (noun)
+ * Свадебные гости начинают собираться! 
+ * Our wedding guests are starting to arrive! 
+----------
  * **выбирать** :: to choose (verb)
  * Выбери любую карту. 
  * Choose a card, any card. 
+----------
+ * **быть осторожным** :: to be careful (phrase)
+ * Будь осторожным, не разозли диких слонов. 
+ * Be careful not to anger the wild elephants. 
 ----------
  * **энергичный** :: energetic (adjective)
  * Моя бабушка - очень энергичный человек. 

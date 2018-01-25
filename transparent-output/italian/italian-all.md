@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -151,29 +151,57 @@
  * Quest'auto è molto rumorosa, secondo me c'è qualcosa che non va. 
  * This car is very noisy, in my opinion there's something wrong with it. 
 ----------
+ * **noioso** :: boring (adjective)
+ * La lezione di ieri è stata molto noiosa. 
+ * Yesterday's lesson was very boring. 
+----------
  * **deludere** :: to disappoint (verb)
  * La squadra ha deluso i suoi tifosi giocando scorrettamente. 
  * The team disappointed its fans by playing dirty. 
+----------
+ * **Il quadro** :: painting (noun)
+ * Furono rubati due quadri, uno di Raffaello e uno di Caravaggio. 
+ * Two paintings were stolen: a Raphael and a Caravaggio. 
 ----------
  * **Il padrone** :: owner (noun)
  * Il padrone del cane è responsabile del comportamento dell'animale. 
  * The dog's owner is responsible for its behavior. 
 ----------
+ * **La velocità** :: speed (noun)
+ * Galileo Galilei fu il primo che cercò di misurare la velocità della luce. 
+ * Galileo Galilei was the first person to try to measure the speed of light. 
+----------
  * **La battaglia** :: battle (noun)
  * La città è impegnata in un'importante battaglia contro l'inquinamento. 
  * The city is engaged in an important battle against pollution. 
+----------
+ * **separare** :: to separate (verb)
+ * I miei zii separeranno la cucina dal salotto con un muro. 
+ * My aunt and uncle will separate the kitchen from the living room with a wall. 
 ----------
  * **impazzire** :: to go mad (verb)
  * Le mucche impazziscono a causa di una malattia, il cosiddetto 'morbo della mucca pazza'. 
  * The cows go mad because of a disease, the so-called 'mad-cow disease'. 
 ----------
+ * **improvvisamente** :: suddenly (adverb)
+ * Improvvisamente ha cominciato a piovere. 
+ * Suddenly it started raining. 
+----------
  * **stendere** :: to hang out (verb)
  * A chi tocca stendere il bucato questa settimana? 
  * Whose turn is it to hang out the laundry this week? 
 ----------
+ * **Il tuffo** :: dive (noun)
+ * Il tuo tuffo è stato fantastico, complimenti! 
+ * Your dive was fantastic, congratulations! 
+----------
  * **male** :: improperly (adverb)
  * Attenzione! Se è montato male, il giocattolo non funziona. 
  * Watch out! If it is set up improperly then the toy won't work. 
+----------
+ * **vendere** :: to sell (verb)
+ * Abbiamo venduto la nostra macchina a 8.000,00 euro e abbiamo comprato una moto. 
+ * We sold our car for 8,000.00 euros and bought a motorcycle. 
 ----------
  * **cattivo** :: naughty (adjective)
  * Qualche volta quel ragazzino è proprio cattivo. 

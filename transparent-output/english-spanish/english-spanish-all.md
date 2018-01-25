@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -151,29 +151,57 @@
  * It's an exciting game. 
  * Es un partido emocionante. 
 ----------
+ * **Christmas** :: Navidad (noun)
+ * Christmas is on December 25. 
+ * La Navidad es el 25 de diciembre. 
+----------
  * **evening** :: tarde (noun)
  * We like to sit on the porch and have a glass of wine on summer evenings. 
  * En las tardes del verano, nos gusta sentar en el porche y tomar un vaso de vino. 
+----------
+ * **to shine** :: brillar (verb)
+ * The star on top of the tree shines a lot. 
+ * La estrella encima del árbol brilla mucho. 
 ----------
  * **to surprise** :: sorprender (verb)
  * The police want to surprise the robber outside of the bank. 
  * La policía quiere sorprender al ladrón afuera del banco. 
 ----------
+ * **bright** :: brillante (adjective)
+ * The stars are bright tonight. 
+ * Las estrellas están brillantes esta noche. 
+----------
  * **almond** :: almendra (noun)
  * Almonds are one of my favorite snacks. 
  * Las almendras son uno de mis bocados preferidos 
+----------
+ * **ribbon** :: cinta (noun)
+ * We put ribbon on the gifts. 
+ * Nosotros ponemos cinta en los regalos. 
 ----------
  * **board game** :: juego de mesa (noun)
  * The children receive several board games. 
  * Los niños reciben varios juegos de mesa. 
 ----------
+ * **to wrap** :: envolver (verb)
+ * I wrap the presents on Christmas Eve. 
+ * Yo envuelvo los regalos en la Víspera de la Navidad. 
+----------
  * **to decorate** :: decorar (verb)
  * My family and I decorate the Christmas tree. 
  * Mi familia y yo decoramos el árbol de Navidad. 
 ----------
+ * **cloudy** :: nublado (adjective)
+ * The sky is cloudy today. 
+ * El cielo está nublado hoy. 
+----------
  * **sunny** :: soleado (adjective)
  * It's a sunny day. 
  * Es un día soleado. 
+----------
+ * **to build** :: construir (verb)
+ * The kids are going outside to build a snow fort. 
+ * Los niños van afuera para construir una fortaleza de nieve. 
 ----------
  * **Christmas** :: Navidad (noun)
  * Christmas is on December 25. 

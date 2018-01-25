@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -151,29 +151,57 @@
  * Vivit et vivet per omnium saeculorum memoriam. 
  * He lives and will live through the memory of all ages. 
 ----------
- * **parare** :: to provide (verb)
- * Fortuna amicos parat, inopia amicos probat. 
- * Fortune provides friends; poverty tests them. 
-----------
- * **incipere** :: to begin, to commence (verb)
- * Incipimus veritatem intellegere, quae homines adiuvat. 
- * We are beginning to understand the truth, which helps all people. 
-----------
  * **melior** :: better (adjective)
  * Melius est flecti quam frangi. 
  * It is better to bend than to break. 
+----------
+ * **parare** :: to provide (verb)
+ * Fortuna amicos parat, inopia amicos probat. 
+ * Fortune provides friends; poverty tests them. 
 ----------
  * **necessitas** :: necessity (noun)
  * Necessitas non habet legem. 
  * Necessity knows no law. 
 ----------
+ * **incipere** :: to begin, to commence (verb)
+ * Incipimus veritatem intellegere, quae homines adiuvat. 
+ * We are beginning to understand the truth, which helps all people. 
+----------
  * **navigare** :: to sail (verb)
  * Dionysius ad Siciliam navigavit. 
  * Dionysius sailed to Sicily. 
 ----------
+ * **melior** :: better (adjective)
+ * Melius est flecti quam frangi. 
+ * It is better to bend than to break. 
+----------
  * **servire** :: to be a slave, to serve (verb)
  * Nemo liber est qui corpori servit. 
  * No one is free who is a slave to his body. 
+----------
+ * **necessitas** :: necessity (noun)
+ * Necessitas non habet legem. 
+ * Necessity knows no law. 
+----------
+ * **imminere** :: to threaten (verb)
+ * Multi cives ea pericula quae imminent non vident. 
+ * Many citizens do not see those dangers which threaten them. 
+----------
+ * **navigare** :: to sail (verb)
+ * Dionysius ad Siciliam navigavit. 
+ * Dionysius sailed to Sicily. 
+----------
+ * **cotidie** :: daily, every day (adverb)
+ * Cotidie damnatur qui semper timet. 
+ * The man who is constantly in fear is condemned every day. 
+----------
+ * **servire** :: to be a slave, to serve (verb)
+ * Nemo liber est qui corpori servit. 
+ * No one is free who is a slave to his body. 
+----------
+ * **desiderare** :: to desire (verb)
+ * Non caret is qui non desiderat. 
+ * He does not lack who does not desire. 
 ----------
  * **imminere** :: to threaten (verb)
  * Multi cives ea pericula quae imminent non vident. 

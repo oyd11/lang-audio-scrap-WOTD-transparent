@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -151,29 +151,57 @@
  * Het is moeilijk om vrienden te maken als je dodelijk verlegen bent. 
  * Making friends is hard when you are painfully shy. 
 ----------
+ * **verliefd zijn** :: to be in love (verb)
+ * Mijn schoonzus was jarenlang hevig verliefd op Richard Gere tot ze zag dat hij ook oud werd. 
+ * My sister-in-law was in love with Richard Gere for many years, until she noticed he too got old. 
+----------
  * **de bloem** :: flower (noun)
  * Een geheimzinnige aanbidder heeft me bloemen gestuurd! 
  * A mysterious admirer sent me flowers! 
+----------
+ * **afhaken** :: to pull out (verb)
+ * Ik doe niet meer mee; ik haak af. 
+ * I no longer participate; I pull out. 
 ----------
  * **nog** :: yet (adverb)
  * Ze is nog niet vertrokken. 
  * She hasn't gone yet. 
 ----------
+ * **knutselen** :: to putter (verb)
+ * De kleuter zat in de hoek van de woonkamer te knutselen. 
+ * The toddler was puttering in the corner of the living room. 
+----------
  * **de kleding** :: clothing (noun)
  * Doe die vieze kleding uit! 
  * Take those dirty clothes off! 
+----------
+ * **knerpen** :: to crunch (verb)
+ * De sneeuw knerpte onder onze voeten tijdens de lange weg terug. 
+ * The snow crunched beneath our feet during the long walk home. 
 ----------
  * **de vlam** :: flame (noun)
  * De vlam vernietigde de geheime boodschap in een paar seconden. 
  * The flame destroyed the secret message in seconds. 
 ----------
+ * **smachten** :: to yearn (verb)
+ * Al wordt mijn hart honderd keer gebroken, ik blijf smachten naar ware liefde. 
+ * My heart may be broken a hundred times; I still yearn for true love. 
+----------
  * **tegen** :: against (preposition)
  * Soms voelt het alsof de hele wereld tegen me is! 
  * Sometimes it feels like the whole world is against me! 
 ----------
+ * **veranderen** :: to change (verb)
+ * Het is nooit te laat om te veranderen. 
+ * It's never too late to change. 
+----------
  * **het licht** :: light (noun)
  * Bij daglicht zien we de zaken duidelijker. 
  * We'll see things more clearly in daylight. 
+----------
+ * **pluizen** :: to give off lint (verb)
+ * Ik heb die trui maar weggegooid; hij ploos helemaal! 
+ * I threw away the sweater; it gave off too much lint! 
 ----------
  * **het aanbod** :: offer (noun)
  * Ik ga hem een aanbod doen dat hij niet kan weigeren. 

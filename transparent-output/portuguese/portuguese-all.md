@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -151,29 +151,57 @@
  * Vamos levar as crianças no parque hoje a tarde. 
  * Let's take the children to the park this afternoon. 
 ----------
+ * **insosso** :: tasteless (adjective)
+ * A comida fica insossa quando estamos com resfriado. 
+ * Food seems tasteless when one has a cold. 
+----------
  * **chamar** :: to call (expression)
  * Pedro chamou seu primo para vir conosco. 
  * Pedro called his cousin to come with us. 
+----------
+ * **clima** :: mood (expression)
+ * Não estou no clima para piadas. 
+ * I'm not in the mood for jokes. 
 ----------
  * **criança** :: child (noun)
  * As crianças brincaram muito na festa. 
  * The children played a lot at the party. 
 ----------
+ * **segurar** :: to hold (verb)
+ * Segura esta vara de pescar um momento. 
+ * Hold this fishing pole a moment. 
+----------
  * **carinhoso** :: affectionate (adjective)
  * Meu marido é carinhoso. 
  * My husband is affectionate. 
+----------
+ * **Até mais!** :: See you soon! (expression)
+ * Tenho que ir agora, até mais! 
+ * I've got to go now, see you soon! 
 ----------
  * **grande** :: big (adjective)
  * Minha fazenda é muito grande. 
  * My farm is very big. 
 ----------
+ * **dormir como uma pedra** :: to sleep like a log (expression)
+ * Aquela noite eu dormi como uma pedra e não ouvi nada. 
+ * That night I slept like a log and I didn't hear anything. 
+----------
  * **maior** :: bigger (adjective)
  * Sua moto é maior que a minha. 
  * Your motorcycle is bigger than mine. 
 ----------
+ * **útil** :: useful (adjective)
+ * O artigo sobre economia foi muito útil para a minha pesquisa. 
+ * The article on economics was very useful for my research. 
+----------
  * **amor** :: love (noun)
  * Você é o amor da minha vida. 
  * You are the love of my life. 
+----------
+ * **duende** :: goblin (noun)
+ * Meu sobrinho gosta de histórias com duendes e fadas. 
+ * My nephew likes stories with goblins and fairies. 
 ----------
  * **namorado** :: boyfriend (noun)
  * Tenho um namorado lindo. 

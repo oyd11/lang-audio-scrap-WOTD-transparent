@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -151,29 +151,57 @@
  * The organization saves many endangered animals. 
  * A organização salva muitos animais em perigo. 
 ----------
+ * **to show** :: mostrar (verb)
+ * Charlie wants to show you his toys. 
+ * Charlie quer lhe mostrar seus brinquedos. 
+----------
  * **deaf** :: surdo (adjective)
  * Ricky can't hear you, he's deaf. 
  * Ricky não pode te ouvir, ele é surdo. 
+----------
+ * **serious** :: grave (adjective)
+ * He has a serious injury. 
+ * Ele tem um ferimento grave. 
 ----------
  * **jacket** :: jaqueta (noun)
  * The red jacket is rather showy. 
  * A jaqueta vermelho é um pouco espalhafatosa. 
 ----------
+ * **confused** :: confuso (adjective)
+ * I'm confused about the homework that we have to do. 
+ * Estou confuso à respeito do dever de casa que temos de fazer. 
+----------
  * **to hope** :: esperar (verb)
  * I hope to go to Spain in the summer. 
  * Eu espero ir à Espanha no verão. 
+----------
+ * **to take out** :: tirar (verb)
+ * Did you already take out the money from the bank? 
+ * Você já tirou o dinheiro do banco? 
 ----------
  * **several** :: vários (adjective)
  * There are several boys in the class. 
  * Tem vários garotos na aula. 
 ----------
+ * **duck** :: pato (noun)
+ * I will feed the ducks that live in the lake. 
+ * Eu irei alimentar os patos que vivem no lago. 
+----------
  * **ribbon** :: fita (noun)
  * We put ribbon on the gifts. 
  * Colocamos fita nos presentes. 
 ----------
+ * **coffee** :: café (noun)
+ * I don't drink tea, but I do drink coffee. 
+ * Eu não bebo chá, mas bebo café. 
+----------
  * **to throw out** :: jogar fora (verb)
  * We just cleaned the house; now we have to throw out a lot of trash. 
  * Acabamos de limpar a casa; agora temos que jogar fora muito lixo. 
+----------
+ * **kind** :: gentil (adjective)
+ * Your parents are too kind. 
+ * Seus pais são gentis demais. 
 ----------
  * **delayed** :: atrasado (adjective)
  * Our flight is delayed. 

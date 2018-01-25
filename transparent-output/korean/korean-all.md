@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -151,29 +151,57 @@
  * 그 책 다 끝냈니? 
  * Have you finished the book? 
 ----------
+ * **만나다** :: to meet (verb)
+ * 만나서 기쁩니다. 
+ * It is a pleasure to meet you. 
+----------
  * **꽃을 피우다** :: to flower (verb)
  * 나무들은 몇 주 지나면 꽃을 피울겁니다. 
  * The trees will flower in a few weeks. 
+----------
+ * **맛있는** :: delicious (adjective)
+ * 그 음식은 맛있었어요. 
+ * That was delicious. 
 ----------
  * **무서운** :: scary (adjective)
  * 무서운 영화 좋아하세요? 
  * Do you like scary movies? 
 ----------
+ * **말하다** :: to speak (verb)
+ * 전 독일어를 조금 합니다. 
+ * I speak a little German. 
+----------
  * **파다** :: to dig (verb)
  * 기름이 나올 때까지 파라. 
  * Dig until you strike oil. 
+----------
+ * **처음** :: first (noun)
+ * 이번이 처음도 아니고, 그렇다고 마지막도 아닐거다. 
+ * It's not the first time, and won't be the last. 
 ----------
  * **화석** :: fossil (noun)
  * 그 박물관에는 백악기 시대의 화석이 전시되어 있습니다. 
  * The fossils at the museum are from the Cretaceous period. 
 ----------
+ * **사과하다** :: to apologize (verb)
+ * 사과드립니다. 제가 오늘 일진이 안 좋아서요. 
+ * I apologize, I'm having a bad day. 
+----------
  * **사진을 찍다** :: to photograph (verb)
  * 그 여자는 희귀한 새의 사진을 찍었습니다. 
  * She photographed a rare bird. 
 ----------
+ * **가게** :: store (noun)
+ * 가게에 갈 건데 함께 가실래요? 
+ * I'm going to the store, want to go with me? 
+----------
  * **쌀쌀한** :: chilly (adjective)
  * 정말 쌀쌀한 날이군요! 
  * What a chilly day! 
+----------
+ * **선호하다** :: to prefer (verb)
+ * 대추도 맛있지만 전 파인애플을 선호합니다. 
+ * The dates are delicious, but I prefer pineapple. 
 ----------
  * **기다리다** :: to wait for (verb)
  * 우리는 버스를 기다리고 있어요. 

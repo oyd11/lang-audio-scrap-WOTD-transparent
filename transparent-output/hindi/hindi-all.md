@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -151,29 +151,57 @@
  * उसकी एक झलक भी उसे खुशी से भर देती है। 
  * The very sight of him fills her with joy. 
 ----------
+ * **फ़िल्मी सितारा** :: movie star (noun)
+ * तुम्हारा पसन्दीदा फ़िल्मी सितारा कौन है? 
+ * Who's your favorite movie star? 
+----------
  * **पता होना** :: to be aware of (phrase)
  * क्या तुम्हें अपने कामों से होने वाले परिणामों के बारे में पता है? 
  * Are you aware of the consequences of your actions? 
+----------
+ * **समुद्री भोजन** :: seafood (noun)
+ * मुझे समुद्री भोजन पसन्द है, लेकिन मेरे मित्र को उससे एलर्जी है। 
+ * I love seafood, but my friend is allergic to it. 
 ----------
  * **चौंकना** :: to startle (verb)
  * इस धमाके की आवाज़ से मैं चौंक गई। 
  * The sound of the explosion startled me. 
 ----------
+ * **बैठना** :: to sit down (verb)
+ * कई बार मैं केवल एक अच्छी किताब के साथ आराम से बैठना पसन्द करती हूँ। 
+ * Sometimes I just like to sit down with a good book. 
+----------
  * **झगड़ना** :: to quarrel (verb)
  * उन्होने अपना सारा समय झगड़ते हुए बिताया। 
  * They spent the whole time quarrelling. 
+----------
+ * **लॉन** :: lawn (noun)
+ * मेरे लॉन से बाहर निकलो। 
+ * Get off my lawn. 
 ----------
  * **लाड़-प्यार से बिगाड़ना** :: spoiled, pampered (adjective)
  * वह बच्चा लाड़-प्यार के कारण बिगड़ गया है। 
  * He is a spoiled child. 
 ----------
+ * **अनुमति** :: permission (noun)
+ * अनुमति मांगने से माफी मांग लेना ज़्यादा आसान है। 
+ * It's easier to ask forgiveness than permission. 
+----------
  * **विधाता** :: master (noun)
  * मैं अपने भाग्य की विधाता खुद हूँ। 
  * I am the master of my own destiny. 
 ----------
+ * **पूरा करना** :: to complete (verb)
+ * जब तक आप इंतजार कर रहे हैं कृपया यह फॉर्म पूरा कर लें। 
+ * Please complete this form while you wait. 
+----------
  * **कम से कम** :: at least (phrase)
  * कम से कम उसने कुछ किया तो सही; बाकी सब तो केवल देखते ही रहे। 
  * At least he did something; everyone else just watched. 
+----------
+ * **यात्री** :: passenger (noun)
+ * इस वाहन के यात्री को कोई चोट नहीं पहुंची। 
+ * The passenger of the vehicle was unharmed. 
 ----------
  * **ईश निंदा** :: profanity (noun)
  * किसी भी व्यक्ति को ईश निंदा नहीं करनी चाहिए। 

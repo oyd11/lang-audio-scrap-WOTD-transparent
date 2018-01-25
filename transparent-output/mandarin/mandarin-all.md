@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -225,11 +225,23 @@
  * Zhè zhī bǐ hǎoxiě. 
  * This pen is good to write with. 
 ----------
+ * **寄** :: to mail (verb)
+ * **jì** 
+ * 我给妈妈寄了礼物。 
+ * Wǒ gěi māma jìle lǐwù. 
+ * I have mailed the gift to mom. 
+----------
  * **便宜** :: cheap (adjective)
  * **piányi** 
  * 这件衣服又便宜又好。 
  * Zhè jiàn yīfu yòu piányi yòu hǎo. 
  * This outfit is good and inexpensive. 
+----------
+ * **打扫** :: to clean (verb)
+ * **dǎsǎo** 
+ * 他每天打扫房间。 
+ * Tā měitiān dǎsǎo fángjiān. 
+ * He cleans the room everyday. 
 ----------
  * **词典** :: dictionary (noun)
  * **cídiǎn** 
@@ -237,11 +249,23 @@
  * Wǒ yòng cídiǎn xué hànyǔ. 
  * I use the dictionary to study Chinese. 
 ----------
+ * **有意思** :: interesting (adjective)
+ * **yǒuyìsi** 
+ * 这本书很有意思。 
+ * Zhè běn shū hěn yǒuyìsi. 
+ * This book is very interesting. 
+----------
  * **找** :: to look for (verb)
  * **zhǎo** 
  * 我要找一本汉英词典。 
  * Wǒ yào zhǎo yī běn hànyīng cídiǎn. 
  * I want to find a Chinese-English dictionary. 
+----------
+ * **洗** :: to wash (verb)
+ * **xǐ** 
+ * 请把车洗一洗。 
+ * Qǐng bǎ chē xǐyixǐ. 
+ * Please wash the car. 
 ----------
  * **会** :: to be able to; can (verb)
  * **huì** 
@@ -249,17 +273,35 @@
  * Wǒ huì shuō hànyǔ. 
  * I can speak Chinese. 
 ----------
+ * **旅行** :: to travel (verb)
+ * **lǚxíng** 
+ * 我想去西部旅行。 
+ * Wǒ xiǎng qù xībù lǚxíng. 
+ * I'd like to travel in the west. 
+----------
  * **小费** :: tip; gratuity (noun)
  * **xiǎofèi** 
  * 中国的服务员不习惯收小费。 
  * Zhōngguó de fúwùyuán bù xíguàn shōu xiǎofèi. 
  * Chinese service people are not used to receiving tips. 
 ----------
+ * **房子** :: house (noun)
+ * **fángzi** 
+ * 他家的房子很美。 
+ * Tā jiā de fángzi hěn měi. 
+ * His family's house is very beautiful. 
+----------
  * **到** :: to arrive (verb)
  * **dào** 
  * 火车到了。 
  * Huǒchē dào le. 
  * The train has arrived. 
+----------
+ * **念** :: to read aloud (verb)
+ * **niàn** 
+ * 请念生词。 
+ * Qǐng niàn shēngcí. 
+ * Please read the new words aloud. 
 ----------
  * **女儿** :: daughter (noun)
  * **nǚer** 

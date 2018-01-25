@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -151,29 +151,57 @@
  * Niki sampun mudah. 
  * It is already cheap. 
 ----------
+ * **mabakti** :: to pray (biasa (common))
+ * Titng lakar tangkil mabakti malu. 
+ * I want to pray first. 
+----------
  * **wenten** :: there is (halus (alus mider))
  * Wenten sane mudahan? 
  * Is there a cheaper one? 
+----------
+ * **barak** :: red (biasa (common))
+ * Barak lan putih warnan benderan tiange. 
+ * Red and white are the colors of my flag. 
 ----------
  * **nyicipin** :: to taste (biasa (kapara))
  * Dados tiang nyicipin? 
  * May I taste it? 
 ----------
+ * **gati** :: very (biasa (common))
+ * Baju ane selem ento melah gati. 
+ * The black shirt is very good. 
+----------
  * **woh-wohan** :: fruit (biasa (kruna mider))
  * Bungkusang tiang woh-wohan sane seger manten. 
  * Please wrap up some fresh fruit for me. 
+----------
+ * **meme** :: mother (biasa (common))
+ * Meme meli siap putih. 
+ * Mother is buying a white chicken. 
 ----------
  * **aji kuda** :: how much (biasa (kapara))
  * Aji kuda nika? 
  * How much is it? 
 ----------
+ * **engsap** :: to forget (biasa (common))
+ * Ben mani eda engsap nganggo baju kuning. 
+ * Don't forget to wear a yellow shirt tomorrow. 
+----------
  * **susuk** :: change (biasa (kapara))
  * Ten wenten susuk. 
  * I do not have any change. 
 ----------
+ * **jukut** :: vegetables (biasa (common))
+ * Pilih jukut ane gadang, nah? 
+ * Please pick green vegetables, ok? 
+----------
  * **gatra** :: news (halus (alus mider))
  * Punapi gatrane? 
  * How are you doing? 
+----------
+ * **demen** :: to like, to be fond of (biasa (common))
+ * Embok tiange demen warna barak. 
+ * My older sister likes red. 
 ----------
  * **ring dija** :: where is (ring: halus (alus mider), dija: biasa (kruna mider))
  * Ring dije nika Museum Neka? 

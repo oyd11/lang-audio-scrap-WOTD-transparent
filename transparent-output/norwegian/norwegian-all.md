@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 383 phrases 
+ 390 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -151,9 +151,21 @@
  * Astrid plukket en hel kopp med blåbær i går. 
  * Astrid picked a whole cup of blueberries yesterday. 
 ----------
+ * **blåbær** :: blueberry (noun)
+ * Astrid plukket en hel kopp med blåbær i går. 
+ * Astrid picked a whole cup of blueberries yesterday. 
+----------
  * **vaskebjørn** :: raccoon (noun)
  * Fordi vaskebjørner er så søte, ønsket noen å ha dem som kjæledyr. 
  * Because raccoons are so cute, some people want them as pets. 
+----------
+ * **vaskebjørn** :: raccoon (noun)
+ * Fordi vaskebjørner er så søte, ønsket noen å ha dem som kjæledyr. 
+ * Because raccoons are so cute, some people want them as pets. 
+----------
+ * **innbygger** :: inhabitant (noun)
+ * Bergen er den nest største byen i Norge med nesten 250 000 innbyggere. 
+ * Bergen is the second largest city in Norway, with almost 250,000 inhabitants. 
 ----------
  * **innbygger** :: inhabitant (noun)
  * Bergen er den nest største byen i Norge med nesten 250 000 innbyggere. 
@@ -163,6 +175,14 @@
  * Vil du kjøpe eller leie ditt bosted? 
  * Do you want to purchase or rent your dwelling place? 
 ----------
+ * **bosted** :: dwelling (noun)
+ * Vil du kjøpe eller leie ditt bosted? 
+ * Do you want to purchase or rent your dwelling place? 
+----------
+ * **vedlikehold** :: maintenance (noun)
+ * Om helgene må vi ta vare på vedlikehold av hus og hage. 
+ * During the weekends we have to take care of the maintenance of the house and yard. 
+----------
  * **vedlikehold** :: maintenance (noun)
  * Om helgene må vi ta vare på vedlikehold av hus og hage. 
  * During the weekends we have to take care of the maintenance of the house and yard. 
@@ -170,6 +190,14 @@
  * **borgermester** :: mayor (noun)
  * Giuliani var borgermester i New York City i syv år fra 1994 til 2001. 
  * Giuliani was mayor of New York for seven years, from 1994 to 2001. 
+----------
+ * **borgermester** :: mayor (noun)
+ * Giuliani var borgermester i New York City i syv år fra 1994 til 2001. 
+ * Giuliani was mayor of New York for seven years, from 1994 to 2001. 
+----------
+ * **andel** :: portion (noun)
+ * Hvor stor prosentandel av befolkningen kjemper mot kreft? 
+ * How big a percentage of the population is fighting cancer? 
 ----------
  * **andel** :: portion (noun)
  * Hvor stor prosentandel av befolkningen kjemper mot kreft? 
