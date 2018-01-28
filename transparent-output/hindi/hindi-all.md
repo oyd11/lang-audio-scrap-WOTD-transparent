@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -207,13 +207,25 @@
  * किसी भी व्यक्ति को ईश निंदा नहीं करनी चाहिए। 
  * One shouldn't use profanity here. 
 ----------
+ * **फायर ड्रिल** :: fire drill (noun)
+ * घबराइए मत, यह केवल एक फायर ड्रिल है। 
+ * Don't panic, it's only a fire drill. 
+----------
  * **गैरहाज़िरी** :: absence (noun)
  * तुम मेरी गैरहाज़िरी में इस परियोजना को चलाए रख सकते हो। 
  * You can keep the project going in my absence. 
 ----------
+ * **गाल** :: cheek (noun)
+ * मुझे देखते ही उसने दो बार मुझे गालों पर चूम लिया। 
+ * When she saw me, she kissed me twice on the cheeks. 
+----------
  * **गुप्त रूप से** :: in secret (phrase)
  * हमने गुप्त रूप से एक सरप्राइज़ पार्टी की योजना बनाई। 
  * We planned a surprise party in secret. 
+----------
+ * **हरी फूलगोभी** :: broccoli (noun)
+ * तुम हरी फूलगोभी को भाप में पकाकर खाना पसंद करते हो या कच्चा ही? 
+ * Do you prefer to steam broccoli or to eat it raw? 
 ----------
  * **बड़ा ऊंचा झूला** :: Ferris wheel (noun)
  * मां, मैं उस ऊंचे झूले पर बैठना चाहती हूँ! 

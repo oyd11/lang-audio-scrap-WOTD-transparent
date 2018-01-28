@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -309,17 +309,35 @@
  * Wǒ nǚér hái hěn xiǎo. 
  * My daughter is still young. 
 ----------
+ * **口语** :: spoken language (noun)
+ * **kǒuyǔ** 
+ * 我的汉语口语不太好。 
+ * Wǒ de hànyǔ kǒuyǔ bú tài hǎo. 
+ * My spoken Chinese is not very good. 
+----------
  * **为什么** :: why (question word)
  * **wèishénme** 
  * 你为什么不学开车？ 
  * Nǐ wèishénme bùxué kāichē? 
  * Why don't you learn to drive? 
 ----------
+ * **语法** :: grammar (noun)
+ * **yǔfǎ** 
+ * 汉语语法不太难。 
+ * Hànyǔ yǔfǎ bú tài nán. 
+ * Chinese grammar is not very difficult. 
+----------
  * **东边** :: east (noun)
  * **dōngbiān** 
  * 太阳从东边升起。 
  * Tàiyang cóng dōngbiān shēngqǐ. 
  * The sun rises from the east. 
+----------
+ * **圣诞节** :: Christmas (noun)
+ * **shèngdànjié** 
+ * 圣诞节我要回家。 
+ * Shèngdànjié wǒ yào huíjiā. 
+ * I will go home for Christmas. 
 ----------
  * **西方** :: western (adjective)
  * **xīfāng** 

@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -211,9 +211,21 @@
  * زمونږ ګاونډی ښکاري سپیان لري. 
  * Our neighbor has a pack of hounds. 
 ----------
+ * **ښکاري سپیان** :: pack of hounds (noun)
+ * زمونږ ګاونډی ښکاري سپیان لري. 
+ * Our neighbor has a pack of hounds. 
+----------
  * **زړه کېدل** :: longing for (expression)
  * زما کور ته زړه کیږي ځکه چې زه بهر اوسېږم. 
  * I feel longing for my home because I'm living abroad. 
+----------
+ * **زړه کېدل** :: longing for (expression)
+ * زما کور ته زړه کیږي ځکه چې زه بهر اوسېږم. 
+ * I feel longing for my home because I'm living abroad. 
+----------
+ * **پسېدل** :: whisper (noun)
+ * لطفاً مه پسېږئ. 
+ * Please don't whisper. 
 ----------
  * **پسېدل** :: whisper (noun)
  * لطفاً مه پسېږئ. 

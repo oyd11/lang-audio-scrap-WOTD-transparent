@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -207,13 +207,25 @@
  * Моя бабушка - очень энергичный человек. 
  * My grandmother is a very energetic person. 
 ----------
+ * **персональная страница** :: profile (phrase)
+ * Зайди на мою персональную страницу на Фейсбуке. 
+ * Visit my Facebook profile. 
+----------
  * **ошибочный** :: mistaken (adjective)
  * В его случае это было ошибочное опознание. 
  * His was a case of mistaken identity. 
 ----------
+ * **ум** :: mind (noun)
+ * У него аналитический склад ума. 
+ * He's got an analytical mind. 
+----------
  * **исключение** :: exception (noun)
  * Нет правил без исключений. 
  * There are exceptions to every rule. 
+----------
+ * **поговорить** :: to chat (verb)
+ * Было приятно с Вами поговорить. 
+ * It's been a pleasure chatting with you. 
 ----------
  * **привидение** :: ghost (noun)
  * Говорят, что в этом доме привидения. 

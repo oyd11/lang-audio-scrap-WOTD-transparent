@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -207,13 +207,25 @@
  * Multi cives ea pericula quae imminent non vident. 
  * Many citizens do not see those dangers which threaten them. 
 ----------
+ * **contrarius** :: opposite (adjective)
+ * Contraria contrariis curantur. 
+ * The opposite is cured with the opposite. 
+----------
  * **cotidie** :: daily, every day (adverb)
  * Cotidie damnatur qui semper timet. 
  * The man who is constantly in fear is condemned every day. 
 ----------
+ * **levis** :: fickle, light (adjective)
+ * Levis est fortuna. 
+ * Fortune is fickle. 
+----------
  * **desiderare** :: to desire (verb)
  * Non caret is qui non desiderat. 
  * He does not lack who does not desire. 
+----------
+ * **inexpertus** :: without experience (adjective)
+ * Dulce bellum inexpertis. 
+ * War is sweet for those who are unexperienced in it. 
 ----------
  * **contrarius** :: opposite (adjective)
  * Contraria contrariis curantur. 

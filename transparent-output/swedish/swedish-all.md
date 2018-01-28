@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -207,13 +207,25 @@
  * När jag har en dålig dag, ser jag till att alla mina Facebook-vänner får veta det! 
  * When I have a bad day, I make sure all my Facebook friends know! 
 ----------
+ * **(en) måne** :: moon (noun)
+ * Mars har två månar. 
+ * Mars has two moons. 
+----------
  * **(en) julklapp** :: Christmas present (noun)
  * Det är så roligt att se barn öppna sina julklappar. 
  * It's so funny to see children opening their Christmas gifts. 
 ----------
+ * **att gräva fram** :: to uncover (verb)
+ * Deras expedition grävde fram antika ruiner. 
+ * Their expedition uncovered ancient ruins. 
+----------
  * **att sparka** :: to kick (verb)
  * Han sparkade bollen in i målet. 
  * He kicked the ball into the goal. 
+----------
+ * **att svalka** :: to cool (verb)
+ * Fläkten svalkar rummet. 
+ * The fan will cool the room. 
 ----------
  * **livet efter detta** :: afterlife (expression)
  * Vi kommer att träffas igen i livet efter detta. 

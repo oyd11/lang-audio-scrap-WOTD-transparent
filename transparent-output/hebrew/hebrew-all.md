@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -207,13 +207,25 @@
  * בחיים לא הייתי רוצה לראות את הסרט הזה. 
  * I wouldn't watch that movie in a million years. 
 ----------
+ * **להחליק** :: to skate (verb)
+ * הילדים מחליקים על האגם כאשר הוא קופא. 
+ * The children skate on the pond once it is frozen solid. 
+----------
  * **מטהר אוויר** :: air freshener (noun)
  * מטהר אוויר עשוי להפיג את הריח. 
  * An air freshener might eliminate the odor. 
 ----------
+ * **מזחלת** :: sled (noun)
+ * בחורף שעבר סבו נתן לו מזחלת. 
+ * His grandfather gave him a sled last winter. 
+----------
  * **להיפטר** :: to get rid of (verb)
  * אנחנו חייבים להיפטר מן הרהיטים הישנים שלנו. 
  * We have to get rid of our old furniture. 
+----------
+ * **גרון** :: throat (noun)
+ * הגרון שלי כואב היום. 
+ * My throat is hurting today. 
 ----------
  * **כאב** :: pain (noun)
  * אין רווח בלי כאב. 

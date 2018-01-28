@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -207,13 +207,25 @@
  * Ring dije nika Museum Neka? 
  * Where is the Museum Neka located? 
 ----------
+ * **jaen** :: delicious (biasa (common))
+ * Jaja ane coklat ento jaen sajaan. 
+ * The chocolate cake is delicious. 
+----------
  * **magenah** :: located in (halus (alus mider))
  * Museum Neka nika taler magenah ring Kedewatan. 
  * Museum Neka is located in Kedewatan. 
 ----------
+ * **rauh** :: to arrive, to come (alus (refined))
+ * Rahu saking napi? 
+ * Where have you come from? 
+----------
  * **drika** :: there, over there (halus (alus madya))
  * Napi manten wenten drika? 
  * What kind of collections do they have in there? 
+----------
+ * **dados** :: may, can (alus (refined))
+ * Dados titiang metaken? 
+ * Can I ask something? 
 ----------
  * **lukisan** :: paintings (biasa (kapara))
  * Wenten koleksi karya seni lukisan. 

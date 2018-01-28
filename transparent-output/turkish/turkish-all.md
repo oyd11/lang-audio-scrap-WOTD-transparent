@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -207,13 +207,25 @@
  * Alkol karaciğere zararlıdır. 
  * Alcohol is harmful to the liver. 
 ----------
+ * **kuşku** :: to doubt (verb)
+ * Ölçümlerin doğruluğundan kuşkuluyum. 
+ * I doubt the accuracy of the measurements. 
+----------
  * **demlemek** :: to brew (verb)
  * Çayın biraz daha demlenmesi lazım. 
  * The tea needs to be brewed for a little longer. 
 ----------
+ * **duşa girmek** :: to shower (verb)
+ * Yukarıdaki banyoda duşa girebilirsin. 
+ * You can shower in the bathroom upstairs. 
+----------
  * **kasap** :: butcher (noun)
  * Mahalle kasabında her zaman en iyi kesim etler var. 
  * The local butcher always has the best cuts of meat. 
+----------
+ * **açıklamak** :: to explain (verb)
+ * Çözümü bana bir kez daha açıkla. 
+ * Explain the solution to me one more time. 
 ----------
  * **film** :: movie (noun)
  * Harika bir filmdi! 

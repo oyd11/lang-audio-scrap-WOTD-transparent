@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -207,13 +207,25 @@
  * میوه خشک غنی از پروتین است. 
  * Dried fruit is rich in protein. 
 ----------
+ * **گداختن** :: to defrost, to thaw (verb)
+ * قبل از گذاشتن در داش فیل مرغ را باید بگدازید. 
+ * You have to defrost the turkey before putting it in the oven. 
+----------
  * **نویسنده** :: writer (noun)
  * وقتیکه بزرگ شوم میخواهم یک نویسنده باشم. 
  * I want to be a writer when I grow up. 
 ----------
+ * **کشتی بادی** :: sailboat (noun)
+ * کشتی بادی توسط باد حرکت میکند. 
+ * Sailboats rely on the wind to power them. 
+----------
  * **کِشت مات** :: check-mate (expression)
  * من از کِشت مات دو حرکت دور هستم. 
  * I'm two moves away from a check-mate. 
+----------
+ * **موافق بودن** :: to agree (verb)
+ * در آن موضوع همرای شما موافق هستم. 
+ * I agree with you on that issue. 
 ----------
  * **گرم** :: warm (adjective)
  * من نان گرم را خوش دارم. 

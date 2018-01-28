@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -207,13 +207,25 @@
  * Ŝi ordigas sian librobreton ĉiu-monate. 
  * She arranges her bookshelf every month. 
 ----------
+ * **memori** :: to remember (verb)
+ * Ĉu vi memoras kie ni parkis? 
+ * Do you remember where we parked? 
+----------
  * **ordinara** :: ordinary (adjective)
  * Hieraŭ estis ordinara tago. 
  * Yesterday was an ordinary day. 
 ----------
+ * **mencii** :: to mention (verb)
+ * Ne menciu la basbalan matĉon ĉirkaŭ li. 
+ * Do not mention the baseball game around him. 
+----------
  * **orfiŝo** :: goldfish (noun)
  * Ilia filino amas ŝian dorlotan orfiŝon . 
  * Their daughter loves her pet goldfish. 
+----------
+ * **menso** :: mind (noun)
+ * Li estas genio en sia propra menso… 
+ * He is a genius in his own mind... 
 ----------
  * **ornami** :: to decorate (verb)
  * Ni ornamis la festan arbon. 

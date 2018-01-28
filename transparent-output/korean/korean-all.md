@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -207,13 +207,25 @@
  * 우리는 버스를 기다리고 있어요. 
  * We are waiting for the bus. 
 ----------
+ * **금요일** :: Friday (noun)
+ * 내일 금요일이니 기분이 아주 좋아요. 이번 주는 너무 길었어요! 
+ * I'm so glad tomorrow is Friday; it's been a long week! 
+----------
  * **스케이트를 타다** :: to skate (verb)
  * 호수가 딱딱하게 얼면 어린이들이 스케이트를 탑니다. 
  * The children skate on the pond once it is frozen solid. 
 ----------
+ * **있다** :: to have (verb)
+ * 이번 주말에 계획 있어요? 
+ * Do you have any plans for this weekend? 
+----------
  * **썰매** :: sled (noun)
  * 지난 겨울에 할아버지가 그에게 썰매를 주었어요. 
  * His grandfather gave him a sled last winter. 
+----------
+ * **날씨** :: weather (noun)
+ * 내일의 날씨를 어떻게 예측하세요? 
+ * What's the weather prediction for tomorrow? 
 ----------
  * **목** :: throat (noun)
  * 오늘 목이 아프네. 

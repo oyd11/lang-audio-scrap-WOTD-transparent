@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -207,13 +207,25 @@
  * B'fhéidir go bhfuil smaoineamh níos fearr agatsa. 
  * Maybe you have a better idea. 
 ----------
+ * **ró-dhéanach** :: too late (adverb)
+ * Tá sé ró-dhéanach. 
+ * It is too late. 
+----------
  * **bainne** :: milk (noun)
  * Ba mhaith liom tuilleadh bainne, le do thoil. 
  * I would like more milk, please. 
 ----------
+ * **ngar** :: near (adverb)
+ * Cónaíonn siad i ngar do chathair na Gaillimhe. 
+ * They live near Galway City. 
+----------
  * **Fad saoil duit!** :: May you live a long life! (expression)
  * Fad saoil duit! 
  * May you live a long life! 
+----------
+ * **cogar** :: listen (expression)
+ * Cogar, ná déan dearmad go bhfuil Siobhán agus Mark ag teacht le haghaidh dinnéir anocht. 
+ * Listen, don't forget that Siobhán and Mark are coming for dinner tonight. 
 ----------
  * **fada** :: long (adjective)
  * Tá Sligeach achar fada as seo. 

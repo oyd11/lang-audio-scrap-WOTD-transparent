@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -207,13 +207,25 @@
  * Qualche volta quel ragazzino è proprio cattivo. 
  * Sometimes that little boy can be so naughty. 
 ----------
+ * **tremare** :: to tremble (verb)
+ * Le foglie della quercia tremano al vento. 
+ * The leaves of the oak tremble in the wind. 
+----------
  * **accorgersi** :: to notice (verb)
  * Non vi siete accorte che ho cambiato pettinatura? 
  * Haven't you noticed that I changed my hairdo? 
 ----------
+ * **L'attesa** :: waiting (noun)
+ * Potete accomodarvi in sala d'attesa, l'avvocato arriverà presto. 
+ * You may be seated in the waiting room; the lawyer will arrive soon. 
+----------
  * **indietro** :: behind (adverb)
  * Sono indietro con i compiti; questo fine-settimana dovrò studiare. 
  * I'm behind in my homework; I'll have to study this weekend. 
+----------
+ * **crudo** :: raw (adjective)
+ * Cameriere, questa bistecca è cruda! 
+ * Waiter, this steak is raw! 
 ----------
  * **economico** :: cheap (adjective)
  * Faccio sempre la spesa in questo negozio; è tutto molto economico. 

@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -207,13 +207,25 @@
  * Mon fils a rencontré le Président de la République, il était si impressionné qu'il pouvait à peine parler. 
  * My son met the president of the French Republic, he was so impressed that he could barely talk. 
 ----------
+ * **l'hymne** :: anthem (noun)
+ * Connaissez-vous l'hymne national des Etats-Unis ? 
+ * Do you know the American national anthem? 
+----------
  * **crapahuter** :: to crawl (verb)
  * C'est amusant de regarder les bambins crapahuter dans la cour ! 
  * It's funny to watch the toddlers crawling in the yard! 
 ----------
+ * **à l'aveuglette** :: blindly (adverb)
+ * Nous avancions à l'aveuglette sans savoir où nous allions. 
+ * We were blindly moving forward without knowing where we were going. 
+----------
  * **emprunter** :: borrowed (adjective)
  * Quelque chose de vieux, quelque chose de nouveau, quelque chose emprunté, quelque chose bleue. 
  * Something old, something new, something borrowed, something blue. 
+----------
+ * **néanmoins** :: nevertheless (adverb)
+ * J'étais pressée ; néanmoins je l'ai écouté pendant une heure. 
+ * I was in a hurry; nevertheless I listened to him for one hour. 
 ----------
  * **alité** :: bedridden (adjective)
  * Après s'être cassé la jambe, ma tante a dû rester alitée pendant des semaines. 

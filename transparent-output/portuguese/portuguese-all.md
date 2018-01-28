@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -207,13 +207,25 @@
  * Tenho um namorado lindo. 
  * I have a handsome boyfriend. 
 ----------
+ * **saudável** :: healthy (adjective)
+ * Fazer exercício diariamente é uma atividade saudável. 
+ * Doing daily exercise is a healthy activity. 
+----------
  * **presente** :: gift (noun)
  * Ganhei um presente da minha namorada. 
  * I got a gift from my girlfriend. 
 ----------
+ * **agilidade** :: agility (noun)
+ * Não tenho agilidade suficiente para ser guarda. 
+ * I don't have enough agility to play as a guard. 
+----------
  * **beijo** :: kiss (noun)
  * Mande um beijo a sua filha. 
  * Send a kiss to your daughter. 
+----------
+ * **manga** :: sleeve (noun)
+ * Está frio; é melhor você usar algo com mangas longas. 
+ * It's cold; you'd better wear something with long sleeves. 
 ----------
  * **abraço** :: hug (noun)
  * Que abraço gostoso! 

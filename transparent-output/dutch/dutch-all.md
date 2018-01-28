@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -207,13 +207,25 @@
  * Ik ga hem een aanbod doen dat hij niet kan weigeren. 
  * I'm going to make him an offer he can't refuse. 
 ----------
+ * **glimmen** :: to gleam (verb)
+ * Het zilverwerk werd net zolang gepoetst tot het glom als een bel. 
+ * The silverware got polished until it gleamed with light. 
+----------
  * **het einde** :: end (noun)
  * Ieder nieuw begin komt voort uit het einde van een ander begin. 
  * Every new beginning comes from some other beginning's end. 
 ----------
+ * **kijven** :: to squabble (verb)
+ * Je kon dat stelletje roddeltantes aan de andere kant van de straat horen kijven. 
+ * You could hear the old hags squabble at the other end of the street. 
+----------
  * **trouwen** :: to get married (verb)
  * Wanneer gaan jullie trouwen? 
  * When are you getting married? 
+----------
+ * **melken** :: to milk (verb)
+ * Wil je kijken hoe we de geiten melken? 
+ * Would you like to see how we milk our goats? 
 ----------
  * **houden van** :: love (verb)
  * Ik zal altijd van je blijven houden. 

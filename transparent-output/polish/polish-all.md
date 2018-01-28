@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -207,13 +207,25 @@
  * Jej teściowa jest zaskakująco miłą osobą. 
  * Her mother-in-law is a surprisingly nice person. 
 ----------
+ * **poważny** :: serious (adjective)
+ * Moja siostra miała poważny wypadek. 
+ * My sister had a serious accident. 
+----------
  * **sąsiad** :: male neighbor (noun)
  * Mamy bardzo miłych sąsiadów. 
  * We have very nice neighbors. 
 ----------
+ * **tylko** :: only (adverb)
+ * To był tylko żart. 
+ * It was only a joke. 
+----------
  * **kupować** :: to buy (verb)
  * Nie chcemy kupować nowego samochodu. 
  * We don't want to buy a new car. 
+----------
+ * **czekać** :: to wait (verb)
+ * Czekaliśmy na nią prawie dwie godziny. 
+ * We waited for her for almost two hours. 
 ----------
  * **poważny** :: serious (adjective)
  * Moja siostra miała poważny wypadek. 

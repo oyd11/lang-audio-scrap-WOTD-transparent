@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -207,13 +207,25 @@
  * بیچاری لڑکی نے تَلخی سے رونا شروع کر دیا. 
  * The poor girl started to cry bitterly. 
 ----------
+ * **وقتا“ فوقتا“** :: from time to time (expression)
+ * میں وقتا“ فوقتا“ ساحل سمندر پر جاتا ہوں. 
+ * I go to the beach from time to time. 
+----------
  * **بدقسمتی** :: unfortunate (noun)
  * میری بدقسمتی میری ساس ہمارے ساتھ رہتی ہے. 
  * Unfortunately for me, my mother-in-law lives with us. 
 ----------
+ * **پناہ گاہ** :: shelter (noun)
+ * پناہ گاہ تین بنیادی ضروریات میں سے ایک ہے. 
+ * Shelter is one of the three basic needs. 
+----------
  * **نام** :: name (noun)
  * آپ کا نام کیا ہے؟ 
  * What's your name? 
+----------
+ * **بغاوت** :: uprising (noun)
+ * بغاوت مطلوبی سماجی تبدیلیاں لے آئ. 
+ * The uprising brought about the needed social changes. 
 ----------
  * **ملنا** :: to meet (verb)
  * آپ سے مل کر خوشی ہوئ ہے. 

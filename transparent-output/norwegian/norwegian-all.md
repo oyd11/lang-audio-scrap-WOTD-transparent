@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -207,9 +207,21 @@
  * Jeg hadde et marsvin da jeg var åtte år gammel. 
  * I had a guinea pig when I was eight years old. 
 ----------
+ * **marsvin** :: guinea pig (noun)
+ * Jeg hadde et marsvin da jeg var åtte år gammel. 
+ * I had a guinea pig when I was eight years old. 
+----------
  * **mønster** :: pattern (noun)
  * Jeg har et gammelt mønster som jeg brukte for å strikke votter. 
  * I have an old pattern which I used to knit mittens. 
+----------
+ * **mønster** :: pattern (noun)
+ * Jeg har et gammelt mønster som jeg brukte for å strikke votter. 
+ * I have an old pattern which I used to knit mittens. 
+----------
+ * **brevdue** :: carrier pigeon (noun)
+ * Jeg lurer på hvordan brevduer finner veien hjem så raskt. 
+ * I wonder how carrier pigeons can find their way home so quickly. 
 ----------
  * **brevdue** :: carrier pigeon (noun)
  * Jeg lurer på hvordan brevduer finner veien hjem så raskt. 

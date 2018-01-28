@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -207,13 +207,25 @@
  * Christmas is on December 25. 
  * La Navidad es el 25 de diciembre. 
 ----------
+ * **to hang** :: colgar (verb)
+ * I hung lots of posters on my wall. 
+ * Yo colgué muchos carteles sobre la pared. 
+----------
  * **to shine** :: brillar (verb)
  * The star on top of the tree shines a lot. 
  * La estrella encima del árbol brilla mucho. 
 ----------
+ * **to cry** :: llorar (verb)
+ * The baby will cry all night if we don't feed it. 
+ * El bebé va a llorar toda la noche si no le alimentamos. 
+----------
  * **bright** :: brillante (adjective)
  * The stars are bright tonight. 
  * Las estrellas están brillantes esta noche. 
+----------
+ * **to order** :: pedir (verb)
+ * Kate and Mike both ordered fish for dinner. 
+ * Caterina y Miguel pidieron pez para la cena. 
 ----------
  * **ribbon** :: cinta (noun)
  * We put ribbon on the gifts. 

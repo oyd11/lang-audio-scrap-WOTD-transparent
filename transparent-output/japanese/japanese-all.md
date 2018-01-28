@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -309,17 +309,35 @@
  * Sûpâ de kinjo no ojiisan ni atta node, "ogenkidesuka" to kiita. 
  * I saw an old neighbor at the supermarket and asked him "How are you?" 
 ----------
+ * **乾燥する** :: to be dry (verb)
+ * **kansou suru** 
+ * 今日は乾燥してるね。 
+ * Kyou wa kansou shiteru ne. 
+ * It is dry today. 
+----------
  * **だれる** :: to be distracted (verb)
  * **dareru** 
  * 学生がだれてきた。 
  * Gakusei ga darete kita. 
  * The students have been distracted. 
 ----------
+ * **おいしい** :: delicious (adjective)
+ * **oishii** 
+ * おいしいすしを食べたい。 
+ * Oishii sushi o tabetai. 
+ * I want to eat delicious sushi. 
+----------
  * **バーゲン** :: bargain (noun)
  * **bâgen** 
  * バーゲンの時に買った方がいいよ。 
  * Bâgen no toki ni katta houga iiyo. 
  * It would be good to buy it when it is a bargain. 
+----------
+ * **美しい** :: beautiful (adjective)
+ * **utsukushii** 
+ * 窓から美しい景色が見えた。 
+ * Madokara utsukushii keshiki ga mieta. 
+ * I could see beautiful scenery from my window. 
 ----------
  * **逆ギレ** :: to snap at (noun)
  * **gyakugire** 

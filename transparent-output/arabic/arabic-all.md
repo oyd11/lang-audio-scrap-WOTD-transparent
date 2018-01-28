@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -207,13 +207,25 @@
  * يعتقد اليهود والمسيحيون والمسلمون أنَّ الله بعث الأنبياء و الرسل. 
  * Jews, Christians, and Muslims believe that God sent prophets and apostles. 
 ----------
+ * **فعلاً** :: truly (adverb)
+ * أنت فعلاً شاب موهوب. 
+ * You are truly a talented young man. 
+----------
  * **وصلَ إلى** :: to reach (verb)
  * وصلتْ درجة الحرارة إلى خمسة تحت الصفر. 
  * The temperature reached 5 below zero. 
 ----------
+ * **قرية** :: village (noun)
+ * هل أنتَ من هذه القرية؟ 
+ * Are you from this village? 
+----------
  * **تأخّر** :: to be late (verb)
  * عفوا لقد تأخّرتُ بسب اِزدحام الطريق. 
  * Sorry, I am late because of the traffic jam. 
+----------
+ * **حفلة** :: party (noun)
+ * الحفلة ستكون غداً بعد الظهر. 
+ * The party will be tomorrow afternoon. 
 ----------
  * **تحدث ، تكلم** :: to talk (verb)
  * هل يمكن أنْ أتحدّث مع المدير؟ 

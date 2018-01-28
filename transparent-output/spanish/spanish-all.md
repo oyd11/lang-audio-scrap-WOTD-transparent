@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -207,13 +207,25 @@
  * Tengo que averiguar la verdad. 
  * I have to find out the truth. 
 ----------
+ * **tener buena pinta** :: to look good (expression)
+ * Esta comida tiene buena pinta. 
+ * This food looks delicious. 
+----------
  * **la criada** :: maid (noun)
  * La criada limpia la mansión. 
  * The maid cleans the mansion. 
 ----------
+ * **azuzar los perros a alguien** :: to set the dogs on someone (expression)
+ * ¡Váyase de mi huerto o le azuzo los perros! 
+ * Step out of my orchard or I´ll set the dogs on you! 
+----------
  * **el trapo** :: rag (noun)
  * Uso un trapo para limpiar las bombillas. 
  * I use a rag to clean the lightbulbs. 
+----------
+ * **despampanante** :: stunning (adjective)
+ * Su belleza es despampanante. 
+ * Her beauty is stunning. 
 ----------
  * **crudo** :: raw (adjective)
  * Nunca se deberia comer la carne cruda. 

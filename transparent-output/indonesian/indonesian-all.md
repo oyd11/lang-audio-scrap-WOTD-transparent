@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -207,13 +207,25 @@
  * Emailnya mungkin tidak sengaja masuk ke tempat surat sampahmu. 
  * The email may have accidentally gone into your junk mail folder. 
 ----------
+ * **maaf** :: sorry (adjective)
+ * Halo semuanya! Maaf saya terlambat. 
+ * Hi everyone! Sorry I'm late. 
+----------
  * **blok** :: to block (verb)
  * Kenapa kamu blok aku di twitter, bung? 
  * Why'd you block me on Twitter, friend? 
 ----------
+ * **menyalahkan** :: to blame (verb)
+ * Kamu tidak bisa menyalahkan orang lain untuk masalahmu. 
+ * You can't blame other people for your problems. 
+----------
  * **kesabaran** :: patience (noun)
  * Kesabaranku sudah habis! 
  * I don't have the patience anymore! 
+----------
+ * **matahari** :: sun (noun)
+ * Kebun perlu tanah yang baik, sinar matahari dan disirami secara teratur. 
+ * Gardens need good soil, sun, and regular watering. 
 ----------
  * **mempertaruhkan** :: to risk (verb)
  * Aku mempertaruhkan nyawaku setiap kali aku pergi bekerja. 

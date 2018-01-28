@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 390 phrases 
+ 393 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -207,13 +207,25 @@
  * Our flight is delayed. 
  * Nosso vôo está atrasado. 
 ----------
+ * **to climb** :: escalar (verb)
+ * The children often climb trees after they finish their homework. 
+ * As crianças sempre escalam a árvores depois que acabam os deveres de casa. 
+----------
  * **costume** :: fantasia (noun)
  * The children wear costumes to celebrate Halloween. 
  * As crianças usam fantasias para celebrar o Dia das Bruxas. 
 ----------
+ * **cloudy** :: nublado (adjective)
+ * It is a dark and cloudy day. 
+ * É um dia escuro e nublado. 
+----------
  * **to turn off** :: desligar (verb)
  * The son turns off the television for his mother. 
  * O filho desliga a televisão para a mãe dele. 
+----------
+ * **turkey** :: peru (noun)
+ * My father buys a big turkey for Thanksgiving. 
+ * Meu pai compra um grande peru para o Dia de Ação de Graça. 
 ----------
  * **to feel** :: sentir-se (verb)
  * I feel angry when I read about politics. 
