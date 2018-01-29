@@ -13,9 +13,9 @@ src_voice = "Boing"
 #src_voice = "Trinoids"
 #src_voice = "Zarvox"
 
-src_rate = 250
+src_rate = 280
 #src_rate = 520
-target_rate = 180
+target_rate = 200
 
 voice_map = Dict([
     "arabic" => "Maged"
@@ -95,10 +95,6 @@ o_list = cd("transparent-download/$lang") do
     j_files = glob("*.json")
     o_list = map(j_files) do fn
         o = JSON.parsefile(fn)
-#        o["word"], o["fnphrase"]
-#        o["wotd:transliteratedWord"]
-#        o["wotd:transliteratedSentence"]
-        o
     end
     return sort(o_list ; by=x->x["date"]|>mk_date)
 end # cd
@@ -140,12 +136,17 @@ o_list = get_lang_jsons(lang)
 info("Done processing, starting list: $(length(o_list)) phrases")
 info("-------------")
 
+empty_or_nothing(q) = nothing == q || isempty(q)
+
 ind = start_ind
 while ind <= length(o_list)
     o = o_list[ind]
     fnphrase = o["fnphrase"]
+    fnphrase_t = get(o,"wotd:transliteratedSentence",nothing)
     enphrase = o["enphrase"]
+    wordtype = o["wordtype"]
     word = o["word"]
+    word_t = get(o,"wotd:transliteratedWord",nothing)
     translation = o["translation"]
     date = o["date"]
 
@@ -156,12 +157,14 @@ while ind <= length(o_list)
     cmd_say_target = `say -i -v "$target_voice" -r $target_rate "$fnphrase"`
     cmd_say_src = `say -i -v "$src_voice" -r $src_rate "$enphrase"`
 
-    println("$word :: $translation")
+    println("$word :: $translation ($wordtype)") 
+    empty_or_nothing(word_t) || println(word_t)
     #println(fnphrase)
     println(enphrase)
     println(ind)
 
     run(cmd_play_word)
+    empty_or_nothing(fnphrase_t) || println(fnphrase_t)
     run(cmd_say_target)
     run(cmd_play_phrase)
     run(cmd_say_src)
