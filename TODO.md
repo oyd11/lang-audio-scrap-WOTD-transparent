@@ -1,17 +1,24 @@
 
+### Playlists:
+ * Synthesis- english source: MacOs `say`
+
+
 ### Rendering/html
  * no-scroll - when play-event from 'click'
  * play only one when 'click' event
- * display playhead-index on side-bar controls, settable
- * press - to center in 'playhead'
- * save state in browser ('cookie?!')
+ * [done, as html-localStorage] save state in browser ('cookie?!')
 
  * html for the inno as well
 
 ## content:
  * add: 50langs
  * add DLI
- * add 
 
+
+
+## transparent:
+    ** find dups in sentence lists ( they prob cycle sentences at some point)
+    ** find dups across languages for audio-playlists
+    ** support 'english source' in xml format (a bit different fieldnames)
 
 
