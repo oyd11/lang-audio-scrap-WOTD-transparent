@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -230,6 +230,10 @@
  * **to feel** :: sentir-se (verb)
  * I feel angry when I read about politics. 
  * Eu me sinto furiosa quando leio sobre a política. 
+----------
+ * **to slip** :: escorregar (verb)
+ * The woman slipped on the ice. 
+ * A mulher escorregou no gelo. 
 ----------
  * **to cough** :: tossir (verb)
  * Geraldo must be sick; he coughs all of the time. 

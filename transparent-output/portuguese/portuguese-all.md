@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -230,6 +230,10 @@
  * **abraço** :: hug (noun)
  * Que abraço gostoso! 
  * What a nice hug! 
+----------
+ * **receber** :: to receive (verb)
+ * Prefiro receber o prêmio em dinheiro. 
+ * I'd rather receive the prize in cash. 
 ----------
  * **comemorar** :: to celebrate (expression)
  * Vamos comemorar o dia dos namorados. 

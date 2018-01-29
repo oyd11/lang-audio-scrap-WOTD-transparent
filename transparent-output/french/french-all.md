@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -230,6 +230,10 @@
  * **alité** :: bedridden (adjective)
  * Après s'être cassé la jambe, ma tante a dû rester alitée pendant des semaines. 
  * After breaking her leg, my aunt had to stay bedridden for weeks. 
+----------
+ * **têtu** :: stubborn (adjective)
+ * L'un de mes étudiants est aussi têtu qu'une mule. 
+ * One of my students is as stubborn as a mule. 
 ----------
  * **pleurnichard** :: whiny (adjective)
  * Mon neveu est un peu pleurnichard ce soir, mais c'est parce qu'il est très fatigué. 

@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -344,6 +344,12 @@
  * 我喜欢西方音乐。 
  * Wǒ xǐhuān xīfāng yīnyuè. 
  * I like western music. 
+----------
+ * **干净** :: clean (adjective)
+ * **gānjìng** 
+ * 他的房间很干净。 
+ * Tā de fángjiān hěn gānjìng. 
+ * His room is very clean. 
 ----------
  * **南边** :: south (noun)
  * **nánbiān** 

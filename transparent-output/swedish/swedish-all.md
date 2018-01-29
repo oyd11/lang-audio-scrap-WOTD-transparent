@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -230,6 +230,10 @@
  * **livet efter detta** :: afterlife (expression)
  * Vi kommer att träffas igen i livet efter detta. 
  * We'll meet again in the afterlife. 
+----------
+ * **våghalsig** :: reckless (adjective)
+ * Vilken våghalsig bilförare, som sms:ar! 
+ * What a reckless driver - he's texting! 
 ----------
  * **(en) pennvässare** :: pencil sharpener (noun)
  * Får jag använda din pennvässare? 

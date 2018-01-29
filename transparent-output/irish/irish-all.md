@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -230,6 +230,10 @@
  * **fada** :: long (adjective)
  * Tá Sligeach achar fada as seo. 
  * It is a long way from here to Sligo. 
+----------
+ * **arís** :: again (adverb)
+ * Inis dom arís é, cé hiad? 
+ * Who are they, again? 
 ----------
  * **pháirc** :: park (noun)
  * An bhfuil a fhios agat cá bhfuil an pháirc nua? 

@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -230,6 +230,10 @@
  * **목** :: throat (noun)
  * 오늘 목이 아프네. 
  * My throat is hurting today. 
+----------
+ * **비가 오다** :: to rain (verb)
+ * 비가 올 거에요. 우산을 가지고 오세요. 
+ * It's going to rain, bring an umbrella. 
 ----------
  * **졸업하다** :: to graduate (verb)
  * 한 달 있다가 제 동생이 졸업할 거예요. 

@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -230,6 +230,10 @@
  * **ornami** :: to decorate (verb)
  * Ni ornamis la festan arbon. 
  * We decorated the holiday tree. 
+----------
+ * **meteoro** :: meteor (noun)
+ * Meteoro lumigis la noktan ĉielon. 
+ * A meteor lit the night sky. 
 ----------
  * **pajlo** :: straw (noun)
  * Ŝi trinkis la sukon per suĉilo. 

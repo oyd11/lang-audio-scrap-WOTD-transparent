@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -344,6 +344,12 @@
  * タバコを吸っている学生を注意したら、逆ギレされた。 
  * Tabako o sutteiru gakusei o chuui shitara gyakugire sareta. 
  * When I scolded a student who was smoking, he snapped at me. 
+----------
+ * **きれい** :: pretty (adjective)
+ * **kirei** 
+ * ニューハンプシャー州はきれいです。 
+ * Nyûhanpushâ shuu wa kirei desu. 
+ * New Hampshire is a pretty state. 
 ----------
  * **迎えに行く** :: to pick someone up (verb)
  * **mukae ni iku** 

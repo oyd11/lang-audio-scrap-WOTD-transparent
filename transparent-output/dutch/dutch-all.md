@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -230,6 +230,10 @@
  * **houden van** :: love (verb)
  * Ik zal altijd van je blijven houden. 
  * I will love you forever. 
+----------
+ * **gluren** :: to spy (verb)
+ * Mijn nicht vindt het leuk om vanachter haar gordijntje te gluren naar de buren naast haar. 
+ * My cousin likes to spy on the neighbors next to her from behind the curtains. 
 ----------
  * **de pompoen** :: pumpkin (noun)
  * We hebben pompoenen uitgesneden om bij de voordeur neer te zetten. 

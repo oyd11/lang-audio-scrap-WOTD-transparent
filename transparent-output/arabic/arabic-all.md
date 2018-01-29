@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -230,6 +230,10 @@
  * **تحدث ، تكلم** :: to talk (verb)
  * هل يمكن أنْ أتحدّث مع المدير؟ 
  * Can I talk to the manager? 
+----------
+ * **مصنع** :: factory (noun)
+ * خالد يعمل مع والده في المصنع. 
+ * Khalid works with his father in the factory. 
 ----------
  * **ترك** :: to leave (verb)
  * هل من الممكن أن تتركيني وحدي من فضلك؟ 

@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -230,6 +230,10 @@
  * **پسېدل** :: whisper (noun)
  * لطفاً مه پسېږئ. 
  * Please don't whisper. 
+----------
+ * **بهر** :: in the open (expression)
+ * مونږ بهر ویده شولو. 
+ * We slept in the open. 
 ----------
  * **بهر** :: in the open (expression)
  * مونږ بهر ویده شولو. 

@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -230,6 +230,10 @@
  * **mempertaruhkan** :: to risk (verb)
  * Aku mempertaruhkan nyawaku setiap kali aku pergi bekerja. 
  * I risk my life every time I go to work. 
+----------
+ * **minggu** :: week (noun)
+ * Proyek ini harus memakan waktu berapa minggu? 
+ * How many weeks does this project have to take? 
 ----------
  * **belajar** :: to study (verb)
  * Saya belajar semalaman untuk ujian ini. 

@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -230,6 +230,10 @@
  * **lukisan** :: paintings (biasa (kapara))
  * Wenten koleksi karya seni lukisan. 
  * They have a collection of paintings. 
+----------
+ * **ngwantu** :: to help (alus (refined))
+ * Napi dados titiang ngwantu? 
+ * What can I help with? 
 ----------
  * **ukiran** :: carvings (biasa (kapara))
  * Wenten koleksi karya seni ukiran. 

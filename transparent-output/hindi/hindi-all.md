@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -230,6 +230,10 @@
  * **बड़ा ऊंचा झूला** :: Ferris wheel (noun)
  * मां, मैं उस ऊंचे झूले पर बैठना चाहती हूँ! 
  * Mom, I want to get on the Ferris wheel! 
+----------
+ * **अपहरण करना** :: to abduct (verb)
+ * कल रात मैने सपना देखा कि एलियंस द्वारा मेरा अपहरण किया जा रहा था। 
+ * Last night I dreamt I was being abducted by aliens. 
 ----------
  * **जितना जल्दी हो सके** :: as soon as (conjunction)
  * मैं जितना जल्दी हो सकेगा पहुंच जाऊंगा। 

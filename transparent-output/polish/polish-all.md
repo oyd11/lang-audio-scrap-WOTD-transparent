@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -230,6 +230,10 @@
  * **poważny** :: serious (adjective)
  * Moja siostra miała poważny wypadek. 
  * My sister had a serious accident. 
+----------
+ * **cukierek** :: a piece of candy (noun)
+ * Nie lubię cukierków w czekoladzie. 
+ * I don't like chocolate covered candies. 
 ----------
  * **tylko** :: only (adverb)
  * To był tylko żart. 

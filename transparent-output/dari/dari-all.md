@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -230,6 +230,10 @@
  * **گرم** :: warm (adjective)
  * من نان گرم را خوش دارم. 
  * I like warm bread. 
+----------
+ * **گذشتن** :: to overtake, to pass (verb)
+ * شما نمیتوانید در این امتداد سرک بگذرید. 
+ * You can't pass in this stretch of road. 
 ----------
  * **متن** :: script (noun)
  * متن فلم اخیرش را خودش نوشت. 

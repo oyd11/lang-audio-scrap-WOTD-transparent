@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -226,6 +226,10 @@
  * **brevdue** :: carrier pigeon (noun)
  * Jeg lurer på hvordan brevduer finner veien hjem så raskt. 
  * I wonder how carrier pigeons can find their way home so quickly. 
+----------
+ * **misunnelig** :: envious (adjective)
+ * Jeg misunner min fetter som flytter til Norge neste år. 
+ * I'm envious of my cousin who will move to Norway next year. 
 ----------
  * **misunnelig** :: envious (adjective)
  * Jeg misunner min fetter som flytter til Norge neste år. 

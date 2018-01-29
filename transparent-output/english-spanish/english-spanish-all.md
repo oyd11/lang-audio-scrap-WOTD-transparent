@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -230,6 +230,10 @@
  * **ribbon** :: cinta (noun)
  * We put ribbon on the gifts. 
  * Nosotros ponemos cinta en los regalos. 
+----------
+ * **year** :: año (noun)
+ * The new year will begin soon. 
+ * El año nuevo empezará pronto. 
 ----------
  * **to wrap** :: envolver (verb)
  * I wrap the presents on Christmas Eve. 

@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -230,6 +230,10 @@
  * **economico** :: cheap (adjective)
  * Faccio sempre la spesa in questo negozio; è tutto molto economico. 
  * I always shop in this store; everything is very cheap. 
+----------
+ * **buttare** :: to throw away (verb)
+ * Perché vuoi buttare via il tuo bel maglione rosso? 
+ * Why do you want to throw away your beautiful red sweater? 
 ----------
  * **appartenere** :: to belong (verb)
  * Questo castello appartiene al principe Enrico e alla sua famiglia. 

@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -230,6 +230,10 @@
  * **כאב** :: pain (noun)
  * אין רווח בלי כאב. 
  * No pain, no gain. 
+----------
+ * **לסיים לימודים** :: to graduate (verb)
+ * אחי יסיים את הלימודים בעוד חודש. 
+ * My brother will graduate in a month. 
 ----------
  * **שנוי במחלוקת** :: controversial (adjective)
  * תכנית הטלוויזיה הזו שנויה במחלוקת עקב היותה אלימה כל כך. 

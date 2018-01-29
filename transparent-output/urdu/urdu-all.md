@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -230,6 +230,10 @@
  * **ملنا** :: to meet (verb)
  * آپ سے مل کر خوشی ہوئ ہے. 
  * It is a pleasure to meet you. 
+----------
+ * **ڈیوٹی پر ہونا** :: to be on duty (expression)
+ * میں اس ہفتے کے آخر میں نہیں جا سکتا، میں ڈیوٹی پر ہوں. 
+ * I can't go this weekend, I am on duty. 
 ----------
  * **لذیذ** :: delicious (adjective)
  * وہ لذیذ تھا. 

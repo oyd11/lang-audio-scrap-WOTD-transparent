@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -230,6 +230,10 @@
  * **contrarius** :: opposite (adjective)
  * Contraria contrariis curantur. 
  * The opposite is cured with the opposite. 
+----------
+ * **nimium** :: excessively, too much (adverb)
+ * Fortuna eum stultum facit quem nimium amat. 
+ * Fortune makes him stupid whom it loves too much. 
 ----------
  * **levis** :: fickle, light (adjective)
  * Levis est fortuna. 

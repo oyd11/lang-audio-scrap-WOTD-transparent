@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -230,6 +230,10 @@
  * **привидение** :: ghost (noun)
  * Говорят, что в этом доме привидения. 
  * They say that ghosts haunt the old house. 
+----------
+ * **новости** :: news (noun)
+ * Отсутствие новостей - это хорошая новость. 
+ * No news is good news. 
 ----------
  * **закончить** :: to finish (verb)
  * Ты закончил книгу? 

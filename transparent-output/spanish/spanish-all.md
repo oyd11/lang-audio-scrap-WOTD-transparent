@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -230,6 +230,10 @@
  * **crudo** :: raw (adjective)
  * Nunca se deberia comer la carne cruda. 
  * You should never eat raw meat. 
+----------
+ * **apasionado** :: passionate (adjective)
+ * Estoy apasionada por la fotografía. 
+ * I am passionate about photography. 
 ----------
  * **las pasas** :: raisins (noun)
  * Preparo galletas de avena con pasas. 

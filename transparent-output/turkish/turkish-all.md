@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 393 phrases 
+ 394 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -230,6 +230,10 @@
  * **film** :: movie (noun)
  * Harika bir filmdi! 
  * It was a great movie! 
+----------
+ * **yabancı** :: alien (adjective)
+ * Geleneklerimiz size yabancı görünüyor olmalı. 
+ * Our customs must seem alien to you. 
 ----------
  * **kazımak** :: to carve (verb)
  * Birisi ağacın kabuğuna adını kazımış. 
