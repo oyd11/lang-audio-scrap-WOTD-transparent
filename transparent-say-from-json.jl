@@ -1,5 +1,10 @@
 #!/usr/bin/env julia
 
+## Requires utilities:
+##  * 'sox' - to play audio
+##  * 'say' - to synthesize speech
+## (MacOS, otherwise - provide an alternative)
+
 ######## Configuration::  #######
 src_voice = "Boing"
 #src_voice = "Bad News"
@@ -8,7 +13,7 @@ src_voice = "Boing"
 #src_voice = "Trinoids"
 #src_voice = "Zarvox"
 
-src_rate = 220
+src_rate = 250
 #src_rate = 520
 target_rate = 180
 
