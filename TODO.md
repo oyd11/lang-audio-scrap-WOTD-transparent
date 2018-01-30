@@ -2,6 +2,7 @@
 ## cli 'say' loop:
  * play 'from online URL' - to 'cache dir'
  * download only JSONs from scaping utils, for 'cached only' playback
+ * save list of (random and non-random) repetitions, to be able to review the same sentences 
 
 ### Playlists:
  * Synthesis- english source: MacOs `say` to files as well

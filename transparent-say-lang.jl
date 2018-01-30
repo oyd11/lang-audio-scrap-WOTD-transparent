@@ -1,12 +1,25 @@
 #!/usr/bin/env julia
 
+# Julia 0.6 syntax
 
-# $ ./transparent-say-from-json.jl 
+call_syntax = raw"""
+---------------
+Call syntax:
+$ ./transparent-say-from-json.jl $language (optional: $start-index)
+Eg.
+$ ./transparent-say-lang.jl swedish 14
 
-## Requires utilities:
-##  * 'sox' - to play audio
-##  * 'say' - to synthesize speech
-## (MacOS, otherwise - provide an alternative)
+special: negative number - means - reverse iteration
+'rand' instead of number - random iteration
+
+ Requires utilities:
+  * 'sox' - to play audio
+  * 'say' - to synthesize speech
+ (MacOS, otherwise - provide an alternative)
+---------------
+"""
+
+
 
 ######## Configuration::  #######
 src_voice = "Boing"
@@ -65,13 +78,13 @@ voice_map = Dict([
 
 
 
-
 all_langs = ["russian", "arabic" ,"english-spanish" ,"irish" ,"norwegian" ,"swedish" ,"balinese" ,"esperanto" ,"italian" ,"pashto" ,"turkish" ,"balinese-indonesian" ,"french" ,"japanese" ,"polish" ,"urdu" ,"dari" ,"hebrew" ,"korean" ,"portuguese" ,"dutch" ,"hindi" ,"latin" ,"english-portuguese" ,"indonesian" ,"mandarin" ,"spanish"]
 
 
 if length(ARGS)<1
     warn("Missing language argument")
     info("languages: ", join(all_langs, ", "))
+    info(call_syntax)
     error("No language input")
 end
 
@@ -86,6 +99,7 @@ using ShellCommands
 if !(lang in all_langs)
     warn("No phrases for language '$lang'")
     info("languages: ", join(all_langs, ", "))
+    info(call_syntax)
     error("No phrases for '$lang'")
 end
 
@@ -94,20 +108,28 @@ date_format = DateFormat("mm-dd-yyyy")
 mk_date(str) = Date(str, date_format )
 
 function get_lang_jsons(lang) 
-o_list = cd("transparent-download/$lang") do
-    j_files = glob("*.json")
-    o_list = map(j_files) do fn
-        o = JSON.parsefile(fn)
-    end
-    return sort(o_list ; by=x->x["date"]|>mk_date)
-end # cd
-
+    return o_list = cd("transparent-download/$lang") do
+        j_files = glob("*.json")
+        o_list = JSON.parsefile.(j_files)
+        return sort(o_list ; by=x->x["date"]|>mk_date)
+    end # cd
 end
 
-start_ind = if length(ARGS) > 1
-    parse(Int, ARGS[2])
-else
-    1
+## TODO: o_list - common function to both scripts
+o_list = get_lang_jsons(lang)
+
+next_rand = false
+start_ind = 1
+if length(ARGS) > 1
+    try
+        start_ind = parse(Int, ARGS[2])
+    catch ex
+        if "rand" == ARGS[2]
+            info("Random order")
+            next_rand = true
+            start_ind = rand(1:length(o_list))
+        end
+    end
 end
 
 println("lang: $lang")
@@ -133,16 +155,15 @@ catch ex
     throw(ex)
 end
 
-## TODO: o_list - common function to both scripts
-o_list = get_lang_jsons(lang)
 
 info("Done processing, starting list: $(length(o_list)) phrases")
 info("-------------")
 
 empty_or_nothing(q) = nothing == q || isempty(q)
 
-ind = start_ind
-while ind <= length(o_list)
+ind = abs(start_ind)
+delta = sign(start_ind)
+while 0 < ind <= length(o_list)
     o = o_list[ind]
     fnphrase = o["fnphrase"]
     fnphrase_t = get(o,"wotd:transliteratedSentence",nothing)
@@ -175,9 +196,12 @@ while ind <= length(o_list)
     run(cmd_say_target)
     println("-------------")
     sleep(0.2)
-    ind += 1
+    if next_rand
+        ind = rand(1:length(o_list))
+    else
+        ind += delta
+    end
 end
 
-end 
 
 
