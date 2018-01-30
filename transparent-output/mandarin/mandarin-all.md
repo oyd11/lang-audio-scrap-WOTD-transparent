@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -356,6 +356,12 @@
  * 纽约在波士顿南边。 
  * Niǔyuē zài bōshìdùn nánbiān. 
  * New York is to the south of Boston. 
+----------
+ * **感恩节** :: Thanksgiving (noun)
+ * **gǎnēnjié** 
+ * 感恩节我们吃火鸡。 
+ * Gǎnēnjié wǒmén chī huǒjī. 
+ * We eat turkey on Thanksgiving. 
 ----------
  * **北方** :: north, northern (noun)
  * **běifān** 

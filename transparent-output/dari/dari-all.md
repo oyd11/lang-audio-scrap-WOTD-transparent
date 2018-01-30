@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -238,6 +238,10 @@
  * **متن** :: script (noun)
  * متن فلم اخیرش را خودش نوشت. 
  * He wrote the script for his latest movie himself. 
+----------
+ * **بطور تصادفی** :: at random (expression)
+ * چوکی را بطور تصادفی انتخاب کردیم. 
+ * We chose a seat at random. 
 ----------
  * **سونامی** :: tsunami (noun)
  * در منطقه اخطار سونامی داده شده است. 

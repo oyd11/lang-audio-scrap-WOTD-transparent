@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -238,6 +238,10 @@
  * **pleurnichard** :: whiny (adjective)
  * Mon neveu est un peu pleurnichard ce soir, mais c'est parce qu'il est très fatigué. 
  * My nephew is a bit whiny tonight, but it's because he is very tired. 
+----------
+ * **hors service** :: out of order (adjective)
+ * L'ascenseur de notre appartement est encore hors service. 
+ * Our apartment elevator is still out of order. 
 ----------
  * **le marginal** :: misfit (noun)
  * Depuis la mort de sa femme, mon oncle est un vrai marginal ; il ne voit plus personne. 

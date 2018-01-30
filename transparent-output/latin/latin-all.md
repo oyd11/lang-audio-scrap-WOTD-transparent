@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -238,6 +238,10 @@
  * **levis** :: fickle, light (adjective)
  * Levis est fortuna. 
  * Fortune is fickle. 
+----------
+ * **medicus** :: physician (noun)
+ * Medicus curat, natura sanat. 
+ * A physician treats, nature cures. 
 ----------
  * **inexpertus** :: without experience (adjective)
  * Dulce bellum inexpertis. 

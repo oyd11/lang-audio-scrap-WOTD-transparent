@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -238,6 +238,10 @@
  * **שנוי במחלוקת** :: controversial (adjective)
  * תכנית הטלוויזיה הזו שנויה במחלוקת עקב היותה אלימה כל כך. 
  * This television show is controversial for being so violent. 
+----------
+ * **מכסחת דשא** :: lawnmower (noun)
+ * חסר דלק במכסחת הדשא. 
+ * The lawnmower needs gasoline. 
 ----------
  * **מגן** :: shield (noun)
  * האביר הדף את המכה בעזרת המגן שלו. 

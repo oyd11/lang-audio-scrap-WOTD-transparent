@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -356,6 +356,12 @@
  * おばを空港まで迎えに行った。 
  * Oba o kuukou made mukae ni itta. 
  * I went to the airport to pick up my aunt. 
+----------
+ * **便利** :: convenient (adjective)
+ * **benri** 
+ * 携帯電話はとても便利だ。 
+ * Keitaidenwa wa totemo benri da. 
+ * Cell phones are very convenient. 
 ----------
  * **お久しぶりです** :: I have not seen you for a long time. (expression)
  * **ohisashiburi desu** 

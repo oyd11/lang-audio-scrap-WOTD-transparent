@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -238,6 +238,10 @@
  * **to wrap** :: envolver (verb)
  * I wrap the presents on Christmas Eve. 
  * Yo envuelvo los regalos en la Víspera de la Navidad. 
+----------
+ * **to come** :: venir (verb)
+ * I'm sorry, but we can't come to your party. 
+ * Lo siento, pero nosotros no podemos venir a tu fiesta. 
 ----------
  * **cloudy** :: nublado (adjective)
  * The sky is cloudy today. 

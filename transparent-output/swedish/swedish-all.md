@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -238,6 +238,10 @@
  * **(en) pennvässare** :: pencil sharpener (noun)
  * Får jag använda din pennvässare? 
  * Can you lend me your pencil sharpener? 
+----------
+ * **marinblå** :: navy (adjective)
+ * I mörkret satte jag av misstag på mig en marinblå och en svart strumpa. 
+ * In the dark I accidentally put on one navy sock and one black. 
 ----------
  * **mänskliga rättigheter** :: human rights (expression)
  * Vi måste fortsätta kämpa för mänskliga rättigheter. 

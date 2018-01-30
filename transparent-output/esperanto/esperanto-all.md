@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -238,6 +238,10 @@
  * **pajlo** :: straw (noun)
  * Ŝi trinkis la sukon per suĉilo. 
  * She drank the juice through a straw. 
+----------
+ * **miksi** :: to mix (verb)
+ * Li miksas bonan trinkaĵon. 
+ * He mixes a good drink. 
 ----------
  * **pano** :: bread (noun)
  * Pro la pano ĉi tiu sandviĉo estas bongustega. 

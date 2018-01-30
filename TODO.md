@@ -1,6 +1,10 @@
 
+## cli 'say' loop:
+ * play 'from online URL' - to 'cache dir'
+ * download only JSONs from scaping utils, for 'cached only' playback
+
 ### Playlists:
- * Synthesis- english source: MacOs `say`
+ * Synthesis- english source: MacOs `say` to files as well
 
 
 ### Rendering/html

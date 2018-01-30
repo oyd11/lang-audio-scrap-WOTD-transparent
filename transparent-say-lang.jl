@@ -1,5 +1,8 @@
 #!/usr/bin/env julia
 
+
+# $ ./transparent-say-from-json.jl 
+
 ## Requires utilities:
 ##  * 'sox' - to play audio
 ##  * 'say' - to synthesize speech

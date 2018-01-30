@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -238,6 +238,10 @@
  * **ترك** :: to leave (verb)
  * هل من الممكن أن تتركيني وحدي من فضلك؟ 
  * Can you leave me alone, please? 
+----------
+ * **مرتفع** :: high (adjective)
+ * درجة الحرارة مرتفعة هذا الصباح. 
+ * The temperature is high this morning. 
 ----------
  * **ترجم** :: to translate (verb)
  * هي ترجمتْ هذا المقال من اللغة الإنجليزية إلى العربية. 

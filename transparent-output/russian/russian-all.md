@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -238,6 +238,10 @@
  * **закончить** :: to finish (verb)
  * Ты закончил книгу? 
  * Have you finished the book? 
+----------
+ * **цилиндр** :: top hat (noun)
+ * Джентельмен снял перчатки и цилиндр. 
+ * The gentleman took off his gloves and top hat. 
 ----------
  * **цвести** :: to flower (verb)
  * Деревья зацветут через несколько недель. 

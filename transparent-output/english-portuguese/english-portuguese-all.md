@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -238,6 +238,10 @@
  * **to cough** :: tossir (verb)
  * Geraldo must be sick; he coughs all of the time. 
  * Geraldo deve estar doente; tosse o tempo todo. 
+----------
+ * **to worry** :: preocupar-se (verb)
+ * Margarita sometimes worries too much about exams. 
+ * Margarita às vezes se preocupa muito com os exames 
 ----------
  * **appointment** :: hora marcada (noun)
  * I have an appointment with the dentist. 

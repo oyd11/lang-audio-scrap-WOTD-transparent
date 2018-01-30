@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -238,6 +238,10 @@
  * **belajar** :: to study (verb)
  * Saya belajar semalaman untuk ujian ini. 
  * I've been up all night studying for this test. 
+----------
+ * **mayoritas** :: majority (noun)
+ * Dalam banyak hal, suara minoritas yang vokal tidak mewakili suara mayoritas. 
+ * The vocal minority do not represent the majority in most cases. 
 ----------
  * **pusing** :: headache (noun)
  * Aku pusing memikirkan masalah ini. 

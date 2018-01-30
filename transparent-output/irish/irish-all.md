@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -238,6 +238,10 @@
  * **pháirc** :: park (noun)
  * An bhfuil a fhios agat cá bhfuil an pháirc nua? 
  * Can you tell me where the new park is? 
+----------
+ * **Ceart go leor.** :: Okay. (expression)
+ * Ceart go leor. 
+ * Okay. 
 ----------
  * **tábhachtach** :: important (adjective)
  * Níl sé sin tábhachtach. 

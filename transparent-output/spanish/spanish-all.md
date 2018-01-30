@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -238,6 +238,10 @@
  * **las pasas** :: raisins (noun)
  * Preparo galletas de avena con pasas. 
  * I make oatmeal raisin cookies. 
+----------
+ * **permanecer** :: to stay (verb)
+ * ¿Cuánto tiempo vas a permanecer en Madrid? 
+ * How long are you staying in Madrid? 
 ----------
  * **la quemadura** :: sunburn (noun)
  * Me pongo crema protectora para evitar las quemaduras. 

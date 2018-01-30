@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -238,6 +238,10 @@
  * **لذیذ** :: delicious (adjective)
  * وہ لذیذ تھا. 
  * That was delicious. 
+----------
+ * **کمی** :: lack (noun)
+ * فنڈز کی کمی نے فیکٹری کو جلدی بند کروا دیا. 
+ * The lack of funds hastened the closure of the factory. 
 ----------
  * **آپ** :: you (noun)
  * آپ کہاں سے ہیں؟ 

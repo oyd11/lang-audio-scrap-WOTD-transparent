@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -238,6 +238,10 @@
  * **بهر** :: in the open (expression)
  * مونږ بهر ویده شولو. 
  * We slept in the open. 
+----------
+ * **خدای دې وکړي.** :: I hope so! (interjection)
+ * زه امید لرم چی زما ټول ملګري به راشي. 
+ * I hope all my friends will come! 
 ----------
  * **خدای دې وکړي.** :: I hope so! (interjection)
  * زه امید لرم چی زما ټول ملګري به راشي. 

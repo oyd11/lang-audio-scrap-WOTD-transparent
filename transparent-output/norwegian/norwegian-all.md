@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -234,6 +234,10 @@
  * **misunnelig** :: envious (adjective)
  * Jeg misunner min fetter som flytter til Norge neste år. 
  * I'm envious of my cousin who will move to Norway next year. 
+----------
+ * **mutter** :: nut (for a bolt) (noun)
+ * I en stor butikk som Clas Ohlson kan du kjøpe datautstyr, tau, negler, spikre og muttere. 
+ * In a huge department store like Clas Ohson, you can buy computer equipment, rope, nails, screws, and nuts. 
 ----------
  * **mutter** :: nut (for a bolt) (noun)
  * I en stor butikk som Clas Ohlson kan du kjøpe datautstyr, tau, negler, spikre og muttere. 

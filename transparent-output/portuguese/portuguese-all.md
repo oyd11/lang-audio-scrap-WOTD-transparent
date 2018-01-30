@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -238,6 +238,10 @@
  * **comemorar** :: to celebrate (expression)
  * Vamos comemorar o dia dos namorados. 
  * Let's celebrate Valentine's Day. 
+----------
+ * **escrivão** :: notary (noun)
+ * O contrato tem que ser assinado na frente de um escrivão. 
+ * The contract has to be signed in front of a notary. 
 ----------
  * **coração** :: heart (noun)
  * Te amo de todo o meu coração. 

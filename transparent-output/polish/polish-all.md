@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -238,6 +238,10 @@
  * **tylko** :: only (adverb)
  * To był tylko żart. 
  * It was only a joke. 
+----------
+ * **gotować** :: to cook, to boil (verb)
+ * Co gotujesz dziś na obiad? 
+ * What are you cooking for dinner today? 
 ----------
  * **czekać** :: to wait (verb)
  * Czekaliśmy na nią prawie dwie godziny. 

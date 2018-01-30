@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -238,6 +238,10 @@
  * **kazımak** :: to carve (verb)
  * Birisi ağacın kabuğuna adını kazımış. 
  * Someone carved their name into the bark of that tree. 
+----------
+ * **örnek** :: example (noun)
+ * Her zaman davranışlarla örnek olmak en iyisi. 
+ * It's always best to lead by example. 
 ----------
  * **kuruyemiş** :: roasted nuts (noun)
  * Kuru yemişler, protein açısından zengindir. 

@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -238,6 +238,10 @@
  * **appartenere** :: to belong (verb)
  * Questo castello appartiene al principe Enrico e alla sua famiglia. 
  * This castle belongs to Prince Henry and his family. 
+----------
+ * **confessare** :: to confess (verb)
+ * Dopo poco tempo lui si è pentito e ha confessato il suo delitto. 
+ * After a short time he repented and confessed his crime. 
 ----------
  * **Lo zio** :: uncle (noun)
  * Lo zio Attilio è emigrato in Francia. 

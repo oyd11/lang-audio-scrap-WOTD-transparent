@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -238,6 +238,10 @@
  * **ukiran** :: carvings (biasa (kapara))
  * Wenten koleksi karya seni ukiran. 
  * They have a collection of carvings. 
+----------
+ * **suung** :: vacant, empty (biasa (common))
+ * Napi wenten kamar sane suung driki? 
+ * Is there a vacant room here? 
 ----------
  * **tulis** :: writings (biasa (kapara))
  * Wenten koleksi karya seni tulis. 

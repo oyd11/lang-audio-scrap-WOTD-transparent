@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -238,6 +238,10 @@
  * **de pompoen** :: pumpkin (noun)
  * We hebben pompoenen uitgesneden om bij de voordeur neer te zetten. 
  * We carved pumpkins to put near the front door. 
+----------
+ * **tjilpen** :: to twitter (verb)
+ * Ik vind het heerlijk rustgevend om in de tuin de vogeltjes te horen tjilpen. 
+ * I find it nice and relaxing to hear the birds twittering in the garden. 
 ----------
  * **vertrekken** :: to leave (verb)
  * Het vliegtuig is tien minuten geleden vertrokken. Wat doen we nu? 

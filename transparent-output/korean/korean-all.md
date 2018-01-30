@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -238,6 +238,10 @@
  * **졸업하다** :: to graduate (verb)
  * 한 달 있다가 제 동생이 졸업할 거예요. 
  * My brother will graduate in a month. 
+----------
+ * **놀다** :: to play (verb)
+ * 애들이 밖에서 놀기를 좋아해요. 
+ * The children like to play outside. 
 ----------
  * **잔디 깎는 기계** :: lawnmower (noun)
  * 잔디 깎는 기계는 가솔린이 필요해요. 

@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 394 phrases 
+ 395 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -238,6 +238,10 @@
  * **जितना जल्दी हो सके** :: as soon as (conjunction)
  * मैं जितना जल्दी हो सकेगा पहुंच जाऊंगा। 
  * I will be there as soon as I can. 
+----------
+ * **छिड़काव यंत्र** :: sprinkler (noun)
+ * आग इसलिए नहीं फैली क्योंकि छिड़काव यंत्र काम कर रहे थे। 
+ * The fire did not spread because the sprinklers were activated. 
 ----------
  * **भर उठना** :: to consume (verb)
  * वह ईर्ष्या से भर उठा है। 
