@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -247,33 +247,65 @@
  * Деревья зацветут через несколько недель. 
  * The trees will flower in a few weeks. 
 ----------
+ * **друг** :: friend (noun)
+ * Когда у меня плохой день, я всегда об этом оповещаю всех своих друзей на Фейсбуке! 
+ * When I have a bad day, I make sure all my Facebook friends know! 
+----------
  * **цветок** :: flower (noun)
  * Поставь цветы в вазу на столе. 
  * Put the flowers in the vase on the table. 
+----------
+ * **подарки** :: gifts (noun)
+ * Так весело смотреть, как дети разворачивают рождественские подарки. 
+ * It´s so funny to see children unwrapping their Christmas gifts. 
 ----------
  * **фильм ужасов** :: scary movie (adjective)
  * Тебе нравятся фильмы ужасов? 
  * Do you like scary movies? 
 ----------
+ * **удар ногой** :: kick (phrase)
+ * Чтобы открыть эту дверь, прийдётся ударить её ногой. 
+ * To open that door, you need to give it a good kick. 
+----------
  * **удаляться** :: to withdraw (verb)
  * Я слышу его шаги. Давайте удалимся, милорд. 
  * I hear him coming: let's withdraw, my lord. 
+----------
+ * **загробная жизнь** :: afterlife (phrase)
+ * Мы снова встретимся в загробной жизни. 
+ * We'll meet again in the afterlife. 
 ----------
  * **копать** :: to dig (verb)
  * Копайте, пока не найдёте нефть. 
  * Dig until you strike oil. 
 ----------
+ * **точилка** :: pencil sharpener (noun)
+ * Можно взять твою точилку? 
+ * Can you lend me your pencil sharpener? 
+----------
  * **ископаемое** :: fossil (noun)
  * Ископаемые в музее относятся к меловому периоду. 
  * The fossils at the museum are from the Cretaceous period. 
+----------
+ * **права человека** :: human rights (phrase)
+ * Мы должны продолжать бороться за права человека. 
+ * We have to keep on fighting for human rights. 
 ----------
  * **фотографировать** :: to photograph (verb)
  * Она сфотографировала редкую птицу. 
  * She photographed a rare bird. 
 ----------
+ * **ослаблять** :: to loosen (verb)
+ * Он сел и ослабил узел галстука. 
+ * He sat down and loosened his tie. 
+----------
  * **прохладный** :: chilly (adjective)
  * Какой прохладный день! 
  * What a chilly day! 
+----------
+ * **ослеплять** :: to dazzle (verb)
+ * Он был ослеплён женской красотой. 
+ * He was dazzled by the woman's beauty. 
 ----------
  * **ждать** :: to wait for (verb)
  * Мы ждём автобус. 

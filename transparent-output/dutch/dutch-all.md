@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -247,33 +247,65 @@
  * Het vliegtuig is tien minuten geleden vertrokken. Wat doen we nu? 
  * The plane left ten minutes ago. What do we do? 
 ----------
+ * **aaien** :: to pet (verb)
+ * Op de kinderboerderij is het toegestaan om voorzichtig de konijntjes te aaien. 
+ * At the petting zoo it's allowed to carefully pet the little bunnies. 
+----------
  * **de leeuw** :: lion (noun)
  * Mijn zusje houdt van de leeuwen in de dierentuin. 
  * My sister enjoys the lions at the zoo. 
+----------
+ * **bedwelmen** :: to stun (verb)
+ * Om zijn slachtoffers te ontvoeren, moest de kidnapper ze eerst bedwelmen. 
+ * To kidnap his victims, the kidnapper had to stun them first. 
 ----------
  * **de school** :: school (noun)
  * Hij wil niet naar school toe gaan. 
  * He does not want to go to school. 
 ----------
+ * **beschimpen** :: to taunt (verb)
+ * Het is niet netjes om iemand om zijn blunders te beschimpen. 
+ * It's not nice to taunt someone about their goof-ups. 
+----------
  * **leren** :: to learn (verb)
  * Ik wil beter Duits leren spreken. 
  * I want to learn to speak better German. 
+----------
+ * **omhelzen** :: to embrace (verb)
+ * Als mijn man thuiskomt van zijn werk, vindt hij het heerlijk om me even te omhelzen. 
+ * When my husband returns home from his work, he enjoys embracing me. 
 ----------
  * **de lift** :: elevator (noun)
  * Neem de lift naar de negende verdieping. 
  * Take the elevator to the ninth floor. 
 ----------
+ * **kussen** :: to kiss (verb)
+ * Met Kerst is het traditie om je geliefde onder een maretak te kussen. 
+ * At Christmas time it's tradition to kiss your loved one under the mistletoe. 
+----------
  * **een instrument bespelen** :: to play an instrument (verb)
  * Hij bespeelt de piano als een meester. 
  * He plays the piano like a master. 
+----------
+ * **intrigeren** :: to intrigue (verb)
+ * Mannen met grijze slapen intrigeren mij. 
+ * Men with grey temples intrigue me. 
 ----------
  * **de dobbelsteen** :: dice (noun)
  * Het is jouw beurt om de dobbelsteen te gooien. 
  * It's your turn to roll the dice. 
 ----------
+ * **genegen zijn** :: to incline (verb)
+ * Ik ben niet langer genegen je tot dienst te zijn. 
+ * I'm no longer inclined to be of your service. 
+----------
  * **de maan** :: moon (noun)
  * De maan is helder vanavond. 
  * The moon is bright tonight. 
+----------
+ * **onthullen** :: to reveal (verb)
+ * Het standbeeld werd op een nationale feestdag onthuld. 
+ * The statue was revealed on a national holiday. 
 ----------
  * **onthullen** :: to uncover (verb)
  * Hun expeditie heeft oude ruïnes ontdekt. 

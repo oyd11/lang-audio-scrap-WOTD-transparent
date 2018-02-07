@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -247,33 +247,65 @@
  * آپ کہاں سے ہیں؟ 
  * Where are you from? 
 ----------
+ * **ڈرانا** :: to frighten (verb)
+ * دھماکے نےلوگوں کو ڈرا کر دور کر دیا. 
+ * The explosion frightened the people away. 
+----------
  * **بولنا** :: to speak (verb)
  * میں تھوڑی جرمن بولتا ہوں. 
  * I speak a little German. 
+----------
+ * **کھوپڑی** :: scalp (noun)
+ * گنجے کی کھوپڑی دکھائی دے رہی ہے. 
+ * The scalp of the bald man is visible. 
 ----------
  * **پہلا** :: first (adjective)
  * یہ پہلی بار نہیں ہے، اور آخری بھی نہیں ہو گی. 
  * It's not the first time, and won't be the last. 
 ----------
+ * **کسی سے چھٹکارا پانا** :: to get rid of somebody (expression)
+ * سیاستدان اپنے حریف سے چھٹکارا حاصل کیا. 
+ * The politician got rid of his rival. 
+----------
  * **دکان** :: store (noun)
  * میں دکان پر جا رہا ہوں، میرے ساتھ جانا چاہتے ہو؟ 
  * I'm going to the store, want to go with me? 
+----------
+ * **مُضحکَہ خيز** :: ridiculous (adjective)
+ * اس کے جوابات مضحکہ خیز تھے. 
+ * Her replies were ridiculous. 
 ----------
  * **ترجیح دینا** :: to prefer (verb)
  * کھجوریں مزیدار ہیں، لیکن میں اناناس کو ترجیح دیتا ہوں. 
  * The dates are delicious, but I prefer pineapple. 
 ----------
+ * **بقیہ پیسے رکھنا** :: to keep the change (expression)
+ * بقیہ پیسے اپنے پاس رکھو دوست. 
+ * Keep the change, friend. 
+----------
  * **جمعہ** :: Friday (noun)
  * مجھے بہت خوشی ہے کل جمعہ ہے؛ یہ ہفتہ طویل ہو گیا ہے! 
  * I'm so glad tomorrow is Friday; it's been a long week! 
+----------
+ * **پھٹنا** :: to explode (verb)
+ * اس کی نئی ایجاد منٹوں کے اندر اندر پھٹ گئ. 
+ * His new invention exploded within minutes. 
 ----------
  * **ہونا** :: to have (verb)
  * کیا آپ کا اس ہفتے کے آخر کے لئے کوئی منصوبہ ہے؟ 
  * Do you have any plans for this weekend? 
 ----------
+ * **کنگھی کرنا** :: to comb (verb)
+ * وقت بچانے کے لئے شاور میں اپنے بالوں کو کنگھی کرو. 
+ * Comb your hair in the shower to save time. 
+----------
  * **موسم** :: weather (noun)
  * کل کے لئے موسم کی پیشن گوئی کیا ہے؟ 
  * What's the weather prediction for tomorrow? 
+----------
+ * **مَزاحیہ** :: comical (adjective)
+ * اس کی باتیں کرنے کا انداز مَزاحیہ ہے. 
+ * She has a comical way of saying things. 
 ----------
  * **بارش ہونا** :: to rain (verb)
  * بارش ہونے والی ہے، چھَتری لے آنا. 

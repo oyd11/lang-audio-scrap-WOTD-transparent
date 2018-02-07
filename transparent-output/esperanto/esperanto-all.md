@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -247,33 +247,65 @@
  * Pro la pano ĉi tiu sandviĉo estas bongustega. 
  * The bread makes this sandwich delicious. 
 ----------
+ * **mini** :: to mine (verb)
+ * Ili iam minis feron el la tunelo. 
+ * They once mined iron from the tunnel. 
+----------
  * **pasteĉo** :: pie (noun)
  * Ŝia avino bakas bongustegajn tortojn. 
  * Her grandmother bakes delicious pies. 
+----------
+ * **miraklo** :: miracle (noun)
+ * La venko de la teamo estis miraklo. 
+ * The team's win was a miracle. 
 ----------
  * **patrino** :: mother (noun)
  * Mi amas mian patrinon. 
  * I love my mother. 
 ----------
+ * **trompi** :: to fool (verb)
+ * Ĉu la artefarita planto trompis vin? 
+ * Did the artificial plant fool you? 
+----------
  * **patrono** :: pattern (noun)
  * Ŝi elektis mirindan desegnon por sia peplomo. 
  * She chose a wonderful pattern for her quilt. 
+----------
+ * **monato** :: month (noun)
+ * Ĉi tiu monato estas pli mallonga ol la sekvonta monato. 
+ * This month is shorter than the next month. 
 ----------
  * **paŭzo** :: recess (noun)
  * La juĝisto deklaris paŭzon de tridek minutoj. 
  * The court declared a thirty minute recess. 
 ----------
+ * **monero** :: coin (noun)
+ * Ni vetĵetis moneron por decidi. 
+ * We flipped a coin to decide. 
+----------
  * **percepti** :: to notice (verb)
  * Ĉu vi perceptis ŝanĝon en la aero? 
  * Did you notice a change in the air? 
+----------
+ * **mono** :: money (noun)
+ * Neniu ŝajnas havi sufiĉan monon. 
+ * Nobody seems to have enough money. 
 ----------
  * **persona** :: personal (adjective)
  * Mi bedaŭras, sed ĉi tiu estas persona afero. 
  * I'm sorry, but this is a personal matter. 
 ----------
+ * **mordi** :: to bite (verb)
+ * Mia hundo ne mordos vin. 
+ * My dog will not bite you. 
+----------
  * **petolema** :: playful (adjective)
  * La petolema hundido ŝtelis mian ŝuon. 
  * The playful puppy stole my shoe. 
+----------
+ * **moskito** :: mosquito (noun)
+ * La moskitoj ne lasas min trankvila! 
+ * The mosquitoes will not leave me alone! 
 ----------
  * **pezo** :: weight (noun)
  * Mi volas perdi iom da pezo ĉi-jare. 

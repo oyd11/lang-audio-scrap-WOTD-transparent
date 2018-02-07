@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -247,33 +247,65 @@
  * در منطقه اخطار سونامی داده شده است. 
  * There is a tsunami alert in this area. 
 ----------
+ * **خفه کردن** :: to offend (verb)
+ * من نمیخواستم ترا خفه کنم. 
+ * I didn't mean to offend you. 
+----------
  * **استفاده کننده انترنت** :: internet user, web surfer (noun)
  * اکثراستفاده کننده گان انترنت اتصال با سرعت توقع دارند. 
  * Most internet users expect fast connection speeds. 
+----------
+ * **موتر فروشی** :: car dealership (noun)
+ * مادلی را که من میخواهم موتر فروشی منطقه من ندارد. 
+ * My local car dealership doesn't have the model I'm looking for. 
 ----------
  * **چوتی** :: dreadlocks (noun)
  * چوتی به شما خوب معلوم نمیشود. 
  * Dreadlocks don't look good on you. 
 ----------
+ * **ریش فرانسوی** :: goatee (noun)
+ * همرای ریش فرانسوی بد معاش واری معلوم میشود. 
+ * He looks kind of sinister with a goatee. 
+----------
  * **تکان دهنده** :: shocking (adjective)
  * فلمبرداری تصادم بسیار تکان دهنده بود. 
  * The footage of the accident was shocking. 
+----------
+ * **نشان دادن** :: to show (verb)
+ * پول را نشان بدهید. 
+ * Show me the money! 
 ----------
  * **لب کشال بودن** :: to pout (verb)
  * به خواهرت چی گفتی؟ باز لبهایش کشال است. 
  * What did you say to your sister? She's pouting again. 
 ----------
+ * **جسد** :: corpse (noun)
+ * پولیس در صحنه جرم دو جسد را یافتند. 
+ * The police found two corpses at the scene of the crime. 
+----------
  * **با تو** :: by your side (expression)
  * من میخواهم تمام زنده گی ام را با تو سپری نمایم. 
  * I want to spend the rest of my life by your side. 
+----------
+ * **انتخاب کردن** :: to select (verb)
+ * از مینو "اپشنس" را انتخاب کنید. 
+ * From the main menu, select "options". 
 ----------
  * **هدف** :: target (noun)
  * تیر مرکز هدف را زد. 
  * The arrow hit the center of the target. 
 ----------
+ * **طالع بد** :: bad luck (expression)
+ * اگر بخاطر طالع بد نمی بود من شاید هیچ طالع نمیداشتم! 
+ * If it weren't for bad luck, I wouldn't have any luck at all! 
+----------
  * **کلچه** :: cookies (noun)
  * مادرم همیشه در کرسمس برایم یک قوطی کلچه روان میکند. 
  * My mother always sends me a tin of cookies for Christmas. 
+----------
+ * **جگر** :: liver (noun)
+ * الکول میتواند برای جگرمضر واقع شود. 
+ * Alcohol can be harmful to the liver. 
 ----------
  * **در هزار سال هم نی** :: not in a million years (expression)
  * آن فلم را در هزار سال هم نخواهم دید. 

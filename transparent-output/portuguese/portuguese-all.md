@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -247,33 +247,65 @@
  * Te amo de todo o meu coração. 
  * I love you with all my heart. 
 ----------
+ * **seriamente** :: seriously (adverb)
+ * Vinte pessoas foram seriamente feridas. 
+ * Twenty people were seriously injured. 
+----------
  * **querida** :: dear (adjective)
  * Você é minha esposa querida. 
  * You are my dear wife. 
+----------
+ * **chinelo** :: slipper (noun)
+ * Ela tirou seus chinelos e colocou seus sapatos novamente. 
+ * She took off her slippers and put on her shoes again. 
 ----------
  * **gelo** :: ice (noun)
  * Vou colocar gelo no refrigerante. 
  * I am going to put ice in the soda. 
 ----------
+ * **helicóptero** :: helicopter (noun)
+ * As vítimas da enchente foram resgatadas num helicóptero. 
+ * The flood victims were rescued in a helicopter. 
+----------
  * **páscoa** :: Easter (noun)
  * Feliz Páscoa! 
  * Happy Easter! 
+----------
+ * **giz de cera** :: crayon (noun)
+ * Gosto de colorir com giz de cera. 
+ * I like to color with crayons. 
 ----------
  * **coelho** :: bunny (noun)
  * O que o coelho da páscoa te trouxe? 
  * What did the Easter bunny bring to you? 
 ----------
+ * **xadrez** :: chess (noun)
+ * Que tal um jogo de xadrez? 
+ * How about a game of chess? 
+----------
  * **ovos** :: eggs (noun)
  * Ganhei muitos ovos de páscoa. 
  * I got many Easter eggs. 
+----------
+ * **telhado** :: roof (noun)
+ * Adoraria construir um jardim no telhado. 
+ * I would love to build a garden on the roof. 
 ----------
  * **colorido** :: colorful (adjective)
  * Gosto de ovos coloridos. 
  * I like colorful eggs. 
 ----------
+ * **caixa eletrônico** :: ATM (noun)
+ * Preciso pagar em dinheiro. Há um caixa eletrônico aqui? 
+ * I need to pay in cash. Is there an ATM here? 
+----------
  * **cesta** :: basket (noun)
  * Minha cesta está cheia de ovos. 
  * My basket is full of eggs. 
+----------
+ * **poço** :: well (noun)
+ * O que é um poço artesiano? 
+ * What is an artesian well? 
 ----------
  * **pular** :: to jump (expression)
  * As meninas pulam na cama. 

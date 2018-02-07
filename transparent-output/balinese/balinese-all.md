@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -247,33 +247,65 @@
  * Wenten koleksi karya seni tulis. 
  * They have several collections writings. 
 ----------
+ * **nginep** :: to stay over night (biasa (common))
+ * Kudang wai lakar nginep? 
+ * How long are you going to stay overnight? 
+----------
  * **melancaran** :: to visit (halus (alus mider))
  * Tiang jagi malancaran ka Museum Neka. 
  * I am going to visit the Museum Neka. 
+----------
+ * **sampun** :: already (alus (refined))
+ * Titiang sampun mesen kamar driki. 
+ * I already booked a room here. 
 ----------
  * **mawasta** :: is named (halus (alus sor))
  * Pelukis sane terkenal mawasta Gusti Nyoman Lempad. 
  * The famous painter was named Gusti Nyoman Lempad. 
 ----------
+ * **dadua** :: two (biasa (common))
+ * Tiang ngalih kamar dadua. 
+ * I am looking for two rooms. 
+----------
  * **nyingakin** :: to see (halus (alus singgih))
  * Dados tiang nyingakin karnyane? 
  * May I see his works? 
+----------
+ * **samian** :: all (alus (refined))
+ * Ampura, kamare samian sampun wenten nak ngenahin. 
+ * Sorry, all the rooms are booked. 
 ----------
  * **becik** :: good, great, beautiful (halus (alus mider))
  * Becik pisan lukisanne. 
  * The paintings are really beautiful. 
 ----------
+ * **paek** :: close, near (biasa (common))
+ * Tiang demen kamar paek kolam. 
+ * I'd like a room near a swimming pool. 
+----------
  * **kenak** :: doing good, fine, healthy (halus (singgih))
  * Punapi? Kenak, Kak? 
  * How are you doing, Grandpa? 
+----------
+ * **ngeroko** :: to smoke (a cigarette) (biasa (common))
+ * Dadi tiang ngeroko di kamar? 
+ * Can I smoke in the room? 
 ----------
  * **kengken** :: how (biasa (kapara))
  * Seger, Sari, kengken? 
  * Fine, how about you, Sari? 
 ----------
+ * **kamar** :: room (alus (refined))
+ * Ten dados melanjaran di kamar. 
+ * It is prohibited to smoke in the room. 
+----------
  * **inguh** :: confused, puzzled (biasa (kapara))
  * Mangkin tiang sedek inguh, Kak. 
  * I feel confused now, Grandpa. 
+----------
+ * **di** :: at, in (alus (refined))
+ * Dados nika melanjaran di kamare. 
+ * It is permissible to smoke in the room. 
 ----------
  * **taen** :: have, have ever (biasa (kapara))
  * Nggih, taen mirengin indik punika. 

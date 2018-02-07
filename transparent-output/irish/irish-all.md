@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -247,33 +247,65 @@
  * Níl sé sin tábhachtach. 
  * That is not important. 
 ----------
+ * **dian** :: hard (adverb)
+ * Oibrím go dian agus ansin ligim mo scíth. 
+ * I work hard and then I take a rest. 
+----------
  * **spórtúil** :: sporty (adjective)
  * Níl aon charr spórtúil aici. 
  * She does not have a sports car. 
+----------
+ * **freisin** :: also (adverb)
+ * Tá mise ag dul chun na hEorpa freisin. 
+ * I am also going to Europe. 
 ----------
  * **Spáinn** :: Spain (noun)
  * Bhí saoire iontach acu sa Spáinn. 
  * They had a wonderful vacation in Spain. 
 ----------
+ * **nach** :: not (expression)
+ * Nach bhfuil tú ag dul chun tí? 
+ * Aren't you going to the house? 
+----------
  * **Feicfidh mé thart thú.** :: I will see you around. (expression)
  * Feicfidh mé thart thú. 
  * I will see you around. 
+----------
+ * **leis** :: with him (expression)
+ * Ní aontaím leis. 
+ * I do not agree with him. 
 ----------
  * **caora** :: sheep (noun)
  * Féach, tá caora thuas ansin ar an gcnoc. 
  * Look, there is a sheep up there on the hill. 
 ----------
+ * **orm** :: on me (expression)
+ * Tá slaghdán orm. 
+ * I have a cold. 
+----------
  * **mhonarcha** :: factory (noun)
  * Buail liom ansin, taobh amuigh den mhonarcha. 
  * Meet me there, outside of the factory. 
+----------
+ * **againn** :: at us (expression)
+ * Níl mórán oibre le déanamh againn. 
+ * We don't have much work to do. 
 ----------
  * **radharc** :: view (noun)
  * Bhí an radharc go hálainn ar fad. 
  * The view was especially beautiful. 
 ----------
+ * **seo** :: this (expression)
+ * An bhfuil mórán le feiceáil sa chathair seo? 
+ * Is there much to see in this city? 
+----------
  * **Bain sult as!** :: Have a good time! (expression)
  * Bain sult as! 
  * Have a good time! 
+----------
+ * **ceolchoirme** :: concert (noun)
+ * Is féidir leat dul chun na ceolchoirme más mian leat. 
+ * You can go to the concert if you want to. 
 ----------
  * **Bain sult as an deireadh seachtaine.** :: Have a good weekend. (expression)
  * Bain sult as an deireadh seachtaine. 

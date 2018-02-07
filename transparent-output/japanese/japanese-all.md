@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -369,11 +369,23 @@
  * Sannen buri ni sensei ni atta node, "ohisashiburidesu" to itta. 
  * I said "I have not seen you for a long time" to my teacher because 2 years has been past since I saw him last. 
 ----------
+ * **不便** :: inconvenient (adjective)
+ * **fuben** 
+ * 不便な町に住みたくない。 
+ * Fuben na machi ni sumitakunai. 
+ * I do not want to live in an inconvenient town. 
+----------
  * **じゃあ、また** :: See you later. (expression)
  * **jaa mata** 
  * じゃあ、また。田中さん。 
  * Jaa mata. Tanaka san. 
  * See you later, Mr. Tanaka. 
+----------
+ * **エアコン** :: air conditioner (noun)
+ * **eakon** 
+ * 暑いから、エアコンをつけて。 
+ * Atsui kara eakon tsukete. 
+ * Please turn on the air conditioner because it is hot. 
 ----------
  * **お買い得** :: good bargain (noun)
  * **okaidoku** 
@@ -381,11 +393,23 @@
  * Kono doresu ga okaidoku desu. 
  * This dress is a good bargain. 
 ----------
+ * **本** :: book (noun)
+ * **hon** 
+ * おもしろい本が読みたい。 
+ * Omoshiroi hon ga yomitai. 
+ * I want to read an interesting book. 
+----------
  * **黒星** :: lost match (noun)
  * **kuroboshi** 
  * 僕たちの今日の試合は黒星だった。 
  * Bokutachi no kyou no shiai wa kuroboshi datta. 
  * We lost today's match. 
+----------
+ * **誕生日** :: birthday (noun)
+ * **tanjoubi** 
+ * 誕生日はいつですか。 
+ * Tanjoubi wa itsu desuka. 
+ * When is your birthday? 
 ----------
  * **思う** :: to think (verb)
  * **omou** 
@@ -393,11 +417,23 @@
  * Asu toukyou ni ikou to omoi masu. 
  * I think I will go to Tokyo tomorrow. 
 ----------
+ * **７月** :: July (noun)
+ * **shichigatsu** 
+ * ７月に日本に行くつもりです。 
+ * Shichigatsu ni nihon ni iku tsumori desu. 
+ * I am planning to go to Japan in July. 
+----------
  * **疲れる** :: to get tired (verb)
  * **tsukareru** 
  * 昨日はとても疲れた。 
  * Kinou wa totemo tsukareta. 
  * I got very tired yesterday. 
+----------
+ * **日曜日** :: Sunday (noun)
+ * **nichiyoubi** 
+ * 日曜日にモールに行きましょう。 
+ * Nichiyoubi ni môru ni ikimashou. 
+ * Let's go to the mall on Sunday. 
 ----------
  * **おやつ** :: snack (noun)
  * **oyatsu** 
@@ -405,11 +441,23 @@
  * Oyatsu no jikan desuyo. 
  * It's time for a snack. 
 ----------
+ * **いつも** :: always (adverb)
+ * **itsumo** 
+ * あの学生はいつも宿題を忘れてくる 
+ * Ano gakusei wa itsumo shukudai o wasurete kuru. 
+ * That student always forgets to do his homework. 
+----------
  * **不景気** :: economic recession (noun)
  * **fukeiki** 
  * 不景気でたくさんの会社が倒産した。 
  * Fukeiki de takusan no kaisha ga tousan shita. 
  * Many companies went out of business due to the recession. 
+----------
+ * **行く** :: to go (verb)
+ * **iku** 
+ * 日本に行きたい。 
+ * Nihon ni ikitai. 
+ * I want to go to Japan. 
 ----------
  * **得意** :: good at (adjective)
  * **tokui** 

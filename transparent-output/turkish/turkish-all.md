@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -247,33 +247,65 @@
  * Kuru yemişler, protein açısından zengindir. 
  * Roasted nuts are rich in protein. 
 ----------
+ * **seçmek** :: to choose (verb)
+ * Kartlardan birini seç, herhangi birini. 
+ * Choose a card, any card. 
+----------
  * **yazar** :: writer (noun)
  * Büyüyünce yazar olmak istiyorum. 
  * I want to be a writer when I grow up. 
+----------
+ * **enerjik** :: energetic (adjective)
+ * Yavru köpek, uzun bir yürüyüşten sonra bile enerjik! 
+ * Even after a long walk, her puppy is energetic! 
 ----------
  * **şah mat** :: check-mate (noun)
  * Şah mat etmeme iki hareketim kaldı. 
  * I'm two moves away from a check-mate. 
 ----------
+ * **istisna** :: exception (noun)
+ * Her kaidenin bir istisnası vardır. 
+ * There are exceptions to every rule. 
+----------
  * **çıtır çıtır** :: crispy (adjective)
  * Mısır gevreğini daha hâlâ çıtır çıtırken seviyorum. 
  * I like cereal when it's still crispy. 
+----------
+ * **hayalet** :: ghost (noun)
+ * Eski evde hayaletler olduğunu söylüyorlar. 
+ * They say that ghosts haunt the old house. 
 ----------
  * **senaryo** :: script (noun)
  * Son filminin senaryosunu kendi yazdı. 
  * He wrote the script for his last movie himself. 
 ----------
+ * **bitirmek** :: to finish (verb)
+ * Kitabı bitirdin mi? 
+ * Have you finished the book? 
+----------
  * **tsunami** :: tsunami (noun)
  * Bu bölgede bir tsunami uyarısı var. 
  * There is a tsunami alert in this area. 
+----------
+ * **çiçek açmak** :: to flower (verb)
+ * Ağaçlar birkaç haftaya kadar çiçek açacak. 
+ * The trees will flower in a few weeks. 
 ----------
  * **internet kullanıcısı** :: internet user (noun)
  * İnternet kullanıcılarının çoğu, hızlı bir bağlantı bekler. 
  * Most internet users expect fast connection speeds. 
 ----------
+ * **korkutucu** :: scary (adjective)
+ * Korkutucu bir yüzü vardı. 
+ * He had a scary face. 
+----------
  * **rasta örgüleri** :: dreadlocks (noun)
  * Rasta örgüleri sana yakışmıyor. 
  * Dreadlocks don't look good on you. 
+----------
+ * **geri çekmek** :: to withdraw (verb)
+ * Onun geldiğini duyuyorum; geri çekilelim efendim. 
+ * I hear him coming: let's withdraw, my lord. 
 ----------
  * **şok edici** :: shocking (adjective)
  * Kazanın görüntüsü şok ediciydi. 

@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -247,33 +247,65 @@
  * I have an appointment with the dentist. 
  * Tenho uma hora marcada com o dentista. 
 ----------
+ * **full** :: cheio (adjective)
+ * The parking lot is full. 
+ * O estacionamento está cheio. 
+----------
  * **flag** :: bandeira (noun)
  * The American flag has fifty stars. 
  * A bandeira americana tem cinqüenta estrelas. 
+----------
+ * **dangerous** :: perigoso (adjective)
+ * It's dangerous if you don't look when crossing the street. 
+ * É perigoso quando se você não olha ao atravessar a rua. 
 ----------
  * **fearful** :: ter medo (adjective)
  * She is fearful of heights. 
  * Ela tem medo de altura. 
 ----------
+ * **meat** :: carne (noun)
+ * My sister doesn't eat meat because she's a vegetarian. 
+ * Minha irmã não come carne porque ela é vegetariana. 
+----------
  * **umbrella** :: guarda-chuva (noun)
  * You should carry an umbrella to work today: it might rain. 
  * Você deve levar o guarda-chuva no trabalho hoje; talvez choverá. 
+----------
+ * **to change** :: mudar (verb)
+ * I have to change my habits. 
+ * Tenho que mudar meus hábitos. 
 ----------
  * **expensive** :: caro (adjective)
  * He drives an expensive car. 
  * Ele dirige um carro caro. 
 ----------
+ * **frozen** :: congelado (adjective)
+ * My hands feel frozen. 
+ * Minhas mãos estão congeladas. 
+----------
  * **to order** :: pedir (verb)
  * Kate and Mike both ordered fish for dinner. 
  * Kate e Mike pediram peixe para o jantar. 
+----------
+ * **school** :: escola (noun)
+ * The classes at school are going to begin soon. 
+ * As aulas na escola vão começar em breve. 
 ----------
  * **to wash** :: lavar (verb)
  * I listen to music while I wash the dishes. 
  * Eu gosto de escutar música enquanto lavo a loça. 
 ----------
+ * **key** :: chave (noun)
+ * I need to make a copy of my key because I often lose it. 
+ * Eu preciso fazer uma cópia da minha chave porque às vezes eu as perco. 
+----------
  * **to forget** :: esquecer (verb)
  * Many times Miguel forgets to do the homework. 
  * Muitas vezes, Miguel esquece de fazer o dever de casa. 
+----------
+ * **to loan** :: emprestar (verb)
+ * Can you loan me a pencil, please? 
+ * Pode emprestar-me a caneta por favor? 
 ----------
  * **to fish** :: pescar (verb)
  * My friends and I fish in the ocean. 

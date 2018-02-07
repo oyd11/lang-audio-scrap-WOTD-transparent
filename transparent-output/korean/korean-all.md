@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -247,33 +247,65 @@
  * 잔디 깎는 기계는 가솔린이 필요해요. 
  * The lawnmower needs gasoline. 
 ----------
+ * **좋아하는** :: favorite (adjective)
+ * 이게 제가 좋아하는 노래 중 하나입니다. 
+ * This is one of my favorite songs. 
+----------
  * **목초지** :: meadow (noun)
  * 광대한 목초지가 절벽 아래로 펼쳐집니다. 
  * A vast meadow spreads out below the cliff. 
+----------
+ * **잊다** :: to forget (verb)
+ * 그는 고맙다라는 말을 결코 잊지 않습니다. 
+ * He never forgets to say thank you. 
 ----------
  * **역사** :: history (noun)
  * 그들은 대학에서 역사를 공부합니다. 
  * They studied history at the university. 
 ----------
+ * **보다** :: to see (verb)
+ * 어젯밤에 유성 떨어지는 것을 봤어? 놀라웠어! 
+ * Did you see the meteor shower last night? Amazing! 
+----------
  * **시계** :: clock (noun)
  * 30년 전에 저 시계탑에 번개가 쳤어요. 
  * Thirty years ago, lightning struck that clock tower. 
+----------
+ * **어디에** :: where (adverb)
+ * 가장 가까운 시장이 어디에 있어요? 
+ * Where is the nearest market? 
 ----------
  * **병원** :: hospital (noun)
  * 병원은 어느쪽입니까? 
  * Which way is the hospital? 
 ----------
+ * **화가 나다** :: to be angry (verb)
+ * 화가 나면 깊은 숨을 쉬면서 하나부터 열까지 세어 보세요. 
+ * If you're angry, take a deep breath and count to ten. 
+----------
  * **무시하다** :: to ignore (verb)
  * 마지막 부분은 무시하세요. 
  * Ignore that last part. 
+----------
+ * **마술** :: trick (noun)
+ * 마술사는 우리에게 여러 가지 마술을 보여 주었습니다. 
+ * The magician showed us a lot of tricks. 
 ----------
  * **암시하다** :: to imply (verb)
  * 그 연설이 무엇을 암시했다고 생각합니까? 
  * What do you think the speech implied? 
 ----------
+ * **비밀** :: secret (noun)
+ * 이것을 당신에게 말하면 더 이상 비밀이 아니에요! 
+ * If I tell you, it won't be a secret anymore! 
+----------
  * **세금** :: tax (noun)
  * 세금 내는 것을 잊지 마세요! 
  * Do not forget to pay your taxes! 
+----------
+ * **바꾸다** :: to change (verb)
+ * 좋든 나쁘든 인터넷은 우리의 삶을 바꾸어 놓았습니다. 
+ * The internet has changed our lives, for good or bad. 
 ----------
  * **즉흥적으로 연기하다** :: to improvise (expression)
  * 배우들은 전체 장면을 즉흥적으로 연기했다. 

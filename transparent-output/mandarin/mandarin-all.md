@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -369,11 +369,23 @@
  * Běijīng zài zhōngguó běifān. 
  * Beijing is in northern China. 
 ----------
+ * **银行** :: bank (noun)
+ * **yínháng** 
+ * 银行几点开门？ 
+ * Yíngháng jǐdiǎn kāimén? 
+ * What time does the bank open? 
+----------
  * **东西** :: object, thing (noun)
  * **dōngxi** 
  * 我要买很多东西。 
  * Wǒ yào mǎi hěnduō dōngxi. 
  * I want to buy a lot of things. 
+----------
+ * **换** :: to change (verb)
+ * **huàn** 
+ * 我要换衣服。 
+ * Wǒ yào huàn yīfu. 
+ * I need to change my clothes. 
 ----------
  * **火车** :: train (noun)
  * **huǒchē** 
@@ -381,11 +393,23 @@
  * Nǐ kěyǐ zuò huǒchē qù. 
  * You may take the train to go there. 
 ----------
+ * **美元** :: American dollar (noun)
+ * **měiyuán** 
+ * 我有一百块美元。 
+ * Wǒ yǒu yībǎi kuài měiyuán. 
+ * I have one hundred dollars. 
+----------
  * **飞机** :: airplane (noun)
  * **fēijī** 
  * 我乘飞机去中国。 
  * Wǒ chéng fēijī qù zhōngguó. 
  * I take an airplane to go to China. 
+----------
+ * **非常** :: extremely (adverb)
+ * **fēicháng** 
+ * 今天非常热。 
+ * Jīntiān fēicháng rè. 
+ * It's extremely hot today. 
 ----------
  * **船** :: ship, boat (noun)
  * **chuán** 
@@ -393,11 +417,23 @@
  * Héshàng yǒu yī zhī xiǎo chuán. 
  * There is a little boat on the river. 
 ----------
+ * **热闹** :: lively (adjective)
+ * **rènào** 
+ * 中国的春节真热闹。 
+ * Zhōngguó de chūnjié zhēn rènao. 
+ * China's Spring Festival is very lively. 
+----------
  * **写** :: to write (verb)
  * **xiě** 
  * 我不会写汉字。 
  * Wǒ búhuì xiě hànzì. 
  * I can not write Chinese characters. 
+----------
+ * **参观** :: to visit (verb)
+ * **cānguān** 
+ * 我参观了博物馆。 
+ * Wǒ cānguān le bówùguàn. 
+ * I visited the museum. 
 ----------
  * **字** :: character (noun)
  * **zì** 
@@ -405,11 +441,23 @@
  * Wǒ rènshi yībǎi gè zì. 
  * I recognize one hundred characters. 
 ----------
+ * **发展** :: to develop (verb)
+ * **fāzhǎn** 
+ * 中国发展得很快。 
+ * Zhōngguó fāzhǎn de hěnkuài. 
+ * China is developing fast. 
+----------
  * **睡觉** :: to sleep (verb-object)
  * **shuìjiào** 
  * 我很晚睡觉。 
  * Wǒ hěn wǎn shuìjiào. 
  * I sleep very late. 
+----------
+ * **流利** :: fluent (adjective)
+ * **liúlì** 
+ * 他说的汉语很流利。 
+ * Tā shuō de hànyǔ hěn liúlì. 
+ * His spoken Chinese is fluent. 
 ----------
  * **起床** :: to get up (verb-object)
  * **qǐchuáng** 

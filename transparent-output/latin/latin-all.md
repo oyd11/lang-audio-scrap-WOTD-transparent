@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -247,33 +247,65 @@
  * Dulce bellum inexpertis. 
  * War is sweet for those who are unexperienced in it. 
 ----------
- * **nimium** :: excessively, too much (adverb)
- * Fortuna eum stultum facit quem nimium amat. 
- * Fortune makes him stupid whom it loves too much. 
-----------
- * **medicus** :: physician (noun)
- * Medicus curat, natura sanat. 
- * A physician treats, nature cures. 
-----------
  * **simulatio** :: pretense, insincerity (noun)
  * Simulatio delet veritatem sine qua nomen amicitiae valere non potest. 
  * Insincerity destroys truth, without which the name of friendship cannot be strong. 
+----------
+ * **nimium** :: excessively, too much (adverb)
+ * Fortuna eum stultum facit quem nimium amat. 
+ * Fortune makes him stupid whom it loves too much. 
 ----------
  * **fidere** :: to trust, to confide, to rely on (verb)
  * Mus uni non fidit antro. 
  * A mouse does not rely on just one hole. 
 ----------
+ * **medicus** :: physician (noun)
+ * Medicus curat, natura sanat. 
+ * A physician treats, nature cures. 
+----------
  * **turba** :: crowd, multitude, uproar (noun)
  * Turbam vita! 
  * Avoid the crowd! 
+----------
+ * **simulatio** :: pretense, insincerity (noun)
+ * Simulatio delet veritatem sine qua nomen amicitiae valere non potest. 
+ * Insincerity destroys truth, without which the name of friendship cannot be strong. 
 ----------
  * **frustra** :: in vain (adverb)
  * Natura nihil fit frustra. 
  * Nature does nothing in vain. 
 ----------
+ * **fidere** :: to trust, to confide, to rely on (verb)
+ * Mus uni non fidit antro. 
+ * A mouse does not rely on just one hole. 
+----------
  * **male** :: badly, poorly (adverb)
  * Liber quem recitas meus est; sed cum male eum recitas, incipit esse tuus. 
  * The book you recite is mine; but when you recite it badly it begins to be yours. 
+----------
+ * **turba** :: crowd, multitude, uproar (noun)
+ * Turbam vita! 
+ * Avoid the crowd! 
+----------
+ * **parere** :: to produce, to bring forth (verb)
+ * Commune periculum concordiam parit. 
+ * Common danger brings forth harmony. 
+----------
+ * **frustra** :: in vain (adverb)
+ * Natura nihil fit frustra. 
+ * Nature does nothing in vain. 
+----------
+ * **prodigium** :: omen, monster, prophetic sign (noun)
+ * Caesar his prodigiis admonetur. 
+ * Caesar is warned by these omens. 
+----------
+ * **male** :: badly, poorly (adverb)
+ * Liber quem recitas meus est; sed cum male eum recitas, incipit esse tuus. 
+ * The book you recite is mine; but when you recite it badly it begins to be yours. 
+----------
+ * **memoria** :: memory (noun)
+ * Repetitio est mater memoriae. 
+ * Repetition is the mother of memory. 
 ----------
  * **parere** :: to produce, to bring forth (verb)
  * Commune periculum concordiam parit. 

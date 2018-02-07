@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -247,33 +247,65 @@
  * Depuis la mort de sa femme, mon oncle est un vrai marginal ; il ne voit plus personne. 
  * Since his wife's death, my uncle has become a misfit; he no longer sees anyone. 
 ----------
+ * **le coffre** :: trunk (noun)
+ * Cette voiture a vraiment un grand coffre. 
+ * This car has a really big trunk. 
+----------
  * **malveillant** :: evil-minded (adjective)
  * Je sais qu'il t'a blessé, mais il ne l'a pas fait exprès, je ne pense pas qu'il soit malveillant. 
  * I know he hurt you but he didn't do it on purpose, I don't think he's evil-minded. 
+----------
+ * **le fruit de mer** :: seafood (noun)
+ * J'adore les fruits de mer mais mon ami y est allergique. 
+ * I love seafood, but my friend is allergic to it. 
 ----------
  * **agrémenter** :: to liven up (verb)
  * Ma mère m'a apporté des épices des Antilles pour agrémenter mes plats en sauce. 
  * My mother brought me some spices from the West Indies to liven up the sauce of my dishes. 
 ----------
+ * **exténué** :: exhausted (adjective)
+ * Je suis exténué ; je ne peux plus rien faire ! 
+ * I'm exhausted; I can't do anything else! 
+----------
  * **l'épouvantail** :: scarecrow (noun)
  * L'épouvantail dans le champs de mon grand-père est vraiment effrayant, c'est pourquoi tu n'y verras aucun oiseau. 
  * The scarecrow in my grandfather's field is really scary, that's why you'll see no birds over there. 
+----------
+ * **se morfondre** :: to mope (verb)
+ * Il se morfond depuis la disparition de son chien. 
+ * He is moping since his dog disappeared. 
 ----------
  * **l'apéritif** :: drink normally taken before dinner (noun)
  * En France, tout bon repas commence par un apéritif ! 
  * In France, every good meal starts with a drink! 
 ----------
+ * **se vanter** :: to brag about oneself (verb)
+ * Parce qu'il est fort en math, il se vante sans arrêt en classe. 
+ * Since he is good at math, he brags all the time in class. 
+----------
  * **minuscule** :: tiny (adjective)
  * Si l'on considère l'univers tout entier, notre planète Terre est un point minuscule dans l'espace. 
  * If we consider the whole universe, our planet Earth is a tiny dot in space. 
+----------
+ * **en effet** :: indeed (adverb)
+ * En effet, c'est une bonne idée de manger beaucoup de fruits. 
+ * Indeed, it is a good idea to eat a lot of fruit. 
 ----------
  * **une tâche facile** :: to be a piece of cake (expression)
  * Naviguant ce labirynthe est une tache facile! 
  * Navigating this labyrinth is a piece of cake! 
 ----------
+ * **il était une fois** :: once upon a time (expression)
+ * Il était une fois, une grenouille qui voulait devenir princesse... 
+ * Once upon a time, there was a frog who wanted to become a princess… 
+----------
  * **taquiner** :: to tease (verb)
  * Combien de fois t'ai-je demandé de ne pas taquiner ta sœur ! 
  * How many times have I asked you not to tease your sister! 
+----------
+ * **la marelle** :: hopscotch (noun)
+ * Les enfants français jouent très souvent à la marelle pendant la récréation. 
+ * French children very often play hopscotch during recess. 
 ----------
  * **la noix de cajou** :: cashew nut (noun)
  * Les noix de cajou sont délicieuses mais ce n'est pas un aliment bon pour la santé. 

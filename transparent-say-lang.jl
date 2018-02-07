@@ -22,14 +22,14 @@ special: negative number - means - reverse iteration
 
 
 ######## Configuration::  #######
-src_voice = "Boing"
+#src_voice = "Boing"
 #src_voice = "Bad News"
 #src_voice = "Good News"
 #src_voice = "Serena"
-#src_voice = "Trinoids"
+src_voice = "Trinoids"
 #src_voice = "Zarvox"
 
-src_rate = 280
+src_rate = 260
 #src_rate = 520
 target_rate = 200
 

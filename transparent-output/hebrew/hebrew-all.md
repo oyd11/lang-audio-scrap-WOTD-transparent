@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -247,33 +247,65 @@
  * האביר הדף את המכה בעזרת המגן שלו. 
  * The knight blocked the blow with his shield. 
 ----------
+ * **שדה מרעה** :: meadow (noun)
+ * מתחת לצוק משתרע שדה מרעה רחב. 
+ * A vast meadow spreads out below the cliff. 
+----------
  * **ללחוץ ידיים** :: to shake hands (expression)
  * לחצו ידיים והשלימו. 
  * Shake hands and make up. 
+----------
+ * **היסטוריה** :: history (noun)
+ * הם למדו היסטוריה באוניברסיטה. 
+ * They studied history at the university. 
 ----------
  * **מסטיק** :: gum (noun)
  * אני לא יכולה ללכת וללעוס מסטיק בו זמנית. 
  * I can't walk and chew gum at the same time. 
 ----------
+ * **שעון** :: clock (noun)
+ * לפני שלושים שנה היכה ברק במגדל השעון. 
+ * Thirty years ago, lightning struck that clock tower. 
+----------
  * **מקלדת** :: keyboard (noun)
  * אני לא יודעת כיצד לשנות את פרישת המקלדת. 
  * I don't know how to change the keyboard layout. 
+----------
+ * **בית חולים** :: hospital (noun)
+ * באיזה כיוון בית החולים? 
+ * Which way is the hospital? 
 ----------
  * **תפוח** :: apple (noun)
  * .תפוח מדי יום ירחיק מכם את הרופא 
  * An apple a day keeps the doctor away. 
 ----------
+ * **להתעלם** :: to ignore (verb)
+ * התעלמו מן החלק האחרון. 
+ * Ignore that last part. 
+----------
  * **להזהיר** :: to warn (verb)
  * זוהי הפעם האחרונה שאני מזהירה אותך. 
  * That's the last time I'm going to warn you. 
+----------
+ * **לרמוז** :: to imply (verb)
+ * למה רמז הנאום לדעתך? 
+ * What do you think the speech implied? 
 ----------
  * **בריאות** :: health (noun)
  * בריאות חשובה מעושר. 
  * Health is better than wealth. 
 ----------
+ * **מס** :: tax (noun)
+ * אל תשכח לשלם את המסים! 
+ * Do not forget to pay your taxes! 
+----------
  * **צחוק** :: laughter (noun)
  * הצחוק מועיל לבריאות. 
  * Laughter is the best medicine. 
+----------
+ * **לאלתר** :: to improvise (verb)
+ * השחקנים אלתרו את כל הסצנה. 
+ * The actors improvised the entire scene. 
 ----------
  * **מפית** :: napkin (noun)
  * אפשר לקבל עוד מפית בבקשה? 

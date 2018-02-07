@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -247,33 +247,65 @@
  * Lo zio Attilio è emigrato in Francia. 
  * Uncle Attilio emigrated to France. 
 ----------
+ * **La zona** :: area (noun)
+ * Tanto tempo fa in questa zona c'erano solo boschi. 
+ * A long time ago in this area there were only woods. 
+----------
  * **pagare** :: to pay (verb)
  * Secondo me questo vestito l'hai pagato troppo. 
  * In my opinion, you paid too much for this dress. 
+----------
+ * **Il fianco** :: hip (noun)
+ * Questo vestito è troppo stretto sui fianchi. 
+ * This dress is too narrow on the hips. 
 ----------
  * **facile** :: easy (adjective)
  * I primi 20 esercizi sono i più facili; gli altri sono abbastanza difficili. 
  * The first 20 exercises are the easiest ones; the others are pretty hard. 
 ----------
+ * **Il biglietto** :: ticket (noun)
+ * Scusi, dove possiamo comprare i biglietti dell'autobus? 
+ * Excuse me, where can we buy bus tickets? 
+----------
  * **La tassa** :: tax (noun)
  * La tassa di soggiorno non si applica ai cittadini comunitari. 
  * The sojourn tax does not apply to European Union citizens. 
+----------
+ * **L'uva** :: grapes (noun)
+ * Mi piace tantissimo l'uva: è la mia frutta preferita. 
+ * I like grapes very much: they are my favorite fruit. 
 ----------
  * **dappertutto** :: everywhere (adverb)
  * Ho cercato dappertutto, ma non riesco a trovare il mio portafoglio. 
  * I've looked everywhere, but I cannot find my wallet. 
 ----------
+ * **riferire** :: to report (verb)
+ * Siete gentilmente pregati di riferire eventuali malfunzionamenti dell'apparecchio. 
+ * You are kindly requested to report any possible malfunctioning of the device. 
+----------
  * **mondiale** :: worldwide (adjective)
  * La seconda guerra mondiale è stata più terribile della prima. 
  * The Second World War was more terrible than the First. 
+----------
+ * **enorme** :: enormous (adjective)
+ * Il gruppo ha riscosso un enorme successo nel suo tour europeo. 
+ * The band has had an enormous success on its European tour. 
 ----------
  * **piangere** :: to cry (verb)
  * Il film era così triste che mi veniva da piangere! 
  * The movie was so sad that I wanted to cry! 
 ----------
+ * **domattina** :: tomorrow morning (adverb)
+ * Domattina andiamo tutti al parco, va bene? 
+ * Tomorrow morning we'll all go to the park, ok? 
+----------
  * **Il guaio** :: trouble (noun)
  * Questa volta temo di essermi cacciata in un brutto guaio! 
  * This time I'm afraid that I've gotten myself into real trouble! 
+----------
+ * **limitare** :: to limit (verb)
+ * Se limitate gli sprechi potete risparmiare molto. 
+ * If you limit the waste, you can save a lot of money. 
 ----------
  * **brevemente** :: briefly (adverb)
  * Ci spieghi brevemente perché desidera lavorare per la nostra azienda. 

@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -247,33 +247,65 @@
  * The sky is cloudy today. 
  * El cielo está nublado hoy. 
 ----------
+ * **coffee** :: café (noun)
+ * I don't drink tea, but I do drink coffee. 
+ * No tomo té, pero sí tomo café. 
+----------
  * **to build** :: construir (verb)
  * The kids are going outside to build a snow fort. 
  * Los niños van afuera para construir una fortaleza de nieve. 
+----------
+ * **class** :: clase (noun)
+ * This Spanish class requires a lot of work. 
+ * Esta clase de español requiere mucho trabajo. 
 ----------
  * **to hang** :: colgar (verb)
  * I hung lots of posters on my wall. 
  * Yo colgué muchos carteles sobre la pared. 
 ----------
+ * **to run over** :: atropellar (verb)
+ * People who drive fast run over small animals. 
+ * Los que manejan rápido atropellan a los animalillos. 
+----------
  * **to cry** :: llorar (verb)
  * The baby will cry all night if we don't feed it. 
  * El bebé va a llorar toda la noche si no le alimentamos. 
+----------
+ * **dustpan** :: recogedor (noun)
+ * I'm looking for a dustpan. 
+ * Busco un recogedor para el polvo. 
 ----------
  * **to order** :: pedir (verb)
  * Kate and Mike both ordered fish for dinner. 
  * Caterina y Miguel pidieron pez para la cena. 
 ----------
+ * **several** :: varios (adjective)
+ * There are several boys in the class. 
+ * Hay varios muchachos en la clase. 
+----------
  * **year** :: año (noun)
  * The new year will begin soon. 
  * El año nuevo empezará pronto. 
+----------
+ * **leash** :: correa (noun)
+ * We need a leash for the dog. 
+ * Necesitamos una correa para el perro. 
 ----------
  * **to come** :: venir (verb)
  * I'm sorry, but we can't come to your party. 
  * Lo siento, pero nosotros no podemos venir a tu fiesta. 
 ----------
+ * **squirrel** :: ardilla (noun)
+ * The squirrels search for nuts in the trees. 
+ * Las ardillas buscan nueces en los árboles. 
+----------
  * **coffee** :: café (noun)
  * I don't drink tea, but I do drink coffee. 
  * No tomo té, pero sí tomo café. 
+----------
+ * **flashlight** :: linterna (noun)
+ * We use a flashlight to see into the hole. 
+ * Usamos una linterna para ver dentro del agujero. 
 ----------
  * **class** :: clase (noun)
  * This Spanish class requires a lot of work. 

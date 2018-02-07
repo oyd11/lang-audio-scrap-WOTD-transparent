@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -247,33 +247,65 @@
  * Me pongo crema protectora para evitar las quemaduras. 
  * I put on sunscreen to avoid sunburns. 
 ----------
+ * **blanco** :: white (adjective)
+ * No me gusta vestir ropa blanca. 
+ * I don't like to wear white clothes. 
+----------
  * **relajante** :: relaxing (adjective)
  * Mis vacaciones son bastante relajantes. 
  * My vacation is rather relaxing. 
+----------
+ * **las chanclas** :: flip-flops (noun)
+ * Tengo chanclas nuevas. 
+ * I have new flip-flops. 
 ----------
  * **apoyar** :: to support (verb)
  * Yo creo que voy a apoyar a ese candidato. 
  * I believe that I am going to support that candidate. 
 ----------
+ * **¡Qué mono!** :: How cute! (expression)
+ * ¿Es ese tu hijo? ¡Qué mono! 
+ * Is that your son? How cute! 
+----------
  * **fallecer** :: to pass away (verb)
  * El Señor Martínez tenía 92 años cuando falleció. 
  * Mr. Martínez was 92 when he passed away. 
+----------
+ * **ir a tascas** :: to go bar-hopping (expression)
+ * Ven a tascas conmigo esta noche. 
+ * Come bar-hopping with me tonight. 
 ----------
  * **el hipo** :: hiccup (noun)
  * Tomé una cucharada de azúcar para quitarme el hipo. 
  * I took a spoonful of sugar to get rid of my hiccups. 
 ----------
+ * **emborracharse** :: to get drunk (verb)
+ * Me emborraché anoche después de ir a las tascas. 
+ * I got drunk last night after bar-hopping. 
+----------
  * **la foca** :: seal (noun)
  * Varias focas juegan en la orilla de la isla. 
  * Several seals are playing on the shoreline of the island. 
+----------
+ * **el patito** :: duckling (noun)
+ * El patito feo está llorando. 
+ * The ugly duckling is crying. 
 ----------
  * **la cárcel** :: jail (noun)
  * El juez mandó al ladrón a la cárcel. 
  * The judge ordered the thief to jail. 
 ----------
+ * **enamorarse** :: to fall in love (verb)
+ * Me enamoré sin ti anoche. 
+ * Last night I fell in love without you. 
+----------
  * **rebelde** :: rebellious (adjective)
  * La adolescente se portó muy rebelde con sus padres. 
  * The teenager acted very rebellious toward her parents. 
+----------
+ * **tener resaca** :: to have a hangover (expression)
+ * ¡Cuando estaba en Las Vegas, tenía resaca siempre! 
+ * When I was in Las Vegas, I always had a hangover! 
 ----------
  * **pintoresco** :: picturesque (adjective)
  * La escena era muy pintoresca con muchos árboles y flores. 

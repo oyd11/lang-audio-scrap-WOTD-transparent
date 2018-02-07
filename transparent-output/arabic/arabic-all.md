@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -247,33 +247,65 @@
  * هي ترجمتْ هذا المقال من اللغة الإنجليزية إلى العربية. 
  * She translated this article from English to Arabic. 
 ----------
+ * **إدارة** :: administration (noun)
+ * من المسؤول في هذه الإدارة؟ 
+ * Who is in charge in this administration? 
+----------
  * **أثّر على** :: to affect (verb)
  * التدخين يؤثر على صحتك. 
  * Smoking affects your health. 
+----------
+ * **عاصمة** :: capital (noun)
+ * القاهرة هي عاصمة مصر. 
+ * Cairo is the capital of Egypt. 
 ----------
  * **باع** :: to sell (verb)
  * هل بعتم بيتكم في نيويورك؟ 
  * Have you sold your house in New York? 
 ----------
+ * **أحياناً** :: sometimes (adverb)
+ * أشتاق إلى أصدقائي أحياناً. 
+ * I miss my friends sometimes! 
+----------
  * **جلس** :: to sit (verb)
  * هل من الممكن أن أجلس هنا؟ 
  * Can I sit here? 
+----------
+ * **غداء** :: lunch (noun)
+ * أود أنْ أتناول طعام الغداء في غرفتي. 
+ * I would like to have my lunch in my room. 
 ----------
  * **محامي** :: lawyer (noun)
  * جمع المحاميُّ كل الوثائق. 
  * The lawyer gathered all the documentation. 
 ----------
+ * **صيدلي** :: pharmacist (noun)
+ * عليك استشارة الصيدلي قبل أن تأخذ أي دواء. 
+ * You have to consult the pharmacist before taking any medicine. 
+----------
  * **إجتهد** :: to work hard (verb)
  * يجب أنْ تجتهد لتنجح. 
  * You have to work hard to succeed. 
+----------
+ * **فخم** :: luxurious (adjective)
+ * هذه سيارة فخمة. 
+ * This is a luxurious car. 
 ----------
  * **فعل** :: to do (verb)
  * ماذا يجب أنْ أفعل في حالة طوارىء؟ 
  * What should I do in case of an emergency? 
 ----------
+ * **عربي** :: Arabic (adjective)
+ * أمي تحب الموسيقى العربية. 
+ * My mother likes Arabic music. 
+----------
  * **ذكر** :: to mention (verb)
  * ذكرتْ أنها تحتاج إلى بعض المال. 
  * She mentioned that she needs some money. 
+----------
+ * **اللّيلة** :: tonight (adverb)
+ * سنتقابل اللّيلة. 
+ * We will meet tonight. 
 ----------
  * **زار** :: to visit (verb)
  * زرنا المتحف بالأمس. 

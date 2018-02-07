@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -247,33 +247,65 @@
  * Aku pusing memikirkan masalah ini. 
  * I have a headache thinking about this problem. 
 ----------
+ * **ulangi** :: to repeat (verb)
+ * Saya tidak mengerti. Bisa tolong ulangi? 
+ * I don't understand. Can you repeat that? 
+----------
  * **bawang bombay** :: onion (noun)
  * Saya tidak suka bawang bombay di selada saya! 
  * I hate raw onion in my salads! 
+----------
+ * **bahasa** :: language (noun)
+ * Berani-beraninya kamu gunakan bahasa seperti itu di rumah ini? 
+ * How dare you use such language in this house? 
 ----------
  * **kentang goreng** :: fries (noun)
  * Apa Anda mau kentang goreng dengan itu? 
  * Do you want fries with that? 
 ----------
+ * **kata kerja** :: verb (noun)
+ * Kamu memerlukan kata kerja untuk melengkapi kalimat ini. 
+ * You need a verb to complete this sentence. 
+----------
  * **pantai** :: beach (noun)
  * Saya dan dia akan pergi ke pantai besok. 
  * She and I will go to the beach tomorrow. 
+----------
+ * **memakai** :: to wear (verb)
+ * Topi itu konyol, tapi kamu pantas memakainya! 
+ * It's a ridiculous hat, but you wear it well! 
 ----------
  * **kucing** :: cat (noun)
  * Kucing itu melompat ke atas meja. 
  * The cat jumped on the table. 
 ----------
+ * **oksigen** :: oxygen (noun)
+ * Pada ketinggian tertentu, kadar oksigen di udara menipis. 
+ * At high elevations, there is less oxygen in the air. 
+----------
  * **hiking** :: to hike (verb)
  * Apa kamu mau hiking lewat hutan? 
  * Do you want to hike through the woods? 
+----------
+ * **pendapatan** :: revenue (noun)
+ * Biaya naik, pendapatan menurun. Apa boleh buat? 
+ * Costs are up, revenue is down. What can you do? 
 ----------
  * **matematika** :: mathematics (noun)
  * Aku tidak pernah menerima nilai matematika bagus. 
  * I never received good grades in mathematics. 
 ----------
+ * **binatang menyusui** :: mammal (noun)
+ * Ikan paus dan lumba-lumba adalah binatang menyusui. 
+ * Whales and dolphins are mammals. 
+----------
  * **uang receh** :: coin (noun)
  * Ini, ambil uang receh ini. Aku tidak butuh. 
  * Here, take these coins. I don't need them. 
+----------
+ * **ketakutan** :: fear (noun)
+ * Ketakutan akan pindah dan membuat suatu perubahan disebut tropophobia. 
+ * The fear of moving or making changes is called tropophobia. 
 ----------
  * **uang** :: money (noun)
  * Tampaknya tidak seorangpun yang memiliki cukup uang. 

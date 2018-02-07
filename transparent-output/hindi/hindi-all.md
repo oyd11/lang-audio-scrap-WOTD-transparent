@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -247,33 +247,65 @@
  * वह ईर्ष्या से भर उठा है। 
  * He is consumed with jealousy. 
 ----------
+ * **खड़ी चट्टान** :: cliff (noun)
+ * इंग्लैंड की हमारी यात्रा के दौरान हमने डोवर की खड़ी चट्टान का भ्रमण किया। 
+ * During our trip around England we visited the cliffs of Dover. 
+----------
  * **उत्तेजित** :: frantic (adjective)
  * जैसे ही कार चलनी शुरू हुई मेरी बिल्ली उत्तेजित हो उठी। 
  * My cat became frantic as soon as the car began to move. 
+----------
+ * **फोन करना** :: to call (verb)
+ * मुझे आज रात फोन करना और हम कुछ योजनाएं बनाएंगे। 
+ * Call me tonight and we'll make plans. 
 ----------
  * **हराना** :: to defeat (verb)
  * हमने अपने मित्रों की मदद से दुश्मनों को हरा दिया। 
  * We defeated the enemies with the help of our friends. 
 ----------
+ * **बोर्डिंग पास** :: boarding pass (noun)
+ * कृपया काउंटर पर अपना बोर्डिंग पास तैयार रखिए। 
+ * Please, have your boarding pass ready at the counter. 
+----------
  * **कमी महसूस करना** :: to miss (verb)
  * मैं एक बगीचे के न होने की कमी को महसूस करती हूँ। 
  * I miss having a garden. 
+----------
+ * **संकेत** :: hint (noun)
+ * कुछ लोग संकेत बिलकुल नहीं समझ पाते। 
+ * Some people just can't take a hint. 
 ----------
  * **जब तक कि** :: unless (conjunction)
  * जब तक तुम उसे एक कहानी पढ़कर नहीं सुनाओगे, तब तक वह नहीं सोएगा। 
  * He won't go to sleep unless you read him a story. 
 ----------
+ * **इंटरफेस** :: interface (noun)
+ * इस प्रोग्राम का यूज़र इंटरफेस बहुत अच्छा है। 
+ * The program has a very nice user interface. 
+----------
  * **पाने की लालसा** :: longing for (phrase)
  * उम्र के साथ-साथ पुरानी यादें उमड़ आती हैं और बीते दिनों में लौट जाने की लालसा जाग उठती है। 
  * With age comes nostalgia and a longing for simpler times. 
+----------
+ * **लीप वर्ष** :: leap year (noun)
+ * अगला वर्ष एक लीप वर्ष है। 
+ * Next year is a leap year. 
 ----------
  * **फुसफुसाना** :: to whisper (verb)
  * मुझे पेड़ों से होकर गुज़रती हवा की फुसफुसाहट सुनना पसन्द है। 
  * I love to hear the wind whisper through the trees. 
 ----------
+ * **मुख्य समाचार** :: headline (noun)
+ * क्या तुमने आज सुबह के मुख्य समाचार देखे? 
+ * Did you see the headlines this morning? 
+----------
  * **खुले में** :: in the open (phrase)
  * हम खुले में, तारों की छांव में, सोए। 
  * We slept in the open, under the stars. 
+----------
+ * **सोमवार** :: Monday (noun)
+ * ऐसा लगता है कि किसी को सोमवार के अवसाद की बीमारी है! 
+ * Looks like someone has a case of the Mondays! 
 ----------
  * **ब्लाइंड डेट** :: blind date (noun)
  * तुम वेब कैमरा के जरिए एक ब्लाइंड डेट के बारे में क्या सोचते हो? 

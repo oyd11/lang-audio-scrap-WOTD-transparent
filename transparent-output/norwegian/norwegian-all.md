@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -247,9 +247,21 @@
  * I Norge snakker folk minst tre språk. 
  * In Norway, most people speak at least three languages. 
 ----------
+ * **språk** :: language (noun)
+ * I Norge snakker folk minst tre språk. 
+ * In Norway, most people speak at least three languages. 
+----------
  * **flyktning** :: refugee (noun)
  * I Norge er det nesten 10 400 flyktninger fra Øst-Europa. 
  * In Norway, there are almost 10,400 refugees from Eastern Europe. 
+----------
+ * **flyktning** :: refugee (noun)
+ * I Norge er det nesten 10 400 flyktninger fra Øst-Europa. 
+ * In Norway, there are almost 10,400 refugees from Eastern Europe. 
+----------
+ * **kvakksalver** :: quack doctor (noun)
+ * I gamle dager reiste kvakksalvere fra sted til sted og solgte falske medisiner. 
+ * In the old days, quack doctors traveled from place to place and sold fake medicines. 
 ----------
  * **kvakksalver** :: quack doctor (noun)
  * I gamle dager reiste kvakksalvere fra sted til sted og solgte falske medisiner. 
@@ -259,6 +271,14 @@
  * Året 1852 hadde en gruppe samer konfrontasjon mot noen ikke-samer som bodde i Nordnorge. 
  * In the year 1852 a group of Samis had confrontation against some non-Samis who lived in North Norway. 
 ----------
+ * **konfrontasjon** :: confrontation (noun)
+ * Året 1852 hadde en gruppe samer konfrontasjon mot noen ikke-samer som bodde i Nordnorge. 
+ * In the year 1852 a group of Samis had confrontation against some non-Samis who lived in North Norway. 
+----------
+ * **permisjon** :: leave, sabbatical (noun)
+ * Ingrid hadde to års permisjon etter at barnet ble født. 
+ * Ingrid had two years' leave after the child was born. 
+----------
  * **permisjon** :: leave, sabbatical (noun)
  * Ingrid hadde to års permisjon etter at barnet ble født. 
  * Ingrid had two years' leave after the child was born. 
@@ -267,9 +287,21 @@
  * Det er lurt å skaffe seg en trillebår for hagearbeidet. 
  * It is wise to get yourself a wheelbarrow for garden work. 
 ----------
+ * **trillebår** :: wheelbarrow (noun)
+ * Det er lurt å skaffe seg en trillebår for hagearbeidet. 
+ * It is wise to get yourself a wheelbarrow for garden work. 
+----------
  * **kjærlighet** :: love (noun)
  * Det sies ofte at kjærlighet gjør blind. 
  * It's often said that love makes you blind. 
+----------
+ * **kjærlighet** :: love (noun)
+ * Det sies ofte at kjærlighet gjør blind. 
+ * It's often said that love makes you blind. 
+----------
+ * **gjengjeldelse** :: repayment (noun)
+ * Kåre blir bare mer og mer forelsket i Kristine, men hun gjengjeldte ikke følelsene. 
+ * Kaare just became more in love with Kristine, but she didn't have mutual feelings. 
 ----------
  * **gjengjeldelse** :: repayment (noun)
  * Kåre blir bare mer og mer forelsket i Kristine, men hun gjengjeldte ikke følelsene. 

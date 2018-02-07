@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -247,33 +247,65 @@
  * Czekaliśmy na nią prawie dwie godziny. 
  * We waited for her for almost two hours. 
 ----------
- * **cukierek** :: a piece of candy (noun)
- * Nie lubię cukierków w czekoladzie. 
- * I don't like chocolate covered candies. 
-----------
- * **gotować** :: to cook, to boil (verb)
- * Co gotujesz dziś na obiad? 
- * What are you cooking for dinner today? 
-----------
  * **oglądać** :: to watch (verb)
  * Jego dzieciaki oglądają za dużo telewizji. 
  * His kids watch too much TV. 
+----------
+ * **cukierek** :: a piece of candy (noun)
+ * Nie lubię cukierków w czekoladzie. 
+ * I don't like chocolate covered candies. 
 ----------
  * **grać** :: to play (verb)
  * Kto będzie grał dziś wieczorem? 
  * Who will play tonight? 
 ----------
+ * **gotować** :: to cook, to boil (verb)
+ * Co gotujesz dziś na obiad? 
+ * What are you cooking for dinner today? 
+----------
  * **pytać** :: to ask (verb)
  * Nikt mnie nie pytał o moją opinię. 
  * Nobody asked me about my opinion. 
+----------
+ * **oglądać** :: to watch (verb)
+ * Jego dzieciaki oglądają za dużo telewizji. 
+ * His kids watch too much TV. 
 ----------
  * **czytać** :: to read (verb)
  * Właśnie czytam nową książkę tego autora. 
  * I'm just reading a new book by this author. 
 ----------
+ * **grać** :: to play (verb)
+ * Kto będzie grał dziś wieczorem? 
+ * Who will play tonight? 
+----------
  * **myśleć** :: to think (verb)
  * O czym myślisz? 
  * What are you thinking about? 
+----------
+ * **pytać** :: to ask (verb)
+ * Nikt mnie nie pytał o moją opinię. 
+ * Nobody asked me about my opinion. 
+----------
+ * **pożyczać** :: to lend, to borrow (verb)
+ * On zawsze pożycza wszystkim pieniądze. 
+ * He always lends money to everybody. 
+----------
+ * **czytać** :: to read (verb)
+ * Właśnie czytam nową książkę tego autora. 
+ * I'm just reading a new book by this author. 
+----------
+ * **rachunek** :: bill, receipt, account (noun)
+ * Czy mogę prosić o rachunek? 
+ * Can I have the bill, please? 
+----------
+ * **myśleć** :: to think (verb)
+ * O czym myślisz? 
+ * What are you thinking about? 
+----------
+ * **rower** :: bicycle (noun)
+ * Ona nie umie jeździć na rowerze. 
+ * She can't ride a bicycle. 
 ----------
  * **pożyczać** :: to lend, to borrow (verb)
  * On zawsze pożycza wszystkim pieniądze. 

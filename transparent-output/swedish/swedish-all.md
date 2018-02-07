@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -247,33 +247,65 @@
  * Vi måste fortsätta kämpa för mänskliga rättigheter. 
  * We have to keep on fighting for human rights. 
 ----------
+ * **att hänga** :: to hang (verb)
+ * Det hänger spindelnät från taket. 
+ * There are cobwebs hanging from the ceiling. 
+----------
  * **att lossa** :: to loosen (verb)
  * Han satte sig ner och lossade på slipsen. 
  * He sat down and loosened his tie. 
+----------
+ * **(en) fuktighet** :: humidity (noun)
+ * Det är inte värmen, utan det är fuktigheten. 
+ * It's not the heat, it's the humidity. 
 ----------
  * **att blända** :: to dazzle (verb)
  * Han var bländad av kvinnans skönhet. 
  * He was dazzled by woman's beauty. 
 ----------
+ * **(ett) bröst** :: chest (noun)
+ * Jag har ont i bröstet. 
+ * My chest hurts. 
+----------
  * **på grillen** :: on the grill (expression)
  * Jag gillar fisk tillagad på grillen. 
  * I like fish cooked on the grill. 
+----------
+ * **(en) lögnare** :: liar (adjective)
+ * Du är en sådan lögnare! 
+ * You're such a liar! 
 ----------
  * **(ett) träsk** :: swamp (noun)
  * Polisen hittade inte gärningsmannen i träsken, men det gjorde insekterna. 
  * The police didn't find the convict in the swamp, but the bugs did. 
 ----------
+ * **att förlora** :: to lose (verb)
+ * Jag har inget att förlora. 
+ * I have nothing to lose. 
+----------
  * **(en) barndom** :: childhood (noun)
  * Jag saknar all fritid jag hade under min barndom. 
  * I miss all the free time I had in my childhood. 
+----------
+ * **härinne** :: in here (adverb)
+ * Det är jättevarmt härinne. 
+ * It's very hot in here. 
 ----------
  * **att vara försjunken i tankar** :: to be lost in thought (expression)
  * Vad sa du? Förlåt, jag var försjunken i tankar. 
  * What did you say? I'm sorry, I was lost in thought. 
 ----------
+ * **(ett) vattenfall** :: waterfall (noun)
+ * Allt vi kunde höra var vattenfallets brus. 
+ * All we could hear was the roar of the waterfall. 
+----------
  * **(en) slump** :: chance (noun)
  * Jag låter inte min framtid avgöras av slumpen. 
  * I will not leave my future up to chance. 
+----------
+ * **(en) himmel** :: sky (noun)
+ * Himlen är mulen. 
+ * The sky is overcast. 
 ----------
  * **att vara tokig i** :: to be crazy about (expression)
  * Jag är tokig i den här låten! 

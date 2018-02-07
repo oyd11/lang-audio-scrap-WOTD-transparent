@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 395 phrases 
+ 403 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -251,9 +251,21 @@
  * نن ډېره زیاته ګرمي ده. 
  * It's too hot today. 
 ----------
+ * **ډير زیات** :: plenty of (something) (expression)
+ * نن ډېره زیاته ګرمي ده. 
+ * It's too hot today. 
+----------
  * **اسراف** :: in excess (expression)
  * که چېرې اسراف پکې ونه شي د شرابو څښل ښه دي. 
  * Drinking is OK as long as you don't do it in excess. 
+----------
+ * **اسراف** :: in excess (expression)
+ * که چېرې اسراف پکې ونه شي د شرابو څښل ښه دي. 
+ * Drinking is OK as long as you don't do it in excess. 
+----------
+ * **ښاروال** :: mayor (noun)
+ * د کابل ښاروال څوک دی؟ 
+ * Who is the mayor of Kabul City? 
 ----------
  * **ښاروال** :: mayor (noun)
  * د کابل ښاروال څوک دی؟ 
@@ -263,6 +275,14 @@
  * زما ژوند یوه ګډوډي ده او زه نه پوهېږم چې څه وکړم. 
  * My life is a mess and I don't know what to do. 
 ----------
+ * **ګډوډي** :: mess (noun)
+ * زما ژوند یوه ګډوډي ده او زه نه پوهېږم چې څه وکړم. 
+ * My life is a mess and I don't know what to do. 
+----------
+ * **څارنه** :: inspection (verb)
+ * ډاکټر د مریضانو څارنه کوي. 
+ * The doctor oversees the patient. 
+----------
  * **څارنه** :: inspection (verb)
  * ډاکټر د مریضانو څارنه کوي. 
  * The doctor oversees the patient. 
@@ -271,9 +291,21 @@
  * زما ستا دا تصویر خوښیږي. 
  * I like this picture of you. 
 ----------
+ * **تصویر** :: picture (noun)
+ * زما ستا دا تصویر خوښیږي. 
+ * I like this picture of you. 
+----------
  * **ځان خودل** :: to show off (verb)
  * هغه د خپلو ملګرو په مخ کې ځان خوده. 
  * He did it to show off in front of his friends. 
+----------
+ * **ځان خودل** :: to show off (verb)
+ * هغه د خپلو ملګرو په مخ کې ځان خوده. 
+ * He did it to show off in front of his friends. 
+----------
+ * **گلأب** :: rose (noun)
+ * زمونږ په باغ کې ډېر ګلان دي. 
+ * There are plenty of roses in our garden. 
 ----------
  * **گلأب** :: rose (noun)
  * زمونږ په باغ کې ډېر ګلان دي. 
