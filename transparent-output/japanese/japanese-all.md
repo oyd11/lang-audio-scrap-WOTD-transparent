@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -465,11 +465,23 @@
  * Watashi wa suugaku ga tokui desu 
  * I am good at math. 
 ----------
+ * **見る** :: to see (verb)
+ * **miru** 
+ * 昨日、おもしろい映画を見た。 
+ * Kinou、 omoshiroi eiga o mita. 
+ * I saw an interesting movie yesterday. 
+----------
  * **恩** :: to owe someone (noun)
  * **on** 
  * 恩に着るよ。 
  * On ni kiruyo. 
  * I owe you one. 
+----------
+ * **勉強する** :: to study (verb)
+ * **benkyou suru** 
+ * 今、フランス語を勉強しています。 
+ * Ima furansugo o benkyou shite imasu. 
+ * I am studying French. 
 ----------
  * **苦手** :: poor at (adjective)
  * **nigate** 
@@ -477,17 +489,35 @@
  * Watashi wa butsuri ga nigate desu. 
  * I am poor at physics. 
 ----------
+ * **買う** :: to buy (verb)
+ * **kau** 
+ * 新しいコンピュータを買いに行きます。 
+ * Atarashii konpyûtâ o kaini ikimasu 
+ * I am going to buy a new computer. 
+----------
  * **儲かる** :: to make a profit (verb)
  * **moukaru** 
  * あの会社は儲かっているらしい。 
  * Ano kaisha wa moukatteiru rashii. 
  * I heard that company is making a profit. 
 ----------
+ * **いただきます** :: Let's eat. (expression)
+ * **itadakimasu** 
+ * 食べる前に「いただきます。」と言います。 
+ * Taberu mae ni "itadakimasu" to iimasu. 
+ * Before eating, we say "let's eat." 
+----------
  * **考える** :: to consider (verb)
  * **kanngaeru** 
  * もっといい方法を考えた。 
  * Motto ii houhou o kangaeta. 
  * I considered a better way. 
+----------
+ * **おはよう** :: Good morning. (expression)
+ * **ohayou** 
+ * 朝、先生に会った時「おはようございます。」と言った。 
+ * Asa sensei ni atta toki "ohayougozaimasu" to itta. 
+ * I said "Good morning" to my teacher when I saw her. 
 ----------
  * **洗い物** :: dishes (noun)
  * **araimono** 

@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -311,21 +311,41 @@
  * Bain sult as an deireadh seachtaine. 
  * Have a good weekend. 
 ----------
+ * **smaoineamh** :: idea (noun)
+ * B'fhéidir go bhfuil smaoineamh níos fearr agatsa. 
+ * Maybe you have a better idea. 
+----------
  * **Is trua liom é sin.** :: I'm sorry. (expression)
  * Is trua liom é sin. 
  * I'm sorry. 
+----------
+ * **bainne** :: milk (noun)
+ * Ba mhaith liom tuilleadh bainne, le do thoil. 
+ * I would like more milk, please. 
 ----------
  * **Tá deifir orainn.** :: We are in a hurry. (expression)
  * Tá deifir orainn. 
  * We are in a hurry. 
 ----------
+ * **Fad saoil duit!** :: May you live a long life! (expression)
+ * Fad saoil duit! 
+ * May you live a long life! 
+----------
  * **Tá sé sin suimiúil.** :: That's interesting. (expression)
  * Tá sé sin suimiúil. 
  * That's interesting. 
 ----------
+ * **fada** :: long (adjective)
+ * Tá Sligeach achar fada as seo. 
+ * It is a long way from here to Sligo. 
+----------
  * **Cá bhfuil an staighre beo?** :: Where is the escalator? (expression)
  * Cá bhfuil an staighre beo? 
  * Where is the escalator? 
+----------
+ * **pháirc** :: park (noun)
+ * An bhfuil a fhios agat cá bhfuil an pháirc nua? 
+ * Can you tell me where the new park is? 
 ----------
  * **Cén uair a thagann an t-eitleán?** :: What time does the plane arrive? (expression)
  * Cén uair a thagann an t-eitleán? 

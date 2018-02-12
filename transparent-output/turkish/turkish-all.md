@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -311,21 +311,41 @@
  * Kazanın görüntüsü şok ediciydi. 
  * The footage of the accident was shocking. 
 ----------
+ * **kazmak** :: to dig (verb)
+ * Petrol bulana kadar kaz. 
+ * Dig until you strike oil. 
+----------
  * **somurtmak** :: to pout (verb)
  * Kız kardeşine ne dedin? Yine somurtuyor. 
  * What did you say to your sister? She's pouting again. 
+----------
+ * **fosil** :: fossil (noun)
+ * Müzedeki fosiller Kretesa çağından kalma. 
+ * The fossils at the museum are from the Cretaceous period. 
 ----------
  * **yanında** :: by your side (expression)
  * Hayatımın geri kalan kısmını yanında geçirmek istiyorum. 
  * I want to spend the rest of my life by your side. 
 ----------
+ * **resmini çekmek** :: to photograph (verb)
+ * Ender bir kuşun resmini çekti. 
+ * She photographed a rare bird. 
+----------
  * **hedef** :: target (noun)
  * Ok, hedefin ortasını vurdu. 
  * The arrow hit the center of the target. 
 ----------
+ * **serin** :: chilly (adjective)
+ * Ne serin bir gün! 
+ * What a chilly day! 
+----------
  * **kurabiye** :: cookies (noun)
  * Noel'de annem hep bir kutu kurabiye gönderir. 
  * My mother always sends me a box of cookies for Christmas. 
+----------
+ * **beklemek** :: to wait for (verb)
+ * Otobüs bekliyoruz. 
+ * We are waiting for the bus. 
 ----------
  * **bir milyon yıl geçse bile** :: not in a million years (expression)
  * O filmi bir milyon yıl geçse bile seyretmem. 

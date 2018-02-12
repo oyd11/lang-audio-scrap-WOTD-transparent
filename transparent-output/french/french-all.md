@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -311,21 +311,41 @@
  * Les noix de cajou sont délicieuses mais ce n'est pas un aliment bon pour la santé. 
  * Cashew nuts are delicious but they're not good for your health. 
 ----------
+ * **le ragot** :: gossip (noun)
+ * Il y a eu tant de ragots au sujet des nouveaux voisins qu'ils ont fini par déménager ailleurs. 
+ * There had been so much gossip about the new neighbors that they ended up moving somewhere else. 
+----------
  * **le barrage** :: dam (noun)
  * Avez-vous déjà admiré la vue depuis le haut d'un barrage ? C'est fantastique ! 
  * Have you ever seen the view from the top of a dam? It's fantastic! 
+----------
+ * **promouvoir** :: to promote (verb)
+ * L'Alliance Française a pour mission de promouvoir la langue française à l'étranger. 
+ * The Alliance Française's mission is to promote the French language throughout the world. 
 ----------
  * **le bateau-mouche** :: tour boat (noun)
  * En été à Paris, par un bel après-midi, vous apercevrez une multitude de bateaux-mouches sur la Seine. 
  * During a nice summer afternoon in Paris, you'll see plenty of tour boats cruising on the river Seine. 
 ----------
+ * **déguerpir** :: to clear off/out (verb)
+ * Tu ferais mieux de déguerpir avant qu'il n'arrive ou bien tu auras des problèmes ! 
+ * You'd better clear out before he comes or you'll get in trouble! 
+----------
  * **faire l'école buissonnière** :: to play hooky (expression)
  * Quand nous étions jeunes, il n'était pas rare que nous fassions l'école buissonnière pour aller courir dans les prés. 
  * When we were young, it wasn't rare for us to play hooky to go run in the country fields. 
 ----------
+ * **le courant d'air** :: draft (noun)
+ * L'isolation de cette maison n'est pas très efficace ; il y a un courant d'air qui traverse le salon. 
+ * The insulation in this house is not very efficient; there's a cold draft through the living room. 
+----------
  * **le balbutiement** :: muttering (noun)
  * Peux-tu articuler correctement, je ne comprends pas tes balbutiements. 
  * Could you articulate properly? I can't understand your muttering. 
+----------
+ * **les obsèques** :: funeral (noun)
+ * La mort du président africain a donné lieu à des obsèques nationales. 
+ * The African president's death resulted in a national funeral. 
 ----------
  * **en ambulatoire** :: outpatient (adverb)
  * Désormais, de nombreuses interventions chirurgicales peuvent se faire en ambulatoire, et cela est bien plus pratique. 

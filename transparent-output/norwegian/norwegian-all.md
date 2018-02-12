@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -311,6 +311,14 @@
  * I fjor kom det nesten 11 000 asylsøkere til Norge. 
  * Last year almost 11,000 asylum seekers came to Norway. 
 ----------
+ * **asylsøker** :: asylum seeker (noun)
+ * I fjor kom det nesten 11 000 asylsøkere til Norge. 
+ * Last year almost 11,000 asylum seekers came to Norway. 
+----------
+ * **24 timer** :: 24 hours (noun)
+ * Mange matbutikker i USA er åpne 24 timer i døgnet. 
+ * Many grocery stores in the US are open around the clock. 
+----------
  * **24 timer** :: 24 hours (noun)
  * Mange matbutikker i USA er åpne 24 timer i døgnet. 
  * Many grocery stores in the US are open around the clock. 
@@ -319,9 +327,21 @@
  * Mange gamle kjærlighetsdikter beskriver en kvinne som lider kjærlighetskvaler. 
  * Many love poems describe a woman who is suffering the torment of love. 
 ----------
+ * **pine, lidelse** :: anguish, torment (noun)
+ * Mange gamle kjærlighetsdikter beskriver en kvinne som lider kjærlighetskvaler. 
+ * Many love poems describe a woman who is suffering the torment of love. 
+----------
  * **koffert** :: trunk, coffin (noun)
  * Mange nordmenn dro over havet med sine flotte kofferter. 
  * Many Norwegians traveled across the ocean with their lovely trunks. 
+----------
+ * **koffert** :: trunk, coffin (noun)
+ * Mange nordmenn dro over havet med sine flotte kofferter. 
+ * Many Norwegians traveled across the ocean with their lovely trunks. 
+----------
+ * **fakkel** :: torch (noun)
+ * Det er mange som tenner fakler til minne om krigsofre. 
+ * Many people light torches in memory of those fallen in wars. 
 ----------
  * **fakkel** :: torch (noun)
  * Det er mange som tenner fakler til minne om krigsofre. 

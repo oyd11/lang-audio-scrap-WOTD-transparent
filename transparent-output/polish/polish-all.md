@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -311,21 +311,41 @@
  * On zawsze pożycza wszystkim pieniądze. 
  * He always lends money to everybody. 
 ----------
+ * **szpital** :: hospital (noun)
+ * To najlepszy szpital w całym kraju. 
+ * This is the best hospital in the whole country. 
+----------
  * **rachunek** :: bill, receipt, account (noun)
  * Czy mogę prosić o rachunek? 
  * Can I have the bill, please? 
+----------
+ * **lekarz** :: doctor (noun)
+ * Lekarze nie mają pojęcia jak jej pomóc. 
+ * The doctors have no clue how to help her. 
 ----------
  * **rower** :: bicycle (noun)
  * Ona nie umie jeździć na rowerze. 
  * She can't ride a bicycle. 
 ----------
+ * **gość** :: visitor, guest (noun)
+ * Będziemy mieć gości dziś wieczorem. 
+ * We'll have guests tonight. 
+----------
  * **szpital** :: hospital (noun)
  * To najlepszy szpital w całym kraju. 
  * This is the best hospital in the whole country. 
 ----------
+ * **często** :: often (adverb)
+ * Często odwiedzam moją mamę. 
+ * I often visit my mother. 
+----------
  * **lekarz** :: doctor (noun)
  * Lekarze nie mają pojęcia jak jej pomóc. 
  * The doctors have no clue how to help her. 
+----------
+ * **ciekawy** :: interesting (adjective)
+ * Szukam ciekawej pracy. 
+ * I am looking for an interesting job. 
 ----------
  * **gość** :: visitor, guest (noun)
  * Będziemy mieć gości dziś wieczorem. 

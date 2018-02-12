@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -311,21 +311,41 @@
  * 배우들은 전체 장면을 즉흥적으로 연기했다. 
  * The actors improvised the entire scene. 
 ----------
+ * **문제** :: problem (noun)
+ * 바로 앉아! 나쁜 자세로 앉으면 나중에 등에 문제가 생길거야. 
+ * Sit up! Bad posture will lead to back problems later on. 
+----------
  * **겨울** :: winter (noun)
  * 겨울이 와요. 
  * Winter is coming. 
+----------
+ * **생각** :: idea (noun)
+ * 이게 왜 나쁜 생각인지 이유를 한 다스라도 말해 줄 수 있어. 
+ * I can give you a dozen reasons why this is a bad idea. 
 ----------
  * **장식된** :: decorated (adjective)
  * 그 여자의 집은 평소대로 장식이 아주 잘 되어 있어요. 
  * Her house is, as usual, very well decorated. 
 ----------
+ * **서두르다** :: to hurry (verb)
+ * 서두르지 않으면 버스 놓칠거야. 
+ * If we don't hurry, we'll miss the bus. 
+----------
  * **필요하다** :: to need (verb)
  * 더 큰 보트가 필요할 거예요. 
  * You're going to need a bigger boat. 
 ----------
+ * **죄송하다** :: sorry (adjective)
+ * 안녕하세요, 여러분! 늦어서 죄송합니다. 
+ * Hi everyone! Sorry I'm late. 
+----------
  * **정크 메일 폴더** :: junk mail folder (expression)
  * 이메일이 뜻하지 않게 정크 메일 폴더로 들어갔을 수도 있어요. 
  * The email may have accidentally gone into your junk mail folder. 
+----------
+ * **탓하다** :: to blame (verb)
+ * 너의 문제로 다른 사람들을 탓하지 마라. 
+ * You can't blame other people for your problems. 
 ----------
  * **차단하다** :: to block (verb)
  * 얘, 왜 나를 트위터에서 차단했니? 

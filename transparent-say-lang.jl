@@ -11,6 +11,7 @@ $ ./transparent-say-lang.jl swedish 14
 
 special: negative number - means - reverse iteration
 'rand' instead of number - random iteration
+'end' backwards interation from the _end_
 
  Requires utilities:
   * 'sox' - to play audio
@@ -128,6 +129,12 @@ if length(ARGS) > 1
             info("Random order")
             next_rand = true
             start_ind = rand(1:length(o_list))
+        elseif "end" == ARGS[2]
+            last_ind = length(o_list)
+            info("from the _end_ ($last_ind) ")
+            start_ind = -length(o_list)
+        else
+            error("Unknown $(ARGS[2])")
         end
     end
 end

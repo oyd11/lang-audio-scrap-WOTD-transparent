@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -311,21 +311,41 @@
  * אפשר לקבל עוד מפית בבקשה? 
  * Can you bring me another napkin, please? 
 ----------
+ * **חורף** :: winter (noun)
+ * החורף מתקרב. 
+ * Winter is coming. 
+----------
  * **כעס** :: anger (noun)
  * אל תיתן לכעס להשתלט עליך. 
  * Don't get carried away by anger. 
+----------
+ * **מעוצב** :: decorated (adjective)
+ * הבית שלה, כרגיל, מעוצב היטב. 
+ * Her house is, as usual, very well decorated. 
 ----------
  * **סליחה** :: forgiveness (noun)
  * הטעות אנושית, הסליחה אלוהית. 
  * To err is human, to forgive divine. 
 ----------
+ * **להצטרך** :: to need (verb)
+ * אתה צריך סירה גדולה יותר. 
+ * You need a bigger boat. 
+----------
  * **מתח** :: stress (noun)
  * אני מתוחה מכדי לישון. 
  * I'm under too much stress to sleep. 
 ----------
+ * **תיקית-זבל** :: junk mail folder (expression)
+ * יכול להיות שהדוא"ל הגיע בטעות לתיקיית הזבל שלך. 
+ * The email may have accidentally gone into your junk mail folder. 
+----------
  * **קירות** :: walls (noun)
  * קירות הבתים היפניים עשויים מנייר. 
  * Japanese houses’ walls are made of paper. 
+----------
+ * **לחסום** :: to block (verb)
+ * למה חסמת אותי בטוויטר, אחי? 
+ * Why'd you block me on Twitter, friend? 
 ----------
  * **לדבר** :: to talk (verb)
  * זה כמו לדבר אל הקיר. 

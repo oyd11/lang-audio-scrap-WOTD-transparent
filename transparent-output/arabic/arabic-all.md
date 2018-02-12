@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -311,21 +311,41 @@
  * زرنا المتحف بالأمس. 
  * We visited the museum yesterday. 
 ----------
+ * **مصطلح** :: term (noun)
+ * أريد أن أتعلم هذه المصطلحات. 
+ * I want to learn these terms. 
+----------
  * **تصرّف** :: to behave (verb)
  * بعض الناس يتصرفون بطريقة غريبة. 
  * Some people behave in a strange manner. 
+----------
+ * **مرحباً** :: welcome (adverb)
+ * مرحباً بكم في بيتنا. 
+ * Welcome to our house. 
 ----------
  * **تذكّر** :: to remember (verb)
  * عفواَ، أنا لا أتذكر اِسمَك. 
  * I am sorry, I don't remember your name. 
 ----------
+ * **عادةً** :: usually (adverb)
+ * عادةً ، نأخذ الحافلة من هذه المحطة. 
+ * We usually take the bus from this station. 
+----------
  * **ضايق** :: to bother (verb)
  * هل يضايقك الدّخان؟ 
  * Does the smoke bother you? 
 ----------
+ * **طقس** :: weather (noun)
+ * الطقس بارد في الشتاء. 
+ * The weather is cold during winter. 
+----------
  * **أحبّ** :: to like (verb)
  * الأطفال يحبون الرسوم المتحركة كثيراً. 
  * Children like cartoons a lot. 
+----------
+ * **عائلة ممتدة** :: extended family (noun)
+ * رانيا تعيش مع عائلتها. 
+ * Ranya lives with her extended family. 
 ----------
  * **أعطى** :: to give (verb)
  * أعطتني صديقتي هدية يوم عيد ميلادي. 

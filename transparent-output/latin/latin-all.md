@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -311,21 +311,41 @@
  * Commune periculum concordiam parit. 
  * Common danger brings forth harmony. 
 ----------
+ * **studium** :: study, eagerness (noun)
+ * Repetitio est mater studiorum. 
+ * Repetition is the mother of studies. 
+----------
  * **prodigium** :: omen, monster, prophetic sign (noun)
  * Caesar his prodigiis admonetur. 
  * Caesar is warned by these omens. 
+----------
+ * **ineptus** :: foolish (adjective)
+ * Risu inepto res ineptior nulla est. 
+ * There is nothing more foolish than a foolish laugh. 
 ----------
  * **memoria** :: memory (noun)
  * Repetitio est mater memoriae. 
  * Repetition is the mother of memory. 
 ----------
+ * **flamma** :: flame, blaze (noun)
+ * Urbs flammis delebatur. 
+ * The city was being destroyed by flames. 
+----------
  * **studium** :: study, eagerness (noun)
  * Repetitio est mater studiorum. 
  * Repetition is the mother of studies. 
 ----------
+ * **gaudium** :: joy, delight (noun)
+ * Verum gaudium est res severa. 
+ * True joy is a serious thing. 
+----------
  * **ineptus** :: foolish (adjective)
  * Risu inepto res ineptior nulla est. 
  * There is nothing more foolish than a foolish laugh. 
+----------
+ * **amicitia** :: friendship (noun)
+ * Beata memoria amicitiarum dulcium numquam delebitur. 
+ * The happy memory of sweet friendships will never be destroyed. 
 ----------
  * **flamma** :: flame, blaze (noun)
  * Urbs flammis delebatur. 

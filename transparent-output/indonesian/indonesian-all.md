@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -311,21 +311,41 @@
  * Tampaknya tidak seorangpun yang memiliki cukup uang. 
  * Nobody seems to have enough money. 
 ----------
+ * **teka-teki** :: riddle (noun)
+ * Setiap hari dia datang ke kantor membawa teka-teki. 
+ * Every day he comes to the office with a riddle. 
+----------
  * **menggigit** :: to bite (verb)
  * Anjing saya tidak akan menggigit kamu. 
  * My dog will not bite you. 
+----------
+ * **mengancingkan** :: to button (verb)
+ * Aku makan terlalu banyak sampai tidak bisa mengancingkan celana! 
+ * I ate so much I can barely button my pants! 
 ----------
  * **nyamuk** :: mosquito (noun)
  * Nyamuk-nyamuk ini tidak mau pergi! 
  * The mosquitoes will not leave me alone! 
 ----------
+ * **poster** :: poster (noun)
+ * Dia koleksi poster filem-filem horor. 
+ * He collects posters of old horror movies. 
+----------
  * **bintang filem** :: movie star (noun)
  * Siapa bintang filem kesukaan kamu? 
  * Who's your favorite movie star? 
 ----------
+ * **tampil** :: to perform (verb)
+ * Kami tampil di teater komunitas kami. 
+ * We performed in our community theater. 
+----------
  * **makanan laut** :: seafood (noun)
  * Saya suka makanan laut, tapi teman saya alergi. 
  * I love seafood, but my friend is allergic to it. 
+----------
+ * **biola** :: violin (noun)
+ * Seorang yang ahli bisa menyetel biola hanya dengan cara mendengarkannya. 
+ * An expert can tune a violin by ear. 
 ----------
  * **duduk** :: to sit down (verb)
  * Kadang-kadang saya hanya mau duduk sambil ditemani buku bagus. 

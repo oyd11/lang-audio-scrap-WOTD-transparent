@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -311,21 +311,41 @@
  * तुम वेब कैमरा के जरिए एक ब्लाइंड डेट के बारे में क्या सोचते हो? 
  * What do you think about a blind date by webcam? 
 ----------
+ * **पिघलना** :: to melt (verb)
+ * सर्दियों की बर्फ पहले ही पिघल चुकी है। 
+ * The winter snow has already melted. 
+----------
  * **अव्यवस्थित** :: mess (noun)
  * मेरी ज़िन्दगी अव्यवस्थित है और मैं नहीं जानती कि मुझे क्या करना चाहिए। 
  * My life is a mess and I don't know what to do. 
+----------
+ * **मसौदा** :: draft (noun)
+ * पहला मसौदा कल तक तैयार हो जाएगा। 
+ * The first draft will be ready by tomorrow. 
 ----------
  * **कमी** :: lack of (phrase)
  * परीक्षा में छात्रों को तैयारी में अपनी कुल कमी का पता चला। 
  * In the exam the students revealed their total lack of preparation. 
 ----------
+ * **मकड़ी** :: spider (noun)
+ * नहाने के टब में एक मकड़ी है! कम से कम वो तो साफ होगी। 
+ * There is a spider in the bathtub! At least it'll be clean. 
+----------
  * **दिखावा करना** :: to show off (verb)
  * उसने ऐसा सिर्फ अपने मित्रों के सामने दिखावा करने के लिए किया। 
  * He did it just to show off in front of his friends. 
 ----------
+ * **बर्फ पिघलाना** :: to thaw (verb)
+ * तुम्हें टर्की को ओवन में डालने से पहले उस पर जमी बर्फ पिघलानी पड़ेगी। 
+ * You have to thaw the turkey before putting it in the oven. 
+----------
  * **ध्यान देना** :: to notice (verb)
  * मैं भेड़ियों के आते हुए झुंड पर ध्यान देने में असफल रहा। 
  * I failed to notice the approaching pack of wolves. 
+----------
+ * **पाल नौका** :: sailboat (noun)
+ * पाल नौकाएं पानी पर चलने के लिए हवा का उपयोग करती हैं। 
+ * Sailboats use wind to move on the water. 
 ----------
  * **खुश** :: happy (adjective)
  * क्या तुम खुश हो? 

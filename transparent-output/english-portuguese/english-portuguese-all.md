@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -311,21 +311,41 @@
  * My friends and I fish in the ocean. 
  * Meus amigos e eu pescamos no mar. 
 ----------
+ * **to try** :: tentar (verb)
+ * I try to study to get good grades. 
+ * Eu tento estudar para ter boas notas. 
+----------
  * **to shine** :: brilhar (verb)
  * The star on top of the tree shines a lot. 
  * A estrela em cima da árvore brilha muito. 
+----------
+ * **bored** :: aborrecido (adjective)
+ * I'm bored because my friends are on vacation. 
+ * Estou aborrecido porque meus amigos estão de férias. 
 ----------
  * **weather** :: tempo (noun)
  * The players are worried about the weather. 
  * Os jogadores estão preocupados com o tempo. 
 ----------
+ * **to fear** :: temer (verb)
+ * She fears for her life. 
+ * Ela teme por sua vida. 
+----------
  * **jail** :: cadeia (noun)
  * The judge sent the thief to jail. 
  * O juiz mandou o ladrão para a cadeia. 
 ----------
+ * **slowly** :: devagar (adverb)
+ * The turtle moves slowly. 
+ * A tartaruga se move devagar. 
+----------
  * **bright** :: brilhante (adjective)
  * The stars are bright tonight. 
  * As estrelas estão brilhantes hoje à noite. 
+----------
+ * **witch** :: bruxa (noun)
+ * That lady is a witch! 
+ * A mulher é uma bruxa. 
 ----------
  * **almond** :: amêndoa (noun)
  * Almonds are one of my favorite snacks. 

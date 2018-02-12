@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -311,21 +311,41 @@
  * Ci spieghi brevemente perché desidera lavorare per la nostra azienda. 
  * Explain briefly to us why you wish to work for our company. 
 ----------
+ * **terribile** :: terrible (adjective)
+ * I danni causati dal terremoto sono terribili in tutta la regione. 
+ * The earthquake caused terrible damages in the entire region. 
+----------
  * **La colazione** :: breakfast (noun)
  * In questo albergo la colazione viene servita dalle 7.00 alle 10.30. 
  * In this hotel breakfast is served from 7:00 to 10:30. 
+----------
+ * **già** :: already (adverb)
+ * Ho già letto questo libro, consigliami un altro titolo per piacere. 
+ * I've already read this book: please suggest another one. 
 ----------
  * **La località** :: resort (noun)
  * La località è famosa nel mondo per le sue splendide spiagge. 
  * The resort is world-famous for its beautiful beaches. 
 ----------
+ * **ufficialmente** :: officially (adverb)
+ * Verrò ufficialmente nominata direttore la settimana prossima. 
+ * I will be nominated for Director officially next week. 
+----------
  * **affrontare** :: to face (verb)
  * Se sbagliano decisione, dovranno affrontare le conseguenze. 
  * If they make the wrong decision, they will have to face the consequences. 
 ----------
+ * **questo** :: this (adjective)
+ * Queste bottiglie sono vuote, perché le conservi? 
+ * These bottles are empty, why do you keep them? 
+----------
  * **vedere** :: to meet (verb)
  * Ci siamo visti spesso la scorsa settimana e ci vedremo anche stasera. 
  * We met often last week, and we will also meet tonight. 
+----------
+ * **L'orologio** :: watch (noun)
+ * L'orologio è uno dei regali più comuni per chi va in pensione. 
+ * A watch is one of the most common gifts for retirement. 
 ----------
  * **dare** :: to give (verb)
  * Mi dai una mano a pulire? In cambio ti darò 10 euro. 

@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -311,21 +311,41 @@
  * Hun expeditie heeft oude ruïnes ontdekt. 
  * Their expedition uncovered ancient ruins. 
 ----------
+ * **kneuzen** :: to bruise (verb)
+ * Wees voorzichtig en laat de appels niet vallen, anders kneuzen ze nog. 
+ * Be careful not to drop the apples, they might bruise. 
+----------
  * **ongezond** :: unhealthy (adjective)
  * Roken is een ongezonde gewoonte. 
  * Smoking is an unhealthy habit. 
+----------
+ * **verlangen** :: to long for (verb)
+ * Ik verlang naar een warm bad. 
+ * I long for a hot bath. 
 ----------
  * **verkoelen** :: to cool (verb)
  * De ventilator zal de kamer verkoelen. 
  * The fan will cool the room. 
 ----------
+ * **blozen** :: to blush (verb)
+ * De verliefde vrouw moest blozen als een verlegen schoolmeisje. 
+ * The woman in love blushed like a shy teenage schoolgirl. 
+----------
  * **roekeloos** :: reckless (adjective)
  * Wat een roekeloze chauffeur: hij is aan de telefoon! 
  * What a reckless driver - he's on the phone! 
 ----------
+ * **giechelen** :: to giggle (verb)
+ * Ze giechelde om de haverklap om de flauwe mopjes van haar vriend. 
+ * She giggled constantly about the lame jokes her boyfriend told her. 
+----------
  * **donkerblauw** :: navy (adjective)
  * In het donker trok ik per ongeluk een donkerblauwe en een zwarte sok aan. 
  * In the dark I accidentally put on one navy sock and one black. 
+----------
+ * **breien** :: to knit (verb)
+ * Mijn moeder zat vaak op de bank in de woonkamer te breien. 
+ * My mother used to knit on the sofa in the living room. 
 ----------
  * **hangen** :: to hang (verb)
  * Er hangt spinnenrag aan het plafond. 

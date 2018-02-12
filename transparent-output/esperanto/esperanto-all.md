@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -311,21 +311,41 @@
  * Mi volas perdi iom da pezo ĉi-jare. 
  * I want to lose weight this year. 
 ----------
+ * **motorciklo** :: motorcycle (noun)
+ * Li ŝparis sian monon por aĉeti motorciklo. 
+ * He saved his money to buy a motorcycle. 
+----------
  * **piro** :: pear (noun)
  * Ili rikoltis dekduojn da piroj. 
  * They picked dozens of pears. 
+----------
+ * **mucida** :: musty (adjective)
+ * La malnovaj kurtenoj havas mucidan odoron. 
+ * The old curtains have a musty odor. 
 ----------
  * **plado** :: platter (noun)
  * Ĝi venis al mi sur arĝenta plado. 
  * It came to me on a silver platter. 
 ----------
+ * **muelilo** :: mill (noun)
+ * La rivera urbo havas multajn malnovajn muelejojn. 
+ * The river city has many old mills. 
+----------
  * **planedo** :: planet (noun)
  * Vi povas vidi la planedon Venuso en la ĉielo ĉi-nokte. 
  * You can see the planet Venus in the sky tonight. 
 ----------
+ * **muldaĵo** :: cast (noun)
+ * Muldaĵo kovras lian rompitan brakon. 
+ * A cast covers his broken arm. 
+----------
  * **planti** :: to plant (verb)
  * Ili plantos ĝardenon sekvan printempon. 
  * They will plant a garden next spring. 
+----------
+ * **murmuri** :: to mutter (verb)
+ * Li murmuris ion malklaran. 
+ * He muttered something unintelligible. 
 ----------
  * **plibeligi** :: to enhance (verb)
  * Komputilo plibonigis la bildon. 

@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -311,21 +311,41 @@
  * Мы ждём автобус. 
  * We are waiting for the bus. 
 ----------
+ * **гриль** :: grill (noun)
+ * Мне нравится рыба, приготовленная на гриле. 
+ * I like fish cooked on the grill. 
+----------
  * **кататься на коньках** :: to skate (expression)
  * Как только пруд замерзает, дети начинают кататься на коньках. 
  * The children skate on the pond once it is frozen solid. 
+----------
+ * **болото** :: swamp (noun)
+ * Преступника в болоте не нашли полицейские, а нашли мошки. 
+ * The police didn't find the convict in the swamp, but the bugs did. 
 ----------
  * **санки** :: sled (noun)
  * Прошлой зимой дедушка подарил ему санки. 
  * His grandfather gave him a sled last winter. 
 ----------
+ * **детство** :: childhood (noun)
+ * В детстве у меня было много свободного времени, и теперь мне этого не хватает. 
+ * I miss all the free time I had in childhood. 
+----------
  * **горло** :: throat (noun)
  * У меня горло болит сегодня. 
  * My throat is hurting today. 
 ----------
+ * **задумываться** :: to be lost in thought (verb)
+ * Что ты сказала? Извини, я задумалась. 
+ * What did you say? I'm sorry, I was lost in thought. 
+----------
  * **закончить учебное заведение** :: to graduate (phrase)
  * В следующем месяце мой брат закончит школу. 
  * My brother will graduate high school in a month. 
+----------
+ * **случай** :: chance (noun)
+ * Я не оставлю своё будущее на волю случая. 
+ * I will not leave my future up to chance. 
 ----------
  * **газонокосилка** :: lawnmower (noun)
  * Газонокосилка работает на бензине. 

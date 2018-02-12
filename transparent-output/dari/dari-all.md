@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -311,21 +311,41 @@
  * آن فلم را در هزار سال هم نخواهم دید. 
  * I wouldn't watch that movie in a million years. 
 ----------
+ * **دم کردن** :: to brew (tea) (verb)
+ * چای باید برای چند لحظه دیگر هم دم بخورد. 
+ * The tea has to brew for a little bit longer. 
+----------
  * **تازه کنندۀ هوا** :: air freshener (noun)
  * تازه کنندۀ هوا شاید بوی بد را از بین ببرد. 
  * An air freshener might eliminate the odor. 
+----------
+ * **قصاب** :: butcher (noun)
+ * قساب این گوشت کباب را برایم مفت داد. 
+ * The butcher gave me this steak for free. 
 ----------
  * **خود را از غمش خلاص کردن.** :: to get rid of (verb)
  * ما باید خود را از غم مبل کهنه خلاص کنیم. 
  * We have to get rid of our old furniture. 
 ----------
+ * **فلم** :: movie (noun)
+ * در فلم خو کار میداد! 
+ * It worked in the movie! 
+----------
  * **رنج** :: pain (noun)
  * نا برده رنج گنج میسر نمی شود. 
  * No pain, no gain. 
 ----------
+ * **کندن کاری کردن** :: to carve (verb)
+ * کسی نامش را در پوست آن درخت کندن کاری کرده است. 
+ * Somebody carved their name into the bark of that tree. 
+----------
  * **بحث برانگیز** :: controversial (adjective)
  * بخاطر صحنه های برهنه این برنامه تلویزیون بحث برانگیز است. 
  * This television show is controversial due to the sex scenes. 
+----------
+ * **میوه خشک** :: dried fruit (noun)
+ * میوه خشک غنی از پروتین است. 
+ * Dried fruit is rich in protein. 
 ----------
  * **سپر** :: shield (noun)
  * سوار کار با سپرش ضربه را دفاع کرد. 

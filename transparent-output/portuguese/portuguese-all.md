@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -311,21 +311,41 @@
  * As meninas pulam na cama. 
  * The girls jump on the bed. 
 ----------
+ * **apartamento** :: apartment (noun)
+ * Meu apartamento fica no primeiro andar. 
+ * My flat is on the first floor. 
+----------
  * **lago** :: lake (noun)
  * Vamos nadar no lago. 
  * Let's swim in the lake. 
+----------
+ * **mil** :: thousand (determiner)
+ * Há mil razões para fazê-lo. 
+ * There are a thousand reasons to do it. 
 ----------
  * **cavalo** :: horse (noun)
  * Gosto de andar a cavalo. 
  * I like horseback riding. 
 ----------
+ * **suor** :: sweat (noun)
+ * Estou pingando de suor depois de ter corrido. 
+ * I am soaked in sweat after running. 
+----------
  * **segunda-feira** :: Monday (noun)
  * Não gosto da segunda-feira. 
  * I don't like Mondays. 
 ----------
+ * **capítulo** :: chapter (noun)
+ * Este capítulo é muito interessante. 
+ * This chapter is very interesting. 
+----------
  * **lixo** :: garbage (noun)
  * Coloque o lixo aqui. 
  * Put the garbage here. 
+----------
+ * **amargo** :: bitter (adjective)
+ * Não gosto de café amargo, prefiro com um pouco de açúcar. 
+ * I don't like bitter coffee, I prefer it with a bit of sugar. 
 ----------
  * **ler** :: to read (expression)
  * Leio muitos livros. 

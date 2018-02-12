@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -465,11 +465,23 @@
  * Tā qǐchuáng qǐ de bù zǎo. 
  * He does not get up early. 
 ----------
+ * **懂** :: to understand (verb)
+ * **dǒng** 
+ * 这个故事你懂吗？ 
+ * Zhège gùshi nǐ dǒng ma? 
+ * Do you understand this story? 
+----------
  * **应该** :: should (verb)
  * **yīnggāi** 
  * 你应该学英语。 
  * Nǐ yīnggāi xué yīngyǔ. 
  * You should study English. 
+----------
+ * **信用卡** :: credit card (noun)
+ * **xìnyòngkǎ** 
+ * 现在大家都用信用卡。 
+ * Xiànzài dàjiā dōu yòng xìnyòngkǎ. 
+ * Everyone uses a credit card now. 
 ----------
  * **吃** :: to eat (verb)
  * **chī** 
@@ -477,17 +489,35 @@
  * Wǒ ài chī kǎoyā. 
  * I love to eat roast duck. 
 ----------
+ * **城市** :: city (noun)
+ * **chéngshì** 
+ * 纽约是大城市。 
+ * Niǔyuē shì dà chéngshì. 
+ * New York is a large city. 
+----------
  * **唱歌** :: to sing (verb-object)
  * **chànggē** 
  * 孩子在唱歌。 
  * Háizi zài chànggē. 
  * The child is singing. 
 ----------
+ * **地方** :: place (noun)
+ * **dìfang** 
+ * 她去了中国很多地方。 
+ * Tā qùle zhōngguó hěnduō dìfang. 
+ * She has been to many places in China. 
+----------
  * **跳舞** :: to dance (verb-object)
  * **tiàowǔ** 
  * 她跳舞跳得很好。 
  * Tā tiàowǔ tiào de hěnhao. 
  * She dances very well. 
+----------
+ * **忘** :: to forget (verb)
+ * **wàng** 
+ * 我忘了他的地址。 
+ * Wǒ wàngle tā de dìzhǐ. 
+ * I forgot his address. 
 ----------
  * **难** :: difficult (adjective)
  * **nán** 

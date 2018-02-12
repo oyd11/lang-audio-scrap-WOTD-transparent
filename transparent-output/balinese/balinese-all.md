@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -311,21 +311,41 @@
  * Nggih, taen mirengin indik punika. 
  * Sure, I have heard about it. 
 ----------
+ * **napi** :: what (alus (refined))
+ * Napi sarane sane wenten ring villa driki? 
+ * What facilities are provided in this villa? 
+----------
  * **ning** :: calm, quiet (alus (refined))
  * Ring genah sane ning tur embang 
  * At a quiet and open space 
+----------
+ * **dija** :: where (biasa (common))
+ * Dija kamar tiange? 
+ * Where is my room? 
 ----------
  * **meled** :: to want (alus (refined))
  * Titiang meled malajah! 
  * I want to learn. 
 ----------
+ * **sane** :: which (alus (refined))
+ * Dija restoran sane nampek? 
+ * Where is the restaurant that is closest? 
+----------
  * **mataken** :: to ask (alus (refined))
  * Titiang jagi mataken jebos. 
  * I want to briefly ask something. 
 ----------
+ * **ngelangi** :: to swim (biasa (common))
+ * Tiang lakar ngelangi di kolam. 
+ * I am going to swim in the swimming pool. 
+----------
  * **saratang** :: to need, be important (alus (refined))
  * Napi sane wenten saratang, Sari? 
  * What is it that is important, Sari? 
+----------
+ * **cerik** :: small children (biasa (common))
+ * Dija kolam anak cerike? 
+ * Where is the pool for children? 
 ----------
  * **melajah** :: to learn, to study (biasa (common))
  * Tiang lakar malajah yoga, Bli. 

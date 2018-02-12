@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -311,21 +311,41 @@
  * بارش ہونے والی ہے، چھَتری لے آنا. 
  * It's going to rain, bring an umbrella. 
 ----------
+ * **عام** :: common (adjective)
+ * عام رابن کو موسم بہار کا پیش خیمہ کہا جاتا ہے. 
+ * The common robin is said to be a harbinger of spring. 
+----------
  * **کھیلنا** :: to play (verb)
  * بچے باہر کھیلنے کو پسند کرتے ہیں. 
  * The children like to play outside. 
+----------
+ * **برقرار رکھنا** :: to maintain (verb)
+ * رینجرز جنگل میں پیدل سفر کی پگڈنڈیاں برقرار رکھتے ہیں. 
+ * The rangers maintain hiking trails in the forest. 
 ----------
  * **پسندیدہ** :: favorite (adjective)
  * یہ میرے پسندیدہ گیتوں میں سے ایک ہے. 
  * This is one of my favorite songs. 
 ----------
+ * **غور کرنا** :: to consider (verb)
+ * برائے مہربانی اس کام کے لئے مجھ پر غور کریں. 
+ * Please consider me for the job. 
+----------
  * **بھولنا** :: to forget (verb)
  * وہ کبھی بھی براہ مہربانی اور شکریہ کہنا نہیں بھولتا. 
  * He never forgets to say please and thank you. 
 ----------
+ * **تعمیر کرنا** :: to build (verb)
+ * اپنا گھر ریت پر تعمیر نہیں کرو. 
+ * Don't build your house on sand. 
+----------
  * **دیکھنا** :: to see (verb)
  * کیا تم نے کل رات شہاب ثاقب کی برسات دیکھی تھی؟ حیران کُن! 
  * Did you see the meteor shower last night? Amazing! 
+----------
+ * **تبديل کرنا** :: to convert (verb)
+ * کيمِيا گَر کبھی بھی سیسے کو سونے میں تبدیل نہیں کر سکے. 
+ * Alchemists never did manage to convert lead into gold. 
 ----------
  * **کہاں** :: where (adverb)
  * سب سے قریبی مارکیٹ کہاں ہے؟ 

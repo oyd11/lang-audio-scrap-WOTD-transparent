@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -311,21 +311,41 @@
  * This Spanish class requires a lot of work. 
  * Esta clase de español requiere mucho trabajo. 
 ----------
+ * **to develop** :: desarrollar (verb)
+ * The town is developing its tourism. 
+ * El pueblo se está desarrollando turísticamente. 
+----------
  * **to run over** :: atropellar (verb)
  * People who drive fast run over small animals. 
  * Los que manejan rápido atropellan a los animalillos. 
+----------
+ * **affectionately** :: amablemente (adverb)
+ * He welcomed us very affectionately. 
+ * Él nos recibió muy amablemente. 
 ----------
  * **dustpan** :: recogedor (noun)
  * I'm looking for a dustpan. 
  * Busco un recogedor para el polvo. 
 ----------
+ * **to smell** :: oler (verb)
+ * I like to smell the flowers. 
+ * Me gusta oler las flores. 
+----------
  * **several** :: varios (adjective)
  * There are several boys in the class. 
  * Hay varios muchachos en la clase. 
 ----------
+ * **narrow** :: estrecho (adjective)
+ * The tunnel in the cave is narrow. 
+ * El túnel en la cueva es estrecho. 
+----------
  * **leash** :: correa (noun)
  * We need a leash for the dog. 
  * Necesitamos una correa para el perro. 
+----------
+ * **stubborn** :: tozudo (adjective)
+ * He is very stubborn and doesn't want to listen. 
+ * Él es muy tozudo y no quiere escucharme. 
 ----------
  * **squirrel** :: ardilla (noun)
  * The squirrels search for nuts in the trees. 

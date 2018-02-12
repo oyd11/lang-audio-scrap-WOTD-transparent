@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -315,6 +315,14 @@
  * ته خوشحاله یې؟ 
  * Are you happy? 
 ----------
+ * **خوشحاله** :: happy (adjective)
+ * ته خوشحاله یې؟ 
+ * Are you happy? 
+----------
+ * **د موسیقۍ اکاډمي** :: music academy (noun)
+ * هغه په ویانا کې د موسیقۍ په اکاډمي کې زده کړه کړې ده. 
+ * He studied at the music academy in Vienna. 
+----------
  * **د موسیقۍ اکاډمي** :: music academy (noun)
  * هغه په ویانا کې د موسیقۍ په اکاډمي کې زده کړه کړې ده. 
  * He studied at the music academy in Vienna. 
@@ -323,9 +331,21 @@
  * نن یوه ښکلې لمریزه ورځ ده. 
  * It's a lovely sunny day today. 
 ----------
+ * **ښکلې** :: lovely (adverb)
+ * نن یوه ښکلې لمریزه ورځ ده. 
+ * It's a lovely sunny day today. 
+----------
  * **هڅه** :: attempt (noun)
  * هغه د نړیوال ریکارد ماتولو په هڅه کې ناکام شو. 
  * He failed in his attempt to beat the world record. 
+----------
+ * **هڅه** :: attempt (noun)
+ * هغه د نړیوال ریکارد ماتولو په هڅه کې ناکام شو. 
+ * He failed in his attempt to beat the world record. 
+----------
+ * **بحث** :: argument (noun)
+ * مونږ د پیسو په هکله بحث وکړ. 
+ * We had an argument about money. 
 ----------
  * **بحث** :: argument (noun)
  * مونږ د پیسو په هکله بحث وکړ. 

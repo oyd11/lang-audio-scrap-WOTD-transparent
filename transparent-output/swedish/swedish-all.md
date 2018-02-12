@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -311,21 +311,41 @@
  * Jag är tokig i den här låten! 
  * I'm crazy about this song! 
 ----------
+ * **(ett) träd** :: tree (noun)
+ * Man ser inte skogen för bara träd. 
+ * You can't see the forest due to the trees. 
+----------
  * **att dissa (någon)** :: to stand (somebody) up (expression)
  * Han dissade mig! 
  * Han stood me up! 
+----------
+ * **tillräckligt** :: enough (expression)
+ * Det är tillräckligt nu! 
+ * Enough already! 
 ----------
  * **(en) sanning** :: truth (noun)
  * Sanningen finns därute. 
  * The truth is out there. 
 ----------
+ * **nycklar** :: keys (noun)
+ * Jag har tappat nycklarna igen. 
+ * I have lost my keys again. 
+----------
  * **(en) känsla** :: feeling (noun)
  * Vi behöver prata om våra känslor. 
  * We need to talk about our feelings. 
 ----------
+ * **farlig** :: dangerous (adjective)
+ * Det är farligt att cykla utan hjälm. 
+ * It's dangerous to bike without a helmet. 
+----------
  * **att se bra ut** :: to look good (expression)
  * Ditt hår ser bra ut idag. 
  * Your hair looks good today. 
+----------
+ * **att kräva** :: to require (verb)
+ * Vissa dagar kräver mer kaffe än andra. 
+ * Some days require more coffee than others. 
 ----------
  * **att ge sig iväg** :: to get out (verb)
  * Ge dig iväg från min fruktträdgård, annars så skickar jag hundarna på dig! 

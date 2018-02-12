@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 403 phrases 
+ 408 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -311,21 +311,41 @@
  * La escena era muy pintoresca con muchos árboles y flores. 
  * The scene was very picturesque with many trees and flowers. 
 ----------
+ * **arrancar** :: to start (verb)
+ * El coche no quiere arrancar. 
+ * The car won't start. 
+----------
  * **parar** :: to stop (verb)
  * La policía paró los carros por el accidente. 
  * The police stopped the cars because of the accident. 
+----------
+ * **la guitarra** :: guitar (noun)
+ * La guitarra flamenca tiene un tono característico. 
+ * The flamenco guitar has a characteristic tone. 
 ----------
  * **dejar** :: to quit (verb)
  * Tengo que dejar de fumar. 
  * I have to quit smoking. 
 ----------
+ * **¡Qué guay!** :: How cool! (expression)
+ * ¡Qué guay el nuevo producto de Apple! 
+ * How cool is Apple's new product! 
+----------
  * **dejar** :: to allow (verb)
  * Mi esposa no me deja poner mis pies en el sofá. 
  * My wife doesn't allow me to put my feet on the sofa. 
 ----------
+ * **el secador de pelo** :: hairdryer (noun)
+ * Si no utilizo un secador no se me queda bien el pelo. 
+ * If I don't use a hairdryer my hair won't look good. 
+----------
  * **nuboso** :: cloudy (adjective)
  * Es un día oscuro y nuboso. 
  * It is a dark and cloudy day. 
+----------
+ * **capicúa** :: reversible number (adjective)
+ * El número 61.816 es capicúa. 
+ * 61,816 is a reversible number. 
 ----------
  * **caluroso** :: hot (adjective)
  * Es un día caluroso y húmedo. 
