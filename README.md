@@ -6,10 +6,10 @@ requires:
 
  example runs:
  ```
- ./transparent-say-lang.jl swedish 14
- ./transparent-say-lang.jl italian
- ./transparent-say-lang.jl japanese end
- ./transparent-say-lang.jl spanish rand
+ julia transparent-say-lang.jl swedish 14
+ julia transparent-say-lang.jl italian
+ julia transparent-say-lang.jl japanese end
+ julia transparent-say-lang.jl spanish rand
 
  ```
 
