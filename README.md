@@ -1,4 +1,25 @@
 
+# 'Say' script on MacOS:
+requires:
+ * 'say' (macos util)
+ * 'sox'
+
+ example runs:
+ ```
+ ./transparent-say-lang.jl swedish 14
+ ./transparent-say-lang.jl italian
+ ./transparent-say-lang.jl japanese end
+ ./transparent-say-lang.jl spanish rand
+
+ ```
+
+# html version:
+```
+open ./transparent-html/all.html
+```
+# scrap scripts:
+
+
 ## Installation
 Required installations: (tested on macos, should work on any un\*x)
 ```
@@ -12,7 +33,7 @@ npm install
 node ./date-iterate.js
 ```
 
-### what is it? 
+### what is it?
 The script loops dates, and downloads XML's from urls like:
 ```
 curl https://wotd.transparent.com/rss/11-27-2017-swedish-widget.xml
@@ -21,7 +42,7 @@ curl https://wotd.transparent.com/rss/11-27-2017-swedish-widget.xml
 
 Then - the script downloads the linked .mp3 files (daily sentences) (using cURL)
 
-It's the audio material presented in https://wotd.transparent.com / https://www.transparent.com/word-of-the-day/ 
+It's the audio material presented in https://wotd.transparent.com / https://www.transparent.com/word-of-the-day/
 
 There's a translation table of human readable language names to the names of the XML's urls.
 
@@ -42,10 +63,10 @@ d=$(date -I -d "$d + 1 day") # etc etc
  * with/without audio d/l option
  * make playlists with everything
  * make spaced repetition playlists
- * similar for innovative-language WOTD 
+ * similar for innovative-language WOTD
  * spaced rep for 50langs + dliflc (free resources)
 
-### current language list 
+### current language list
 Arabic
 Balinese
 Balinese for Indonesian Speakers
@@ -80,7 +101,3 @@ Urdu
 ### thanks:
 
 @quatrix for the chrome-webkid innitiation
-
-
-
-
