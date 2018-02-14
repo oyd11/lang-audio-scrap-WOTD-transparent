@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -351,9 +351,17 @@
  * Będziemy mieć gości dziś wieczorem. 
  * We'll have guests tonight. 
 ----------
+ * **dziwny** :: strange (adjective)
+ * Ta instrukcja obsługi jest bardzo dziwna. 
+ * This user's manual is very strange. 
+----------
  * **często** :: often (adverb)
  * Często odwiedzam moją mamę. 
  * I often visit my mother. 
+----------
+ * **głodny** :: hungry (adjective)
+ * On jest zawsze głodny. 
+ * He is always hungry. 
 ----------
  * **ciekawy** :: interesting (adjective)
  * Szukam ciekawej pracy. 

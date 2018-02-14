@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -351,9 +351,17 @@
  * Kadang-kadang saya hanya mau duduk sambil ditemani buku bagus. 
  * Sometimes I just like to sit down with a good book. 
 ----------
+ * **tahun ajaran** :: school year (noun)
+ * Setiap musim gugur, tahun ajaran baru dimulai. 
+ * Every fall, the school year begins anew. 
+----------
  * **halaman berumput** :: lawn (noun)
  * Sudah saatnya memotong rumput di halaman. 
  * It's time to mow the lawn. 
+----------
+ * **anak** :: child (noun)
+ * Kamu masih harus belajar banyak, anakku. 
+ * You have much to learn, my child. 
 ----------
  * **ijin** :: permission (noun)
  * Lebih mudah minta maaf dari pada minta ijin. 

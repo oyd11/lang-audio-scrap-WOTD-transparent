@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -351,9 +351,17 @@
  * Urbs flammis delebatur. 
  * The city was being destroyed by flames. 
 ----------
+ * **dormire** :: to sleep (verb)
+ * Qui dormit non peccat. 
+ * One who sleeps does not sin. 
+----------
  * **gaudium** :: joy, delight (noun)
  * Verum gaudium est res severa. 
  * True joy is a serious thing. 
+----------
+ * **longus** :: long (adjective)
+ * Consilia regis bello longo et difficili delebantur. 
+ * The plans of the king were destroyed by a long and difficult war. 
 ----------
  * **amicitia** :: friendship (noun)
  * Beata memoria amicitiarum dulcium numquam delebitur. 

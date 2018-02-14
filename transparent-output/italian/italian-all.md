@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -351,9 +351,17 @@
  * Mi dai una mano a pulire? In cambio ti darò 10 euro. 
  * Will you give me a hand cleaning? In return, I'll give you 10 euro. 
 ----------
+ * **interessante** :: interesting (adjective)
+ * Trovo molto interessante il progetto che lei ha presentato. 
+ * I find the project that you have presented to be very interesting. 
+----------
  * **Il pomeriggio** :: afternoon (noun)
  * Il sabato pomeriggio l'ambulatorio resterà chiuso. 
  * On Saturday afternoons the outpatient clinic is closed. 
+----------
+ * **asciugare** :: to dry (verb)
+ * Dopo averla lavata, asciugherete l'argenteria con un panno speciale. 
+ * After you've washed it, you'll dry the silverware with a special cloth. 
 ----------
  * **indossare** :: to wear (verb)
  * In Italia la polizia indossa una divisa con la giacca blu. 

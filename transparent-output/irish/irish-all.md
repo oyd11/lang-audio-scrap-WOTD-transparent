@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -351,9 +351,17 @@
  * Cén uair a thagann an t-eitleán? 
  * What time does the plane arrive? 
 ----------
+ * **tábhachtach** :: important (adjective)
+ * Níl sé sin tábhachtach. 
+ * That is not important. 
+----------
  * **Stad anseo, le do thoil.** :: Please stop here. (expression)
  * Stad anseo, le do thoil. 
  * Please stop here. 
+----------
+ * **spórtúil** :: sporty (adjective)
+ * Níl aon charr spórtúil aici. 
+ * She does not have a sports car. 
 ----------
  * **An bhfuil aicearra ann?** :: Is there a shortcut? (expression)
  * An bhfuil aicearra ann? 

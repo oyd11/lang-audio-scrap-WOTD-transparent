@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -351,9 +351,17 @@
  * 얘, 왜 나를 트위터에서 차단했니? 
  * Why'd you block me on Twitter, friend? 
 ----------
+ * **해** :: sun (noun)
+ * 좋은 흙과 해 그리고 규칙적인 물주기가 정원 가꾸기에 필요한 것들입니다. 
+ * Gardens need good soil, sun, and regular watering. 
+----------
  * **인내** :: patience (noun)
  * 인내는 쓰다. 그러나 열매는 달다. 
  * Patience is bitter, but it bears sweet fruit. 
+----------
+ * **주** :: week (noun)
+ * 몇 주 동안 이 프로젝트를 해야 합니까? 
+ * How many weeks does this project have to take? 
 ----------
  * **모험하다** :: to venture (verb)
  * 탐험가는 야생으로 모험을 떠났습니다. 

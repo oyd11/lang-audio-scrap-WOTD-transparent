@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -351,9 +351,17 @@
  * Leio muitos livros. 
  * I read lots of books. 
 ----------
+ * **pular** :: to dispense with (verb)
+ * Vamos pular os detalhes desnecessários. 
+ * Let's dispense with the unnecessary details. 
+----------
  * **hoje** :: today (adverb)
  * Vamos ao shopping hoje. 
  * Let's go to the mall today. 
+----------
+ * **pincel atômico** :: marker (noun)
+ * Quero o pincel atômico alaranjado, por favor. 
+ * I want the orange marker, please. 
 ----------
  * **semana que vem** :: next week (adverb)
  * Vou viajar semana que vem. 

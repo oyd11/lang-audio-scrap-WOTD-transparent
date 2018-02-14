@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -351,9 +351,17 @@
  * Es un día caluroso y húmedo. 
  * It is a hot and humid day. 
 ----------
+ * **prestado** :: borrowed (adjective)
+ * Algo viejo, algo nuevo, algo prestado, algo azul. 
+ * Something old, something new, something borrowed, something blue. 
+----------
  * **morder** :: to bite (verb)
  * El perro va a morder al cartero. 
  * The dog is going to bite the mailman. 
+----------
+ * **precioso** :: beautiful (adjective)
+ * Estás preciosa con ese vestido. 
+ * You look beautiful in that dress. 
 ----------
  * **ciego** :: blind (adjective)
  * La mujer ciega lleva un perro para guiarla. 

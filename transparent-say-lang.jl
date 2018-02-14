@@ -89,7 +89,7 @@ if length(ARGS)<1
     error("No language input")
 end
 
-lang = ARGS[1] 
+lang = ARGS[1]
 
 using Glob
 using JSON
@@ -108,7 +108,7 @@ end
 date_format = DateFormat("mm-dd-yyyy")
 mk_date(str) = Date(str, date_format )
 
-function get_lang_jsons(lang) 
+function get_lang_jsons(lang)
     return o_list = cd("transparent-download/$lang") do
         j_files = glob("*.json")
         o_list = JSON.parsefile.(j_files)
@@ -140,7 +140,7 @@ if length(ARGS) > 1
 end
 
 println("lang: $lang")
-if !haskey(voice_map, lang) 
+if !haskey(voice_map, lang)
     error("No Voice defined for '$lang', quiting.")
 end
 target_voice = voice_map[lang]
@@ -158,7 +158,7 @@ catch ex
     info("see installed voices on your system:")
     info(raw"$ say -v \?")
     info("or see GUI: 'System Preferences/Accessibility/Speech/' to add voices")
-    # synth_voices =  `say -v \?` |> run 
+    # synth_voices =  `say -v \?` |> run
     throw(ex)
 end
 
@@ -182,13 +182,13 @@ while 0 < ind <= length(o_list)
     date = o["date"]
 
 
-    cmd_play_word = `play -q transparent-html/$lang-sound/$date-wordsound.mp3`
-    cmd_play_phrase = `play -q transparent-html/$lang-sound/$date-phrasesound.mp3`
+    cmd_play_word = `play -q transparent-sound/$lang-sound/$date-wordsound.mp3`
+    cmd_play_phrase = `play -q transparent-sound/$lang-sound/$date-phrasesound.mp3`
     cmd_say_target_word = `say -i -v "$target_voice" -r $target_rate "$word"`
     cmd_say_target = `say -i -v "$target_voice" -r $target_rate "$fnphrase"`
     cmd_say_src = `say -i -v "$src_voice" -r $src_rate "$enphrase"`
 
-    println("$word :: $translation ($wordtype)") 
+    println("$word :: $translation ($wordtype)")
     empty_or_nothing(word_t) || println(word_t)
     #println(fnphrase)
     println(enphrase)
@@ -209,6 +209,3 @@ while 0 < ind <= length(o_list)
         ind += delta
     end
 end
-
-
-

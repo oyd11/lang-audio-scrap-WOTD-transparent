@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -525,11 +525,23 @@
  * Zhè ge zì bù nán xiě. 
  * This character is not difficult to write. 
 ----------
+ * **办公室** :: office (noun)
+ * **bàngōngshì** 
+ * 办公室在哪儿？ 
+ * Bàngōngshì zài nǎr? 
+ * Where is the office? 
+----------
  * **容易** :: easy (adjective)
  * **róngyì** 
  * 成功不容易。 
  * Chénggōng bù róngyì. 
  * To succeed is not easy. 
+----------
+ * **休息** :: to rest (verb)
+ * **xiūxi** 
+ * 我们休息五分钟。 
+ * Wǒmen xiūxi wǔ fēnzhōng. 
+ * Let's have a five-minute break. 
 ----------
  * **表** :: watch (noun)
  * **biǎo** 

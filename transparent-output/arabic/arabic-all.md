@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -351,9 +351,17 @@
  * أعطتني صديقتي هدية يوم عيد ميلادي. 
  * My girlfriend gave me a gift for my birthday. 
 ----------
+ * **بجانب** :: beside (preposition)
+ * المطعم بجانب الفندق. 
+ * The restaurant is beside the hotel. 
+----------
  * **علّمَ** :: to teach (verb)
  * صيد السمك يعلّمُ الصبر. 
  * Fishing teaches patience. 
+----------
+ * **مقبلات** :: appetizers (noun)
+ * سنطلب مقبلات قبل العشاء. 
+ * We will order appetizers before dinner. 
 ----------
  * **حاول** :: to try (verb)
  * سنحاول الوصول في الموعد. 

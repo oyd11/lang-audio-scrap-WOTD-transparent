@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -351,9 +351,17 @@
  * Газонокосилка работает на бензине. 
  * The lawnmower needs gasoline. 
 ----------
+ * **очень нравиться** :: to be crazy about (phrase)
+ * Мне очень нравится эта песня! 
+ * I'm crazy about this song! 
+----------
  * **луг** :: meadow (noun)
  * Под обрывом простирается широкий луг. 
  * A vast meadow spreads out below the cliff. 
+----------
+ * **подводить кого-то** :: to stand somebody up (verb)
+ * Ты меня подвёл! 
+ * You stood me up! 
 ----------
  * **история** :: history (noun)
  * В университете они изучали историю. 

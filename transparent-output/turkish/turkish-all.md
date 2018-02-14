@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -351,9 +351,17 @@
  * O filmi bir milyon yıl geçse bile seyretmem. 
  * I wouldn't watch that movie in a million years. 
 ----------
+ * **paten kaymak** :: to skate (verb)
+ * Çocuklar gölet tamamen donunca paten kayıyor. 
+ * The children skate on the pond once it is frozen solid. 
+----------
  * **oda spreyi** :: air freshener (noun)
  * Oda spreyi kokuyu ortadan kaldırabilir. 
  * An air freshener might eliminate the odor. 
+----------
+ * **kızak** :: sled (noun)
+ * Büyükbabası ona geçen kış bir kızak verdi. 
+ * His grandfather gave him a sled last winter. 
 ----------
  * **kurtulmak** :: to get rid of (verb)
  * Eski mobilyalarımızdan kurtulmamız lazım. 

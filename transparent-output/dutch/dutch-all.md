@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -351,9 +351,17 @@
  * Er hangt spinnenrag aan het plafond. 
  * There are cobwebs hanging from the ceiling. 
 ----------
+ * **offeren** :: to sacrifice (verb)
+ * In andere culturen zijn er nog steeds mensen verplicht aan hun goden te offeren. 
+ * In other cultures there are still people required to sacrifice to their gods. 
+----------
  * **de vochtigheid** :: humidity (noun)
  * Het is niet de hitte, het is de vochtigheid. 
  * It's not the heat, it's the humidity. 
+----------
+ * **kreunen** :: to moan (verb)
+ * Het slachtoffer van het ongeluk kreunde van pijn. 
+ * The victim of the accident moaned in pain. 
 ----------
  * **de borst** :: chest (noun)
  * Ik heb pijn op de borst. 

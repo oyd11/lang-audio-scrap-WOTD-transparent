@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -351,9 +351,17 @@
  * क्या तुम खुश हो? 
  * Are you happy? 
 ----------
+ * **सहमत होना** :: to agree (verb)
+ * मैं इस मसले पर तुमसे सहमत हूँ। 
+ * I agree with you on that issue. 
+----------
  * **संगीत अकादमी** :: music academy (noun)
  * उसने वियना में संगीत अकादमी में अध्ययन किया है। 
  * He studied at the music academy in Vienna. 
+----------
+ * **बिना क्रम के** :: at random (phrase)
+ * हमने ऐसे ही बिना क्रम के एक सीट का चुनाव कर लिया। 
+ * We chose a seat at random. 
 ----------
  * **ग्रीनहाउस** :: greenhouse (noun)
  * वैज्ञानिक ग्रीनहाउस परिणामों के प्रति चिंतित हैं। 

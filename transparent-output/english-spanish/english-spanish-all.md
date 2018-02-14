@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -351,9 +351,17 @@
  * The squirrels search for nuts in the trees. 
  * Las ardillas buscan nueces en los árboles. 
 ----------
+ * **laptop computer** :: portátil (noun)
+ * I want to buy a new laptop computer. 
+ * Quiero comprarme un nuevo portátil. 
+----------
  * **flashlight** :: linterna (noun)
  * We use a flashlight to see into the hole. 
  * Usamos una linterna para ver dentro del agujero. 
+----------
+ * **chicken pox** :: varicela (noun)
+ * When I was little I got the chicken pox. 
+ * Cuando era pequeño tuve la varicela. 
 ----------
  * **to develop** :: desarrollar (verb)
  * The town is developing its tourism. 

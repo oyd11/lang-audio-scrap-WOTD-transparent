@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -351,9 +351,17 @@
  * Ge dig iväg från min fruktträdgård, annars så skickar jag hundarna på dig! 
  * Get out of my orchard or I'll set the dogs on you! 
 ----------
+ * **att laga mat** :: to cook (verb)
+ * Jag älskar att laga mat med vin. 
+ * I love to cook with wine. 
+----------
  * **att ha en passion** :: to be passionate (expression)
  * Jag har en passion för fotografering. 
  * I am passionate about photography. 
+----------
+ * **tung** :: heavy (adjective)
+ * Min resväska är så tung att jag inte kan bära den. 
+ * My suitcase is so heavy I can´t carry it. 
 ----------
  * **vit** :: white (adjective)
  * Jag gillar inte att ha vita kläder på mig. 

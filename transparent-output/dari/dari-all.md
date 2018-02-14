@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -351,9 +351,17 @@
  * سوار کار با سپرش ضربه را دفاع کرد. 
  * The knight blocked the blow with his shield. 
 ----------
+ * **نویسنده** :: writer (noun)
+ * وقتیکه بزرگ شوم میخواهم یک نویسنده باشم. 
+ * I want to be a writer when I grow up. 
+----------
  * **دست دادن** :: to shake hands (expression)
  * دست بدهید و آشتی کنید. 
  * Shake hands and make up. 
+----------
+ * **کِشت مات** :: check-mate (expression)
+ * من از کِشت مات دو حرکت دور هستم. 
+ * I'm two moves away from a check-mate. 
 ----------
  * **ساجق** :: chewing gum (noun)
  * من میتوانم که در عین زمان هم ساجق بجوم و هم راه بروم. 

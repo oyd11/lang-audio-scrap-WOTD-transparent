@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -351,9 +351,17 @@
  * Almonds are one of my favorite snacks. 
  * As amêndoas são meu lanche preferido. 
 ----------
+ * **to cry** :: chorar (verb)
+ * The baby will cry all night if we don't feed it. 
+ * O bebê irá chorar toda noite se não o alimentarmos. 
+----------
  * **dry** :: seco (adjective)
  * The towels are dry now. 
  * As toalhas estão secas agora. 
+----------
+ * **to lose** :: perder (verb)
+ * The basketball team loses a lot of games. 
+ * O time de basquete perde muitos jogos. 
 ----------
  * **closed** :: fechado (adjective)
  * The hardware store is closed. 

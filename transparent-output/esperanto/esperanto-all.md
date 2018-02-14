@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -351,9 +351,17 @@
  * Komputilo plibonigis la bildon. 
  * A computer enhanced the image. 
 ----------
+ * **muŝo** :: fly (noun)
+ * Frapu tiun muŝon! 
+ * Swat that fly! 
+----------
  * **pokero** :: poker (noun)
  * Ili ludis pokeron ĝis noktomezo. 
  * They played poker until midnight. 
+----------
+ * **naĝbaseno** :: swimming pool (noun)
+ * Ni devas viziti la publikan naĝbasenon. 
+ * We should visit the public swimming pool. 
 ----------
  * **pordo** :: door (noun)
  * Fermu la pordon, mi petas. 

@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -350,6 +350,14 @@
  * **hytte** :: cabin (noun)
  * Mer enn 20 prosent av alle husholdninger i Norge eier ei hytte eller et sommerhus. 
  * More than 20% of Norwegian households own a cabin or summer house. 
+----------
+ * **hytte** :: cabin (noun)
+ * Mer enn 20 prosent av alle husholdninger i Norge eier ei hytte eller et sommerhus. 
+ * More than 20% of Norwegian households own a cabin or summer house. 
+----------
+ * **skråstrek** :: slash (noun)
+ * De fleste nettadresser bruker skråstrek mellom elementene. 
+ * Most URLs use a slash between the elements. 
 ----------
  * **skråstrek** :: slash (noun)
  * De fleste nettadresser bruker skråstrek mellom elementene. 

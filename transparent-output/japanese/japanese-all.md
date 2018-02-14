@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -525,11 +525,23 @@
  * Araimono wa watashi no shigoto desu. 
  * Doing dishes is my job. 
 ----------
+ * **こんばんは** :: Good evening. (expression)
+ * **konnbannwa** 
+ * 夜、コンビ二で先生に会った時「こんばんは」と言いました。 
+ * Yoru, konbini de sensei ni attatoki "konbanwa" to iimashita. 
+ * When I saw my teacher at a convenience store, I said "Good evening". 
+----------
  * **あげる** :: to give something to somebody (verb)
  * **ageru** 
  * 弟にお菓子を上げた。 
  * Otouto ni okashi o ageta. 
  * I gave my brother some sweets. 
+----------
+ * **はじめまして** :: Nice to meet you. (expression)
+ * **hajimemashite** 
+ * はじめまして。田中です。どうぞよろしく。 
+ * Hajimemashite. Tanaka desu. Douzo yoroshiku. 
+ * My name is Tanaka. Nice to meet you. 
 ----------
  * **白星** :: a win (noun)
  * **shiroboshi** 

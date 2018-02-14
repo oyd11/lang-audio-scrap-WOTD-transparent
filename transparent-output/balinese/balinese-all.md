@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -351,9 +351,17 @@
  * Tiang lakar malajah yoga, Bli. 
  * I want to learn yoga, older brother. 
 ----------
+ * **sirep** :: to sleep, to relax (alus (refined))
+ * Ida masirep ring bale bengong punika. 
+ * The lord is asleep in the gazebo. 
+----------
  * **nyen** :: who (biasa (common))
  * Nyen adane? 
  * What is your name? 
+----------
+ * **bale bengong** :: gazebo (biasa (common))
+ * Putu mapijet di bale bengonge. 
+ * Putu is getting massaged in the gazebo. 
 ----------
  * **kija** :: where (biasa (common))
  * Lakar kija? 

@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -351,9 +351,17 @@
  * זה כמו לדבר אל הקיר. 
  * It's like talking to a wall. 
 ----------
+ * **סבלנות** :: patience (noun)
+ * סבלנות היא תכונה טובה. 
+ * Patience is a virtue. 
+----------
  * **משוגע** :: crazy (adjective)
  * כולנו קצת משוגעים בדרך זו או אחרת. 
  * We're all a little crazy in one way or another. 
+----------
+ * **להסתכן** :: venture (verb)
+ * מי שלא מסתכן, לא מרוויח. 
+ * Nothing ventured, nothing gained. 
 ----------
  * **לא לעצום עין** :: to not sleep a wink (expression)
  * לא עצמתי עין כל הלילה כי היו לי נדודי שינה. 

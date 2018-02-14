@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -354,6 +354,14 @@
  * **بریالی** :: successful (verb)
  * پاکستاني لوبغاړي په لوبه کې بریالي وو. 
  * Pakistani players were successful in the play. 
+----------
+ * **بریالی** :: successful (verb)
+ * پاکستاني لوبغاړي په لوبه کې بریالي وو. 
+ * Pakistani players were successful in the play. 
+----------
+ * **مشوره** :: to advise (verb)
+ * ډاکټر هغې ته مشوره ورکړه چی څنګه د خپل ماشوم پالنه وکړي. 
+ * The doctor advised her how to take care of her baby. 
 ----------
  * **مشوره** :: to advise (verb)
  * ډاکټر هغې ته مشوره ورکړه چی څنګه د خپل ماشوم پالنه وکړي. 

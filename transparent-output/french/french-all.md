@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -351,9 +351,17 @@
  * Désormais, de nombreuses interventions chirurgicales peuvent se faire en ambulatoire, et cela est bien plus pratique. 
  * It is now possible to have many surgeries as an outpatient, and it is much more convenient. 
 ----------
+ * **d'occasion** :: secondhand (adjective)
+ * Cette voiture d'occasion reste une très bonne affaire à un prix abordable. 
+ * This second-hand car is still a good deal at an affordable price. 
+----------
  * **stupéfait** :: stunned (adjective)
  * J'étais stupéfaite lorsqu'elle m'a raconté tout ce qu'elle a enduré pour arriver jusqu'ici. 
  * I was stunned when she told me about all she has gone through to get here. 
+----------
+ * **la persienne** :: shutter (noun)
+ * Aux Antilles françaises les maisons sont presque toutes équipées de persiennes. 
+ * In the West Indies almost all the houses are equipped with shutters. 
 ----------
  * **calfeutrer** :: to insulate (verb)
  * Un avis de tempête a été lancé, il faudra calfeutrer les portes et les fenêtres afin d'éviter les courants d'air. 

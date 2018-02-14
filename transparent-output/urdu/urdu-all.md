@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 408 phrases 
+ 410 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -351,9 +351,17 @@
  * سب سے قریبی مارکیٹ کہاں ہے؟ 
  * Where is the nearest market? 
 ----------
+ * **سہیلی** :: girlfriend (noun)
+ * وہ دو ماہ سے میری سہیلی ہے. 
+ * She has been my girlfriend for two months. 
+----------
  * **ناراض ہونا** :: to be angry (verb)
  * اگر آپ ناراض ہیں، ایک گہری سانس لے کر دس تک گنتی کریں. 
  * If you're angry, take a deep breath and count to ten. 
+----------
+ * **دل** :: heart (noun)
+ * ایک صحت مند دل ایک صحت مند زندگی کی طرف لے جاتا ہے. 
+ * A healthy heart leads to a healthy life. 
 ----------
  * **راز** :: secret (noun)
  * اگر میں تمہیں بتا دوں، تو یہ ایک راز نہیں رہے گا! 
