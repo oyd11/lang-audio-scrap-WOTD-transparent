@@ -67,7 +67,6 @@ d=$(date -I -d "$d + 1 day") # etc etc
  * spaced rep for 50langs + dliflc (free resources)
 
 ### current language list
-```
  arabic
  balinese
  balinese-for-indonesian-speakers
@@ -96,7 +95,6 @@ d=$(date -I -d "$d + 1 day") # etc etc
  swedish
  turkish
  urdu
-```
 
 
 
