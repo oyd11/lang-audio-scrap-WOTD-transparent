@@ -7,9 +7,23 @@ function existsNotEmpty(w) {
 const lang = Object.keys(j)[0]
 const sentenceList = j[lang]
 
+const relavant_fields = ["translation","enphrase","wordtype","word","fnphrase",
+    "wotd:transliteratedWord","wotd:transliteratedSentence"]
+
+const prefix_ids = {
+    "w" : "word ul",
+    "auw" : "audio word only",
+    "au" : "audio phrase",
+    "ww" : "phrase li",
+    "wd" : "word div",
+    "wt" : "word only text",
+    "wwt" : "phrase translitaration",
+}
+
 // TODO: Some struct keeping all global state:
 // all global state - kept here:
 let curPlaying = null
+let curPlayingw = null
 // since HTML storage is per _domain_+protocol, not page
 const storagePrefix = `trans::WOTD-${lang}::`
 
@@ -49,17 +63,27 @@ function addEventsAndPlay(ind) {
     const ww = document.getElementById(`ww_${ind}`)
     const wwt = document.getElementById(`wwt_${ind}`)
     const au =  document.getElementById(`au_${ind}`)
+    const auw =  document.getElementById(`auw_${ind}`)
+    // first play 'au', then 'auw' afterwards
+    // TODO: promises instead (?)
     function setEvents() {
-        au.addEventListener('play', onPlay)
-        au.addEventListener('ended', onEnded)
-        au.addEventListener('pause', onPause)
+        au.addEventListener('play', onPlayAu)
+        au.addEventListener('ended', onEndedAu)
+        au.addEventListener('pause', onPauseAu)
+        auw.addEventListener('play', onPlayAuw)
+        auw.addEventListener('ended', onEndedAuw)
+        auw.addEventListener('pause', onPauseAuw)
     }
     function rmEvents() {
-        au.removeEventListener('play', onPlay)
-        au.removeEventListener('ended', onEnded)
-        au.removeEventListener('pause', onPause)
+        au.removeEventListener('play', onPlayAu)
+        au.removeEventListener('ended', onEndedAu)
+        au.removeEventListener('pause', onPauseAu)
+
+        auw.removeEventListener('play', onPlayAuw)
+        auw.removeEventListener('ended', onEndedAuw)
+        auw.removeEventListener('pause', onPauseAuw)
     }
-    function onPlay(ev) { 
+    function onPlayAu(ev) { 
         w.style.color='lime'
         w.style.fontSize='110%'
         ww.style.color='red'
@@ -70,7 +94,24 @@ function addEventsAndPlay(ind) {
         }
         w.scrollIntoView({inline: "center", behavior:"instant"})
     }
-    function onEnded(ev) { 
+    function onEndedAu(ev) { 
+        auw.play()
+    }
+    function onPauseAu(ev) { 
+        w.style = null
+//        ww.style = null
+    }
+    function onPlayAuw(ev) { 
+        w.style.color='red'
+        w.style.fontSize='120%'
+        ww.style.color='lime'
+        ww.style.fontSize='125%'
+        if (null != wwt) {
+            wwt.style.color='red'
+            wwt.style.fontSize='135%'
+        }
+    }
+    function onEndedAuw(ev) { 
         w.style = null
 //        ww.style = null
         if (null != wwt) {
@@ -82,13 +123,14 @@ function addEventsAndPlay(ind) {
         }
         // rm curr events?
     }
-    function onPause(ev) { 
+    function onPauseAuw(ev) { 
         w.style = null
 //        ww.style = null
     }
     rmEvents() // possible cleanup
     setEvents()
     curPlaying = au
+    curPlayingw = auw
     localStorage.setItem(`${storagePrefix}playIndex`,ind)
     inputPlayIndex.value = ind
     au.play()
@@ -103,17 +145,6 @@ function addEventsAndPlay(ind) {
 // rendering words view:
 
 
-const relavant_fields = ["translation","enphrase","wordtype","word","fnphrase",
-    "wotd:transliteratedWord","wotd:transliteratedSentence"]
-
-const prefix_ids = {
-    "w" : "word ul",
-    "auw" : "audio word only",
-    "au" : "audio phrase",
-    "ww" : "phrase li",
-    "wd" : "word div",
-    "wwt" : "phrase translitaration",
-}
 
 function isempty(obj) {
     return null == obj || Object.keys(obj).length == 0
@@ -185,8 +216,8 @@ sentenceList.forEach( (w,ind) => {
             addEventsAndPlay(ind)
         }
         wordDiv.addEventListener("mouseenter", (ev) => {
-    //        wordDiv.style.fontSize='150%'
-            wordDiv.style.color='aqua'
+            wordDiv.style.fontSize='105%'
+            wordDiv.style.color='DodgerBlue'
             wordDiv.addEventListener("mousedown", mDownPlayThis)
         })
         wordDiv.addEventListener("mouseleave", (ev) => {
@@ -222,6 +253,8 @@ playButton.addEventListener("click", (ev) => {
     if (null != curPlaying) {
         curPlaying.pause()
         curPlaying.currentTime = 0 
+        curPlayingw.pause()
+        curPlayingw.currentTime = 0 
     } 
     const playIndex = Number(inputPlayIndex.value)
     addEventsAndPlay(playIndex)
@@ -238,5 +271,7 @@ pauseButton.addEventListener("click", (ev) => {
 stopButton.addEventListener("click", (ev) => {
     curPlaying.pause()
     curPlaying.currentTime = 0
+    curPlayingw.pause()
+    curPlayingw.currentTime = 0 
 })
 
