@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -366,6 +366,10 @@
  * **ग्रीनहाउस** :: greenhouse (noun)
  * वैज्ञानिक ग्रीनहाउस परिणामों के प्रति चिंतित हैं। 
  * Scientists worry about the Greenhouse Effect. 
+----------
+ * **अपमान करना** :: to offend (verb)
+ * मेरा मतलब तुम्हारा अपमान करना नहीं था। 
+ * I didn't mean to offend you. 
 ----------
  * **कोशिश** :: attempt (noun)
  * वह विश्व रिकॉर्ड को तोड़ने की अपनी कोशिश में नाकाम रहा। 

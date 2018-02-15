@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -366,6 +366,10 @@
  * **모험하다** :: to venture (verb)
  * 탐험가는 야생으로 모험을 떠났습니다. 
  * The explorer ventured into the wild. 
+----------
+ * **다수** :: majority (noun)
+ * 대개의 경우 목소리가 큰 소수가 다수를 대변하는 것은 아닙니다. 
+ * The vocal minority do not represent the majority in most cases. 
 ----------
  * **공부하다** :: to study (verb)
  * 이 시험 때문에 밤새도록 공부했어요. 

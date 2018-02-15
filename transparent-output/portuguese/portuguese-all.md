@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -366,6 +366,10 @@
  * **semana que vem** :: next week (adverb)
  * Vou viajar semana que vem. 
  * I am going to travel next week. 
+----------
+ * **balde** :: bucket (noun)
+ * Precisamos de uns baldes aqui, por favor. 
+ * We need some buckets here, please. 
 ----------
  * **rua** :: street (noun)
  * Em que rua você mora? 

@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -366,6 +366,10 @@
  * **مشوره** :: to advise (verb)
  * ډاکټر هغې ته مشوره ورکړه چی څنګه د خپل ماشوم پالنه وکړي. 
  * The doctor advised her how to take care of her baby. 
+----------
+ * **شروع کول** :: to start (verb)
+ * راځئ چې دا محفل شروع کړو. 
+ * Let's get this party started. 
 ----------
  * **شروع کول** :: to start (verb)
  * راځئ چې دا محفل شروع کړو. 

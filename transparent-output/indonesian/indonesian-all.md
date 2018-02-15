@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -366,6 +366,10 @@
  * **ijin** :: permission (noun)
  * Lebih mudah minta maaf dari pada minta ijin. 
  * It's easier to ask forgiveness than permission. 
+----------
+ * **anekdot** :: anecdote (noun)
+ * Kakekku tahu ratusan anekdot. 
+ * My grandfather knows hundreds of anecdotes. 
 ----------
  * **isi** :: to fill out (a form) (verb)
  * Tolong isi formulir ini sambil Anda menunggu. 

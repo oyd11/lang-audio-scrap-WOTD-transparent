@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -366,6 +366,10 @@
  * **calfeutrer** :: to insulate (verb)
  * Un avis de tempête a été lancé, il faudra calfeutrer les portes et les fenêtres afin d'éviter les courants d'air. 
  * A storm watch is on, we'll have to insulate the doors and the windows in order to avoid the drafts. 
+----------
+ * **parlementer** :: to negotiate (verb)
+ * Les associés ont parlementé avec les syndicats toute la nuit avant d'arriver à un accord. 
+ * The associates have negotiated all night long with the trade unions before coming to an agreement. 
 ----------
  * **le chenapan** :: rogue (noun)
  * Cet enfant est un vrai chenapan, il fait de vilaines blagues à longueur de journée. 

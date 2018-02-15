@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -366,6 +366,10 @@
  * **de borst** :: chest (noun)
  * Ik heb pijn op de borst. 
  * My chest hurts. 
+----------
+ * **sluimeren** :: to slumber (verb)
+ * De baby sluimerde in haar wiegje. 
+ * The baby was slumbering in her little crib. 
 ----------
  * **de leugenaar** :: liar (noun)
  * Je bent een leugenaar! 

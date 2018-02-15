@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -366,6 +366,10 @@
  * **kija** :: where (biasa (common))
  * Lakar kija? 
  * Where will you go? 
+----------
+ * **tamiu** :: guest (biasa (common))
+ * Tamuine majemuh di kolam. 
+ * The guests are getting sunned by the pool. 
 ----------
  * **tiang** :: I (biasa (common))
  * Tiang lakar ka Kuta. 

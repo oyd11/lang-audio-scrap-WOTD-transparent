@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -366,6 +366,10 @@
  * **pordo** :: door (noun)
  * Fermu la pordon, mi petas. 
  * Close the door, please. 
+----------
+ * **naĝi** :: to swim (verb)
+ * Infanoj ofte naĝas en la lago. 
+ * Children often swim in the lake. 
 ----------
  * **porkaĵo** :: pork (noun)
  * Lia sandviĉo enhavas porkaĵon. 

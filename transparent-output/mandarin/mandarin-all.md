@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -548,6 +548,12 @@
  * 你的表有一点儿快。 
  * Nǐ de biǎo yǒu yīdiǎněr kuài. 
  * Your watch is a little bit fast. 
+----------
+ * **借** :: to borrow (verb)
+ * **jiè** 
+ * 我要借书。 
+ * Wǒ yào jiè shū. 
+ * I want to borrow some books. 
 ----------
  * **身体** :: body (noun)
  * **shēntǐ** 

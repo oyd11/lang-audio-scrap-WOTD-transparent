@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -366,6 +366,10 @@
  * **ساجق** :: chewing gum (noun)
  * من میتوانم که در عین زمان هم ساجق بجوم و هم راه بروم. 
  * I can walk and chew gum at the same time. 
+----------
+ * **گرم** :: warm (adjective)
+ * من نان گرم را خوش دارم. 
+ * I like warm bread. 
 ----------
  * **بسیار قیمت بودن** :: to be very expensive (expression)
  * من آخرین مادل را نخریدم بخاطریکه بسیار قیمت است. 

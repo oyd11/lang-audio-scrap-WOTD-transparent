@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -366,6 +366,10 @@
  * **indossare** :: to wear (verb)
  * In Italia la polizia indossa una divisa con la giacca blu. 
  * In Italy the police wear a uniform with a blue jacket. 
+----------
+ * **permettere** :: to allow (verb)
+ * Il nuovo lavoro ti permetterà di avere più tempo libero. 
+ * Your new job will allow you to have more free time. 
 ----------
  * **sognare** :: to dream (verb)
  * Stanotte ho sognato che ero in vacanza su un'isola tropicale! 

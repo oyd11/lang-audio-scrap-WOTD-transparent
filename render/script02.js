@@ -118,7 +118,7 @@ function addEventsAndPlay(ind) {
  //       wwt.style = null
         }
         rmEvents()
-        if (ind< playlist.end) {
+        if (ind < playlist.end) {
             addEventsAndPlay(ind+1)
         }
         // rm curr events?
@@ -212,7 +212,10 @@ sentenceList.forEach( (w,ind) => {
                 curPlaying.pause()
                 curPlaying.currentTime = 0
             }
-    //        curPlaying = au
+            if (null != curPlayingw) {
+                curPlayingw.pause()
+                curPlayingw.currentTime = 0
+            }
             addEventsAndPlay(ind)
         }
         wordDiv.addEventListener("mouseenter", (ev) => {

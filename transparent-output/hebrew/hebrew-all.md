@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -366,6 +366,10 @@
  * **לא לעצום עין** :: to not sleep a wink (expression)
  * לא עצמתי עין כל הלילה כי היו לי נדודי שינה. 
  * I didn’t sleep a wink all night because I had insomnia. 
+----------
+ * **ללמוד** :: to study (verb)
+ * נשארתי ערה כל הלילה כדי ללמוד לבחינה. 
+ * I've been up all night studying for this test. 
 ----------
  * **להישאר** :: to stay (verb)
  * למה שלא תוריד את המעיל ותישאר קצת? 

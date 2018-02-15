@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -366,6 +366,10 @@
  * **راز** :: secret (noun)
  * اگر میں تمہیں بتا دوں، تو یہ ایک راز نہیں رہے گا! 
  * If I tell you, it won't be a secret anymore! 
+----------
+ * **کائناتی** :: cosmic (adjective)
+ * ہم بڑی کائناتی منصوبہ بندی میں کہاں فٹ ہیں؟ 
+ * Where do we fit in the grand cosmic scheme? 
 ----------
  * **خیال** :: idea (noun)
  * میں تمہیں ایک درجن وجوہات دے سکتا ہوں کہ یہ کیوں ایک برا خیال ہے. 

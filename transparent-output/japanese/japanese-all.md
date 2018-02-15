@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -548,6 +548,12 @@
  * 久しぶりの白星だ。 
  * Hisashiburi no shiroboshi da. 
  * We won the game after losing many. 
+----------
+ * **おなかがすいた** :: I am hungry. (expression)
+ * **onakaga suita** 
+ * おなかがすいて、何もできない。 
+ * Onakaga suite, nanimo dekinai. 
+ * I cannot do anything because I am hungry. 
 ----------
  * **生活** :: daily life (noun)
  * **seikatsu** 

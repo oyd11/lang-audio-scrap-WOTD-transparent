@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -366,6 +366,10 @@
  * **An bhfuil aicearra ann?** :: Is there a shortcut? (expression)
  * An bhfuil aicearra ann? 
  * Is there a shortcut? 
+----------
+ * **Spáinn** :: Spain (noun)
+ * Bhí saoire iontach acu sa Spáinn. 
+ * They had a wonderful vacation in Spain. 
 ----------
  * **An fíor-leathar é seo?** :: Is this real leather? (expression)
  * An fíor-leathar é seo? 

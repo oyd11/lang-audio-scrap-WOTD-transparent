@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -366,6 +366,10 @@
  * **closed** :: fechado (adjective)
  * The hardware store is closed. 
  * A ferragem está fechada. 
+----------
+ * **strange** :: estranho (adjective)
+ * That's a strange song. 
+ * Esta é uma estranha canção. 
 ----------
  * **calm** :: tranqüilo (adjective)
  * We have a very calm dog. 

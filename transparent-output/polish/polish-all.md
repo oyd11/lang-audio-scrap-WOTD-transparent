@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -366,6 +366,10 @@
  * **ciekawy** :: interesting (adjective)
  * Szukam ciekawej pracy. 
  * I am looking for an interesting job. 
+----------
+ * **młody** :: young (adjective)
+ * Oni są za młodzi, aby to pamiętać. 
+ * They are too young to remember it. 
 ----------
  * **dziwny** :: strange (adjective)
  * Ta instrukcja obsługi jest bardzo dziwna. 

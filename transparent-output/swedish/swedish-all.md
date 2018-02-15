@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -366,6 +366,10 @@
  * **vit** :: white (adjective)
  * Jag gillar inte att ha vita kläder på mig. 
  * I don't like to wear white clothes. 
+----------
+ * **någon** :: somebody (pronoun)
+ * Kan någon berätta för mig när vi kommer fram till stationen? 
+ * Can someone tell me when we will arrive at the station? 
 ----------
  * **sandaler** :: sandals (noun)
  * Jag har nya sandaler. 

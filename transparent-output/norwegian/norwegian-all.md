@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -362,6 +362,10 @@
  * **skråstrek** :: slash (noun)
  * De fleste nettadresser bruker skråstrek mellom elementene. 
  * Most URLs use a slash between the elements. 
+----------
+ * **jordbær** :: strawberry (noun)
+ * Min fars hjemmelagde jordbær- og rabarbradessert er helt topp. 
+ * My father's homemade strawberry and rhubarb dessert is absolutely tops. 
 ----------
  * **jordbær** :: strawberry (noun)
  * Min fars hjemmelagde jordbær- og rabarbradessert er helt topp. 

@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -366,6 +366,10 @@
  * **to develop** :: desarrollar (verb)
  * The town is developing its tourism. 
  * El pueblo se está desarrollando turísticamente. 
+----------
+ * **to help** :: atender (verb)
+ * The nurse helps the patients. 
+ * La enfermera atiende a los pacientes. 
 ----------
  * **affectionately** :: amablemente (adverb)
  * He welcomed us very affectionately. 

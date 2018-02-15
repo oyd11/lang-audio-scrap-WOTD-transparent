@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -366,6 +366,10 @@
  * **ciego** :: blind (adjective)
  * La mujer ciega lleva un perro para guiarla. 
  * The blind woman has a dog that guides her. 
+----------
+ * **gratis** :: free (adverb)
+ * Compre dos y llévese uno gratis. 
+ * Buy two and get one free. 
 ----------
  * **grosero** :: rude (adjective)
  * Tu amigo es bastante grosero. 

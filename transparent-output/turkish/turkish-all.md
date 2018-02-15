@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -366,6 +366,10 @@
  * **kurtulmak** :: to get rid of (verb)
  * Eski mobilyalarımızdan kurtulmamız lazım. 
  * We have to get rid of our old furniture. 
+----------
+ * **boğaz** :: throat (noun)
+ * Bugün boğazım acıyor. 
+ * My throat is hurting today. 
 ----------
  * **zahmet** :: pain (noun)
  * Zahmet olmadan rahmet olmaz. 

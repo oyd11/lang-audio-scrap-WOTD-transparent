@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -366,6 +366,10 @@
  * **история** :: history (noun)
  * В университете они изучали историю. 
  * They studied history at the university. 
+----------
+ * **правда** :: truth (noun)
+ * Есть на свете правда. 
+ * The truth is out there. 
 ----------
  * **часы** :: clock (noun)
  * Тридцать лет назад молния ударила в часы на башне. 

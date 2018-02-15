@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -366,6 +366,10 @@
  * **amicitia** :: friendship (noun)
  * Beata memoria amicitiarum dulcium numquam delebitur. 
  * The happy memory of sweet friendships will never be destroyed. 
+----------
+ * **nasci** :: to be born (verb)
+ * Poeta nascitur, non fit. 
+ * A poet is born, not made. 
 ----------
  * **dormire** :: to sleep (verb)
  * Qui dormit non peccat. 

@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 410 phrases 
+ 411 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -366,6 +366,10 @@
  * **حاول** :: to try (verb)
  * سنحاول الوصول في الموعد. 
  * We will try to arrive on time. 
+----------
+ * **عند** :: at (adverb)
+ * هل يمكن أن نلتقي عند الفندق؟ 
+ * Could we meet at the hotel? 
 ----------
  * **ردّ** :: to reply (verb)
  * لم يرد على رسالتي الأخيرة بعد. 
