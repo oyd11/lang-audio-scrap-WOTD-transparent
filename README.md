@@ -67,34 +67,36 @@ d=$(date -I -d "$d + 1 day") # etc etc
  * spaced rep for 50langs + dliflc (free resources)
 
 ### current language list
-* arabic
-* balinese
-* balinese for indonesian speakers
-* chinese
-* dari
-* dutch
-* english for portuguese speakers
-* english for spanish speakers
-* esperanto
-* french
-* german
-* hebrew
-* hindi
-* indonesian
-* irish
-* italian
-* japanese
-* korean
-* latin
-* norwegian
-* pashto
-* polish
-* portuguese
-* russian
-* spanish
-* swedish
-* turkish
-* urdu
+```
+ arabic
+ balinese
+ balinese-for-indonesian-speakers
+ chinese
+ dari
+ dutch
+ english-for-portuguese-speakers
+ english-for-spanish-speakers
+ esperanto
+ french
+ german
+ hebrew
+ hindi
+ indonesian
+ irish
+ italian
+ japanese
+ korean
+ latin
+ norwegian
+ pashto
+ polish
+ portuguese
+ russian
+ spanish
+ swedish
+ turkish
+ urdu
+```
 
 
 
