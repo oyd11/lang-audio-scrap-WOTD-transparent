@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -375,6 +375,14 @@
  * Min favoritt er Telemanns bratsjkonsert i G-dur. 
  * My favorite is Telemann's viola concerto in G Major. 
 ----------
+ * **bratsj** :: viola (noun)
+ * Min favoritt er Telemanns bratsjkonsert i G-dur. 
+ * My favorite is Telemann's viola concerto in G Major. 
+----------
+ * **oppskrift** :: recipe (noun)
+ * Min mormor lagde norsk mat etter gode gamle oppskrifter. 
+ * My grandmother made Norwegian food according to good old recipes. 
+----------
  * **oppskrift** :: recipe (noun)
  * Min mormor lagde norsk mat etter gode gamle oppskrifter. 
  * My grandmother made Norwegian food according to good old recipes. 
@@ -382,6 +390,14 @@
  * **etasje** :: floor, story (noun)
  * Mitt hus har kun to etasjer. 
  * My house has only two floors. 
+----------
+ * **etasje** :: floor, story (noun)
+ * Mitt hus har kun to etasjer. 
+ * My house has only two floors. 
+----------
+ * **hestehale** :: ponytail (noun)
+ * Min mor som nettopp fylte 90 år har hestehale. 
+ * My mother, who just turned 90, has a ponytail. 
 ----------
  * **hestehale** :: ponytail (noun)
  * Min mor som nettopp fylte 90 år har hestehale. 

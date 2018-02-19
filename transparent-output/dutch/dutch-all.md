@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -375,17 +375,33 @@
  * Je bent een leugenaar! 
  * You're such a liar! 
 ----------
+ * **rillen** :: to shiver (verb)
+ * We waren zo koud dat we bijna ons bed uitrilden. 
+ * We were so cold we almost shivered out of bed. 
+----------
  * **verliezen** :: to lose (verb)
  * Ik heb niets te verliezen. 
  * I have nothing to lose. 
+----------
+ * **schetsen** :: to sketch (verb)
+ * Het beeld dat ze schetste was niet erg fraai. 
+ * The image she sketched wasn't a pretty picture. 
 ----------
  * **hier** :: here (adverb)
  * Het is hier binnen erg warm. 
  * It's very hot in here. 
 ----------
+ * **twijfelen** :: to doubt (verb)
+ * Ik twijfel er niet aan dat hij gelijk heeft. 
+ * I don't doubt he's right for a moment. 
+----------
  * **de waterval** :: waterfall (noun)
  * We konden alleen maar het gebrul van de waterval horen. 
  * All we could hear was the roar of the waterfall. 
+----------
+ * **tuinieren** :: to garden (verb)
+ * Het is fijn om op mooie dagen wat te tuinieren. 
+ * It's nice to garden a bit on beautiful days. 
 ----------
  * **de lucht** :: sky (noun)
  * De lucht is bewolkt. 

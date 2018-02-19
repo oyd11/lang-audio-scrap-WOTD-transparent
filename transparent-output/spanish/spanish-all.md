@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -375,17 +375,33 @@
  * Tu amigo es bastante grosero. 
  * Your friend is rather rude. 
 ----------
+ * **la sugerencia** :: suggestion (noun)
+ * Tengo algunas sugerencias que hacer. 
+ * I have some suggestions to make. 
+----------
  * **aunque** :: although (conjunction)
  * La clase es difícil, aunque admito que es divertida. 
  * The class is difficult, although I admit that it is fun. 
+----------
+ * **agotado** :: exhausted (adjective)
+ * He trabajado todo el día; estoy agotado. 
+ * I've worked all day long; I'm exhausted. 
 ----------
  * **mientras** :: while (adverb)
  * Escucho música mientras lavo los platos. 
  * I listen to music while I wash the dishes. 
 ----------
+ * **amargamente** :: bitterly (adverb)
+ * La pobre niña se echó a llorar amargamente. 
+ * The poor girl started to cry bitterly. 
+----------
  * **en serio** :: seriously (adverb)
  * Mis amigos nunca me toman en serio. 
  * My friends never take me seriously. 
+----------
+ * **la desdicha** :: misfortune (noun)
+ * Para mi desdicha, mi suegra vive con nosotros. 
+ * Unfortunately for me, my mother-in-law lives with us. 
 ----------
  * **aquel** :: that over there (adjective)
  * Aquel hombre es mi profesor de inglés. 

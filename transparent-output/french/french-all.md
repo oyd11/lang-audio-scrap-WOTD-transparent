@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -375,17 +375,33 @@
  * Cet enfant est un vrai chenapan, il fait de vilaines blagues à longueur de journée. 
  * This kid is a rogue; he plays bad tricks all day long. 
 ----------
+ * **rêvasser** :: to daydream (verb)
+ * Ce n'est pas le moment de rêvasser car tu dois te concentrer si tu veux réussir cet examen. 
+ * This is no time to be daydreaming because you need to concentrate if you want to pass this exam. 
+----------
  * **l'équité** :: fairness (noun)
  * Les 3 premiers ont reçu un trophée et dans un souci d'équité, tous les participants ont reçu une petite médaille. 
  * The first three contestants received a trophy, and in the spirit of fairness the others received a little medal. 
+----------
+ * **la jarretière** :: garter (noun)
+ * Pendant la noce, les invités ont mis beaucoup de billets de 10 euros dans la jarretière de la jolie mariée. 
+ * During the reception, the guests placed many 10 Euro bills in the beautiful bride's garter. 
 ----------
  * **l'abri** :: shelter (noun)
  * La marchandise volée était cachée dans un abri à la campagne. 
  * The stolen merchandise was hidden in a shelter in the country. 
 ----------
+ * **les frites** :: fries (noun)
+ * Voulez-vous des frites avec ça? 
+ * Do you want fries with that? 
+----------
  * **la bouée** :: buoy (noun)
  * L'entrée de la zone de baignade est délimitée par les bouées jaunes que l'on aperçoit là-bas. 
  * The entrance of the swimming area is limited by those yellow buoys you can see over there. 
+----------
+ * **l'armurier** :: gunsmith (noun)
+ * J'ai trouvé ce magnifique fusil de collection chez l'armurier au coin de la rue. 
+ * I found this beautiful collector's rifle at the gunsmith on the street corner. 
 ----------
  * **le courant** :: current (noun)
  * La baignade est autorisée dans cette zone mais il faut tout de même faire attention au courant. 

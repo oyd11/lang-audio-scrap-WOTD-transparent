@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -561,11 +561,23 @@
  * Tā měitiān duànliàn shēntǐ. 
  * He exercises his body every day. 
 ----------
+ * **长** :: long (adjective)
+ * **cháng** 
+ * 密西西比河很长。 
+ * Mìxīxībǐhé hěn cháng. 
+ * The Mississippi River is very long. 
+----------
  * **舒服** :: comfortable, feeling well (adjective)
  * **shūfu** 
  * 我今天不舒服。 
  * Wǒ jīntiān bù shūfu. 
  * I am not feeling well today. 
+----------
+ * **小时** :: hour (noun)
+ * **xiǎoshí** 
+ * 三小时后她来。 
+ * Sān xiǎoshí hòu tā lái. 
+ * She will come three hours from now. 
 ----------
  * **每** :: every (adjective)
  * **měi** 
@@ -573,11 +585,23 @@
  * Měi gè xuésheng dōu yǒu shū. 
  * Every student has a book. 
 ----------
+ * **以后** :: later, after (adverb)
+ * **yǐhòu** 
+ * 午饭以后我去学校。 
+ * Wǔfàn yǐhòu wǒ qù xuéxiào. 
+ * I will go to school after lunch. 
+----------
  * **锻炼** :: to exercise (verb)
  * **duànliàn** 
  * 年轻人也要锻炼。 
  * Niánqīngrén yě yào duànliàn. 
  * Young people also need to exercise. 
+----------
+ * **准备** :: to prepare (verb)
+ * **zhǔnbèi** 
+ * 妈妈要准备午饭。 
+ * Māma yào zhǔnbèi wǔfàn. 
+ * Mother has to prepare lunch. 
 ----------
  * **头** :: head (noun)
  * **tóu** 

@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -375,17 +375,33 @@
  * میں تمہیں ایک درجن وجوہات دے سکتا ہوں کہ یہ کیوں ایک برا خیال ہے. 
  * I can give you a dozen reasons why this is a bad idea. 
 ----------
+ * **شیشا** :: crystal (adjective)
+ * ایک اچھا شیشے کا جھومر کمرے میں لٹکا ہے. 
+ * A fine crystal chandelier hangs in the room. 
+----------
  * **جلدی کرنا** :: to hurry (verb)
  * اگر ہم نے جلدی نہ کی، تو ہم سے بس چھوٹ جائے گی. 
  * If we don't hurry, we'll miss the bus. 
+----------
+ * **مُتراکب ہونا** :: overlapping (adjective)
+ * کبھی کبھی تنازعات ملازمت کے فرائض کے مُتراکب ہونے سے پیدا ہوتے ہیں. 
+ * Sometimes conflicts arise from overlapping job duties. 
 ----------
  * **دوش دینا** :: to blame (verb)
  * آپ اپنے مسائل کے لئے دوسرے لوگوں کو دوش نہیں دے سکتے. 
  * You can't blame other people for your problems. 
 ----------
+ * **مہمان** :: guests (noun)
+ * ہماری شادی کے مہمانوں کی آمد شروع ہو گئ ہے! 
+ * Our wedding guests are starting to arrive! 
+----------
  * **سورج** :: sun (noun)
  * باغات اچھی زمین، سورج، اور باقاعدگی سے پانی چاہتے ہیں. 
  * Gardens need good soil, sun, and regular watering. 
+----------
+ * **خاکہ** :: profile (noun)
+ * میری فیس بک خاکہ کا دورہ کرو. 
+ * Visit my Facebook profile. 
 ----------
  * **ہفتہ** :: week (noun)
  * کتنے ہفتے اس منصوبہ نے لینے ہیں؟ 

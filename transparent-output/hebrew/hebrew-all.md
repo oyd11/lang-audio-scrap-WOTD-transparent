@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -375,17 +375,33 @@
  * למה שלא תוריד את המעיל ותישאר קצת? 
  * Why don't you take off your coat and stay a while? 
 ----------
+ * **כאב-ראש** :: headache (expression)
+ * הפקקים בדרך הביתה הם כאב-ראש אחד גדול. 
+ * The traffic on my drive home is a real headache. 
+----------
  * **במבצע** :: on sale (expression)
  * אני לא ממש צריך את זה, אבל זה במבצע! 
  * I don't really need this, but it's on sale! 
+----------
+ * **בצל** :: onion (noun)
+ * אני שונאת בצל טרי בסלט ובכריכים! 
+ * I hate raw onion in salads and sandwiches! 
 ----------
  * **מגוחך** :: grotesque (adjective)
  * סצנת הקרב נראתה קצת מגוחכת. 
  * The fight scene looked quite grotesque. 
 ----------
+ * **צ'יפס** :: fries (noun)
+ * אתה רוצה גם צ'יפס? 
+ * Do you want fries with that? 
+----------
  * **למלמל** :: to mumble (verb)
  * "בסדר, אני אעשה את זה", מלמל ג'ון. 
  * "Fine, I'll do it," mumbled John. 
+----------
+ * **שפת-ים** :: beach (noun)
+ * היא ואני נלך מחר לשפת-הים 
+ * She and I will go to the beach tomorrow. 
 ----------
  * **למלא** :: to fill (verb)
  * למראהו בלבד היא מתמלאת באושר. 

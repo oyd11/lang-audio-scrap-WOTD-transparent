@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -375,17 +375,33 @@
  * An fíor-leathar é seo? 
  * Is this real leather? 
 ----------
+ * **Feicfidh mé thart thú.** :: I will see you around. (expression)
+ * Feicfidh mé thart thú. 
+ * I will see you around. 
+----------
  * **Teastaíonn... uaim.** :: I need... (expression)
  * Teastaíonn... uaim. 
  * I need... 
+----------
+ * **caora** :: sheep (noun)
+ * Féach, tá caora thuas ansin ar an gcnoc. 
+ * Look, there is a sheep up there on the hill. 
 ----------
  * **Tá do thír go halainn.** :: Your country is beautiful. (expression)
  * Tá do thír go halainn. 
  * Your country is beautiful. 
 ----------
+ * **mhonarcha** :: factory (noun)
+ * Buail liom ansin, taobh amuigh den mhonarcha. 
+ * Meet me there, outside of the factory. 
+----------
  * **Cad a dúirt tú?** :: What did you say? (expression)
  * Cad a dúirt tú? 
  * What did you say? 
+----------
+ * **radharc** :: view (noun)
+ * Bhí an radharc go hálainn ar fad. 
+ * The view was especially beautiful. 
 ----------
  * **Seo é mo phas.** :: Here is my passport. (expression)
  * Seo é mo phas. 

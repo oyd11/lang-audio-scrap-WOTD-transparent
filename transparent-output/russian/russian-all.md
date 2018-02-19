@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -375,17 +375,33 @@
  * Тридцать лет назад молния ударила в часы на башне. 
  * Thirty years ago, lightning struck that clock tower. 
 ----------
+ * **чувство** :: feeling (noun)
+ * Нам надо поговорить о наших чувствах. 
+ * We need to talk about our feelings. 
+----------
  * **больница** :: hospital (noun)
  * Где здесь больница? 
  * Which way is the hospital? 
+----------
+ * **хорошо выглядеть** :: to look good (phrase)
+ * Фуршетный стол хорошо выглядит. 
+ * This buffet looks good. 
 ----------
  * **не обращать внимания** :: to ignore (phrase)
  * Не обращай внимание на последнюю часть. 
  * Ignore that last part. 
 ----------
+ * **натравить собак** :: to set the dogs (on someone) (expression)
+ * Убирайтесь из моего сада, а то я натравлю на вас собак! 
+ * Get out of my orchard or I´ll set the dogs on you! 
+----------
  * **подразумевать** :: to imply (verb)
  * Как вы думаете, что подразумевалось в этой речи? 
  * What do you think the speech implied? 
+----------
+ * **с большим энтузиазмом** :: with great enthusiasm (phrase)
+ * Я начала этот проект с большим энтузиазмом. 
+ * I've started this project with great enthusiasm. 
 ----------
  * **налог** :: tax (noun)
  * Не забудьте заплатить налоги! 

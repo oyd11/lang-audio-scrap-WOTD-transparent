@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -375,17 +375,33 @@
  * Tolong isi formulir ini sambil Anda menunggu. 
  * Please fill out this form while you wait. 
 ----------
+ * **mengumumkan** :: to announce (verb)
+ * Mereka akan umumkan pemenangnya besok. 
+ * They will announce the winner tomorrow. 
+----------
  * **penumpang** :: passenger (noun)
  * Penumpang kendaraan itu tidak terluka. 
  * The passenger of the vehicle was unharmed. 
+----------
+ * **angsa** :: goose (noun)
+ * Ada dua angsa berisik tinggal di dekat kolam. 
+ * Two noisy geese live near the pond. 
 ----------
  * **latihan kebakaran** :: fire drill (noun)
  * Jangan panik, ini hanya latihan kebakaran. 
  * Don't panic, it's only a fire drill. 
 ----------
+ * **perak** :: silver (noun)
+ * Masalah dengan perak adalah cepat pudar. 
+ * The problem with silver is that it tarnishes so easily. 
+----------
  * **pipi** :: cheek (noun)
  * Waktu dia melihat saya, dia cium saya di pipi dua kali. 
  * When she saw me, she kissed me twice on the cheeks. 
+----------
+ * **kembang api** :: fireworks (noun)
+ * Kembang api menerangi langit. 
+ * Fireworks lit the night sky. 
 ----------
  * **brokoli** :: broccoli (noun)
  * Apakah Anda lebih suka makan brokoli rebus atau mentah? 

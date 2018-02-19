@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -375,17 +375,33 @@
  * वह विश्व रिकॉर्ड को तोड़ने की अपनी कोशिश में नाकाम रहा। 
  * He failed in his attempt to beat the world record. 
 ----------
+ * **कार डीलरशिप** :: car dealership (noun)
+ * मेरी स्थानीय कार डीलरशिप में वह मॉडल नहीं है जिसकी मुझे तलाश है। 
+ * My local car dealership doesn't have the model I'm looking for. 
+----------
  * **बहस** :: argument (noun)
  * हमारे बीच पैसों को लेकर बहस हो गई थी। 
  * We had an argument about money. 
+----------
+ * **बकरे जैसी दाढ़ी** :: goatee (noun)
+ * वह बकरे जैसी दाढ़ी के साथ डरावना लगता है। 
+ * He looks kind of sinister with a goatee. 
 ----------
  * **कार्यसूची** :: agenda (noun)
  * इस कार्यसूची पर दी गई छठी मद बहुत दिलचस्प लगती है। 
  * The sixth item on the agenda looks very interesting. 
 ----------
+ * **दिखाना** :: to show (verb)
+ * मुझे पैसा दिखाओ! 
+ * Show me the money! 
+----------
  * **सलाह देना** :: to advise (verb)
  * डॉक्टर ने उसे सलाह दी है कि उसे अपने बच्चे की देखभाल किस तरह करनी चाहिए। 
  * The doctor advised her how to take care of her baby. 
+----------
+ * **लाश** :: corpse (noun)
+ * पुलिस को अपराध स्थल पर दो लाशें मिली। 
+ * The police found two corpses at the scene of the crime. 
 ----------
  * **शुरू करना** :: to start (verb)
  * आओ पार्टी शुरू करें। 

@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -379,6 +379,14 @@
  * دا د نایي دوکان دی. 
  * This is a barber shop. 
 ----------
+ * **نایي** :: barber (noun)
+ * دا د نایي دوکان دی. 
+ * This is a barber shop. 
+----------
+ * **معرفی کول** :: to introduce (verb)
+ * زه خوشحاله یم چې تاسوته زمونږ راتلونکی ویاند ښاغلی جوردن چيس معرفي کړم. 
+ * I'm pleased to introduce our next speaker, Mr. Jordan Chase. 
+----------
  * **معرفی کول** :: to introduce (verb)
  * زه خوشحاله یم چې تاسوته زمونږ راتلونکی ویاند ښاغلی جوردن چيس معرفي کړم. 
  * I'm pleased to introduce our next speaker, Mr. Jordan Chase. 
@@ -386,6 +394,14 @@
  * **محتاج** :: destitute (adjective)
  * د نفوس اکثره برخه محتاجه ده. 
  * The majority of the population is destitute. 
+----------
+ * **محتاج** :: destitute (adjective)
+ * د نفوس اکثره برخه محتاجه ده. 
+ * The majority of the population is destitute. 
+----------
+ * **سمون لرل** :: to match (verb)
+ * د هغې د وا قعې بیان د رښتیا سره سمون نه لري. 
+ * Her version of the events does not match up with the truth. 
 ----------
  * **سمون لرل** :: to match (verb)
  * د هغې د وا قعې بیان د رښتیا سره سمون نه لري. 

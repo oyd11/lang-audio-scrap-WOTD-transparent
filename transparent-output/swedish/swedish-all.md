@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -375,17 +375,33 @@
  * Jag har nya sandaler. 
  * I have new sandals. 
 ----------
+ * **att köra (bil)** :: to drive (a car) (verb)
+ * Jag ska köra bil, så jag tar bara ett glas vatten. 
+ * I have to drive, so I'll just have a glass of water. 
+----------
  * **(en) fallskärm** :: parachute (noun)
  * Vad händer om fallskärmen inte öppnas? 
  * What would happen if the parachute doesn't open? 
+----------
+ * **(en) zigenare** :: gypsy (noun)
+ * Esmeralda i "Ringaren i Notre Dame" var zigenare. 
+ * Esmeralda in "The Hunchback of Notre Dame" was a gypsy. 
 ----------
  * **Vad sött!** :: How cute! (expression)
  * Är det här din son? Vad söt! 
  * Is this your son? How cute! 
 ----------
+ * **(ett) fel** :: fault (noun)
+ * Det är inte mitt fel. 
+ * It is not my fault. 
+----------
  * **(en) ankunge** :: duckling (noun)
  * Den fula ankungen växte upp till att bli en vacker svan. 
  * The ugly duckling grew up to be a beautiful swan. 
+----------
+ * **(ett) helvete** :: hell (noun)
+ * Tror du helvetet är en sådan dålig plats? 
+ * Do you think that hell will be such a bad place? 
 ----------
  * **att starta** :: to start (verb)
  * Bilen startar inte. 

@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -375,17 +375,33 @@
  * Tiang lakar ka Kuta. 
  * I will go to Kuta. 
 ----------
+ * **duri** :: in the back (biasa (common))
+ * Di duri ada lapangan tenis. 
+ * There is a tennis court in the back. 
+----------
  * **kabar** :: news (biasa (common))
  * Kenken kebare? 
  * How are you? 
+----------
+ * **negak** :: to sit (biasa (common))
+ * Tiang negak di sisin pasihe. 
+ * I am sitting on the beach. 
 ----------
  * **luung** :: good (biasa (common))
  * Luung sajaan. 
  * Very good. 
 ----------
+ * **jagi** :: to want to, will (alus (refined))
+ * Titiang jagi numbas woh-wohan. 
+ * I want to buy fruits. 
+----------
  * **dija** :: where (biasa (common))
  * Uli dija? 
  * Where are you from? 
+----------
+ * **sajaan** :: very, too, really (biasa (common))
+ * Salake manis sajaan. 
+ * The snakeskin fruit tastes very sweet. 
 ----------
  * **uli** :: from (biasa (common))
  * Tiang uli Amerika. 

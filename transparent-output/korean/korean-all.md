@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -375,17 +375,33 @@
  * 이 시험 때문에 밤새도록 공부했어요. 
  * I've been up all night studying for this test. 
 ----------
+ * **반복하다** :: to repeat (verb)
+ * 이해할 수 없습니다. 다시 반복해 주시겠어요? 
+ * I don't understand. Can you repeat that? 
+----------
  * **두통** :: headache (noun)
  * 어제 밤새 두통에 시달렸어요. 
  * I suffered from a headache all night long yesterday. 
+----------
+ * **언어** :: language (noun)
+ * 이 집에서 감히 어떻게 그런 언어를 사용하니? 
+ * How dare you use such language in this house? 
 ----------
  * **양파** :: onion (noun)
  * 전 샐러드나 샌드위치에 생양파 넣는 게 싫어요! 
  * I hate raw onion in salads and sandwiches! 
 ----------
+ * **동사** :: verb (noun)
+ * 동사는 동작을 나타내는 단어입니다. 
+ * A verb is an action word. 
+----------
  * **감자튀김** :: fries (noun)
  * 저것과 함께 감자튀김도 원하세요? 
  * Do you want fries with that? 
+----------
+ * **쓰다** :: to wear (verb)
+ * 우스꽝스러운 모자지만 당신이 쓰니 괜찮은데요! 
+ * It's a ridiculous hat, but you wear it well! 
 ----------
  * **해변** :: beach (noun)
  * 내일 저는 그 여자와 함께 해변에 갈 거예요. 

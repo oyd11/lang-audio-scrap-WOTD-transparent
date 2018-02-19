@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -375,17 +375,33 @@
  * We have a very calm dog. 
  * Temos um cachorro muito tranqüilo. 
 ----------
+ * **to permit** :: deixar (verb)
+ * I permit my son to drive my car. 
+ * Eu deixo meu filho dirigir meu carro. 
+----------
  * **trick** :: truque (noun)
  * The magician performs many magic tricks. 
  * O mágico faz muitos truques mágicos. 
+----------
+ * **hairy** :: cabeludo (adjective)
+ * Her husband is very hairy. 
+ * Seu marido é muito cabeludo. 
 ----------
  * **to choose** :: escolher (verb)
  * We have to choose a candidate in the elections. 
  * Temos que escolher um candidato nas eleições. 
 ----------
+ * **stubborn** :: teimoso (adjective)
+ * He is very stubborn and doesn't want to listen to me. 
+ * Ele é muito teimoso e não quer me ouvir. 
+----------
  * **Easter** :: Páscoa (noun)
  * Many people celebrate Easter. 
  * Muita gente celebra a Páscoa. 
+----------
+ * **exhausted** :: exausto (adjective)
+ * Enrique is exhausted after work. 
+ * Enrique está exausto após o trabalho. 
 ----------
  * **to cook** :: cozinhar (verb)
  * My mother cooks some delicious meals in the kitchen. 

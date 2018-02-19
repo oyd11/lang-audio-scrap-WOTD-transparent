@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -375,17 +375,33 @@
  * Stanotte ho sognato che ero in vacanza su un'isola tropicale! 
  * Last night I dreamt that I was on vacation on a tropical island! 
 ----------
+ * **fedele** :: faithful (adjective)
+ * Sono sposata da 30 anni e sono sempre stata fedele a mio marito. 
+ * I have been married for 30 years and I have always been faithful to my husband. 
+----------
  * **La polvere** :: dust (noun)
  * I laboratori devono essere completamente privi di polvere. 
  * The laboratories must be completely dust-free. 
+----------
+ * **meritare** :: to deserve (verb)
+ * Firenze è una città bellissima che merita assolutamente una visita. 
+ * Florence is a very beautiful city that absolutely deserves a visit. 
 ----------
  * **nuovo** :: new (adjective)
  * L'articolo sull'anoressia sarà pubblicato nel nuovo numero della rivista. 
  * The article on anorexia will be published in the new issue of the magazine. 
 ----------
+ * **quasi** :: almost (adverb)
+ * Il fiume ha quasi raggiunto il livello di guardia, c'è rischio d'inondazione. 
+ * The river has almost reached the danger level; there is a risk of flooding. 
+----------
  * **La questione** :: matter (noun)
  * Qualche volta il fare carriera è questione di fortuna. 
  * Sometimes career opportunities are a matter of luck. 
+----------
+ * **La sabbia** :: sand (noun)
+ * La sabbia dell'Isola di Vulcano è nera perché è lava. 
+ * The sand of Vulcano Island is black because it is lava. 
 ----------
  * **tirare** :: to pull (verb)
  * Anna piange perché Andrea le ha tirato i capelli. 

@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -561,11 +561,23 @@
  * Mainichi no seikatsu ga juujitsu shiteiru. 
  * My daily life is fulfilling. 
 ----------
+ * **のどがかわいた** :: I am thirsty. (expression)
+ * **nodo ga kawaita** 
+ * のどがかわいて、死にそうです。 
+ * Nodoga kawaite, shinisou desu. 
+ * I am so thirsty, I feel like I am dying. 
+----------
  * **合格する** :: to pass a test (verb)
  * **goukaku suru** 
  * 大学試験に合格した。 
  * Daigakushiken ni goukaku shita. 
  * I passed the entrance exam of the university. 
+----------
+ * **どういたしまして** :: You are welcome. (expression)
+ * **douitashimashite** 
+ * どういたしまして。また何かあったら、言ってください。 
+ * Douitashimashite. Mata nanika attara itte kudasai. 
+ * You are welcome. If there is anything I can do, please let me know. 
 ----------
  * **現金** :: cash (noun)
  * **genkin** 
@@ -573,11 +585,23 @@
  * Genkin o amari mochiarukanai houga ii. 
  * You had better not carry cash around. 
 ----------
+ * **コンビニ** :: convenience store (noun)
+ * **konbini** 
+ * コンビニでお昼ご飯を買った。 
+ * Konbini de ohiru o katta. 
+ * I bought lunch at a convenience store. 
+----------
  * **アレルギー** :: allergy (noun)
  * **arerugî** 
  * 私は花粉アレルギーです。 
  * Watashi wa kafun arerugî desu. 
  * I have an allergy to pollen. 
+----------
+ * **消しゴム** :: eraser (noun)
+ * **keshigomu** 
+ * 消しゴムを貸してください。 
+ * Keshigomu wo kashite kudasai. 
+ * May I borrow an eraser? 
 ----------
  * **割り勘** :: splitting of the bill (noun)
  * **warikan** 

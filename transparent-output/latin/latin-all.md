@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -375,17 +375,33 @@
  * Qui dormit non peccat. 
  * One who sleeps does not sin. 
 ----------
+ * **subitus** :: sudden (adjective)
+ * Etiam fortes viri subitis periculis terrentur. 
+ * Even brave men are frightened by sudden dangers. 
+----------
  * **longus** :: long (adjective)
  * Consilia regis bello longo et difficili delebantur. 
  * The plans of the king were destroyed by a long and difficult war. 
+----------
+ * **similis** :: like, similar, resembling (adjective)
+ * Non est ei similis. 
+ * There is no one like him. 
 ----------
  * **nasci** :: to be born (verb)
  * Poeta nascitur, non fit. 
  * A poet is born, not made. 
 ----------
+ * **clarus** :: clear, bright (adjective)
+ * Consilia Ciceronis sunt clara nobis. 
+ * Cicero's plans are clear to us. 
+----------
  * **subitus** :: sudden (adjective)
  * Etiam fortes viri subitis periculis terrentur. 
  * Even brave men are frightened by sudden dangers. 
+----------
+ * **delectare** :: to be pleasant, to charm (verb)
+ * Nihil agere delectat. 
+ * It is pleasant to do nothing. 
 ----------
  * **similis** :: like, similar, resembling (adjective)
  * Non est ei similis. 

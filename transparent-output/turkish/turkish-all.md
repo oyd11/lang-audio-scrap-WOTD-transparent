@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -375,17 +375,33 @@
  * Zahmet olmadan rahmet olmaz. 
  * No pain, no gain. 
 ----------
+ * **mezun olmak** :: to graduate (verb)
+ * Erkek kardeşim bir aya kadar mezun olacak. 
+ * My brother will graduate in a month. 
+----------
  * **tartışmalı** :: controversial (adjective)
  * Bu televizyon programı, çok şiddet içerdiği için tartışmalıdır. 
  * This television show is controversial for being so violent. 
+----------
+ * **çim biçme makinası** :: lawnmower (noun)
+ * Çim biçme makinası için benzin gerekli. 
+ * The lawnmower needs gasoline. 
 ----------
  * **kalkan** :: shield (noun)
  * Şövalye, darbeyi kalkanıyla bloke etti. 
  * The knight blocked the blow with his shield. 
 ----------
+ * **çayır** :: meadow (noun)
+ * Uçurumun altında geniş bir çayır var. 
+ * A vast meadow spreads out below the cliff. 
+----------
  * **tokalaşmak** :: to shake hands (expression)
  * Tokalaşın ve barışın. 
  * Shake hands and make up. 
+----------
+ * **tarih** :: history (noun)
+ * Üniversitede tarih okudular. 
+ * They studied history at the university. 
 ----------
  * **sakız** :: gum (noun)
  * Hem yürüyüp hem de aynı zamanda sakız çiğneyemem. 

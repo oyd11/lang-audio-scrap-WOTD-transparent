@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -375,17 +375,33 @@
  * He welcomed us very affectionately. 
  * Él nos recibió muy amablemente. 
 ----------
+ * **to attend** :: asistir a (verb)
+ * My son attends the university. 
+ * Mi hijo asiste a la universidad. 
+----------
  * **to smell** :: oler (verb)
  * I like to smell the flowers. 
  * Me gusta oler las flores. 
+----------
+ * **to find out** :: averiguar (verb)
+ * I have to find out the truth. 
+ * Tengo que averiguar la verdad. 
 ----------
  * **narrow** :: estrecho (adjective)
  * The tunnel in the cave is narrow. 
  * El túnel en la cueva es estrecho. 
 ----------
+ * **maid** :: criada (noun)
+ * The maid cleans the mansion. 
+ * La criada limpia la mansión. 
+----------
  * **stubborn** :: tozudo (adjective)
  * He is very stubborn and doesn't want to listen. 
  * Él es muy tozudo y no quiere escucharme. 
+----------
+ * **rag** :: trapo (noun)
+ * I use a rag to clean the lightbulbs. 
+ * Uso un trapo para limpiar las bombillas. 
 ----------
  * **laptop computer** :: portátil (noun)
  * I want to buy a new laptop computer. 

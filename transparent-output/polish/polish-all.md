@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -375,17 +375,33 @@
  * Ta instrukcja obsługi jest bardzo dziwna. 
  * This user's manual is very strange. 
 ----------
+ * **uczciwy** :: honest (adjective)
+ * Uczciwy taksówkarz zwrócił moją torebkę. 
+ * An honest taxi driver returned my purse. 
+----------
  * **głodny** :: hungry (adjective)
  * On jest zawsze głodny. 
  * He is always hungry. 
+----------
+ * **świeży** :: fresh (adjective)
+ * Uwielbiam zapach świeżego chleba. 
+ * I love the smell of fresh bread. 
 ----------
  * **młody** :: young (adjective)
  * Oni są za młodzi, aby to pamiętać. 
  * They are too young to remember it. 
 ----------
+ * **jeść** :: to eat (verb)
+ * Jestem wegetarianką, nie jem mięsa. 
+ * I'm a vegetarian, I don't eat meat. 
+----------
  * **uczciwy** :: honest (adjective)
  * Uczciwy taksówkarz zwrócił moją torebkę. 
  * An honest taxi driver returned my purse. 
+----------
+ * **odwiedzać** :: to visit (verb)
+ * W każdą niedzielę odwiedzam moją mamę. 
+ * Every Sunday I visit my mother. 
 ----------
  * **świeży** :: fresh (adjective)
  * Uwielbiam zapach świeżego chleba. 

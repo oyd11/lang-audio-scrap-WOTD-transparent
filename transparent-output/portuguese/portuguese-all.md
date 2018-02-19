@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -375,17 +375,33 @@
  * Em que rua você mora? 
  * What street do you live on? 
 ----------
+ * **cachorro** :: dog (noun)
+ * Seu cachorro está estragando meu jardim! 
+ * Your dog's ruining my garden! 
+----------
  * **avião** :: airplane (noun)
  * Vou de avião para o Rio de Janeiro. 
  * I am going to Rio de Janeiro by airplane. 
+----------
+ * **santo** :: saint (noun)
+ * Não sou santo. 
+ * I'm not a saint. 
 ----------
  * **batata** :: potato (noun)
  * Batata cozida é meu prato favorito. 
  * Baked potato is my favorite dish. 
 ----------
+ * **desconhecido** :: unknown (noun)
+ * Seu paradeiro é desconhecido, mas acho que ele fugiu do país. 
+ * His whereabouts are unknown, but I think he fled the country. 
+----------
  * **praia** :: beach (noun)
  * Minha família adora praia. 
  * My family loves the beach. 
+----------
+ * **apoio** :: support (noun)
+ * Obrigado pelo seu apoio. 
+ * Thanks for your support. 
 ----------
  * **pimenta** :: pepper (noun)
  * Nós comemos comida com pimenta. 

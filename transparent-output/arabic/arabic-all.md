@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -375,17 +375,33 @@
  * لم يرد على رسالتي الأخيرة بعد. 
  * He didn't reply to my last letter yet. 
 ----------
+ * **مرحاض** :: toilet (noun)
+ * أين المرحاض من فضلك؟ 
+ * Where is the toilet, please? 
+----------
  * **نسى** :: to forget (verb)
  * نسيتْ أن توقّع جواز سفرها. 
  * She forgot to sign her passport. 
+----------
+ * **حمَام** :: bathroom (noun)
+ * هل هناك بانيو في الحمام؟ 
+ * Is there a bathtub in the bathroom? 
 ----------
  * **وجد** :: to find (verb)
  * من وجد المفتاح؟ 
  * Who found the key? 
 ----------
+ * **جميل** :: beautiful (adjective)
+ * هذه صورة جميلة. 
+ * This is a beautiful picture. 
+----------
  * **شرب** :: to drink (verb)
  * ماذا تريد أن تشرب؟ 
  * What would you like to drink? 
+----------
+ * **سبح** :: to swim (verb)
+ * أسبح كل يوم. 
+ * I swim every day. 
 ----------
  * **ذهب** :: to go (verb)
  * والدي ووالدتي سيذهبان لحفل موسيقي غداً. 

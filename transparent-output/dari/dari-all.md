@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -375,17 +375,33 @@
  * من آخرین مادل را نخریدم بخاطریکه بسیار قیمت است. 
  * I didn't buy the most recent model because it's so expensive. 
 ----------
+ * **متن** :: script (noun)
+ * متن فلم اخیرش را خودش نوشت. 
+ * He wrote the script for his latest movie himself. 
+----------
  * **کیبورد** :: keyboard (noun)
  * من نمیفهمم که چطور کیبورد را صفحه آرایی کنم. 
  * I don't know how to change the keyboard layout. 
+----------
+ * **سونامی** :: tsunami (noun)
+ * در منطقه اخطار سونامی داده شده است. 
+ * There is a tsunami alert in this area. 
 ----------
  * **سیب** :: apple (noun)
  * روزانه خوردن یک سیب داکتر را دور نگهمیدارد. 
  * An apple a day keeps the doctor away. 
 ----------
+ * **استفاده کننده انترنت** :: internet user, web surfer (noun)
+ * اکثراستفاده کننده گان انترنت اتصال با سرعت توقع دارند. 
+ * Most internet users expect fast connection speeds. 
+----------
  * **اخطار دادن** :: to warn (verb)
  * برای آخرین بار شما را اخطار میدهم. 
  * That's the last time I'm going to warn you. 
+----------
+ * **چوتی** :: dreadlocks (noun)
+ * چوتی به شما خوب معلوم نمیشود. 
+ * Dreadlocks don't look good on you. 
 ----------
  * **صحت** :: health (noun)
  * صحت بهتر از مال است. 

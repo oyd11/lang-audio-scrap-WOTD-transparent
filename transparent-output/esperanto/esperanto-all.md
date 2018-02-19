@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 411 phrases 
+ 415 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -375,17 +375,33 @@
  * Lia sandviĉo enhavas porkaĵon. 
  * His sandwich has pork in it. 
 ----------
+ * **narciso** :: daffodil (noun)
+ * Narcisoj bordas ambaŭajn flankojn de la strato. 
+ * Daffodils line both sides of the road. 
+----------
  * **porti** :: to carry (verb)
  * Permesu min porti la sakon pro vi. 
  * Let me carry the bag for you. 
+----------
+ * **neebla** :: impossible (adjective)
+ * Vi ne povas fari neeblan taskon. 
+ * You cannot do an impossible task. 
 ----------
  * **pozi** :: to pose (verb)
  * Ili pozis por grupa foto. 
  * They posed for a group photograph. 
 ----------
+ * **neĝi** :: to snow (verb)
+ * Laŭ la prognozo, neĝos morgaŭ. 
+ * The forecast says that it will snow tomorrow. 
+----------
  * **presi** :: to print (verb)
  * Ili presis cent kopiojn de la libro. 
  * They printed one hundred copies of the book. 
+----------
+ * **pruntedonanto** :: lender (noun)
+ * Estu nek pruntedonanto nek prunteprenanto. 
+ * Neither a lender nor a borrower be. 
 ----------
  * **prezidanto** :: president (noun)
  * Ni elektas prezidanton ĉiun kvaran jaron. 
