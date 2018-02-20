@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 'use strict'
 
 /////// include libs ////
@@ -17,7 +18,7 @@ let outputBasedir = "./inno-download"
 let dateFormat = "YYYY-MM-DD"
 let nowDate = moment()
 //let startDate = moment("2011-09-18", dateFormat)
-let startDate = moment("2017-01-01", dateFormat)
+let startDate = moment("2017-12-01", dateFormat)
 
 ///// prelude :: ///
 
