@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -407,25 +407,49 @@
  * Seo é mo phas. 
  * Here is my passport. 
 ----------
+ * **Bain sult as!** :: Have a good time! (expression)
+ * Bain sult as! 
+ * Have a good time! 
+----------
  * **Conas atá do mhuintir?** :: How is your family? (expression)
  * Conas atá do mhuintir? 
  * How is your family? 
+----------
+ * **Bain sult as an deireadh seachtaine.** :: Have a good weekend. (expression)
+ * Bain sult as an deireadh seachtaine. 
+ * Have a good weekend. 
 ----------
  * **Tá mo chos briste.** :: My leg is broken. (expression)
  * Tá mo chos briste. 
  * My leg is broken. 
 ----------
+ * **Is trua liom é sin.** :: I'm sorry. (expression)
+ * Is trua liom é sin. 
+ * I'm sorry. 
+----------
  * **Is saoránach de... mé.** :: I am a citizen of... (expression)
  * Is saoránach de... mé. 
  * I am a citizen of... 
+----------
+ * **Tá deifir orainn.** :: We are in a hurry. (expression)
+ * Tá deifir orainn. 
+ * We are in a hurry. 
 ----------
  * **Rinne mé botún.** :: I made a mistake. (expression)
  * Rinne mé botún. 
  * I made a mistake. 
 ----------
+ * **Tá sé sin suimiúil.** :: That's interesting. (expression)
+ * Tá sé sin suimiúil. 
+ * That's interesting. 
+----------
  * **an móideim** :: the modem (noun)
  * Tá móideim nua agam. 
  * I have a new modem. 
+----------
+ * **Cá bhfuil an staighre beo?** :: Where is the escalator? (expression)
+ * Cá bhfuil an staighre beo? 
+ * Where is the escalator? 
 ----------
  * **an luch** :: the mouse (noun)
  * Arbh fhearr leat luch gan sreang? 

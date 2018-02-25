@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -609,11 +609,23 @@
  * Warikan de haraou. 
  * Let's split the bill. 
 ----------
+ * **電気** :: electricity (noun)
+ * **denki** 
+ * ちょっと、電気つけて。 
+ * Chotto, denki tsukete. 
+ * Please turn on the electricity. 
+----------
  * **エンタメ** :: entertainment (noun)
  * **entame** 
  * 今日のエンタメニュースをまだ読んでいない。 
  * Kyou no entame nyûsu o mada yonde inai. 
  * I have not yet read the entertainment news today. 
+----------
+ * **すごい** :: great (adjective)
+ * **sugoi** 
+ * あの映画はすごいよ。 
+ * Ano eiga wa sugoi yo. 
+ * That movie is great. 
 ----------
  * **ゲットする** :: to get (verb)
  * **getto suru** 
@@ -621,11 +633,23 @@
  * Konsâto no chiketto o getto shitayo. 
  * I got the ticket for the concert. 
 ----------
+ * **高い** :: high, expensive (adjective)
+ * **takai** 
+ * フランスに行きたいけど、飛行機代が高すぎて行けない。 
+ * Furansu ni ikitai kedo hikoukidai ga takasugite ikenai. 
+ * I want to go to France but the airplane ticket is too expensive to go. 
+----------
  * **敵** :: enemy (noun)
  * **teki** 
  * 彼を敵にまわさないほうがいいですよ。 
  * Kare o teki ni mawasanai houga iidesuyo. 
  * Do not make him your enemy. 
+----------
+ * **安い** :: cheap (adjective)
+ * **yasui** 
+ * 日本に行くのは安くない。 
+ * Nihon ni iku nowa yasukunai. 
+ * Going to Japan is not cheap. 
 ----------
  * **味方** :: ally (noun)
  * **mikata** 
@@ -633,11 +657,23 @@
  * Karega watashitachi no mikata da. 
  * He is our ally. 
 ----------
+ * **二酸化炭素** :: carbon dioxide (noun)
+ * **nisankatanso** 
+ * 温室効果ガスの大部分は二酸化炭素だ。 
+ * Onshitsukoukagasu no daibubun wa nisankatanso da. 
+ * The majority of greenhouse gas is carbon dioxide. 
+----------
  * **留学する** :: to study abroad (verb)
  * **ryuugaku suru** 
  * フランスに留学してみたい。 
  * Furansu ni ryuugaku shite mitai. 
  * I would like to study abroad in France. 
+----------
+ * **排出量** :: emission (noun)
+ * **haishutsuryou** 
+ * 二酸化炭素の排出量を減らさなければならない。 
+ * Nisankatanso no haishuturyou o herasanakereba naranai. 
+ * We must reduce carbon dioxide emissions. 
 ----------
  * **感謝する** :: to appreciate (verb)
  * **kansha suru** 

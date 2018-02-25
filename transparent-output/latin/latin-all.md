@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -407,25 +407,49 @@
  * Non est ei similis. 
  * There is no one like him. 
 ----------
- * **clarus** :: clear, bright (adjective)
- * Consilia Ciceronis sunt clara nobis. 
- * Cicero's plans are clear to us. 
-----------
- * **delectare** :: to be pleasant, to charm (verb)
- * Nihil agere delectat. 
- * It is pleasant to do nothing. 
-----------
  * **hostis** :: enemy (noun)
  * Fas est ab hoste doceri. 
  * It is right to be taught by one's enemy. 
+----------
+ * **clarus** :: clear, bright (adjective)
+ * Consilia Ciceronis sunt clara nobis. 
+ * Cicero's plans are clear to us. 
 ----------
  * **ferus** :: savage, fierce (adjective)
  * Musica delenit bestiam feram. 
  * Music soothes the savage beast. 
 ----------
+ * **delectare** :: to be pleasant, to charm (verb)
+ * Nihil agere delectat. 
+ * It is pleasant to do nothing. 
+----------
  * **fluere** :: to flow (verb)
  * Omnia mutantur; omnia fluunt; quod fuimus aut sumus, cras non erimus. 
  * All things change; all things flow; what we have been or are, tomorrow we will not be. 
+----------
+ * **hostis** :: enemy (noun)
+ * Fas est ab hoste doceri. 
+ * It is right to be taught by one's enemy. 
+----------
+ * **minimus** :: smallest, very small (adjective)
+ * Maximus in minimis. 
+ * He is greatest in the smallest things. 
+----------
+ * **ferus** :: savage, fierce (adjective)
+ * Musica delenit bestiam feram. 
+ * Music soothes the savage beast. 
+----------
+ * **timor** :: fear (noun)
+ * Amor misceri cum timore non potest. 
+ * Love cannot be mixed with fear. 
+----------
+ * **fluere** :: to flow (verb)
+ * Omnia mutantur; omnia fluunt; quod fuimus aut sumus, cras non erimus. 
+ * All things change; all things flow; what we have been or are, tomorrow we will not be. 
+----------
+ * **sera** :: late, too late (adverb)
+ * Cineri gloria sera venit. 
+ * Fame comes too late to the dead. 
 ----------
  * **minimus** :: smallest, very small (adjective)
  * Maximus in minimis. 

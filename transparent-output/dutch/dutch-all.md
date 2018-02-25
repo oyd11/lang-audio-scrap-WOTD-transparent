@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -407,25 +407,49 @@
  * De lucht is bewolkt. 
  * The sky is overcast. 
 ----------
+ * **verkennen** :: to explore (verb)
+ * Op onze reis door Egypte besloten we de omgeving wat te verkennen. 
+ * On our trip through Egypt we decided to explore our surroundings. 
+----------
  * **de boom** :: tree (noun)
  * Je kunt door de bomen het bos niet meer zien. 
  * You can't see the forest for the trees. 
+----------
+ * **vrolijk** :: merry (adjective)
+ * Ik wens je een Vrolijk Kerstfeest en een Gelukkig Nieuwjaar! 
+ * I wish you a Merry Christmas and a Happy New Year! 
 ----------
  * **genoeg** :: enough (expression)
  * En nou is het genoeg! 
  * Enough already! 
 ----------
+ * **bedrieglijk** :: deceptive (adjective)
+ * De onverwachte bochten in landwegen kunnen bedrieglijk zijn. 
+ * The unexpected curves in country roads can be deceptive. 
+----------
  * **sleutels** :: keys (noun)
  * Ik ben mijn sleutels alweer kwijt. 
  * I have lost my keys again. 
+----------
+ * **aimabel** :: amiable (adjective)
+ * De deal werd op aimabele wijze gesloten. 
+ * The deal was closed in amiable circumstances. 
 ----------
  * **het gevaar** :: danger (noun)
  * Deze dieren zijn in gevaar; ze worden met uitsterven bedreigd. 
  * These animals are in danger; they are in danger of extinction. 
 ----------
+ * **kandelaar** :: candlestick (noun)
+ * Ik heb onlangs een hele mooie antieke kandelaar gekocht bij een kringloopwinkel. 
+ * I recently bought a beautiful antique candlestick at a second hand store. 
+----------
  * **vereisen** :: to require (verb)
  * Sommige dagen vereisen meer koffie dan andere dagen. 
  * Some days require more coffee than others. 
+----------
+ * **brullen** :: to roar (verb)
+ * De twee leeuwen brulden verontwaardigd naar elkaar. 
+ * The two lions roared at each other indignantly. 
 ----------
  * **koken** :: to cook (verb)
  * Ik ben dol op koken met wijn. 

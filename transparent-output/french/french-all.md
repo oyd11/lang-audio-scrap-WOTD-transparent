@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -407,25 +407,49 @@
  * La baignade est autorisée dans cette zone mais il faut tout de même faire attention au courant. 
  * Swimming is permitted in this area but you still have to be careful of the current. 
 ----------
+ * **désemparé** :: distraught (adjective)
+ * Cette mauvaise nouvelle me laisse complètement désemparée ! 
+ * This bad news is leaving me totally distraught! 
+----------
  * **le bougeoir** :: candle holder (noun)
  * Ma cousine a une superbe collection de bougeoirs dans lesquelles elle dispose des bougies parfumées. 
  * My cousin has a very nice collection of candle holders in which she displays scented candles. 
+----------
+ * **démesuré** :: immoderate (adjective)
+ * On dit de cet homme qu'il a un égo démesuré ; l'humilité n'est pas donnée à tout le monde. 
+ * People say that this man has an immoderate ego; humility is not a given. 
 ----------
  * **s'avérer** :: turn out to be (verb)
  * Cette affaire qui semblait une des plus sérieuses s'est avérée n'être qu'une mascarade. 
  * This affair, which seemed to be one of the most serious, turned out to be only a masquerade. 
 ----------
+ * **le beau parleur** :: smooth talker (noun)
+ * Don Juan était un beau-parleur ; ainsi obtenait-il tout ce qu'il voulait. 
+ * Don Juan was a smooth talker; that's how he got everything he wanted. 
+----------
  * **la vérité** :: truth (noun)
  * La vérité existe quelque part. 
  * The truth is out there. 
+----------
+ * **l'empreinte digitale** :: fingerprint (noun)
+ * Son empreinte digitale trouvée sur le lieu du crime est une preuve irréfutable. 
+ * His fingerprint found on the crime scene is an irrefutable piece of evidence. 
 ----------
  * **le pot-de-vin** :: bribe (noun)
  * Le maire de cette petite ville tranquille est poursuivi pour une affaire de pots-de-vin. 
  * The mayor of this quiet little town is being taken to court on a bribery charge. 
 ----------
+ * **le savoir-vivre** :: good manners (noun)
+ * Avant d'organiser cette réception, Stéphanie a voulu prendre des cours de savoir-vivre. 
+ * Before organizing this reception, Stephanie wanted to take courses in good manners. 
+----------
  * **la toile de maître** :: masterpiece (noun)
  * Ce Monet, une véritable toile de maître, a été vendu aux enchères pour plus de 4 millions d'euros. 
  * This Monet, a real masterpiece, has been sold at auction for more than 4 million Euros. 
+----------
+ * **le cache-cache** :: hide and seek (noun)
+ * Pour la fête d'anniversaire de Chloé, les enfants ont fait une longue partie de cache-cache. 
+ * At Chloe's birthday party, the children played hide and seek for a long time. 
 ----------
  * **l'enquêteur** :: investigator (noun)
  * Le siège européen de la société a envoyé un enquêteur spécialisé concernant les problèmes de comptabilité. 

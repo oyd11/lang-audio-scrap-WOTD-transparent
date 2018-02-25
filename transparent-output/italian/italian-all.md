@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -407,25 +407,49 @@
  * Anna piange perché Andrea le ha tirato i capelli. 
  * Anna is crying because Andrea pulled her hair. 
 ----------
+ * **La cognata** :: sister-in-law (noun)
+ * Mia cognata è una donna simpaticissima, ma talvolta è un po' maleducata. 
+ * My sister-in-law is a very nice person, but sometimes she is a bit rude. 
+----------
  * **superare** :: to pass (verb)
  * Abbiamo già superato le indicazioni per il centro? 
  * Did we already pass the signs for the city center? 
+----------
+ * **giurare** :: to promise (verb)
+ * Mi giuri che questa volta arriverai puntuale? 
+ * Do you promise me that this time you will arrive on time? 
 ----------
  * **L'uccello** :: bird (noun)
  * Gli uccelli rapaci di solito hanno artigli molto forti. 
  * Birds of prey usually have very strong claws. 
 ----------
+ * **Il tetto** :: roof (noun)
+ * È proibito salire sul tetto senza la cintura di sicurezza. 
+ * It is forbidden to go on the roof without a safety belt. 
+----------
  * **risparmiare** :: to save (verb)
  * L'anno prossimo con il nuovo piano finanziario risparmieremo 15.000 euro. 
  * Next year with the new financial plan we will save 15,000 euro. 
+----------
+ * **calare** :: to set (verb)
+ * Quando cala il sole, in montagna fa sempre molto freddo. 
+ * When the sun sets, it is always very cold in the mountains. 
 ----------
  * **guadagnare** :: to earn (verb)
  * Con il nuovo contratto gli operai guadagneranno di più. 
  * With the new contract the workers will earn more. 
 ----------
+ * **lieto** :: happy (adjective)
+ * Le ore più liete della giornata sono quelle che passo con gli amici. 
+ * The happiest hours of the day are those that I spend with my friends. 
+----------
  * **Il tramonto** :: sunset (noun)
  * Il tramonto sul mare è molto romantico e pittoresco. 
  * The sunset on the sea is very romantic and picturesque. 
+----------
+ * **L'augurio** :: wish (noun)
+ * Auguri di buon Natale e felice Anno Nuovo! 
+ * Best wishes for a Merry Christmas and a Happy New Year! 
 ----------
  * **L'opera** :: work (noun)
  * Questa scultura è un'opera d'arte inestimabile. 

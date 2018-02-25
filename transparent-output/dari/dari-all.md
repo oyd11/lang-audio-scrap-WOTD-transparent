@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -407,25 +407,49 @@
  * صحت بهتر از مال است. 
  * Health is better than wealth. 
 ----------
+ * **تکان دهنده** :: shocking (adjective)
+ * فلمبرداری تصادم بسیار تکان دهنده بود. 
+ * The footage of the accident was shocking. 
+----------
  * **خنده** :: laughter (noun)
  * خنده بهترین دوا است. 
  * Laughter is the best medicine. 
+----------
+ * **لب کشال بودن** :: to pout (verb)
+ * به خواهرت چی گفتی؟ باز لبهایش کشال است. 
+ * What did you say to your sister? She's pouting again. 
 ----------
  * **سرد** :: cold (adjective)
  * من آب سرد میخواهم. 
  * I want cold water. 
 ----------
+ * **با تو** :: by your side (expression)
+ * من میخواهم تمام زنده گی ام را با تو سپری نمایم. 
+ * I want to spend the rest of my life by your side. 
+----------
  * **دستمال کاغذی** :: napkin (noun)
  * میتوانید برایم یک دستمال کاغذی دیگر هم بیارید؟ 
  * Can you bring me another napkin, please? 
+----------
+ * **هدف** :: target (noun)
+ * تیر مرکز هدف را زد. 
+ * The arrow hit the center of the target. 
 ----------
  * **قهر** :: anger (noun)
  * در وقت قهر احساساتی نشوید. 
  * Don't get carried away by anger. 
 ----------
+ * **کلچه** :: cookies (noun)
+ * مادرم همیشه در کرسمس برایم یک قوطی کلچه روان میکند. 
+ * My mother always sends me a tin of cookies for Christmas. 
+----------
  * **بخشیدن** :: to forgive (verb)
  * خطا کردن صفت انسان است و بخشیدن صفت خداوند. 
  * To err is human; to forgive, divine. 
+----------
+ * **در هزار سال هم نی** :: not in a million years (expression)
+ * آن فلم را در هزار سال هم نخواهم دید. 
+ * I wouldn't watch that movie in a million years. 
 ----------
  * **فشار روانی** :: stress (noun)
  * در این کشور فشار روانی زیاد نیست. 

@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -407,25 +407,49 @@
  * Hem yürüyüp hem de aynı zamanda sakız çiğneyemem. 
  * I can't walk and chew gum at the same time. 
 ----------
+ * **saat** :: clock (noun)
+ * Otuz yıl önce saat kulesine yıldırım çarptı. 
+ * Thirty years ago, lightning struck that clock tower. 
+----------
  * **çok pahalı olmak** :: to be very expensive (expression)
  * En son modelini almadım, çünkü çok pahalı. 
  * I didn't buy the most recent model because it's very expensive. 
+----------
+ * **hastane** :: hospital (noun)
+ * Hastane nerede? 
+ * Where is the hospital? 
 ----------
  * **klavye** :: keyboard (noun)
  * Klavye düzenini nasıl değiştireceğimi bilmiyorum. 
  * I don't know how to change the keyboard layout. 
 ----------
+ * **göz ardı etmek** :: to ignore (verb)
+ * O son bölümü göz ardı et. 
+ * Ignore that last part. 
+----------
  * **elma** :: apple (noun)
  * Günde bir elma yemek, doktoru uzak tutar. 
  * Eating an apple a day keeps the doctor away. 
+----------
+ * **kastetmek** :: to imply (verb)
+ * Konuşma sence neyi kastetti? 
+ * What do you think the speech implied? 
 ----------
  * **uyarmak** :: to warn (verb)
  * Seni son kez uyarıyorum. 
  * That's the last time I'm going to warn you. 
 ----------
+ * **vergi** :: tax (noun)
+ * Vergilerini ödemeyi unutma! 
+ * Do not forget to pay your taxes! 
+----------
  * **sağlık** :: health (noun)
  * Sağlık varlıktan daha iyidir. 
  * Health is better than wealth. 
+----------
+ * **doğaçlama yapmak** :: to improvise (verb)
+ * Aktörler tüm sahneyi doğaçlama yaptı. 
+ * The actors improvised the entire scene. 
 ----------
  * **gülmek** :: laughter (noun)
  * Gülmek en iyi ilaçtır. 

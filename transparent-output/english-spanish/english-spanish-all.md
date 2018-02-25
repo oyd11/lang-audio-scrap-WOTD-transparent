@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -407,25 +407,49 @@
  * I want to buy a new laptop computer. 
  * Quiero comprarme un nuevo portátil. 
 ----------
+ * **raw** :: crudo (adjective)
+ * You should never eat raw meat. 
+ * Nunca se debe comer la carne cruda. 
+----------
  * **chicken pox** :: varicela (noun)
  * When I was little I got the chicken pox. 
  * Cuando era pequeño tuve la varicela. 
+----------
+ * **juicy** :: jugoso (adjective)
+ * The papaya is a really juicy fruit. 
+ * La papaya es una fruta bien jugosa. 
 ----------
  * **to help** :: atender (verb)
  * The nurse helps the patients. 
  * La enfermera atiende a los pacientes. 
 ----------
+ * **raisin** :: pasa (noun)
+ * I make oatmeal raisin cookies for my friends. 
+ * Preparo las galletas de avena con pasas para mis amigos. 
+----------
  * **to attend** :: asistir a (verb)
  * My son attends the university. 
  * Mi hijo asiste a la universidad. 
+----------
+ * **sunburn** :: quemadura (noun)
+ * I put on sunscreen to avoid sunburns. 
+ * Me pongo crema protectora para evitar las quemaduras. 
 ----------
  * **to find out** :: averiguar (verb)
  * I have to find out the truth. 
  * Tengo que averiguar la verdad. 
 ----------
+ * **relaxing** :: relajantes (adjective)
+ * My vacation was rather relaxing. 
+ * Mis vacaciones fueron bastante relajantes. 
+----------
  * **maid** :: criada (noun)
  * The maid cleans the mansion. 
  * La criada limpia la mansión. 
+----------
+ * **recently** :: recientemente (adverb)
+ * We haven't seen each other recently. 
+ * No nos hemos visto recientemente. 
 ----------
  * **rag** :: trapo (noun)
  * I use a rag to clean the lightbulbs. 

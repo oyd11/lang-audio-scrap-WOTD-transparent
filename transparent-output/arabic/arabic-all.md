@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -407,25 +407,49 @@
  * والدي ووالدتي سيذهبان لحفل موسيقي غداً. 
  * My father and mother will go to a concert tomorrow. 
 ----------
+ * **صيف** :: summer (noun)
+ * أحمد يحب الصيف. 
+ * Ahmed likes summer. 
+----------
  * **شكى** :: to complain (verb)
  * أحمد دائماً يشكو أنه مفلس. 
  * Ahmed always complains that he is broke. 
+----------
+ * **جداً** :: very (adverb)
+ * الطقس حار جداً. 
+ * It's very hot. 
 ----------
  * **فتح** :: to open (verb)
  * هذا المطعم يفتح في الساعة الرابعة. 
  * This restaurant opens at 4 o'clock. 
 ----------
+ * **متى** :: when (adverb)
+ * متى ستقلع الطائرة؟ 
+ * When will the plane take off? 
+----------
  * **حضر** :: to attend (verb)
  * هل ستحضرين الاجتماع غداً؟ 
  * Will you attend the meeting tomorrow? 
+----------
+ * **وقت** :: time (noun)
+ * يقضي وقته في العمل. 
+ * He spends his time working. 
 ----------
  * **سمع** :: to hear (verb)
  * سمعنا هذا الخبر في الراديو. 
  * We heard this news on the radio. 
 ----------
+ * **مشمس** :: sunny (adjective)
+ * اليوم مشمس. 
+ * It's sunny today. 
+----------
  * **خرج** :: to go out (verb)
  * هل ستخرجون للعشاء الليلة؟ 
  * Are you going out to dinner tonight? 
+----------
+ * **سكن** :: to live (verb)
+ * فاطمة تسكن في بوسطن. 
+ * Fatima lives in Boston. 
 ----------
  * **غسل** :: to wash (verb)
  * يجب أن تغسل يديك قبل الأكل. 

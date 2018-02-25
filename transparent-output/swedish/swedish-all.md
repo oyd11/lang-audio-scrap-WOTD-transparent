@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -407,25 +407,49 @@
  * Bilen startar inte. 
  * The car won't start. 
 ----------
+ * **(ett) torn** :: tower (noun)
+ * Jungfrun kunde se sin riddare från tornet. 
+ * The maiden could see her knight from the tower. 
+----------
  * **Vad häftigt!** :: How cool! (expression)
  * Hur häftigt är inte det! 
  * How cool is that! 
+----------
+ * **(ett) arbete** :: work (noun)
+ * Mitt arbete här är gjort. 
+ * My work here is done. 
 ----------
  * **att torka** :: to dry (verb)
  * Om jag inte använder hårtork för att torka håret, ser det inte bra ut. 
  * If I don't use a hairdryer my hair won't look good. 
 ----------
+ * **aldrig** :: never (adverb)
+ * Jag kommer aldrig att släppa dig. 
+ * I will never let you go. 
+----------
  * **att skratta högt** :: to laugh out loud (verb)
  * När vi såg bilden, skrattade vi högt. 
  * When we saw the picture, we laughed out loud. 
+----------
+ * **(ett) leende** :: smile (noun)
+ * Ett leende är det bästa sättet att tacka. 
+ * A smile is the best way to say "thank you." 
 ----------
  * **fin** :: beautiful (adjective)
  * Du ser fin ut i den klänningen. 
  * You look beautiful in that dress. 
 ----------
+ * **(en) dörr** :: door (noun)
+ * Snälla, stäng dörren, det är kallt ute. 
+ * Close the door please, it's cold outside. 
+----------
  * **gratis** :: free (adjective)
  * Köp två, få en gratis. 
  * Buy two, get one free. 
+----------
+ * **att hämnas** :: to get revenge (verb)
+ * Offret hämnades på gärningsmannen. 
+ * The victim got revenge on the wrongdoer. 
 ----------
  * **(ett) förslag** :: suggestion (noun)
  * Jag har några förslag. 

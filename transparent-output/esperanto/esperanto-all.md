@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -407,25 +407,49 @@
  * Ni elektas prezidanton ĉiun kvaran jaron. 
  * We elect a president every four years. 
 ----------
+ * **nova** :: new (adjective)
+ * Mia frato aĉetis novan televidilon. 
+ * My brother bought a new television. 
+----------
  * **printempo** :: springtime (noun)
  * La birdoj revenos en la printempo. 
  * The birds will return in the springtime. 
+----------
+ * **obstrukci** :: to impede (verb)
+ * Pluraj alkoj obstrukcis trafikon antaŭ kelkaj tagoj. 
+ * Several moose impeded traffic the other day. 
 ----------
  * **investi** :: to invest (verb)
  * Li investis sian monon en la firmao. 
  * He invested his money in the company. 
 ----------
+ * **oceano** :: ocean (noun)
+ * Ni naĝos en la oceano tuj kiam ĝi varmiĝas. 
+ * We will swim in the ocean once it warms. 
+----------
  * **prokrasti** :: to adjourn (verb)
  * La klaso finiĝos post unu horo. 
  * Class will adjourn in an hour. 
+----------
+ * **oksikoko** :: cranberry (noun)
+ * Ni ŝatas manĝi freŝajn oksikokojn. 
+ * We like to eat fresh cranberries. 
 ----------
  * **pupo** :: doll (noun)
  * Kiom da pupojn ŝi jam kolektis? 
  * How many dolls has she collected? 
 ----------
+ * **olivo** :: olive (noun)
+ * La restoracio ofertas frititajn olivojn. 
+ * The restaurant serves fried olives. 
+----------
  * **purigi** :: to launder (verb)
  * Mi purigus miajn vestojn se mi havus deterganton. 
  * I would launder my clothes if I had detergent. 
+----------
+ * **ora** :: golden (adjective)
+ * La muzeo havas statuon de orkolora birdo. 
+ * The museum has a golden bird statue. 
 ----------
  * **rajdi** :: to ride (verb)
  * Li ĉiam rajdas sian biciklon al la laborejo. 

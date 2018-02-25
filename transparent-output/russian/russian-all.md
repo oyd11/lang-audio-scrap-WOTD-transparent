@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -407,25 +407,49 @@
  * Не забудьте заплатить налоги! 
  * Do not forget to pay your taxes! 
 ----------
+ * **белый** :: white (adjective)
+ * Мне не нравится носить белую одежду. 
+ * I don't like to wear white clothes. 
+----------
  * **импровизировать** :: to improvise (verb)
  * Актёры сымпровизировали всю сцену. 
  * The actors improvised the entire scene. 
+----------
+ * **шлёпки** :: flip-flops (noun)
+ * У меня новые шлёпки. 
+ * I have new flip-flops. 
 ----------
  * **сотрудник** :: co-worker (noun)
  * Его спокойная манера держать себя нервировала сотрудников. 
  * His calm demeanor was unnerving to his co-workers. 
 ----------
+ * **парашют** :: parachute (noun)
+ * Что если парашют не раскроется? 
+ * What would happen if the parachute doesn't open? 
+----------
  * **дразнить** :: to tease (verb)
  * Мама, Коля опять дразнит меня! 
  * Mom, Kolya is teasing me again! 
+----------
+ * **Какой хорошенький!** :: How cute! (expression)
+ * Это твой сын? Какой хорошенький! 
+ * Is that your son? How cute! 
 ----------
  * **закон** :: law (noun)
  * Он думает, что для него закон не писан. 
  * He thinks he's above the law. 
 ----------
+ * **утёнок** :: duckling (noun)
+ * Гадкий утёнок вырос и превратился в прекрасного лебедя. 
+ * The ugly duckling grew up to be a beautiful swan. 
+----------
  * **играть в дочки-матери** :: to play house (expression)
  * Семейная жизнь это не в дочки-матери играть, тут работать надо. 
  * Family life is not like playing house; one must work at it. 
+----------
+ * **заводить** :: to start (verb)
+ * Машина не заводится. 
+ * The car won't start. 
 ----------
  * **старинный** :: antique (adjective)
  * Старинные часы достались ему от деда-офицера. 

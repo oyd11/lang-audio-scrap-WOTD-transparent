@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -407,25 +407,49 @@
  * Nós comemos comida com pimenta. 
  * We eat food with pepper. 
 ----------
+ * **pedaço** :: piece (noun)
+ * Quero um pedaço de papel. 
+ * I want a piece of paper. 
+----------
  * **devagar** :: slowly (adverb)
  * Dirija devagar no trânsito. 
  * Drive slowly in the traffic. 
+----------
+ * **a princípio** :: at first (expression)
+ * A princípio eu não soube o que dizer. 
+ * At first I didn't know what to say. 
 ----------
  * **rápido** :: fast (adverb)
  * Ela dirige rápido 
  * She drives fast. 
 ----------
+ * **escassez** :: shortage (noun)
+ * Na Europa há escassez de moradia. 
+ * In Europe, there is a housing shortage. 
+----------
  * **terça-feira** :: Tuesday (noun)
  * Terça-feira vou ao museu. 
  * I am going to the museum on Tuesday. 
+----------
+ * **no fim das contas** :: in the end (expression)
+ * No fim das contas tive que admitir que ele estava certo. 
+ * In the end I had to admit that he was right. 
 ----------
  * **alemão** :: German (noun)
  * Sandra fala alemão. 
  * Sandra speaks German. 
 ----------
+ * **tímido** :: shy (adjective)
+ * Fazer amigos é difícil quando você é extremamente tímido. 
+ * Making friends is hard when you are painfully shy. 
+----------
  * **doente** :: sick (adjective)
  * Minha filha está doente. 
  * My daughter is sick. 
+----------
+ * **flor** :: flower (noun)
+ * Um admirador misterioso me enviou flores! 
+ * A mysterious admirer sent me flowers! 
 ----------
  * **beber** :: to drink (expression)
  * Meu pai bebe muita água. 

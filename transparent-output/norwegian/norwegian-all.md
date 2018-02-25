@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -407,9 +407,21 @@
  * Norge er delt inn 19 fylker og 430 kommuner. 
  * Norway is divided into 19 counties and 430 townships. 
 ----------
+ * **fylke** :: county (noun)
+ * Norge er delt inn 19 fylker og 430 kommuner. 
+ * Norway is divided into 19 counties and 430 townships. 
+----------
  * **barnehage** :: preschool, kindergarten (noun)
  * Alle barn bør ikke gå i barnehage. 
  * Not all children should go to a daycare center. 
+----------
+ * **barnehage** :: preschool, kindergarten (noun)
+ * Alle barn bør ikke gå i barnehage. 
+ * Not all children should go to a daycare center. 
+----------
+ * **nettsted** :: web site (noun)
+ * På dette nettstedet kan du finne lenker, bilder og reisetips fra hele verden. 
+ * On this website you can find links, pictures, and travel tips from the whole world. 
 ----------
  * **nettsted** :: web site (noun)
  * På dette nettstedet kan du finne lenker, bilder og reisetips fra hele verden. 
@@ -419,9 +431,21 @@
  * Nostalgiske personer foretrekker å leve i fortida. 
  * People who are nostalgic like to live in the past. 
 ----------
+ * **fortid** :: past (noun)
+ * Nostalgiske personer foretrekker å leve i fortida. 
+ * People who are nostalgic like to live in the past. 
+----------
  * **elev** :: pupil (noun)
  * Elever kan ha stor glede av å lære flere fremmede språk. 
  * Pupils can get great joy in learning several foreign languages. 
+----------
+ * **elev** :: pupil (noun)
+ * Elever kan ha stor glede av å lære flere fremmede språk. 
+ * Pupils can get great joy in learning several foreign languages. 
+----------
+ * **perspektiv** :: perspective (noun)
+ * Sett fra mitt perspektiv så er verden et slemt sted. 
+ * Seen from my perspective, the world is a nasty place. 
 ----------
  * **perspektiv** :: perspective (noun)
  * Sett fra mitt perspektiv så er verden et slemt sted. 

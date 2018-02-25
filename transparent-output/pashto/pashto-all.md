@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -411,9 +411,21 @@
  * مونږ باید کوښښ وکړو چی د زیاتیدونکو جرمونو مخنیوی وکړو. 
  * We have to make an effort to stop the increasing crime. 
 ----------
+ * **جرم** :: crime (verb)
+ * مونږ باید کوښښ وکړو چی د زیاتیدونکو جرمونو مخنیوی وکړو. 
+ * We have to make an effort to stop the increasing crime. 
+----------
  * **اطراف** :: countryside (noun)
  * هغوی په اطراف کې ژوند کوي. 
  * They live in the countryside. 
+----------
+ * **اطراف** :: countryside (noun)
+ * هغوی په اطراف کې ژوند کوي. 
+ * They live in the countryside. 
+----------
+ * **باران ودرېدل** :: to stop raining (verb)
+ * کله چې باران ودرېده مونږ به قدم وهلو ته لاړ شو. 
+ * When it stops raining we will go for a walk. 
 ----------
  * **باران ودرېدل** :: to stop raining (verb)
  * کله چې باران ودرېده مونږ به قدم وهلو ته لاړ شو. 
@@ -423,9 +435,21 @@
  * په امتحان کې نقل مه کوه. 
  * Don't cheat in the examination. 
 ----------
+ * **نقل** :: cheating (verb)
+ * په امتحان کې نقل مه کوه. 
+ * Don't cheat in the examination. 
+----------
  * **ناروغه کېدل** :: to get sick (expression)
  * زه باید اوس ناروغه نه شم، زما رخصتي سبا شروع کیږي. 
  * I can't get sick now; my vacation starts tomorrow! 
+----------
+ * **ناروغه کېدل** :: to get sick (expression)
+ * زه باید اوس ناروغه نه شم، زما رخصتي سبا شروع کیږي. 
+ * I can't get sick now; my vacation starts tomorrow! 
+----------
+ * **یقینا** :: certainly (expression)
+ * یقیناً، زه د هغو ټولو سره چی دا خبره کوي موافق یم. 
+ * Certainly, I agree with all those who say that. 
 ----------
  * **یقینا** :: certainly (expression)
  * یقیناً، زه د هغو ټولو سره چی دا خبره کوي موافق یم. 

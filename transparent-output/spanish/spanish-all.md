@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -407,25 +407,49 @@
  * Aquel hombre es mi profesor de inglés. 
  * That man over there is my English teacher. 
 ----------
+ * **ser pan comido** :: to be a piece of cake (expression)
+ * ¡Este laberinto es pan comido! 
+ * This labyrinth is a piece of cake! 
+----------
  * **aquella** :: that over there (adjective)
  * Aquella mujer es mi jefa. 
  * That woman over there is my boss. 
+----------
+ * **recientemente** :: recently (adverb)
+ * No nos hemos visto recientemente. 
+ * We haven't seen each other recently. 
 ----------
  * **ese** :: that (adjective)
  * Ese carro es el que quiero comprar. 
  * That car is the one I want to buy. 
 ----------
+ * **realizar** :: to accomplish (verb)
+ * Realizo el trabajo. 
+ * I accomplish my work. 
+----------
  * **esa** :: that (adjective)
  * Esa computadora es la que quiero comprar. 
  * That computer is the one I want to buy. 
+----------
+ * **la mascota** :: pet (noun)
+ * Mi hija quiere que compremos una mascota. 
+ * My daughter wants us to buy a pet. 
 ----------
  * **este** :: this (adjective)
  * Este concierto sólo ocurre una vez al año. 
  * This concert only happens once a year. 
 ----------
+ * **agradable** :: pleasant (adjective)
+ * El ambiente del restaurante es muy agradable. 
+ * The atmosphere of the restaurant is very pleasant. 
+----------
  * **esta** :: this (adjective)
  * Esta fiesta sólo se celebra una vez al año. 
  * They only celebrate this party once a year. 
+----------
+ * **desagradable** :: unpleasant (adjective)
+ * Hay un olor muy desagradable por aquí. 
+ * There is a very unpleasant smell around here. 
 ----------
  * **los guantes** :: gloves (noun)
  * Me pongo guantes cuando hace mucho frío en mi carro. 

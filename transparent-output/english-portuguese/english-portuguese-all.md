@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -407,25 +407,49 @@
  * My mother cooks some delicious meals in the kitchen. 
  * Minha mãe cozinha pratos deliciosos na cozinha. 
 ----------
+ * **to cut** :: cortar (verb)
+ * I have to cut the fabric before I make your dress. 
+ * Tenho que cortar o tecido antes de fazer seu vestido. 
+----------
  * **subject** :: matéria (noun)
  * There are a lot of subjects that you can study at college. 
  * Tem muitas matérias que se pode estudar na universidade. 
+----------
+ * **evening** :: tarde (noun)
+ * We like to sit on the porch and have a glass of wine on summer evenings. 
+ * Gostamos de sentar na varanda e beber vinho nas tardes de verão. 
 ----------
  * **Hanukkah** :: Chanucá (noun)
  * Jewish people celebrate Hanukkah with a menorah. 
  * Os judeus celebram a Chanucá com uma menorá. 
 ----------
+ * **dirty** :: sujo (adjective)
+ * I'm going to wash my dirty hands. 
+ * Vou lavar minhas mãos sujas. 
+----------
  * **scary** :: assustador (adjective)
  * That's a scary house. 
  * Essa é uma casa assustadora. 
+----------
+ * **green beans** :: feijões verdes (noun)
+ * We want to eat some green beans with the meat. 
+ * Queremos comer alguns feijões verdes com a carne. 
 ----------
  * **impolite** :: rude (adjective)
  * Your friend is rather rude. 
  * Seu amigo é bem rude. 
 ----------
+ * **shovel** :: pá (noun)
+ * My son is carrying his shovel and bucket to the beach. 
+ * Meu filho está levando seu baldinho e pá para a praia. 
+----------
  * **grade** :: nota (noun)
  * My kids receive good grades at school. 
  * Minhas crianças recebem boas notas na escola. 
+----------
+ * **steel** :: aço (noun)
+ * It looks like the boxer has hands of steel. 
+ * Parece que o boxeador tem mãos de ferro. 
 ----------
  * **left-handed** :: canhoto (adjective)
  * The athlete is left-handed. 

@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -609,11 +609,23 @@
  * Wǒ tóuténg. 
  * I have a headache. 
 ----------
+ * **别** :: don't (verb)
+ * **bié** 
+ * 请别吸烟。 
+ * Qǐng bié xīyān. 
+ * Please don't smoke. 
+----------
  * **像** :: to resemble (verb)
  * **xiàng** 
  * 这孩子像他爸爸。 
  * Zhè háizi xiàng tā bàba. 
  * This child resembles his father. 
+----------
+ * **瓶子** :: bottle (noun)
+ * **píngzi** 
+ * 我们有三个空瓶子。 
+ * Wǒmen yǒu sǎn gè kōng píngzi. 
+ * We have three empty bottles. 
 ----------
  * **想** :: to miss, to think (verb)
  * **xiǎng** 
@@ -621,11 +633,23 @@
  * Wǒ xiǎng wǒ māma. 
  * I miss my mother. 
 ----------
+ * **爱** :: to love (verb)
+ * **ài** 
+ * 我爱我妈妈。 
+ * Wǒ ài wǒ māma. 
+ * I love my mom. 
+----------
  * **冷** :: cold (adjective)
  * **lěng** 
  * 这儿冬天很冷。 
  * Zhèr dōngtiān hěn lěng. 
  * Winter here is cold. 
+----------
+ * **开始** :: to begin; to start (verb)
+ * **kāishǐ** 
+ * 电影开始了。 
+ * Diànyǐng kāishǐ le. 
+ * The movie has started. 
 ----------
  * **春天** :: spring (noun)
  * **chūntiān** 
@@ -633,11 +657,23 @@
  * Chūntiān huā dōu kāi le. 
  * The spring flowers are all blossoming. 
 ----------
+ * **马路** :: street (noun)
+ * **mǎlù** 
+ * 北京的马路很宽。 
+ * Běijīng de mǎlù hěn kuān. 
+ * Beijing's streets are wide. 
+----------
  * **夏天** :: summer (noun)
  * **xiàtiān** 
  * 北京夏天不热。 
  * Běijīng xiàtiān bú rè. 
  * It is not hot in summer in Beijing. 
+----------
+ * **以前** :: before, ago (adverb)
+ * **yǐqián** 
+ * 十年以前我去了法国。 
+ * Shínián yǐqián wǒ qùle fǎguó. 
+ * I went to France ten years ago. 
 ----------
  * **秋天** :: autumn (noun)
  * **qiūtiān** 

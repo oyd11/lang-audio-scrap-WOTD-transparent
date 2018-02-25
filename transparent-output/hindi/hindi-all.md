@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -407,25 +407,49 @@
  * आओ पार्टी शुरू करें। 
  * Let's get this party started. 
 ----------
+ * **चुनाव करना** :: to select (verb)
+ * मुख्य मेन्यु में से "विकल्पों" का चुनाव करें। 
+ * From the main menu, select "options". 
+----------
  * **परिचय करवाना** :: to introduce (verb)
  * मैं अब हमारे अगले वक्ता श्रीमान जॉर्डन चेस से आपका परिचय करवाना चाहती हूँ। 
  * I'd like to introduce our next speaker, Mr. Jordan Chase. 
+----------
+ * **दुर्भाग्य** :: bad luck (phrase)
+ * यदि मेरी ज़िन्दगी में दुर्भाग्य न होता, तो मेरा कोई भी भाग्य न होता! 
+ * If it weren't for bad luck, I'd have no luck at all! 
 ----------
  * **अभावग्रस्त** :: destitute (adjective)
  * ज़्यादातर जनसंख्या अभावग्रस्त है। 
  * The majority of the population is destitute. 
 ----------
+ * **जिगर** :: liver (noun)
+ * शराब जिगर के लिए हानिकारक हो सकती है। 
+ * Alcohol can be harmful to the liver. 
+----------
  * **मेल खाना** :: to match (verb)
  * उसका घटनाओं का वर्णन सच के साथ मेल नहीं खाता। 
  * Her version of the events does not match up with the truth. 
+----------
+ * **काढ़ना** :: to brew (verb)
+ * चाय को थोड़ी ज़्यादा देर तक काढ़ना पड़ता है। 
+ * The tea has to brew for a little bit longer. 
 ----------
  * **कैम्पिंग के लिए जाना** :: to go camping (phrase)
  * जब मैं बच्चा था, तो मैं कैम्पिंग के लिए जाया करता था। 
  * I used to go camping as a child. 
 ----------
+ * **कसाई** :: butcher (noun)
+ * स्थानीय कसाई के पास हमेशा बढ़िया गोश्त मिलता है। 
+ * The local butcher always has the best cuts of meat. 
+----------
  * **बारिश बन्द होना** :: to stop raining (phrase)
  * जब बारिश बन्द होगी, तो हम सैर करने के लिए जाएंगे। 
  * When it stops raining we will go for a walk. 
+----------
+ * **फिल्म** :: movie (noun)
+ * यह फिल्म में काम कर गया! 
+ * It worked in the movie! 
 ----------
  * **बीमार पडना** :: to get sick (phrase)
  * कहीं मैं बीमार न पड़ जाऊँ, कल से मेरी छुट्टियाँ शुरू हो रहीं हैं! 

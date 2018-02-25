@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -407,25 +407,49 @@
  * 내일 저는 그 여자와 함께 해변에 갈 거예요. 
  * She and I will go to the beach tomorrow. 
 ----------
+ * **산소** :: oxygen (noun)
+ * 높은 고도에서는 산소가 희박해집니다. 
+ * At high elevations, there is less oxygen in the air. 
+----------
  * **마못** :: groundhog (noun)
  * 마못이 자기 그림자를 봤어? 
  * Did the groundhog see his shadow? 
+----------
+ * **수익** :: revenue (noun)
+ * 비용은 늘고, 수익은 떨어지고, 어떻게 해야 하지? 
+ * Costs are up, revenue is down. What can you do? 
 ----------
  * **하이킹하다** :: to hike (verb)
  * 숲 속에서 하이킹하고 싶으세요? 
  * Do you want to hike through the woods? 
 ----------
+ * **포유류** :: mammal (noun)
+ * 고래와 돌고래는 포유류입니다. 
+ * Whales and dolphins are mammals. 
+----------
  * **수학** :: mathematics (noun)
  * 전 수학에서 좋은 성적을 받아 본 적이 없어요. 
  * I never received good grades in mathematics. 
+----------
+ * **물** :: water (noun)
+ * 지구는 거의 물로 덮혀있습니다. 
+ * The Earth is covered mostly by water. 
 ----------
  * **동전** :: coin (noun)
  * 자동판매기가 그의 동전을 삼켜버렸어요. 
  * The vending machine swallowed his coin. 
 ----------
+ * **두려움** :: fear (noun)
+ * 이동 또는 변화에 대한 두려움을 변화공포증이라고 합니다. 
+ * The fear of moving or making changes is called tropophobia. 
+----------
  * **돈** :: money (noun)
  * 아무도 충분한 돈을 갖고 있지 않은 듯해요. 
  * Nobody seems to have enough money. 
+----------
+ * **수수께끼** :: riddle (noun)
+ * 이 수수께끼를 풀어보세요. 
+ * Solve this riddle. 
 ----------
  * **물다** :: to bite (verb)
  * 우리 개가 물지 않을 거예요. 

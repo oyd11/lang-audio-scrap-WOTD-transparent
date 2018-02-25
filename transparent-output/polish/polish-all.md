@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -407,25 +407,49 @@
  * Uwielbiam zapach świeżego chleba. 
  * I love the smell of fresh bread. 
 ----------
- * **jeść** :: to eat (verb)
- * Jestem wegetarianką, nie jem mięsa. 
- * I'm a vegetarian, I don't eat meat. 
-----------
- * **odwiedzać** :: to visit (verb)
- * W każdą niedzielę odwiedzam moją mamę. 
- * Every Sunday I visit my mother. 
-----------
  * **łamać** :: to break (verb)
  * Setki narciarzy łamią nogi każdego roku. 
  * Hundreds of skiers break legs every year. 
+----------
+ * **jeść** :: to eat (verb)
+ * Jestem wegetarianką, nie jem mięsa. 
+ * I'm a vegetarian, I don't eat meat. 
 ----------
  * **chwalić** :: to praise (verb)
  * Rodzice powinni częściej chwalić swoje dzieci. 
  * Parents should praise their children more often. 
 ----------
+ * **odwiedzać** :: to visit (verb)
+ * W każdą niedzielę odwiedzam moją mamę. 
+ * Every Sunday I visit my mother. 
+----------
  * **dzwonić** :: to call, to phone, to ring (verb)
  * Mój kierownik zawsze dzwoni do mnie z głupimi pytaniami. 
  * My boss always calls me with stupid questions. 
+----------
+ * **łamać** :: to break (verb)
+ * Setki narciarzy łamią nogi każdego roku. 
+ * Hundreds of skiers break legs every year. 
+----------
+ * **odkrywać** :: to discover, to uncover (verb)
+ * W końcu odkryłam jak to działa. 
+ * Finally I discovered how it works. 
+----------
+ * **chwalić** :: to praise (verb)
+ * Rodzice powinni częściej chwalić swoje dzieci. 
+ * Parents should praise their children more often. 
+----------
+ * **odbyć się** :: to take place (verb)
+ * Mecz odbył się w zeszłym tygodniu. 
+ * The match took place last week. 
+----------
+ * **dzwonić** :: to call, to phone, to ring (verb)
+ * Mój kierownik zawsze dzwoni do mnie z głupimi pytaniami. 
+ * My boss always calls me with stupid questions. 
+----------
+ * **rozwiązywać** :: to solve (verb)
+ * W szkole średniej ona rozwiązywała za mnie zadania z matematyki. 
+ * She used to solve math problems for me in high school. 
 ----------
  * **odkrywać** :: to discover, to uncover (verb)
  * W końcu odkryłam jak to działa. 

@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -407,25 +407,49 @@
  * למראהו בלבד היא מתמלאת באושר. 
  * The very sight of him fills her with joy. 
 ----------
+ * **מרמיטה** :: groundhog (noun)
+ * האם המרמיטה ראתה את הצל שלה? 
+ * Did the groundhog see his shadow? 
+----------
  * **להיות מודע ל** :: to be aware of (expression)
  * האם אתה מודע לתוצאות מעשיך? 
  * Are you aware of the consequences of your actions? 
+----------
+ * **לטייל** :: to hike (verb)
+ * אתה רוצה לטייל ביער? 
+ * Do you want to hike through the woods? 
 ----------
  * **להחריד** :: to startle (verb)
  * קול הפיצוץ החריד אותי. 
  * The sound of the explosion startled me. 
 ----------
+ * **מתמטיקה** :: mathematics (noun)
+ * מעולם לא קיבלתי ציונים טובים במתמטיקה. 
+ * I never received good grades in mathematics. 
+----------
  * **ויכוח** :: quarrel (noun)
  * הם בילו את כל זמנם בוויכוחים. 
  * They spent the whole time in a quarrel. 
+----------
+ * **מטבע** :: coin (noun)
+ * אני לא יכולה להחליט, בוא נטיל מטבע. 
+ * I can't decide. Let's flip a coin. 
 ----------
  * **מפונק** :: spoiled (adjective)
  * הוא ילד מפונק. 
  * He is a spoiled child. 
 ----------
+ * **כסף** :: money (noun)
+ * נראה שלאף אחד אין מספיק כסף. 
+ * Nobody seems to have enough money. 
+----------
  * **אדון** :: master (noun)
  * אני אדון לגורלי. 
  * I am the master of my own destiny. 
+----------
+ * **לנשוך** :: to bite (verb)
+ * הכלב שלי לא ינשוך אותך. 
+ * My dog will not bite you. 
 ----------
  * **לפחות** :: at least (expression)
  * לפחות הוא עשה משהו; כל האחרים רק הסתכלו. 

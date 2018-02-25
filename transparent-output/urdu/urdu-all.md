@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -407,25 +407,49 @@
  * کتنے ہفتے اس منصوبہ نے لینے ہیں؟ 
  * How many weeks does this project have to take? 
 ----------
+ * **خبر** :: news (noun)
+ * کوئی خبر نہ ہونا اچھی خبر ہے. 
+ * No news is good news. 
+----------
  * **اکثریت** :: majority (noun)
  * صوتی اقلیت زیادہ تر صورتوں میں اکثریت کی نمائندگی نہیں کرتی. 
  * The vocal minority do not represent the majority in most cases. 
+----------
+ * **ٹوپی** :: top hat (noun)
+ * آدمی نے اپنے دستانے اور ٹوپی اتارے. 
+ * The gentleman took off his gloves and top hat. 
 ----------
  * **دہرانا** :: to repeat (verb)
  * میں سمجھا نہیں. آپ وہ دہرا سکتے ہیں؟ 
  * I don't understand. Can you repeat that? 
 ----------
+ * **دوست** :: friend (noun)
+ * جب میرا دن برا ہو تا ہے تو میں یَقینی بناتا ہوں کہ میرے تمام فیس بک دوستوں کو پتہ ہو! 
+ * When I have a bad day, I make sure all my Facebook friends know! 
+----------
  * **زبان** :: language (noun)
  * اس گھر میں ایسی زبان استعمال کرنے کی تمھاری ہمت کیسے ہوئ؟ 
  * How dare you use such language in this house? 
+----------
+ * **تحفہ** :: gift (noun)
+ * بچوں کو ان کے کرسمس کے تحفے کھولتے دیکھنا مَزاحیہ بات ہے. 
+ * It's so funny to see children unwrapping their Christmas gifts. 
 ----------
  * **فعل** :: verb (noun)
  * فعل ایک عملی لفظ ہے. 
  * A verb is an action word. 
 ----------
+ * **لات مارنا** :: to kick (verb)
+ * وہ دروازہ کھولنے کیلئے تمہیں اس کو اچھی لات مارنے کی ضرورت ہے. 
+ * To open that door, you need to give it a good kick. 
+----------
  * **پہننا** :: to wear (verb)
  * یہ ایک مضحکہ خیز ہیٹ ہے، لیکن تم نے اسے اچھی طرح پہنا! 
  * It's a ridiculous hat, but you wear it well! 
+----------
+ * **زندگی کے بعد** :: afterlife (noun)
+ * ہم اس زندگی کے بعد دوبارہ ملیں گے. 
+ * We'll meet again in the afterlife. 
 ----------
  * **آکسیجن** :: oxygen (noun)
  * اُونچائی پر ہوا میں کم آکسیجن ہوتی ہے. 

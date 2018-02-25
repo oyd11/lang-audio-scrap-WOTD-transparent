@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -407,25 +407,49 @@
  * Apakah Anda lebih suka makan brokoli rebus atau mentah? 
  * Do you prefer to steam broccoli or to eat it raw? 
 ----------
+ * **mobil** :: car (noun)
+ * Di mana kamu parkir mobil? 
+ * Where did you park the car? 
+----------
  * **menculik** :: to abduct (verb)
  * Semalam saya bermimpi saya diculik oleh mahluk angkasa luar. 
  * Last night I dreamt I was being abducted by aliens. 
+----------
+ * **pisang** :: banana (noun)
+ * Pisang baik untukmu. 
+ * Bananas are good for you. 
 ----------
  * **petugas pemadam kebakaran** :: fire fighters (noun)
  * Api tidak menjalar karena petugas pemadam kebakaran tiba pada waktunya. 
  * The fire did not spread because the fire fighters arrived just in time. 
 ----------
+ * **teropong** :: binoculars (noun)
+ * Tolong ambilkan teropong itu. 
+ * Please pass me the binoculars. 
+----------
  * **tebing** :: cliff (noun)
  * Selama perjalanan kami di sekitar Inggris, kami sudah mengunjungi tebing Dover. 
  * During our trip around England we visited the cliffs of Dover. 
+----------
+ * **kebutaan** :: blindness (noun)
+ * Memandang matahari bisa menyebabkan kebutaan! 
+ * Staring at the sun causes blindness! 
 ----------
  * **telepon** :: to call (verb)
  * Telepon saya nanti malam dan kita akan membuat rencana. 
  * Call me tonight and we'll make plans. 
 ----------
+ * **ketel** :: kettle (noun)
+ * Apa ketelnya sudah berbunyi? 
+ * Has the kettle whistled yet? 
+----------
  * **bording pas** :: boarding pass (noun)
  * Tolong siapkan bording pas Anda di loket. 
  * Please, have your boarding pass ready at the counter. 
+----------
+ * **sepatu bot** :: boot (noun)
+ * Sepatu botmu ada di garasi. 
+ * Your boots are in the garage. 
 ----------
  * **sindiran** :: hint (noun)
  * Beberapa orang memang tidak bisa menerima sindiran. 

@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 415 phrases 
+ 421 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -407,25 +407,49 @@
  * Tiang uli Amerika. 
  * I'm from America. 
 ----------
+ * **icen** :: to be given, to have (alus (refined))
+ * Icen titiang anggur akilo, nggih? 
+ * Could I have 1 kilo of grapes, please? 
+----------
  * **nganten** :: married (biasa (common))
  * Suba nganten? 
  * Are you married? 
+----------
+ * **dados** :: to be (alus (refined))
+ * Sapunapi dados mael sajaan? 
+ * Why is this so expensive? 
 ----------
  * **suba** :: already (biasa (common))
  * Tiang suba nganten. 
  * I'm already married. 
 ----------
+ * **mael** :: expensive (alus (refined))
+ * Niki ten mael. 
+ * This is not expensive. 
+----------
  * **om** :: indeed (alus (refined))
  * Om swastiastu. 
  * Indeed may all be well. 
+----------
+ * **murah** :: cheap (alus (refined))
+ * Niki sampun murah. 
+ * This is already cheap. 
 ----------
  * **majalan** :: to walk, travel (biasa (common))
  * Lakar majalan? 
  * Where are you traveling? 
 ----------
+ * **wenten** :: there is (alus (refined))
+ * Wenten sane murahan? 
+ * Is there a cheaper one? 
+----------
  * **nganginang** :: towards the east (biasa (common))
  * Majalan nganginang. 
  * Going to the east. 
+----------
+ * **nyicipin** :: to taste (biasa (common))
+ * Dadi tiang nyicipin? 
+ * May I taste it? 
 ----------
  * **ngelodang** :: towards the seaward (biasa (common))
  * Majalan ngelodang. 
