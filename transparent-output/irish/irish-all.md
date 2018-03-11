@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -455,57 +455,113 @@
  * Arbh fhearr leat luch gan sreang? 
  * Would you prefer a wireless mouse? 
 ----------
+ * **Cén uair a thagann an t-eitleán?** :: What time does the plane arrive? (expression)
+ * Cén uair a thagann an t-eitleán? 
+ * What time does the plane arrive? 
+----------
  * **a oscailt** :: to open (verb)
  * Ar mhiste leat an doras a oscailt? 
  * Would you mind opening the door? 
+----------
+ * **Stad anseo, le do thoil.** :: Please stop here. (expression)
+ * Stad anseo, le do thoil. 
+ * Please stop here. 
 ----------
  * **a rá** :: to say (verb)
  * An bhfuil aon rud le rá agat? 
  * Do you have anything to say? 
 ----------
+ * **An bhfuil aicearra ann?** :: Is there a shortcut? (expression)
+ * An bhfuil aicearra ann? 
+ * Is there a shortcut? 
+----------
  * **ina chodladh** :: sleeping (verb)
  * Thit sé ina chodladh ar an tolg. 
  * He fell asleep on the sofa. 
+----------
+ * **An fíor-leathar é seo?** :: Is this real leather? (expression)
+ * An fíor-leathar é seo? 
+ * Is this real leather? 
 ----------
  * **rua** :: red-haired (adjective)
  * Is bean rua í. 
  * She is a red-haired woman. 
 ----------
+ * **Teastaíonn... uaim.** :: I need... (expression)
+ * Teastaíonn... uaim. 
+ * I need... 
+----------
  * **dearg** :: red (adjective)
  * Tá an bhratach Mheiriceánach dearg, bán, agus gorm. 
  * The American flag is red, white, and blue. 
+----------
+ * **Tá do thír go halainn.** :: Your country is beautiful. (expression)
+ * Tá do thír go halainn. 
+ * Your country is beautiful. 
 ----------
  * **an dollar** :: the dollar (noun)
  * Tá dollar amháin air. 
  * It costs a dollar. 
 ----------
+ * **Cad a dúirt tú?** :: What did you say? (expression)
+ * Cad a dúirt tú? 
+ * What did you say? 
+----------
  * **an euro** :: the euro (noun)
  * Tá dhá euro air. 
  * It costs two euro. 
+----------
+ * **Seo é mo phas.** :: Here is my passport. (expression)
+ * Seo é mo phas. 
+ * Here is my passport. 
 ----------
  * **an mháthair** :: the mother (noun)
  * Sin í máthair Shinéad. 
  * That is Sinéad's mother. 
 ----------
+ * **Conas atá do mhuintir?** :: How is your family? (expression)
+ * Conas atá do mhuintir? 
+ * How is your family? 
+----------
  * **an tuismitheoir** :: the parent (noun)
  * An bhfuil go leor tuismitheoirí altrama do na páistí go léir? 
  * Are there enough foster parents for all the children? 
+----------
+ * **Tá mo chos briste.** :: My leg is broken. (expression)
+ * Tá mo chos briste. 
+ * My leg is broken. 
 ----------
  * **an t-aontuismitheoir** :: the single parent (noun)
  * An mbíonn ócáidí d'aontuismitheoirí anseo? 
  * Are events for single parents held here? 
 ----------
+ * **Is saoránach de... mé.** :: I am a citizen of... (expression)
+ * Is saoránach de... mé. 
+ * I am a citizen of... 
+----------
  * **an gob** :: the mouth, the beak (noun)
  * Dún do ghob! 
  * Shut your mouth! 
+----------
+ * **Rinne mé botún.** :: I made a mistake. (expression)
+ * Rinne mé botún. 
+ * I made a mistake. 
 ----------
  * **a shlogadh** :: to swallow (verb)
  * Slog siar é! 
  * Drink it down! 
 ----------
+ * **an móideim** :: the modem (noun)
+ * Tá móideim nua agam. 
+ * I have a new modem. 
+----------
  * **ardghléine** :: high-definition (noun)
  * Ar cheannaigh tú teilifíseán ardghléine? Cheannaigh. 
  * Did you buy a high-definition TV? Yes. 
+----------
+ * **an luch** :: the mouse (noun)
+ * Arbh fhearr leat luch gan sreang? 
+ * Would you prefer a wireless mouse? 
 ----------
  * **an staighre** :: the stairs (noun)
  * Tá ceithre sheomra leapa thuas staighre agus seomra folctha amháin. 

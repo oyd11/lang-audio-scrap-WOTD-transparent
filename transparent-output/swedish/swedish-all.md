@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -455,57 +455,113 @@
  * Jag har några förslag. 
  * I have some suggestions. 
 ----------
+ * **(en) besvikelse** :: disappointment (noun)
+ * Jag kunde inte dölja min besvikelse när jag hörde nyheterna. 
+ * I couldn't hide my disappointment when I heard the news. 
+----------
  * **slutkörd** :: exhausted (adjective)
  * Jag har jobbat hela dagen; jag är slutkörd. 
  * I've worked all day long; I'm exhausted. 
+----------
+ * **att landa** :: to land (verb)
+ * Man bör sitta kvar när planet landar. 
+ * One should remain seated when the plane lands. 
 ----------
  * **(en) ängel** :: angel (noun)
  * Tack för din hjälp; du är en ängel. 
  * Thank you for your help; you're an angel. 
 ----------
+ * **(ett) missöde** :: mishap (noun)
+ * Vi kom fram utan missöden. 
+ * We arrived without any mishap. 
+----------
  * **bittert** :: bitterly (adverb)
  * Stackarn började gråta bittert. 
  * The poor thing started to cry bitterly. 
+----------
+ * **(en) halsbränna** :: heartburn (noun)
+ * Oro kan orsaka halsbränna. 
+ * Anxiety can cause heartburn. 
 ----------
  * **(ett) elände** :: misery (noun)
  * Det är ett rent elände att bo med min svärmor. 
  * It's a misery living with my mother-in-law. 
 ----------
+ * **att spola toaletten** :: to flush the toilet (expression)
+ * Glöm inte att spola toaletten. 
+ * Don't forget to flush the toilet. 
+----------
  * **(ett) namn** :: name (noun)
  * Vad heter du? 
  * What's your name? 
+----------
+ * **att rigga** :: to rig (verb)
+ * Valet var riggat. 
+ * The election was rigged. 
 ----------
  * **att träffas** :: to meet (verb)
  * Trevligt att träffas. 
  * It is a pleasure to meet you. 
 ----------
+ * **(ett) rån** :: robbery (noun)
+ * Polisen kom sent till rånplatsen. 
+ * The police arrived late at the robbery scene. 
+----------
  * **jättegott** :: delicious (adjective)
  * Det var jättegott. 
  * That was delicious. 
+----------
+ * **(en) skrivare** :: printer (noun)
+ * Skrivaren har slut på papper. 
+ * The printer is out of paper. 
 ----------
  * **du** :: you (noun)
  * Varifrån kommer du? 
  * Where are you from? 
 ----------
+ * **(en) jonglör** :: juggler (noun)
+ * Publiken applåderade jonglören. 
+ * The audience applauded the juggler. 
+----------
  * **att prata** :: to speak (verb)
  * Jag pratar lite hindi. 
  * I speak a little Hindi. 
+----------
+ * **att avslöja** :: to reveal (verb)
+ * Utredningen avslöjade en skandal. 
+ * The investigation revealed a scandal. 
 ----------
  * **först** :: first (adjective)
  * Det är inte första gången, och kommer inte heller vara den sista. 
  * It's not the first time, and won't be the last. 
 ----------
+ * **(en) motorväg** :: highway (noun)
+ * Vissa säger att livet är en motorväg. 
+ * Some say that life is a highway. 
+----------
  * **att be om ursäkt** :: to apologize (expression)
  * Jag ber om ursäkt, jag har en dålig dag. 
  * I apologize, I'm having a bad day. 
+----------
+ * **(ett) livstidsfängelse** :: life imprisonment (expression)
+ * Gärningsmannen dömdes till livstids fängelse. 
+ * The criminal was sentenced to life imprisonment. 
 ----------
  * **(en) affär** :: store (noun)
  * Jag går till affären; vill du följa med? 
  * I'm going to the store, want to go with me? 
 ----------
+ * **att gäspa** :: to yawn (verb)
+ * Efter lunch kan jag inte sluta gäspa. 
+ * After lunch, I can't stop yawning. 
+----------
  * **att föredra** :: to prefer (verb)
  * Dadlarna är jättegoda, men jag föredrar ananas. 
  * The dates are delicious, but I prefer pineapple. 
+----------
+ * **(en) dåre** :: fool (noun)
+ * Vilken dåre, som tror han kan överge mig! 
+ * What a fool, thinking he can desert me! 
 ----------
  * **(en) fredag** :: Friday (noun)
  * Jag är så glad att imorgon är fredag; det har varit en lång vecka! 

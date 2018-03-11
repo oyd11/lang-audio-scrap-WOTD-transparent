@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -455,57 +455,113 @@
  * Meu pai bebe muita água. 
  * My father drinks a lot of water. 
 ----------
+ * **ainda** :: yet (adverb)
+ * Ela não foi ainda. 
+ * She hasn't gone yet. 
+----------
  * **guerra** :: war (noun)
  * Os Estados Unidos estão em guerra. 
  * The United States is at war. 
+----------
+ * **roupa** :: clothes (noun)
+ * Tire essas roupas sujas! 
+ * Take those dirty clothes off! 
 ----------
  * **preto** :: black (adjective)
  * Gosto de roupa preta. 
  * I like black clothing. 
 ----------
+ * **chama** :: flame (noun)
+ * A chama destruiu a mensagem secreta em segundos. 
+ * The flame destroyed the secret message in seconds. 
+----------
  * **casamento** :: wedding (noun)
  * Quando será seu casamento? 
  * When is your wedding? 
+----------
+ * **contra** :: against (preposition)
+ * Às vezes parece que o mundo inteiro está contra mim. 
+ * Sometimes it feels like the whole world is against me! 
 ----------
  * **festa** :: party (noun)
  * Adoro festa de casamento. 
  * I love wedding parties. 
 ----------
+ * **luz** :: light (noun)
+ * Veremos as coisas de forma clara na luz do dia. 
+ * We'll see things clearly in the cold light of day. 
+----------
  * **apresentar** :: to introduce (expression)
  * Quero te apresentar um amigo meu. 
  * I want to introduce you to a friend of mine. 
+----------
+ * **oferta** :: offer (noun)
+ * Vou fazer-lhe uma oferta que ele não vai poder recusar. 
+ * I'm going to make him an offer he can't refuse. 
 ----------
  * **chutar** :: to kick (expression)
  * O bebê gosta de chutar a bola. 
  * The baby likes to kick the ball. 
 ----------
+ * **fim** :: end (noun)
+ * Isso não é o fim do mundo, recomponha-se! 
+ * This is not the end of the world, get yourself together! 
+----------
  * **jogador** :: player (noun)
  * Ronaldinho é um ótimo jogador. 
  * Ronaldinho is a great player. 
+----------
+ * **casar-se** :: to get married (verb)
+ * Quando você vai se casar? 
+ * When are you getting married? 
 ----------
  * **quarta-feira** :: Wednesday (noun)
  * Quarta-feira é dia de feijoada. 
  * Wednesday is feijoada day. 
 ----------
+ * **amar** :: to love (verb)
+ * Eu te amarei para sempre. 
+ * I will love you forever. 
+----------
  * **morango** :: strawberry (noun)
  * Vou comprar morango na feira. 
  * I am going to buy strawberries in the open market. 
+----------
+ * **abóbora** :: pumpkin (noun)
+ * Talhamos as abóboras para colocar nos degraus da porta da frente. 
+ * We carved pumpkins to put on the front steps. 
 ----------
  * **levar** :: to take (expression)
  * Não esqueça de levar o lixo para fora. 
  * Don't forget to take the trash out. 
 ----------
+ * **partir** :: to leave (verb)
+ * O avião partiu dez minutos atrás. O que fazemos? 
+ * The plane left ten minutes ago. What do we do? 
+----------
  * **trazer** :: to bring (expression)
  * Eles vão trazer o filme. 
  * They are going to bring the movie. 
+----------
+ * **leão** :: lion (noun)
+ * Minha irmã gosta dos leões no zoológico. 
+ * My sister enjoys the lions at the zoo. 
 ----------
  * **semanalmente** :: weekly (adverb)
  * Pago minha empregada semanalmente. 
  * I pay my maid weekly. 
 ----------
+ * **escola** :: school (noun)
+ * Ele não quer ir à escola. 
+ * He does not want to go to school. 
+----------
  * **banheiro** :: bathroom (noun)
  * O banheiro está limpo. 
  * The bathroom is clean. 
+----------
+ * **aprender** :: to learn (verb)
+ * Eu quero aprender mais alemão. 
+ * I want to learn more German. 
 ----------
  * **cozinha** :: kitchen (noun)
  * Minha cozinha é grande. 

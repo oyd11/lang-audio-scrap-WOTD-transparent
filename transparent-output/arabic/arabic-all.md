@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -455,57 +455,113 @@
  * يجب أن تغسل يديك قبل الأكل. 
  * You have to wash your hands before eating. 
 ----------
+ * **اسم** :: name (noun)
+ * اسمهُ علي. 
+ * His name is Ali. 
+----------
  * **رجع** :: to return (verb)
  * رجع إلى بلده بعد أن قضى سنتين في العراق. 
  * He returned to his country after spending 2 years in Iraq. 
+----------
+ * **منطقة** :: area (noun)
+ * أعمل في هذه المنطقة. 
+ * I work in this area. 
 ----------
  * **وصف** :: to describe (verb)
  * وصفتْ ليلى رحلتها إلى طوكيو. 
  * Leila described her trip to Tokyo. 
 ----------
+ * **أراد** :: to want (verb)
+ * هل تريد الكتب الآن؟ 
+ * Do you want the books now? 
+----------
  * **فاز** :: to win (verb)
  * فاز الفريق الأخضر بالمباراة. 
  * The green team won the game. 
+----------
+ * **سعيد** :: happy (adjective)
+ * ليلى كانت سعيدة جداً. 
+ * Laila was very happy. 
 ----------
  * **طار** :: to fly (verb)
  * سنطير إلى لندن الأسبوع المقبل. 
  * We will fly to London next week. 
 ----------
+ * **الجمعة** :: Friday (noun)
+ * اليوم هو الجمعة. 
+ * Today is Friday. 
+----------
  * **كتب** :: to write (verb)
  * كيف تكتب هذه الكلمة بالعربية؟ 
  * How do you write this word in Arabic? 
+----------
+ * **إشترى** :: to buy (verb)
+ * هل اشترى أخوك سيارة جديدة؟ 
+ * Did your brother buy a new car? 
 ----------
  * **دعا** :: to invite (verb)
  * دعاني عثمان لحضور حفل زواجه. 
  * Othman invited me to attend his wedding party. 
 ----------
+ * **أخذ** :: to take (verb)
+ * هل تأخذون شيكات؟ 
+ * Do you take checks? 
+----------
  * **دفع** :: to pay (verb)
  * هل يمكن أن أدفع ببطاقة الائتمان؟ 
  * Can I pay with a credit card? 
+----------
+ * **سعر** :: price (noun)
+ * ما سعر كيلو البطاطس؟ 
+ * How much is a kilo of potatoes? 
 ----------
  * **طلب** :: to order (verb)
  * طلبتُ ساندوتش جبن وعصير برتقال. 
  * I ordered a cheese sandwich and an orange juice. 
 ----------
+ * **إستقلال** :: independence (noun)
+ * عيد الاستقلال في الرابع من تموز. 
+ * Independence Day is on the fourth of July. 
+----------
  * **آمن بـ** :: to believe in (verb)
  * نحن نؤمن بالصداقة. 
  * We believe in friendship. 
+----------
+ * **أصبح** :: to become (verb)
+ * سيصبح الحليب جبناً. 
+ * The milk will become cheese. 
 ----------
  * **دافع عن** :: to defend (verb)
  * وافق المحامي أن يدافع عن المتهم. 
  * The lawyer agreed to defend the accused. 
 ----------
+ * **مكتب** :: office (noun)
+ * أين مكتب البريد؟ 
+ * Where is the post office? 
+----------
  * **أدانَ** :: to condemn (verb)
  * المجتمع المدني يُدينُ العنفَ ضد الأطفال. 
  * Civil society condemns violence against children. 
+----------
+ * **نشيط** :: active (adjective)
+ * أحمد طالب نشيط. 
+ * Ahmed is an active student. 
 ----------
  * **دخل** :: to enter (verb)
  * دخل اللصُّ من الباب الخلفي للبيت. 
  * The thief entered through the back door of the house. 
 ----------
+ * **درس** :: to study (verb)
+ * أدرس العربية. 
+ * I study Arabic. 
+----------
  * **بحث فى موضوع علمي** :: to research (verb)
  * سأذهب إلى المكتبة لأبحث في موضوع علمي. 
  * I'm going to the library to research a scientific topic. 
+----------
+ * **باتجاه** :: towards (prepostion)
+ * قد السيارة باتجاه المطار. 
+ * Drive towards the airport. 
 ----------
  * **أكد** :: to assure (verb)
  * أكد الطبيب للمريض أن صحته في تحسن. 

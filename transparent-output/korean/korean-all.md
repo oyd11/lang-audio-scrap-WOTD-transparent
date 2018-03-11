@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -455,57 +455,113 @@
  * 우리 개가 물지 않을 거예요. 
  * My dog will not bite you. 
 ----------
+ * **단추를 끼우다** :: to button (verb)
+ * 바지 단추를 거의 끼울 수 없을 정도로 많이 먹었습니다! 
+ * I ate so much I can barely button my pants! 
+----------
  * **모기** :: mosquito (noun)
  * 모기들이 절 가만두지 않을 거예요! 
  * The mosquitoes will not leave me alone! 
+----------
+ * **포스터** :: poster (noun)
+ * 그는 예전 공포영화 포스터를 수집합니다. 
+ * He collects posters of old horror movies. 
 ----------
  * **영화배우** :: movie star (noun)
  * 가장 좋아하는 영화배우가 누구예요? 
  * Who's your favorite movie star? 
 ----------
+ * **공연하다** :: to perform (verb)
+ * 우리 커뮤니티 극장에서 공연했습니다. 
+ * We performed in our community theater. 
+----------
  * **해산물** :: seafood (noun)
  * 전 해산물이 좋지만 제 친구는 해산물에 알레르기가 있어요. 
  * I love seafood, but my friend is allergic to it. 
+----------
+ * **조율하다** :: to tune (verb)
+ * 전문가는 귀로 듣고 바이올린을 조율할 수 있습니다. 
+ * An expert can tune a violin by ear. 
 ----------
  * **앉다** :: to sit down (verb)
  * 전 가끔 앉아서 좋은 책을 읽는 것을 좋아해요. 
  * Sometimes I just like to sit down with a good book. 
 ----------
+ * **학년** :: school year (noun)
+ * 가을에 새학년이 시작됩니다. 
+ * Every fall, the school year begins anew. 
+----------
  * **잔디밭** :: lawn (noun)
  * 우리 잔디밭에서 나가세요. 
  * Get off my lawn. 
+----------
+ * **어린이** :: child (noun)
+ * 어린이는 배울 것이 많습니다. 
+ * A child has much to learn. 
 ----------
  * **허락** :: permission (noun)
  * 허락을 얻는 것보다 용서를 구하는 것이 더 쉽다. 
  * It's easier to ask forgiveness than permission. 
 ----------
+ * **일화** :: anecdote (noun)
+ * 우리 할아버지께선 수백 개의 일화들을 알고 계십니다. 
+ * My grandfather knows hundreds of anecdotes. 
+----------
  * **작성하다** :: to complete (verb)
  * 기다리시는 동안 이 서식을 작성하세요. 
  * Please complete this form while you wait. 
+----------
+ * **발표하다** :: to announce (verb)
+ * 그들은 내일 승자를 발표할 겁니다. 
+ * They will announce the winner tomorrow. 
 ----------
  * **승객** :: passenger (noun)
  * 그 차량에 타고 있던 승객들은 다치지 않았어요. 
  * The passenger of the vehicle was unharmed. 
 ----------
+ * **거위** :: goose (noun)
+ * 시끄러운 거위 두 마리가 못 가까이에 살고 있습니다. 
+ * Two noisy geese live near the pond. 
+----------
  * **소방훈련** :: fire drill (noun)
  * 침착하세요. 그냥 소방훈련이에요. 
  * Don't panic, it's only a fire drill. 
+----------
+ * **은** :: silver (noun)
+ * 은은 쉽게 변색되는 게 문제입니다. 
+ * The problem with silver is that it tarnishes so easily. 
 ----------
  * **볼** :: cheek (noun)
  * 그녀가 날 보았을 때, 내 양볼에 두 번 입을 맞추었어요. 
  * When she saw me, she kissed me twice on the cheeks. 
 ----------
+ * **불꽃놀이** :: fireworks (noun)
+ * 불꽃놀이가 밤하늘을 밝혔습니다. 
+ * Fireworks lit the night sky. 
+----------
  * **브로콜리** :: broccoli (noun)
  * 브로콜리를 익혀서 드시겠어요? 생으로 드시겠어요? 
  * Do you prefer to steam broccoli or to eat it raw? 
+----------
+ * **차** :: car (noun)
+ * 차를 어디에 주차하셨어요? 
+ * Where did you park the car? 
 ----------
  * **납치하다** :: to abduct (verb)
  * 어젯밤 외계인이 저를 납치하는 꿈을 꾸었어요. 
  * Last night I dreamed I was being abducted by aliens. 
 ----------
+ * **바나나** :: banana (noun)
+ * 바나나를 먹으면 좋아요. 
+ * Bananas are good for you. 
+----------
  * **스프링클러** :: sprinkler (noun)
  * 스프링클러가 작동했기 때문에 불이 번지지 않았어요. 
  * The fire did not spread because the sprinklers were activated. 
+----------
+ * **쌍안경** :: binoculars (noun)
+ * 그 쌍안경 좀 건네 주세요. 
+ * Please pass me the binoculars. 
 ----------
  * **절벽** :: cliff (noun)
  * 우리는 영국 여행 중에 도버의 절벽을 찾아갔어요. 

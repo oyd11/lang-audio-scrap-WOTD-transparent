@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -455,57 +455,113 @@
  * Gülmek en iyi ilaçtır. 
  * Laughter is the best medicine. 
 ----------
+ * **kış** :: winter (noun)
+ * Kış geliyor. 
+ * Winter is coming. 
+----------
  * **peçete** :: napkin (noun)
  * Bana bir peçete daha getirir misin lütfen? 
  * Can you bring me another napkin, please? 
+----------
+ * **dekore edilmiş** :: decorated (adjective)
+ * Her zaman olduğu gibi evi iyi dekore edilmiş. 
+ * Her house is, as usual, very well decorated. 
 ----------
  * **öfke** :: anger (noun)
  * Kendini öfkeye kaptırma. 
  * Don't get carried away by anger. 
 ----------
+ * **ihtiyacı olmak** :: to need (verb)
+ * Daha büyük bir tekneye ihtiyacın olacak. 
+ * You're going to need a bigger boat. 
+----------
  * **affetmek** :: to forgive (verb)
  * Hata yapmak insanlık halidir, affetmek ise ilahidir. 
  * To err is human, to forgive divine. 
+----------
+ * **önemsiz posta klasörü** :: junk mail folder (expression)
+ * E-posta, kazara önemsiz posta klasörüne gitmiş olabilir. 
+ * The email may have accidentally gone into the junk mail folder. 
 ----------
  * **stres** :: stress (noun)
  * O kadar stresliyim ki uyuyamıyorum. 
  * I'm under too much stress to sleep. 
 ----------
+ * **engellemek** :: to block (verb)
+ * Beni Twitter'da neden engelledin arkadaşım? 
+ * Why'd you block me on Twitter, friend? 
+----------
  * **kulaklar** :: ears (noun)
  * Yerin kulağı vardır. 
  * The walls have ears. 
+----------
+ * **sabır** :: patience (noun)
+ * Sabır bir erdemdir. 
+ * Patience is a virtue. 
 ----------
  * **konuşmak** :: to talk (verb)
  * Sanki duvarla konuşuyorum. 
  * It's like talking to a wall. 
 ----------
+ * **riske girmek** :: to venture (verb)
+ * Riske girmeden kazanılmaz. 
+ * Nothing ventured, nothing gained. 
+----------
  * **duman** :: smoke (noun)
  * Ateş olmayan yerden duman çıkmaz. 
  * Where there's smoke, there's fire. 
+----------
+ * **ders çalışmak** :: to study (verb)
+ * Bu teste hazırlanmak için bütün gece ders çalıştım. 
+ * I've been up all night studying for this test. 
 ----------
  * **çılgın** :: crazy (adjective)
  * Hepimiz, o ya da bu şekilde biraz çılgınız. 
  * We're all a little crazy in one way or another. 
 ----------
+ * **baş ağrısı** :: headache (noun)
+ * Çok fena bir baş ağrım var. 
+ * I have an awful headache. 
+----------
  * **bir damla uyku uyumamak** :: to not sleep a wink (expression)
  * Ensomni olduğum için gece bir damla uyku uyumadım. 
  * I didn't sleep a wink all night because I had insomnia. 
+----------
+ * **soğan** :: onion (noun)
+ * Salata ve sandviçlere çiğ soğan koyulmasından nefret ediyorum! 
+ * I hate raw onion in salads and sandwiches! 
 ----------
  * **kalmak** :: to stay (verb)
  * Ceketini çıkarıp biraz kalsana. 
  * Why don't you take off your coat and stay a while? 
 ----------
+ * **patates kızartması** :: fries (noun)
+ * Bununla birlikte patates kızartması da ister misiniz? 
+ * Do you want fries with that? 
+----------
  * **indirimli satış** :: to be on sale (expression)
  * Buna aslında ihtiyacım yok ama indirimde satılıyor! 
  * I don't really need this, but it's on sale! 
+----------
+ * **sahil** :: beach (noun)
+ * O ve ben yarın sahile gideceğiz. 
+ * She and I will go to the beach tomorrow. 
 ----------
  * **vahşiydi** :: brutal (adjective)
  * Dövüş sahnesi oldukça vahşiydi. 
  * The fight scene looked quite brutal. 
 ----------
+ * **kunduz** :: groundhog (noun)
+ * Kunduz, gölgesini görmüş mü? 
+ * Did the groundhog see his shadow? 
+----------
  * **mırıldamak** :: to mumble (verb)
  * John, "tamam, yaparım" diye mırıldandı. 
  * "Fine, I'll do it," mumbled John. 
+----------
+ * **yürüyüşe çıkmak** :: to hike (verb)
+ * Korulukta yürüyüşe çıkmak ister misin? 
+ * Would you like to hike through the woods? 
 ----------
  * **doldurmak** :: to fill (verb)
  * Bütün şişeyi suyla doldurdu. 

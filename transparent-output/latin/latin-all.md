@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -455,57 +455,113 @@
  * Maximus in minimis. 
  * He is greatest in the smallest things. 
 ----------
- * **timor** :: fear (noun)
- * Amor misceri cum timore non potest. 
- * Love cannot be mixed with fear. 
-----------
- * **sera** :: late, too late (adverb)
- * Cineri gloria sera venit. 
- * Fame comes too late to the dead. 
-----------
  * **temeritas** :: rashness (noun)
  * Numquam enim temeritas cum sapientia commiscetur. 
  * Never, in fact, will rashness be united with wisdom. 
+----------
+ * **timor** :: fear (noun)
+ * Amor misceri cum timore non potest. 
+ * Love cannot be mixed with fear. 
 ----------
  * **valde** :: intensely, very much (adverb)
  * Intellectum valde ama. 
  * Love the intellect intensely. 
 ----------
+ * **sera** :: late, too late (adverb)
+ * Cineri gloria sera venit. 
+ * Fame comes too late to the dead. 
+----------
  * **argumentum** :: proof, evidence (noun)
  * Illa argumenta visa sunt certa. 
  * Those proofs appeared certain. 
+----------
+ * **temeritas** :: rashness (noun)
+ * Numquam enim temeritas cum sapientia commiscetur. 
+ * Never, in fact, will rashness be united with wisdom. 
 ----------
  * **silere** :: to be silent, to be still (verb)
  * Inter arma silent leges. 
  * In time of war laws are silent. 
 ----------
+ * **valde** :: intensely, very much (adverb)
+ * Intellectum valde ama. 
+ * Love the intellect intensely. 
+----------
  * **beneficium** :: kindness, benefit (noun)
  * Boni cives sunt ei qui beneficia patriae memoria tenent. 
  * Good citizens are those who hold the benefits of their country in their memory. 
+----------
+ * **argumentum** :: proof, evidence (noun)
+ * Illa argumenta visa sunt certa. 
+ * Those proofs appeared certain. 
 ----------
  * **vendere** :: to sell (verb)
  * Vendidit hic auro patriam. 
  * This man has sold his country for gold. 
 ----------
+ * **silere** :: to be silent, to be still (verb)
+ * Inter arma silent leges. 
+ * In time of war laws are silent. 
+----------
  * **nuntius** :: messenger (noun)
  * Nuntius cucurrit ab exercitu ad senatum. 
  * The messenger ran from the army to the senate. 
+----------
+ * **beneficium** :: kindness, benefit (noun)
+ * Boni cives sunt ei qui beneficia patriae memoria tenent. 
+ * Good citizens are those who hold the benefits of their country in their memory. 
 ----------
  * **potestas** :: power, opportunity (noun)
  * Ipsa scientia potestas est. 
  * Knowledge itself is power. 
 ----------
+ * **vendere** :: to sell (verb)
+ * Vendidit hic auro patriam. 
+ * This man has sold his country for gold. 
+----------
  * **manus** :: hand, band (of people), handwriting (noun)
  * Nostra aetate pauca manu parantur. 
  * In our age few things are prepared by hand. 
+----------
+ * **nuntius** :: messenger (noun)
+ * Nuntius cucurrit ab exercitu ad senatum. 
+ * The messenger ran from the army to the senate. 
 ----------
  * **quidem** :: to be sure, indeed (adverb)
  * Malum quidem nullum est sine aliquo bono. 
  * There is, to be sure, no evil without something good. 
 ----------
+ * **potestas** :: power, opportunity (noun)
+ * Ipsa scientia potestas est. 
+ * Knowledge itself is power. 
+----------
  * **versus** :: verse, line of poetry (noun)
  * Ubi versus lecti sunt, poeta laudatus est. 
  * When his verses were read the poet was praised. 
+----------
+ * **manus** :: hand, band (of people), handwriting (noun)
+ * Nostra aetate pauca manu parantur. 
+ * In our age few things are prepared by hand. 
+----------
+ * **materia** :: material, matter, subject matter (noun)
+ * Opus superabat materiam. 
+ * The workmanship surpassed the subject matter. 
+----------
+ * **quidem** :: to be sure, indeed (adverb)
+ * Malum quidem nullum est sine aliquo bono. 
+ * There is, to be sure, no evil without something good. 
+----------
+ * **cornu** :: horn (noun)
+ * Cornua cervum a periculis defendunt. 
+ * The horns of stags defend them from dangers. 
+----------
+ * **versus** :: verse, line of poetry (noun)
+ * Ubi versus lecti sunt, poeta laudatus est. 
+ * When his verses were read the poet was praised. 
+----------
+ * **asper** :: rough, harsh (adjective)
+ * Medici graviores morbos asperis remediis curant. 
+ * Doctors cure the more serious diseases with harsh remedies. 
 ----------
  * **materia** :: material, matter, subject matter (noun)
  * Opus superabat materiam. 

@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -681,11 +681,23 @@
  * Ryoushin ni kansha shite imasu. 
  * I really appreciate my parents. 
 ----------
+ * **左利き** :: left-handed (noun)
+ * **hidarikiki** 
+ * 姉は左利きです。 
+ * Ane wa hidarikiki desu. 
+ * My sister is left-handed. 
+----------
  * **同窓会** :: reunion (noun)
  * **dousoukai** 
  * 10月に高校の同窓会に行く予定です。 
  * Juugatsu ni koukou no dousoukai ni iku yotei desu. 
  * I plan to go to a high school reunion in October. 
+----------
+ * **いじめ** :: bullying (noun)
+ * **ijime** 
+ * いじめは大きな問題だ。 
+ * Ijime wa ookina mondai da. 
+ * Bullying is a big problem. 
 ----------
  * **卒業生** :: graduate (noun)
  * **sotsugyousei** 
@@ -693,11 +705,23 @@
  * Kare wa kyouto daigaku no sotsugyousei da. 
  * He graduated from Kyoto University. 
 ----------
+ * **彼** :: boyfriend (noun)
+ * **kare** 
+ * 彼ができました。 
+ * Kare ga dekimashita. 
+ * I have a new boyfriend. 
+----------
  * **結局** :: in the end (adverb)
  * **kekkyoku** 
  * がんばったのに、結局だめだった。 
  * Ganbatta noni, kekkyoku dame datta. 
  * I tried hard, but it was in vain in the end. 
+----------
+ * **彼女** :: girlfriend (noun)
+ * **kanojo** 
+ * 彼女とデートしました。 
+ * Kanojo to dêto shimashita. 
+ * I went on a date with my girlfriend. 
 ----------
  * **頑張る** :: to do one's best (verb)
  * **ganbaru** 
@@ -705,11 +729,23 @@
  * Yamada san, ganbatte ne. 
  * Do your best, Mr. Yamada. 
 ----------
+ * **すっぴん** :: a face with no makeup (noun)
+ * **suppin** 
+ * すっぴんで仕事にいけない。 
+ * Suppin de shigoto ni ikenai. 
+ * I cannot go to work without makeup. 
+----------
  * **欠席する** :: to be absent (verb)
  * **kesseki suru** 
  * 大事な会議に欠席してしまった。 
  * Daijina kaigi ni kesseki site shimatta. 
  * I was absent from an important meeting. 
+----------
+ * **ファミレス** :: family restaurant (noun)
+ * **famiresu** 
+ * ファミレスでお茶しない？ 
+ * Famiresu de ocha shinai? 
+ * Why don't we have tea at a family restaurant? 
 ----------
  * **出席する** :: to attend (verb)
  * **shusseki suru** 
@@ -717,11 +753,23 @@
  * Raishuu no pâthî ni shusseki suru tsumori desu. 
  * I plan to attend the party next week. 
 ----------
+ * **プロ** :: professional (noun)
+ * **puro** 
+ * プロになるのは難しい。 
+ * Puro ni narunowa muzukashii. 
+ * It is difficult to be a professional. 
+----------
  * **そっくり** :: to look similar (adjective)
  * **sokkuri** 
  * 私は母にそっくりです。 
  * Watashi wa haha ni sokkuri desu. 
  * I look similar to my mother. 
+----------
+ * **ぼったくり** :: rip-off (noun)
+ * **bottakuri** 
+ * その値段はぼったくりだ。 
+ * Sono nedan wa bottakuri da. 
+ * The price is a rip-off. 
 ----------
  * **退職する** :: to retire (verb)
  * **taishoku suru** 
@@ -729,11 +777,23 @@
  * Hayaku taishoku shitai desu. 
  * I want to retire early. 
 ----------
+ * **おごる** :: to treat someone (verb)
+ * **ogoru** 
+ * 友達におごってもらった。 
+ * Tomodachi ni ogotte moratta. 
+ * My friend treated me. 
+----------
  * **雪かき** :: snow plowing (noun)
  * **yukikaki** 
  * 冬は雪かきが大変です。 
  * Fuyu wa yukikaki ga taihen desu. 
  * Snow plowing is hard in winter. 
+----------
+ * **学ぶ** :: to study (verb)
+ * **manabu** 
+ * 音楽を学んでいます。 
+ * Ongaku o manande imasu. 
+ * I am studying music theory. 
 ----------
  * **楽しい** :: cheerful (adjective)
  * **tanoshii** 
@@ -741,11 +801,23 @@
  * Chichi wa tanoshii hito desu. 
  * My father is a cheerful person. 
 ----------
+ * **きく** :: to ask (verb)
+ * **kiku** 
+ * 先生にテストの事をききました。 
+ * Sensei ni tesuto no koto o kiki mashita. 
+ * I asked my teacher about the test. 
+----------
  * **ご馳走** :: feast (noun)
  * **gochisou** 
  * 感謝祭のご馳走が楽しみです。 
  * Kanshasai no gochisou ga tanoshimi desu. 
  * I look forward to having a Thanksgiving feast. 
+----------
+ * **通る** :: to go toward (verb)
+ * **tooru** 
+ * この道を通っていくと近いですよ。 
+ * Kono michi o totte iku to chikai desuyo. 
+ * If you go toward this road, you will be close. 
 ----------
  * **掃除する** :: to clean (verb)
  * **souji suru** 
@@ -753,11 +825,23 @@
  * Heya o souji shita 
  * I cleaned my room. 
 ----------
+ * **助ける** :: to help (verb)
+ * **tasukeru** 
+ * だれか、助けて！ 
+ * Dareka tasukete! 
+ * Someone, please help me! 
+----------
  * **洗濯する** :: to do laundry (verb)
  * **senntaku suru** 
  * お天気が悪いから、洗濯はできない。 
  * Otenki ga warui kara, sentaku wa dekinai. 
  * Because it is bad weather today, I cannot do laundry. 
+----------
+ * **連れて行く** :: to take someone to somewhere (verb)
+ * **tsureteiku** 
+ * 弟を連れて公園へ行った。 
+ * Otouto o tsurete kouen ni itta. 
+ * I took my brother to a park. 
 ----------
  * **だめ** :: no good (adjective)
  * **dame** 

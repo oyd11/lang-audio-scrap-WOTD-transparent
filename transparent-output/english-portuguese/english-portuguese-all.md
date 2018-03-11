@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -455,57 +455,113 @@
  * The athlete is left-handed. 
  * O atleta é canhoto. 
 ----------
+ * **hard-working** :: empregado (adjective)
+ * He is a hard-working employee. 
+ * Ele é um empregado que trabalha muito. 
+----------
  * **pumpkin** :: abóbora (noun)
  * We will decorate these pumpkins for Halloween. 
  * Decoraremos estas abóboras para o Dia das Bruxas. 
+----------
+ * **to threaten** :: ameaçar (verb)
+ * If a stranger knocks on the door, I will threaten to call the police. 
+ * Se um estranho bater à porta ameaçarei chamar a polícia. 
 ----------
  * **homework** :: dever de casa (noun)
  * The best students do all of their homework. 
  * Os melhores estudantes fazem todos os deveres de casa. 
 ----------
+ * **to give out** :: distribuir (verb)
+ * The neighbors give out candy to the children. 
+ * Os vizinhos distribuem doces para as crianças. 
+----------
  * **foreign** :: estrangeiro (adjective)
  * I want to visit a foreign country on my next vacation. 
  * Quero visitar um país estrangeiro nas minhas próximas férias. 
+----------
+ * **midnight** :: meia-noite (noun)
+ * Cinderella fled the ball at midnight. 
+ * Cinderela fugiu do baile à meia-noite. 
 ----------
  * **to earn** :: ganhar (verb)
  * The lawyer earns a lot of money. 
  * O advogado ganha muito dinheiro. 
 ----------
+ * **to celebrate** :: comemorar (verb)
+ * After he won the prize, he celebrated with his friends. 
+ * Depois de ganhar o prêmio, ele celebrou com os amigos. 
+----------
  * **ticket window** :: bilheteria (noun)
  * I'm going to buy the tickets at the ticket window. 
  * Vou comprar os ingressos na bilheteria. 
+----------
+ * **sticky** :: grudento (adjective)
+ * The floor is sticky in the supermarket. 
+ * O chão é grudento no supermercado. 
 ----------
  * **long** :: longo (adjective)
  * In the summer, she has a long vacation! 
  * No verão, ela tem férias longas! 
 ----------
+ * **magazines** :: revistas (noun)
+ * You read a lot of magazines on the plane. 
+ * Você lê muitas revistas no avião. 
+----------
  * **tea** :: chá (noun)
  * In England, it is very common to drink tea in the afternoon. 
  * Na Inglaterra, é comum tomar chá à tarde. 
+----------
+ * **to enjoy** :: curtir (verb)
+ * María and José enjoy their weekends together. 
+ * Maria e José curtem seus finais de semana juntos. 
 ----------
  * **to come** :: vir (verb)
  * I'm sorry, but we can't come to your party. 
  * Sinto muito, mas não podemos vir na festa. 
 ----------
+ * **overwhelmed** :: atarefado (adjective)
+ * Juan is overwhelmed by all of his work. 
+ * Juan está muito atarefado no seu trabalho. 
+----------
  * **to have dinner** :: jantar (verb)
  * My family and I have dinner at 6 p.m. 
  * Minha família e eu comemos o jantar às seis horas da tarde. 
+----------
+ * **to sweep** :: varrer (verb)
+ * I'm going to sweep the dirty floor. 
+ * Eu vou varrer o chão sujo. 
 ----------
  * **wet** :: molhado (adjective)
  * My pants are wet from the rain. 
  * Minha calça está molhada da chuva. 
 ----------
+ * **to water** :: regar (verb)
+ * In summer, I water the plants every night. 
+ * No verão eu rego as plantas todas as noites. 
+----------
  * **to check in** :: depositar (verb)
  * We're going to check in our luggage. 
  * Vamos depositar a bagagem. 
+----------
+ * **rag** :: trapo (noun)
+ * I use a rag to clean the lightbulbs. 
+ * Eu uso um trapo para limpar as lâmpadas. 
 ----------
  * **to dive** :: mergulhar (verb)
  * The boys dive in the pool all day and never get tired. 
  * Os meninos mergulham na piscina o dia todo e não cansam. 
 ----------
+ * **striped** :: listrado (adjective)
+ * My friend was wearing a striped shirt. 
+ * Meu amigo estava usando camisa listrada. 
+----------
  * **to hear** :: ouvir (verb)
  * I can't hear the music very well from here. 
  * Não posso ouvir a música muito bem daqui. 
+----------
+ * **Canadian** :: canadense (adjective)
+ * That actor is Canadian. 
+ * Esse ator é canadense. 
 ----------
  * **barbecue** :: churrasco (noun)
  * My aunt and uncle are having a barbecue this weekend. 

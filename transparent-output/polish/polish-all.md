@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -455,57 +455,113 @@
  * W końcu odkryłam jak to działa. 
  * Finally I discovered how it works. 
 ----------
- * **odbyć się** :: to take place (verb)
- * Mecz odbył się w zeszłym tygodniu. 
- * The match took place last week. 
-----------
- * **rozwiązywać** :: to solve (verb)
- * W szkole średniej ona rozwiązywała za mnie zadania z matematyki. 
- * She used to solve math problems for me in high school. 
-----------
  * **martwić się** :: to worry (verb)
  * Naprawdę martwię się o ciebie. 
  * I really worry about you. 
+----------
+ * **odbyć się** :: to take place (verb)
+ * Mecz odbył się w zeszłym tygodniu. 
+ * The match took place last week. 
 ----------
  * **próbować** :: to try (verb)
  * On próbuje mnie zdenerwować. 
  * He is trying to get me angry. 
 ----------
+ * **rozwiązywać** :: to solve (verb)
+ * W szkole średniej ona rozwiązywała za mnie zadania z matematyki. 
+ * She used to solve math problems for me in high school. 
+----------
  * **marzyć** :: to dream (verb)
  * Zawsze marzyłam o zostaniu aktorką. 
  * I have always dreamed of becoming an actress. 
+----------
+ * **martwić się** :: to worry (verb)
+ * Naprawdę martwię się o ciebie. 
+ * I really worry about you. 
 ----------
  * **mijać** :: to pass (verb)
  * Czas mija bardzo szybko, jeśli jesteś zajęta. 
  * Time passes very quickly if you are busy. 
 ----------
+ * **próbować** :: to try (verb)
+ * On próbuje mnie zdenerwować. 
+ * He is trying to get me angry. 
+----------
  * **cierpieć** :: to suffer (verb)
  * Ona cierpi w ciszy. 
  * She suffers in silence. 
+----------
+ * **marzyć** :: to dream (verb)
+ * Zawsze marzyłam o zostaniu aktorką. 
+ * I have always dreamed of becoming an actress. 
 ----------
  * **odmawiać** :: to refuse (verb)
  * Odmawiałam odpowiedzi na wszystkie jego pytania. 
  * I have been refusing to answer any of his questions. 
 ----------
+ * **mijać** :: to pass (verb)
+ * Czas mija bardzo szybko, jeśli jesteś zajęta. 
+ * Time passes very quickly if you are busy. 
+----------
  * **komponować** :: to compose (verb)
  * Chopin komponował głównie utwory na fortepian. 
  * Chopin composed mainly piano pieces. 
+----------
+ * **cierpieć** :: to suffer (verb)
+ * Ona cierpi w ciszy. 
+ * She suffers in silence. 
 ----------
  * **drapać** :: to scratch (verb)
  * Nie powinieneś tego drapać, jeśli lekarz tak powiedział. 
  * You shouldn't scratch it if the doctor said so. 
 ----------
+ * **odmawiać** :: to refuse (verb)
+ * Odmawiałam odpowiedzi na wszystkie jego pytania. 
+ * I have been refusing to answer any of his questions. 
+----------
  * **tłumaczyć** :: to translate (verb)
  * Już od 5 lat tłumaczę na język polski wiersze angielskich poetów. 
  * I've been translating poems by English poets into Polish for five years now. 
+----------
+ * **komponować** :: to compose (verb)
+ * Chopin komponował głównie utwory na fortepian. 
+ * Chopin composed mainly piano pieces. 
 ----------
  * **świętować** :: to celebrate (verb)
  * W sobotę moi rodzice świętowali 30 rocznicę ślubu. 
  * On Saturday my parents celebrated their 30th wedding anniversary. 
 ----------
+ * **drapać** :: to scratch (verb)
+ * Nie powinieneś tego drapać, jeśli lekarz tak powiedział. 
+ * You shouldn't scratch it if the doctor said so. 
+----------
  * **piec** :: to bake (verb)
  * Moja mama w każdą niedzielę piekła ciasto jabłkowe. 
  * My mom baked an apple cake every Sunday. 
+----------
+ * **tłumaczyć** :: to translate (verb)
+ * Już od 5 lat tłumaczę na język polski wiersze angielskich poetów. 
+ * I've been translating poems by English poets into Polish for five years now. 
+----------
+ * **deptać** :: to trample, to tread (verb)
+ * Dlaczego depczesz po kwiatach? 
+ * Why are you trampling the flowers? 
+----------
+ * **świętować** :: to celebrate (verb)
+ * W sobotę moi rodzice świętowali 30 rocznicę ślubu. 
+ * On Saturday my parents celebrated their 30th wedding anniversary. 
+----------
+ * **dostosować się** :: to adapt (verb)
+ * Dinozaury nie dostosowały się do nowych warunków. 
+ * The dinosaurs didn't adapt to the new conditions. 
+----------
+ * **piec** :: to bake (verb)
+ * Moja mama w każdą niedzielę piekła ciasto jabłkowe. 
+ * My mom baked an apple cake every Sunday. 
+----------
+ * **maszerować** :: to march (verb)
+ * Demonstranci maszerowali ulicami Warszawy. 
+ * The demonstrators marched down the streets of Warsaw. 
 ----------
  * **deptać** :: to trample, to tread (verb)
  * Dlaczego depczesz po kwiatach? 

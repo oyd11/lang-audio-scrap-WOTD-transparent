@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -455,9 +455,21 @@
  * Noen løvetannbarn har vokst opp til å bli sterke og snille mennesker. 
  * Some severely disadvantaged kids have grown up to be strong and kind humans. 
 ----------
+ * **løvetannbarn** :: children who succeed in life despite huge odds (noun)
+ * Noen løvetannbarn har vokst opp til å bli sterke og snille mennesker. 
+ * Some severely disadvantaged kids have grown up to be strong and kind humans. 
+----------
  * **jente** :: girl (noun)
  * Den skjønne jenta med den flotte bunaden heter Tuva. 
  * That beautiful girl with a lovely bunad (folk outfit) is named Tuva 
+----------
+ * **jente** :: girl (noun)
+ * Den skjønne jenta med den flotte bunaden heter Tuva. 
+ * That beautiful girl with a lovely bunad (folk outfit) is named Tuva 
+----------
+ * **ekteskapslov** :: marriage law (noun)
+ * Kristelig Folkeparti og Fremskrittspartiet går imot den nye ekteskapsloven. 
+ * The Christian Democratic Party and Progress Party are going against the new marriage law proposal. 
 ----------
  * **ekteskapslov** :: marriage law (noun)
  * Kristelig Folkeparti og Fremskrittspartiet går imot den nye ekteskapsloven. 
@@ -467,9 +479,21 @@
  * "De store fire forfatterne" levde i det 19. århundre. 
  * The "Big Four authors" lived in the 19th Century. 
 ----------
+ * **århundre** :: century (noun)
+ * "De store fire forfatterne" levde i det 19. århundre. 
+ * The "Big Four authors" lived in the 19th Century. 
+----------
  * **ordbok** :: dictionary (noun)
  * Den beste norsk-engelsk ordboken var skrevet av Einar Haugen. 
  * The best Norwegian-English dictionary was written by Einar Haugen. 
+----------
+ * **ordbok** :: dictionary (noun)
+ * Den beste norsk-engelsk ordboken var skrevet av Einar Haugen. 
+ * The best Norwegian-English dictionary was written by Einar Haugen. 
+----------
+ * **skvip** :: weak, tasteless substance (noun)
+ * Kaffen fra den kafeen smaker som såpevann. 
+ * The coffee from that café is like dish water. 
 ----------
  * **skvip** :: weak, tasteless substance (noun)
  * Kaffen fra den kafeen smaker som såpevann. 
@@ -479,9 +503,21 @@
  * Den berømte filmstjernen var skuffet over å være statist i den nye filmen. 
  * The famous film star was disappointed in being an extra in the new film. 
 ----------
+ * **statist** :: extra, walk-on (noun)
+ * Den berømte filmstjernen var skuffet over å være statist i den nye filmen. 
+ * The famous film star was disappointed in being an extra in the new film. 
+----------
  * **ferie** :: vacation (noun)
  * Familien Hanson reiste på ferie til Norge. 
  * The Hanson family travelled to Norway on vacation. 
+----------
+ * **ferie** :: vacation (noun)
+ * Familien Hanson reiste på ferie til Norge. 
+ * The Hanson family travelled to Norway on vacation. 
+----------
+ * **utdanning** :: training (noun)
+ * Statens Lånekasse gir penger til utdanning. 
+ * The Norwegian State Educational Loan fund gives money for education. 
 ----------
  * **utdanning** :: training (noun)
  * Statens Lånekasse gir penger til utdanning. 
@@ -491,6 +527,14 @@
  * Oljefirmaer har forholdsvis høye skatter på overskudd fra oljevirksomheten i Nordsjøen. 
  * The oil firms have relatively high taxes on the profits from the oil activities in the North Sea. 
 ----------
+ * **overskudd** :: profit (noun)
+ * Oljefirmaer har forholdsvis høye skatter på overskudd fra oljevirksomheten i Nordsjøen. 
+ * The oil firms have relatively high taxes on the profits from the oil activities in the North Sea. 
+----------
+ * **børs** :: stock market (noun)
+ * Oslo Børs falt kraftig i går. 
+ * The Oslo stock market fell sharply yesterday. 
+----------
  * **børs** :: stock market (noun)
  * Oslo Børs falt kraftig i går. 
  * The Oslo stock market fell sharply yesterday. 
@@ -499,9 +543,21 @@
  * Partipolitikeren takker velgerne for tilliten deres. 
  * The party politician thanked the voters for their confidence. 
 ----------
+ * **tillit** :: confidence (noun)
+ * Partipolitikeren takker velgerne for tilliten deres. 
+ * The party politician thanked the voters for their confidence. 
+----------
  * **bedøvelse** :: anesthetization (noun)
  * Pasienten spurte kirurgen om hva slags bedøvelse hun ville få? 
  * The patient asked the surgeon what kind of anesthesia she would get. 
+----------
+ * **bedøvelse** :: anesthetization (noun)
+ * Pasienten spurte kirurgen om hva slags bedøvelse hun ville få? 
+ * The patient asked the surgeon what kind of anesthesia she would get. 
+----------
+ * **flaks** :: luck (noun)
+ * Politiet mente at det bare var flaks at ingen andre omkom i krasjet. 
+ * The police assert that it was pure luck that no one else died in the crash. 
 ----------
  * **flaks** :: luck (noun)
  * Politiet mente at det bare var flaks at ingen andre omkom i krasjet. 

@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -455,57 +455,113 @@
  * कहीं मैं बीमार न पड़ जाऊँ, कल से मेरी छुट्टियाँ शुरू हो रहीं हैं! 
  * I can't get sick now, my vacation starts tomorrow! 
 ----------
+ * **नक्काशी करना** :: to carve (verb)
+ * किसी ने अपना नाम पेड़ की छाल पर नक्काशी करके लिख दिया है। 
+ * Someone carved their name into the bark of that tree. 
+----------
  * **बेशक** :: certainly (adverb)
  * बेशक, मैं उन सभी लोगों के साथ सहमत हूँ, जो ऐसा कहते हैं। 
  * Certainly, I agree with all those who say that. 
+----------
+ * **सूखे मेवे** :: dried fruit (noun)
+ * सूखे मेवे प्रोटीन से भरपूर होते हैं। 
+ * Dried fruit is rich in protein. 
 ----------
  * **देश** :: country (noun)
  * यह एक सुन्दर देश है। 
  * This is a beautiful country. 
 ----------
+ * **लेखक** :: writer (noun)
+ * मैं बड़ा होकर एक लेखक बनना चाहता हूँ। 
+ * I want to be a writer when I grow up. 
+----------
  * **धोखा देना** :: to cheat (verb)
  * क्या तुम्हें लगता है कि तुम मुझे धोखा दे सकते हो? दोबारा सोचो! 
  * Do you think you can cheat me? Think again! 
+----------
+ * **शह और मात** :: check-mate (noun)
+ * मैं शह और मात से केवल दो चालों की दूरी पर हूँ। 
+ * I'm two moves away from a check-mate. 
 ----------
  * **लहरें** :: wave (noun)
  * मुझे काले सागर की लहरें पसंद हैं। 
  * I like the waves of the Black Sea. 
 ----------
+ * **कुरकुरा** :: crispy (adjective)
+ * मुझे सीरियल तब तक पसन्द है जब तक कि वह कुरकुरा हो। 
+ * I like cereal when it's still crispy. 
+----------
  * **किसी पर विश्वास करना** :: to trust somebody (phrase)
  * उसने हमें हमेशा धोखा दिया है; मैं उस पर विश्वास नहीं करता। 
  * He always deceives us; I don't trust him. 
+----------
+ * **कथानक** :: script (noun)
+ * उन्होंने अपनी आखिरी फिल्म का कथानक खुद लिखा था। 
+ * He wrote the script for his last movie himself. 
 ----------
  * **जेब-कतरा** :: pick-pocket (noun)
  * पुलिस ने कल रात एक जेब-कतरे को पकड़ा। 
  * The police arrested a pick-pocket last night. 
 ----------
+ * **सुनामी** :: tsunami (noun)
+ * इस क्षेत्र में सोनामी आने की चेतावनी दी गई है। 
+ * There is a tsunami alert in this area. 
+----------
  * **ऊबाऊ** :: to be a bore (expression)
  * एक अध्यापक के रूप में वे बहुत ऊबाऊ हैं। 
  * He is such a bore of a teacher. 
+----------
+ * **इंटरनेट प्रयोक्ता** :: internet user (noun)
+ * ज़्यादातर इंटरनेट प्रयोक्ता तेज स्पीड की उम्मीद करते हैं। 
+ * Most internet users expect fast connection speeds. 
 ----------
  * **बेस्वाद** :: tasteless, bland (adjective)
  * जब किसी को ज़ुकाम होता है तो खाना बेस्वाद लगता है। 
  * Food seems tasteless when one has a cold. 
 ----------
+ * **गुच्छेदार बाल** :: dreadlocks (noun)
+ * तुम पर यह गुच्छेदार बाल अच्छे नहीं लगते हैं। 
+ * Dreadlocks don't look good on you. 
+----------
  * **मूड** :: mood (noun)
  * मैं चुटकुले सुनने के मूड में नहीं हूँ। 
  * I'm not in the mood for jokes. 
+----------
+ * **चौंकाने वाला** :: shocking (adjective)
+ * उस दुर्घटना का फुटेज बहुत चौंकाने वाला था। 
+ * The footage of the accident was shocking. 
 ----------
  * **पकड़े रखना** :: to hold (verb)
  * इस मछली पकड़ने के पोल को एक मिनट के लिए पकड़ना। 
  * Hold this fishing pole a moment. 
 ----------
+ * **मुँह फुलाना** :: to pout (verb)
+ * तुमने अपनी बहन से क्या कहा? वह फिर से मुँह फुलाकर बैठी है. 
+ * What did you say to your sister? She's pouting again. 
+----------
  * **जल्द ही मिलते हैं!** :: See you soon! (expression)
  * मुझे अब जाना है, लेकिन हम जल्द ही मिलेंगे! 
  * I've got to go now, see you soon! 
+----------
+ * **तुम्हारे साथ** :: by your side (phrase)
+ * मैं अपनी बाकी की जिन्दगी तुम्हारे साथ बिताना चाहती हूँ। 
+ * I want to spend the rest of my life by your side. 
 ----------
  * **गहरी नींद सोना** :: to sleep like a log (expression)
  * उस रात मैं बहुत गहरी नींद सोई और मैने कुछ नहीं सुना। 
  * That night I slept like a log and I didn't hear anything. 
 ----------
+ * **लक्ष्य** :: target (noun)
+ * तीर सीधा लक्ष्य के केन्द्र में जाकर लगा। 
+ * The arrow hit the center of the target. 
+----------
  * **उपयोगी** :: useful (adjective)
  * अर्थ-व्यवस्था पर यह लेख मेरे अनुसन्धान के लिए काफी उपयोगी था। 
  * The article on economics was very useful for my research. 
+----------
+ * **बिस्कुट** :: cookies (noun)
+ * मेरी माँ मुझे हमेशा क्रिसमस पर बिस्कुट का एक डिब्बा भेजती हैं। 
+ * My mother always sends me a box of cookies for Christmas. 
 ----------
  * **गॉब्लिन** :: goblin (noun)
  * मेरे भतीजे को गॉब्लिन और परियों की कहानियाँ बहुत पसन्द हैं। 

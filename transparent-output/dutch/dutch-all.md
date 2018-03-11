@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -455,57 +455,113 @@
  * Ik ben dol op koken met wijn. 
  * I love to cook with wine. 
 ----------
+ * **onberispelijk** :: impeccably (adverb)
+ * De aristocraat was zo onberispelijk gekleed als gewoonlijk. 
+ * The aristocrat was dressed as impeccably as usual. 
+----------
  * **zwaar** :: heavy (adjective)
  * Mijn koffer is zo zwaar dat ik hem niet kan dragen. 
  * My suitcase is so heavy I can´t carry it. 
+----------
+ * **eronder** :: under it (adverb)
+ * Ik zocht op de tafel naar mijn paspoort maar vond het tenslotte eronder. 
+ * I searched the table for my passport but in the end I found it under it. 
 ----------
  * **iemand** :: somebody (noun)
  * Kan iemand me vertellen wanneer we op het station aankomen? 
  * Can somebody tell me when we will arrive at the station? 
 ----------
+ * **kapot** :: broken (adjective)
+ * Als moeder onze slaapkamer schoonmaakte, gooide ze het kapotte speelgoed weg. 
+ * When Mother cleaned our bedroom, she threw away the broken toys. 
+----------
  * **laten zien** :: to show (verb)
  * Ik zal je laten zien waar het is gebeurd. 
  * I'll show you where it happened. 
+----------
+ * **grauw** :: grey (adjective)
+ * Het weer was guur en grauw vandaag. 
+ * Today the weather was cold and grey. 
 ----------
  * **de schuld** :: fault (noun)
  * Het is niet mijn schuld. 
  * It is not my fault. 
 ----------
+ * **fijn** :: nice (adjective)
+ * Als het regent, is het knus om in een fijn warm bed te liggen. 
+ * When it rains, it's cozy to be in a nice warm bed. 
+----------
  * **de hel** :: hell (noun)
  * Denk je dat de hel echt zo'n nare plek zal zijn? 
  * Do you think that hell will be such a bad place? 
+----------
+ * **mooi** :: beautiful (adjective)
+ * Ik kan echt genieten van een doos lekkere chocolade terwijl ik een mooi boek lees. 
+ * I can really enjoy a box of chocolates while reading a beautiful book. 
 ----------
  * **de toren** :: tower (noun)
  * De jonkvrouwe zag haar ridder vanuit de toren. 
  * The maiden could see her knight from the tower. 
 ----------
+ * **verlegen** :: shy (adjective)
+ * Vandaag kregen we een erg verlegen nieuw meisje in de klas. Ze keek de hele tijd naar haar schoenen. 
+ * Today we got a new, very shy girl in class. She kept looking at her shoes. 
+----------
  * **het werk** :: work (noun)
  * Mijn werk hier is klaar. 
  * My work here is done. 
+----------
+ * **geestig** :: witty (adjective)
+ * Een collega vertelde een geestig verhaal op het werk. 
+ * A colleague told a witty story at work. 
 ----------
  * **nooit** :: never (adverb)
  * Ik zal je nooit meer laten gaan. 
  * I will never let you go. 
 ----------
+ * **geweldig** :: magnificent (adjective)
+ * Dat was werkelijk een geweldige prestatie! 
+ * That was absolutely a magnificent achievement! 
+----------
  * **de glimlach** :: smile (noun)
  * Een glimlach is de beste manier om 'bedankt' te zeggen. 
  * A smile is the best way to say "thank you." 
+----------
+ * **kleinzerig** :: petty (adjective)
+ * Een zieke man is net een kleinzerig kind. 
+ * A sick grown up man is like a petty child. 
 ----------
  * **de deur** :: door (noun)
  * Doe de deur alsjeblieft dicht, het is koud buiten. 
  * Close the door please, it's cold outside. 
 ----------
+ * **aftands** :: decrepit (adjective)
+ * Toen ik klein was, werd ik afgescheept met een oude aftandse fiets. 
+ * When I was little, I had an old decrepit bicycle fobbed off on me. 
+----------
  * **wraak nemen** :: to get revenge (verb)
  * Het slachtoffer nam wraak op de boosdoener. 
  * The victim got revenge on the wrongdoer. 
+----------
+ * **gierig** :: stingy (adjective)
+ * Mijn tante is een gierige oude heks. 
+ * My aunt is a stingy old bat. 
 ----------
  * **de teleurstelling** :: disappointment (noun)
  * Ik kon mijn teleurstelling over het verlies niet verbergen. 
  * I couldn't hide my disappointment over the defeat. 
 ----------
+ * **gouden** :: golden (adjective)
+ * Het huwelijkspaar verzegelde hun liefde met gouden ringen. 
+ * The wedding couple sealed their love with golden rings. 
+----------
  * **landen** :: to land (verb)
  * Je moet blijven zitten als het vliegtuig aan het landen is. 
  * One should remain seated when the plane lands. 
+----------
+ * **dakloos** :: homeless (adjective)
+ * In derde wereld landen kun je veel dakloze mensen tegenkomen. 
+ * In third world countries you can encounter many homeless people. 
 ----------
  * **het ongeluk** :: mishap (noun)
  * We zijn zonder ongelukken aangekomen. 

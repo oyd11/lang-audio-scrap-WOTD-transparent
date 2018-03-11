@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -455,57 +455,113 @@
  * Beberapa orang memang tidak bisa menerima sindiran. 
  * Some people just can't take a hint. 
 ----------
+ * **batu bata** :: brick (noun)
+ * Kalau kamu bosan, hitung batu bata di dinding. 
+ * Count the bricks in the wall if you're bored. 
+----------
  * **interface** :: interface (noun)
  * Program ini punya interface pengguna yang baik sekali. 
  * The program has a very nice user interface. 
+----------
+ * **menggosok** :: to brush (verb)
+ * Dia perlu menggosok giginya. 
+ * She needs to brush her teeth. 
 ----------
  * **tahun kabisat** :: leap year (noun)
  * Tahun depan adalah tahun kabisat. 
  * Next year is a leap year. 
 ----------
+ * **menghanguskan** :: to burn (verb)
+ * Kita tidak sengaja menghanguskan bistiknya. 
+ * We accidentally burned the steak. 
+----------
  * **berita utama** :: headline (noun)
  * Apakah kamu sudah baca berita utama pagi ini? 
  * Did you see the headlines this morning? 
+----------
+ * **kandang kuda** :: stable (noun)
+ * Kuda-kuda mereka tinggal di kandang kuda. 
+ * Their horses live in the stable. 
 ----------
  * **Senin** :: Monday (noun)
  * Aku punya janji dengan dokter hari Senin. 
  * I have a doctor's appointment on Monday. 
 ----------
+ * **sampanye** :: champagne (noun)
+ * Bawa sampanye, kita akan sediakan buah arbeinya. 
+ * Bring champagne, we'll supply the strawberries. 
+----------
  * **mencair** :: to melt (verb)
  * Salju musim dingin sudah mencair. 
  * The winter snow has already melted. 
+----------
+ * **menarik** :: attractive (adjective)
+ * Saya harus akui, tawaran itu menarik. 
+ * I admit, it is an attractive offer. 
 ----------
  * **bagan** :: draft (noun)
  * Bagan pertama akan selesai besok. 
  * The first draft will be ready by tomorrow. 
 ----------
+ * **boss** :: boss (noun)
+ * Atasan kami memperlakukan kami dengan sopan. 
+ * Our boss treats us courteously. 
+----------
  * **laba-laba** :: spider (noun)
  * Banyak orang takut akan laba-laba. 
  * A lot of people are scared of spiders. 
+----------
+ * **kuda** :: horse (noun)
+ * Aku lihat, dan di depanku ada kuda pucat! 
+ * I looked, and before me was a pale horse! 
 ----------
  * **membumbui** :: to marinade (verb)
  * Kamu harus bumbui kalkunnya sebelum dimasukkan ke oven. 
  * You have to marinade the turkey before putting it in the oven. 
 ----------
+ * **sari buah apel** :: cider (noun)
+ * Mereka menjual sari buah apel manis. 
+ * They sell sweet apple cider. 
+----------
  * **kapal layar** :: sailboat (noun)
  * Kapal layar menggunakan angin untuk bergerak di air. 
  * Sailboats use wind to move on the water. 
+----------
+ * **scrapbook** :: buku tempel (noun)
+ * Aku buat buku tempel untuk liburan terakhir kita. 
+ * I made a scrapbook of our last vacation. 
 ----------
  * **setuju** :: to agree (verb)
  * Saya setuju dengan Anda dalam hal itu. 
  * I agree with you on that issue. 
 ----------
+ * **cerutu** :: cigar (noun)
+ * Cerutu adalah salah satu ekspor terbesar Kuba. 
+ * Cigars are one of Cuba's largest exports. 
+----------
  * **secara acak** :: at random (expression)
  * Kami memilih tempat duduk secara acak. 
  * We chose a seat at random. 
+----------
+ * **memeluk** :: to hug (verb)
+ * Gadis kecil itu memeluk ayahnya. 
+ * The young girl hugged her father. 
 ----------
  * **menyinggung** :: to offend (verb)
  * Saya tidak bermaksud menyinggung Anda. 
  * I didn't mean to offend you. 
 ----------
+ * **membacakan (puisi)** :: to recite (a poem) (verb)
+ * Bisakan kamu membacakan puisi tua itu? 
+ * Can you recite the old poem? 
+----------
  * **penjual mobil** :: car dealership (noun)
  * Penjual mobil lokal saya tidak punya model mobil yang saya mau. 
  * My local car dealership doesn't have the model I'm looking for. 
+----------
+ * **pertanyaan** :: question (noun)
+ * Tolong jawab pertanyaan ini sejujurnya. 
+ * Please answer the question honestly. 
 ----------
  * **janggut** :: goatee (noun)
  * Dia kelihatan seram pakai janggut. 

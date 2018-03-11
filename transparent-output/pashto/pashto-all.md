@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -459,9 +459,21 @@
  * افغانستان یو ښکلې هیواد دی. 
  * Afghanistan is a beautiful country. 
 ----------
+ * **هیواد** :: country (noun)
+ * افغانستان یو ښکلې هیواد دی. 
+ * Afghanistan is a beautiful country. 
+----------
  * **فکر کول** :: to think (verb)
  * ته فکر کوې چې ته ما غولولی شې؟ بیا فکر وکړه. 
  * Do you think you can cheat me? Think again! 
+----------
+ * **فکر کول** :: to think (verb)
+ * ته فکر کوې چې ته ما غولولی شې؟ بیا فکر وکړه. 
+ * Do you think you can cheat me? Think again! 
+----------
+ * **څپه** :: wave (noun)
+ * زما د تورې بحېرې څپې خوښيږي. 
+ * I like the waves of the Black Sea. 
 ----------
  * **څپه** :: wave (noun)
  * زما د تورې بحېرې څپې خوښيږي. 
@@ -471,9 +483,21 @@
  * هغه همېشه مونږ غولوي زه په هغه باور نه کوم. 
  * He always deceives us; I don't trust him. 
 ----------
+ * **باور کول** :: to trust somebody (expression)
+ * هغه همېشه مونږ غولوي زه په هغه باور نه کوم. 
+ * He always deceives us; I don't trust him. 
+----------
  * **ګنډ کپ** :: pick-pocket (noun)
  * پولیس بیګا یو ګنډ کپ ونیوه. 
  * The police arrested a pick-pocket last night. 
+----------
+ * **ګنډ کپ** :: pick-pocket (noun)
+ * پولیس بیګا یو ګنډ کپ ونیوه. 
+ * The police arrested a pick-pocket last night. 
+----------
+ * **خسته کن اوسېدل** :: to be a bore (expression)
+ * هغه ډېر خسته کن استاد دی. 
+ * He is such a bore of a teacher. 
 ----------
  * **خسته کن اوسېدل** :: to be a bore (expression)
  * هغه ډېر خسته کن استاد دی. 
@@ -483,9 +507,21 @@
  * کله چې سړی رېزش وي خواړه بيخونده ښکاري. 
  * Food seems tasteless when one has a cold. 
 ----------
+ * **بی خونده** :: tasteless, bland (adjective)
+ * کله چې سړی رېزش وي خواړه بيخونده ښکاري. 
+ * Food seems tasteless when one has a cold. 
+----------
  * **طبیعت** :: mood (expression)
  * طبیعت مې ټوکو ټکالو ته جوړ نه دی. 
  * I'm not in the mood for jokes. 
+----------
+ * **طبیعت** :: mood (expression)
+ * طبیعت مې ټوکو ټکالو ته جوړ نه دی. 
+ * I'm not in the mood for jokes. 
+----------
+ * **نیول** :: to hold (verb)
+ * دا یو شېبه ونیسه. 
+ * Hold this a moment. 
 ----------
  * **نیول** :: to hold (verb)
  * دا یو شېبه ونیسه. 
@@ -495,6 +531,14 @@
  * زه اوس باید چی لاړ شم. بیا به سره وګورو. 
  * I've got to go now, see you soon! 
 ----------
+ * **بیا به سره وګورو!** :: See you soon! (expression)
+ * زه اوس باید چی لاړ شم. بیا به سره وګورو. 
+ * I've got to go now, see you soon! 
+----------
+ * **ډیر ویده کېدل** :: to sleep like a log (expression)
+ * هغه شپه زه ډېر ښه ویده شوم ما هیڅ وانه ورېدل. 
+ * That night I slept like a log and I didn't hear anything. 
+----------
  * **ډیر ویده کېدل** :: to sleep like a log (expression)
  * هغه شپه زه ډېر ښه ویده شوم ما هیڅ وانه ورېدل. 
  * That night I slept like a log and I didn't hear anything. 
@@ -503,9 +547,21 @@
  * زما د تحقیق لپاره هغه د اقتصاد مقاله ډېره ګټوره وه. 
  * The article on economics was very useful for my research. 
 ----------
+ * **ګټور** :: useful (adjective)
+ * زما د تحقیق لپاره هغه د اقتصاد مقاله ډېره ګټوره وه. 
+ * The article on economics was very useful for my research. 
+----------
  * **پیریان** :: goblin (noun)
  * زما د وراره د پیریانو او ښاپیریو کیسې خوښيږي. 
  * My nephew likes stories with goblins and fairies. 
+----------
+ * **پیریان** :: goblin (noun)
+ * زما د وراره د پیریانو او ښاپیریو کیسې خوښيږي. 
+ * My nephew likes stories with goblins and fairies. 
+----------
+ * **صحتمند** :: healthy (adjective)
+ * ورځنی ورزش یو صحتمند فعالیت دی. 
+ * Doing daily exercise is a healthy activity. 
 ----------
  * **صحتمند** :: healthy (adjective)
  * ورځنی ورزش یو صحتمند فعالیت دی. 

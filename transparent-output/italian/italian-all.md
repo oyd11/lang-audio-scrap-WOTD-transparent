@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -455,57 +455,113 @@
  * Questa scultura è un'opera d'arte inestimabile. 
  * This sculpture is a priceless work of art. 
 ----------
+ * **La rabbia** :: anger (noun)
+ * Vi prego di scusare mio fratello, era fuori di sé dalla rabbia. 
+ * Please excuse my brother, he was beside himself with anger. 
+----------
  * **malato** :: ill (adjective)
  * Ieri ero malata e non sono andata a lavorare. 
  * Yesterday I was ill and I did not go to work. 
+----------
+ * **scivolare** :: to slip (verb)
+ * L'anziana signora è scivolata sul marciapiede coperto di ghiaccio. 
+ * The elderly lady slipped on the ice-covered sidewalk. 
 ----------
  * **svegliare** :: to wake up (verb)
  * Se la tua sveglia non funziona, domattina ti telefono e ti sveglio io. 
  * If your alarm clock does not work, tomorrow morning I'll call and wake you up. 
 ----------
+ * **L'ospite** :: guest (noun)
+ * Oggi siete miei ospiti: è il mio compleanno ed offro da bere a tutti! 
+ * Today you are my guests: it's my birthday and I'm buying drinks for everyone! 
+----------
  * **La corda** :: rope (noun)
  * Ho bisogno di una corda per legare questi bastoni. 
  * I need a rope to tie together these sticks. 
+----------
+ * **davanti** :: in front (adverb)
+ * Siediti davanti, così puoi vedere il panorama. 
+ * Sit in front, so you can see the view. 
 ----------
  * **piuttosto** :: rather (adverb)
  * I ragazzi insistono per andare in pizzeria piuttosto che al ristorante. 
  * The boys insist on going to a pizza parlor rather than to a restaurant. 
 ----------
+ * **magro** :: skinny (adjective)
+ * Un bambino troppo magro può avere problemi di salute. 
+ * A child that is too skinny can have health problems. 
+----------
  * **ultimo** :: latest (adjective)
  * La 3.2 è l'ultima versione del sistema operativo. 
  * The 3.2 is the latest release of the operating system. 
+----------
+ * **sbagliare** :: to be wrong (verb)
+ * Lei sbaglia: la Divina Commedia è stata scritta da Dante, non da Petrarca. 
+ * You are wrong: the Divine Comedy was written by Dante, not by Petrarch. 
 ----------
  * **raccogliere** :: to pick up (verb)
  * Abbiamo raccolto tanti fiori e abbiamo fatto un bel mazzo. 
  * We picked lots of flowers and made a beautiful bouquet. 
 ----------
+ * **caldo** :: hot (adjective)
+ * La sera prima di andare a dormire bevo sempre una tazza di latte caldo. 
+ * In the evening before going to sleep I always drink a cup of hot milk. 
+----------
  * **La bugia** :: lie (noun)
  * Non puoi sempre ripararti dietro un mucchio di bugie! 
  * You cannot always hide behind a pack of lies! 
+----------
+ * **piano** :: softly (adverb)
+ * Parlate piano, sono le 3 di notte e la gente vuole dormire! 
+ * Speak softly, it's 3 in the morning and people want to sleep! 
 ----------
  * **riuscire** :: to manage (verb)
  * Se non riuscite a calmare il cane, mettetegli il guinzaglio. 
  * If you cannot manage to calm the dog, please tether it. 
 ----------
+ * **utile** :: useful (adjective)
+ * Questo manuale di sopravvivenza è stato molto utile al campeggio. 
+ * This survival handbook was very useful while camping. 
+----------
  * **suonare** :: to play (verb)
  * La banda di ottoni suonerà dopo il rinfresco. 
  * After refreshments the brass band will play. 
+----------
+ * **finora** :: so far (adverb)
+ * Finora per il concerto sono stati venduti 8.000 biglietti. 
+ * So far 8,000 tickets were sold for the concert. 
 ----------
  * **sano** :: healthy (adjective)
  * Alcune sane abitudini possono aiutare a vivere meglio. 
  * Certain healthy habits can help you to live a better life. 
 ----------
+ * **passare** :: to go by (verb)
+ * L'autobus numero 28 è passato mezz'ora fa. 
+ * Bus number 28 went by half an hour ago. 
+----------
  * **baciare** :: to kiss (verb)
  * Alberto ha visto la moglie baciare un altro uomo! 
  * Alberto saw his wife kissing another man! 
+----------
+ * **Il genitore** :: parent (noun)
+ * Talvolta i genitori non sanno cosa sia meglio per il bene dei loro figli. 
+ * Sometimes parents do not know what is best for their children. 
 ----------
  * **attento** :: careful (adjective)
  * Grazie ad un'attenta indagine, è emersa la verità. 
  * Thanks to a careful investigation, the truth came out. 
 ----------
+ * **abbastanza** :: enough (adverb)
+ * Se vi siete riposati abbastanza, possiamo ripartire. 
+ * If you've rested enough, we can go on. 
+----------
  * **pieno** :: full (adjective)
  * Sono piena; non posso mangiare più niente! 
  * I'm full; I can't eat anymore. 
+----------
+ * **ricordare** :: to remember (verb)
+ * Ricorderò per sempre questi bei giorni passati insieme. 
+ * I will always remember these beautiful days spent together. 
 ----------
  * **vietare** :: to ban (verb)
  * Il sindaco ha vietato la circolazione dei veicoli privati in centro. 

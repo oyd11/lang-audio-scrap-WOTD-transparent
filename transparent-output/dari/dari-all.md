@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -455,57 +455,113 @@
  * در این کشور فشار روانی زیاد نیست. 
  * There is not a lot of stress in this country. 
 ----------
+ * **تازه کنندۀ هوا** :: air freshener (noun)
+ * تازه کنندۀ هوا شاید بوی بد را از بین ببرد. 
+ * An air freshener might eliminate the odor. 
+----------
  * **دیوار ها** :: the walls (noun)
  * دیوارها موش دارد وموش ها گوش. 
  * The walls have ears. 
+----------
+ * **خود را از غمش خلاص کردن.** :: to get rid of (verb)
+ * ما باید خود را از غم مبل کهنه خلاص کنیم. 
+ * We have to get rid of our old furniture. 
 ----------
  * **گپ زدن** :: to talk (verb)
  * مثل گپ زدن به دیوار است. 
  * It's like talking to a wall. 
 ----------
+ * **رنج** :: pain (noun)
+ * نا برده رنج گنج میسر نمی شود. 
+ * No pain, no gain. 
+----------
  * **دود** :: smoke (noun)
  * این دود از کجا میاید؟ 
  * Where is this smoke coming from? 
+----------
+ * **بحث برانگیز** :: controversial (adjective)
+ * بخاطر صحنه های برهنه این برنامه تلویزیون بحث برانگیز است. 
+ * This television show is controversial due to the sex scenes. 
 ----------
  * **دیوانه** :: crazy (adjective)
  * ما همه دیوانگی خود را داریم. 
  * We're all a little crazy in one way or another. 
 ----------
+ * **سپر** :: shield (noun)
+ * سوار کار با سپرش ضربه را دفاع کرد. 
+ * The knight blocked the blow with his shield. 
+----------
  * **چشم پت نکردن** :: to not sleep a wink (expression)
  * تمام شب چشم پت نکردم، مرض بیخوابی داشتم. 
  * I didn't sleep a wink all night because I had insomnia. 
+----------
+ * **دست دادن** :: to shake hands (expression)
+ * دست بدهید و آشتی کنید. 
+ * Shake hands and make up. 
 ----------
  * **چشم افگار** :: black eye (noun)
  * بلی، چشم من افگارشد، مگر تو او مرد دیگررا باید میدیدی! 
  * Yes, I got a black eye, but you should have seen the other guy! 
 ----------
+ * **ساجق** :: chewing gum (noun)
+ * من میتوانم که در عین زمان هم ساجق بجوم و هم راه بروم. 
+ * I can walk and chew gum at the same time. 
+----------
  * **ماندن** :: to stay (verb)
  * چرا کرتی ات را نمی کشی و یک چند دقیقه نمی مانی؟ 
  * Why don't you take off your coat and stay a while? 
+----------
+ * **بسیار قیمت بودن** :: to be very expensive (expression)
+ * من آخرین مادل را نخریدم بخاطریکه بسیار قیمت است. 
+ * I didn't buy the most recent model because it's so expensive. 
 ----------
  * **لیلام بودن** :: to be on sale (expression)
  * واقیعتش به این ضرورت هم ندارم، مگر این لیلام است. 
  * I don't really need this, but it's on sale! 
 ----------
+ * **کیبورد** :: keyboard (noun)
+ * من نمیفهمم که چطور کیبورد را صفحه آرایی کنم. 
+ * I don't know how to change the keyboard layout. 
+----------
  * **ترسناک** :: hideous, grotesque (adjective)
  * صحنه جنگ بسیار ترسناک معلوم میشد. 
  * The fight scene looked quite grotesque. 
+----------
+ * **سیب** :: apple (noun)
+ * روزانه خوردن یک سیب داکتر را دور نگهمیدارد. 
+ * An apple a day keeps the doctor away. 
 ----------
  * **زیر لب گفتن** :: to mumble (verb)
  * خوب ، من میکنم اش مگر حتمی نیست کی خوشم بیاید، جان زیر لب گفت. 
  * "Fine, I'll do it, but I don't have to like it." mumbled John. 
 ----------
+ * **اخطار دادن** :: to warn (verb)
+ * برای آخرین بار شما را اخطار میدهم. 
+ * That's the last time I'm going to warn you. 
+----------
  * **پر کردن** :: to fill (verb)
  * گیلاسم را پر نکنید. 
  * Don't fill my glass up. 
+----------
+ * **صحت** :: health (noun)
+ * صحت بهتر از مال است. 
+ * Health is better than wealth. 
 ----------
  * **خبر داشتن** :: to be aware of (expression)
  * آیا از نتایج اعمال تان خبر دارید؟ 
  * Are you aware of the consequences of your actions? 
 ----------
+ * **خنده** :: laughter (noun)
+ * خنده بهترین دوا است. 
+ * Laughter is the best medicine. 
+----------
  * **ترساندن** :: to startle (verb)
  * صدای انفجار مرا ترساند. 
  * The sound of the explosion startled me. 
+----------
+ * **سرد** :: cold (adjective)
+ * من آب سرد میخواهم. 
+ * I want cold water. 
 ----------
  * **دعوا کردن** :: to quarrel (verb)
  * آنها تمام وقت را در دعوا کردن سپری میکنند. 

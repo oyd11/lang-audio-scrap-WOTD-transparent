@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -455,57 +455,113 @@
  * Старинные часы достались ему от деда-офицера. 
  * He inherited the antique watch from his grandfather, the officer. 
 ----------
+ * **Круто!** :: How cool! (expression)
+ * Новый Apple - это круто?! 
+ * How cool is Apple's new product?! 
+----------
  * **жёлтая пресса** :: tabloids (phrase)
  * Скандальная фотография сразу же появилась на страницах жёлтой прессы. 
  * Shocking photograph immediately appeared in the tabloids. 
+----------
+ * **фен** :: hairdryer (noun)
+ * Если я не уложу волосы феном, они выглядят плохо. 
+ * If I don't use a hairdryer my hair won't look good. 
 ----------
  * **загадочный** :: mysterious (adjective)
  * Вам не надоело слушать про загадочную русскую душу? 
  * Aren't you tired of hearing about the mysterious Russian soul? 
 ----------
+ * **хохотать** :: to laugh out loud (verb)
+ * Когда мы увидели фотографию, мы расхохотались. 
+ * When we saw the picture, we laughed out loud. 
+----------
  * **вдохновенье** :: inspiration (noun)
  * Иногда даже гнилые яблоки могут быть источником вдохновения. 
  * Sometimes even rotten apples can be a source of inspiration. 
+----------
+ * **красивый** :: beautiful (adjective)
+ * Ты такая красивая в этом платье. 
+ * You look beautiful in that dress. 
 ----------
  * **скучно** :: feel bored (adverb)
  * Евгению часто было скучно в шумных компаниях. 
  * Eugine would often feel bored at noisy parties. 
 ----------
+ * **бесплатный** :: free (adjective)
+ * Купите два и получите третий бесплатно. 
+ * Buy two, get one free. 
+----------
  * **сдержанная позиция** :: low profile (phrase)
  * Настоящие шпионы непримечательны и занимают сдержанную позицию. 
  * Real spies appear unremarkable and keep low profile. 
+----------
+ * **предложение** :: suggestion (noun)
+ * У меня есть несколько предложений. 
+ * I have some suggestions to make. 
 ----------
  * **точка зрения** :: point of view (expression)
  * Моя точка зрения по этому вопросу очень отличается от вашей. 
  * My point of view on this issue is significantly different from yours. 
 ----------
+ * **выдохнуться** :: to be exhausted (verb)
+ * Я весь день работала. Я выдохлась. 
+ * I've worked all day long; I'm exhausted. 
+----------
  * **идти вразрез** :: run counter to something (phrase)
  * Его финансовые советы шли вразрез с общепринятыми методами. 
  * His financial advice ran counter to that of all conventions. 
+----------
+ * **ангел** :: angel (noun)
+ * Спасибо за помощь - ты просто ангел. 
+ * Thank you for your help; you're an angel. 
 ----------
  * **овощ** :: vegetable (noun)
  * Моя бабушка сама выращивает овощи. 
  * My grandmother grows her own vegetables. 
 ----------
+ * **горько** :: bitterly (adverb)
+ * Бедняжка горько заплакала. 
+ * The poor girl started to cry bitterly. 
+----------
  * **нуждаться** :: to need (verb)
  * Тебе будет нужна лодка побольше. 
  * You're going to need a bigger boat. 
+----------
+ * **к сожалению** :: unfortunately (noun)
+ * К моему сожалению, свекровь живёт с нами. 
+ * Unfortunately for me, my mother-in-law lives with us. 
 ----------
  * **папка нежелательной почты** :: junk mail folder (phrase)
  * Возможно, что сообщение случайно попало в папку нежелательной почты. 
  * The email may have accidentally gone into your junk mail folder. 
 ----------
+ * **имя** :: name (noun)
+ * Что означает имя? 
+ * What's in a name? 
+----------
  * **блокировать** :: to block (verb)
  * Почему ты заблокировал меня на Твиттере? 
  * Why'd you block me on Twitter, friend? 
+----------
+ * **знакомиться** :: to meet (verb)
+ * Приятно познакомиться. 
+ * It is a pleasure to meet you. 
 ----------
  * **терпение** :: patience (noun)
  * Терпение - добродетель. 
  * Patience is a virtue. 
 ----------
+ * **вкусный** :: delicious (adjective)
+ * Было вкусно. 
+ * That was delicious. 
+----------
  * **рисковать** :: to venture (verb)
  * Кто не рискует, тот не пьёт шампанское. 
  * Nothing ventured, nothing gained. 
+----------
+ * **вы** :: you (pronoun)
+ * Откуда вы родом? 
+ * Where are you from? 
 ----------
  * **готовиться** :: to study (verb)
  * Я всю ночь спать не ложилась, готовилась к этому экзамену. 

@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -681,11 +681,23 @@
  * Zhōngguó qiūtiān hěn měi. 
  * Autumn is beautiful in China. 
 ----------
+ * **职业** :: profession (noun)
+ * **zhíyè** 
+ * 他的职业是教师。 
+ * Tā de zhíyè shì jiàoshī. 
+ * Teaching is his profession. 
+----------
  * **冬天** :: winter (noun)
  * **dōngtiān** 
  * 这儿冬天有雪吗？ 
  * Zhèr dōngtiān yǒu xuě ma? 
  * Is there snow in winter here? 
+----------
+ * **短** :: short (adjective)
+ * **duǎn** 
+ * 这条裙子太短。 
+ * Zhè tiáo qúnzi tài duǎn. 
+ * This skirt is too short. 
 ----------
  * **暖和** :: warm (adjective)
  * **nuǎnhuo** 
@@ -693,11 +705,23 @@
  * Jīntiān hěn nuǎnhuo. 
  * It's warm today. 
 ----------
+ * **裤子** :: pants (noun)
+ * **kùzi** 
+ * 这条裤子很贵。 
+ * Zhè tiáo kùzi hěnguì. 
+ * This pair of pants is quite expensive. 
+----------
  * **凉快** :: cool (adjective)
  * **liàngkuài** 
  * 北部夏天很凉快。 
  * Běibù xiàtiān hěn liángkuài. 
  * It is cool in the north in summer. 
+----------
+ * **带** :: to bring (verb)
+ * **dài** 
+ * 请别带照相机。 
+ * Qǐng bié dài zhàoxiàngjī. 
+ * Please don't bring a camera. 
 ----------
  * **穿** :: to wear (verb)
  * **chuān** 
@@ -705,11 +729,23 @@
  * Háizi xǐhuān chuān xīnyī. 
  * Children like to wear new clothes. 
 ----------
+ * **自己** :: self (noun)
+ * **zìjǐ** 
+ * 让孩子自己做。 
+ * Ràng háizi zìjǐ zuò. 
+ * Let the children do it themselves. 
+----------
  * **衣服** :: clothing; clothes (noun)
  * **yīfu** 
  * 他穿了一件黑衣服。 
  * Tā chuānle yī jiàn hēi yīfu. 
  * He wore one piece of black clothing. 
+----------
+ * **记住** :: to remember; to memorize (verb)
+ * **jìzhù** 
+ * 请记住这些生词。 
+ * Qǐng jìzhù zhè xiē shēngcí. 
+ * Please memorize these new words. 
 ----------
  * **黑** :: black (adjective)
  * **hēi** 
@@ -717,11 +753,23 @@
  * Jiàoshì yǒu hēibǎn. 
  * There is a blackboard in the classroom. 
 ----------
+ * **翻译** :: to translate (verb)
+ * **fānyì** 
+ * 请翻译这句话。 
+ * Qǐng fānyì zhèjù huà. 
+ * Please translate this sentence. 
+----------
  * **白** :: white (adjective)
  * **bái** 
  * 夏天我穿白衬衫。 
  * Xiàtiān wǒ chuān bái chènshān. 
  * I wear white shirts in the summer. 
+----------
+ * **交** :: to pay; to submit (verb)
+ * **jiāo** 
+ * 我每月交房租。 
+ * Wǒ měi yuè jiāo fángzū. 
+ * I pay the rent every month. 
 ----------
  * **绿** :: green (adjective)
  * **lǜ** 
@@ -729,11 +777,23 @@
  * Lǜ cǎo hěn nèn. 
  * Green grass is tender. 
 ----------
+ * **电梯** :: elevator; escalator (noun)
+ * **diàntī** 
+ * 我坐电梯上楼。 
+ * Wǒ zuò diàntī shànglóu. 
+ * I am taking the elevator to go upstairs. 
+----------
  * **黄** :: yellow (adjective)
  * **huáng** 
  * 秋天草黄了。 
  * Qiūtiān cǎo huáng le. 
  * Grass turns yellow in the fall. 
+----------
+ * **加油** :: to cheer (verb)
+ * **jiāyóu** 
+ * 加油！ 
+ * Jiā yóu! 
+ * Cheers! 
 ----------
  * **蓝** :: blue (adjective)
  * **lán** 
@@ -741,11 +801,23 @@
  * Jīntiān tiān zhēn lán. 
  * The sky is really blue today. 
 ----------
+ * **观众** :: audience (noun)
+ * **guānzhòng** 
+ * 观众很高兴。 
+ * Guānzhòng hěn gāoxìng. 
+ * The audience is very happy. 
+----------
  * **紫** :: purple (adjective)
  * **zǐ** 
  * 我喜欢紫色。 
  * Wǒ xǐhuan zǐ sè. 
  * I like purple. 
+----------
+ * **大** :: big (adjective)
+ * **dà** 
+ * 上海有很多大楼房。 
+ * Shànghǎi yǒu hěn duō dà lóufáng. 
+ * Shanghai has many big buildings. 
 ----------
  * **住** :: to live (verb)
  * **zhù** 
@@ -753,11 +825,23 @@
  * Nǐ zhù zài nǎr? 
  * Where do you live? 
 ----------
+ * **小** :: small (adjective)
+ * **xiǎo** 
+ * 这个学校很小。 
+ * Zhè gè xuéxiào hěn xiǎo. 
+ * This school is small. 
+----------
  * **感冒** :: to have a cold; to catch a cold (verb)
  * **gǎnmào** 
  * 孩子感冒了。 
  * Háizi gǎnmào le. 
  * The child has caught a cold. 
+----------
+ * **问** :: to ask (verb)
+ * **wèn** 
+ * 我要问一个问题。 
+ * Wǒ yào wèn yígè wèntí. 
+ * I'd like to ask a question. 
 ----------
  * **发烧** :: to have a fever (verb)
  * **fāshāo** 

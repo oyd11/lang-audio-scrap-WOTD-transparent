@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -455,57 +455,113 @@
  * I use a rag to clean the lightbulbs. 
  * Uso un trapo para limpiar las bombillas. 
 ----------
- * **raw** :: crudo (adjective)
- * You should never eat raw meat. 
- * Nunca se debe comer la carne cruda. 
-----------
- * **juicy** :: jugoso (adjective)
- * The papaya is a really juicy fruit. 
- * La papaya es una fruta bien jugosa. 
-----------
- * **raisin** :: pasa (noun)
- * I make oatmeal raisin cookies for my friends. 
- * Preparo las galletas de avena con pasas para mis amigos. 
-----------
- * **sunburn** :: quemadura (noun)
- * I put on sunscreen to avoid sunburns. 
- * Me pongo crema protectora para evitar las quemaduras. 
-----------
- * **relaxing** :: relajantes (adjective)
- * My vacation was rather relaxing. 
- * Mis vacaciones fueron bastante relajantes. 
-----------
- * **recently** :: recientemente (adverb)
- * We haven't seen each other recently. 
- * No nos hemos visto recientemente. 
-----------
  * **to accomplish** :: realizar (verb)
  * I accomplished more than I expected at work today. 
  * Realicé más trabajo que esperaba en la oficina hoy. 
+----------
+ * **raw** :: crudo (adjective)
+ * You should never eat raw meat. 
+ * Nunca se debe comer la carne cruda. 
 ----------
  * **to realize** :: darse cuenta de (verb)
  * I realize that you work a lot. 
  * Me doy cuenta de que tú trabajas mucho. 
 ----------
+ * **juicy** :: jugoso (adjective)
+ * The papaya is a really juicy fruit. 
+ * La papaya es una fruta bien jugosa. 
+----------
  * **pet** :: mascota (noun)
  * My daughter wants us to buy a pet. 
  * Mi hija quiere que compremos una mascota. 
+----------
+ * **raisin** :: pasa (noun)
+ * I make oatmeal raisin cookies for my friends. 
+ * Preparo las galletas de avena con pasas para mis amigos. 
 ----------
  * **pleasant** :: agradable (adjective)
  * The atmosphere of the restaurant is very pleasant. 
  * El ambiente del restaurante es muy agradable. 
 ----------
+ * **sunburn** :: quemadura (noun)
+ * I put on sunscreen to avoid sunburns. 
+ * Me pongo crema protectora para evitar las quemaduras. 
+----------
  * **unpleasant** :: desagradable (adjective)
  * There is a very unpleasant smell around here. 
  * Hay un olor muy desagradable por aquí. 
+----------
+ * **relaxing** :: relajantes (adjective)
+ * My vacation was rather relaxing. 
+ * Mis vacaciones fueron bastante relajantes. 
 ----------
  * **to get along with** :: llevarse con (verb)
  * I get along well with my sister. 
  * Me llevo bien con mi hermana. 
 ----------
+ * **recently** :: recientemente (adverb)
+ * We haven't seen each other recently. 
+ * No nos hemos visto recientemente. 
+----------
  * **company** :: empresa (noun)
  * I work for a small company. 
  * Trabajo para una empresa pequeña. 
+----------
+ * **to accomplish** :: realizar (verb)
+ * I accomplished more than I expected at work today. 
+ * Realicé más trabajo que esperaba en la oficina hoy. 
+----------
+ * **striped** :: a/de rayas (adjective)
+ * My friend was wearing a striped shirt. 
+ * Mi amigo llevaba una camisa de rayas. 
+----------
+ * **to realize** :: darse cuenta de (verb)
+ * I realize that you work a lot. 
+ * Me doy cuenta de que tú trabajas mucho. 
+----------
+ * **leather** :: de cuero (noun)
+ * I'm going to buy my wife a leather jacket. 
+ * Voy a comprarle una chaqueta de cuero a mi esposa. 
+----------
+ * **pet** :: mascota (noun)
+ * My daughter wants us to buy a pet. 
+ * Mi hija quiere que compremos una mascota. 
+----------
+ * **teacher** :: maestro (noun)
+ * The teacher teaches the seventh grade. 
+ * El maestro enseña el séptimo grado. 
+----------
+ * **pleasant** :: agradable (adjective)
+ * The atmosphere of the restaurant is very pleasant. 
+ * El ambiente del restaurante es muy agradable. 
+----------
+ * **credit card** :: tarjeta de crédito (noun)
+ * I pay with my credit card a lot. 
+ * Pago mucho con mi tarjeta de crédito. 
+----------
+ * **unpleasant** :: desagradable (adjective)
+ * There is a very unpleasant smell around here. 
+ * Hay un olor muy desagradable por aquí. 
+----------
+ * **to try on** :: probarse (verb)
+ * I'm trying on some pants. 
+ * Me estoy probando los pantalones. 
+----------
+ * **to get along with** :: llevarse con (verb)
+ * I get along well with my sister. 
+ * Me llevo bien con mi hermana. 
+----------
+ * **to feel** :: sentir (verb)
+ * I feel angry when I read about politics. 
+ * Siento enojado cuando leo sobre la política. 
+----------
+ * **company** :: empresa (noun)
+ * I work for a small company. 
+ * Trabajo para una empresa pequeña. 
+----------
+ * **ancient** :: antiguo (adjective)
+ * I saw some ancient ruins in Mexico. 
+ * Vi muchas ruinas antiguas en México. 
 ----------
  * **striped** :: a/de rayas (adjective)
  * My friend was wearing a striped shirt. 

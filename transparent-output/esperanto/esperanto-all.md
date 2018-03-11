@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -455,57 +455,113 @@
  * Li ĉiam rajdas sian biciklon al la laborejo. 
  * He always rides his bicycle to work. 
 ----------
+ * **ordigi** :: to arrange (verb)
+ * Ŝi ordigas sian librobreton ĉiu-monate. 
+ * She arranges her bookshelf every month. 
+----------
  * **rano** :: frog (noun)
  * Ranoj estas ĉie sur la strato post pluvado. 
  * Frogs are all over the road after it rains. 
+----------
+ * **ordinara** :: ordinary (adjective)
+ * Hieraŭ estis ordinara tago. 
+ * Yesterday was an ordinary day. 
 ----------
  * **raŭpo** :: caterpillar (noun)
  * Raŭpoj voris la foliojn de la arbo. 
  * Caterpillars have devoured the leaves of the tree. 
 ----------
+ * **orfiŝo** :: goldfish (noun)
+ * Ilia filino amas ŝian dorlotan orfiŝon . 
+ * Their daughter loves her pet goldfish. 
+----------
  * **recenzi** :: to review (verb)
  * Recenzu mian raporton, mi petas. 
  * Will you review my report, please? 
+----------
+ * **ornami** :: to decorate (verb)
+ * Ni ornamis la festan arbon. 
+ * We decorated the holiday tree. 
 ----------
  * **recepto** :: recipe (noun)
  * Ĉu mi rajtas havi vian recepton pri torto? 
  * May I have your pie recipe? 
 ----------
+ * **pajlo** :: straw (noun)
+ * Ŝi trinkis la sukon per suĉilo. 
+ * She drank the juice through a straw. 
+----------
  * **remburita** :: padded (adjective)
  * La infanoj surhavas remburitajn jakojn. 
  * The children wear padded jackets. 
+----------
+ * **pano** :: bread (noun)
+ * Pro la pano ĉi tiu sandviĉo estas bongustega. 
+ * The bread makes this sandwich delicious. 
 ----------
  * **renovigi** :: to renew (verb)
  * Ni reabonis pasintsemajne. 
  * We renewed our subscription last week. 
 ----------
+ * **pasteĉo** :: pie (noun)
+ * Ŝia avino bakas bongustegajn tortojn. 
+ * Her grandmother bakes delicious pies. 
+----------
  * **rimarki** :: to remark (verb)
  * Li rimarkis pri la beleco de la pentraĵo. 
  * He remarked on the beauty of the painting. 
+----------
+ * **patrino** :: mother (noun)
+ * Mi amas mian patrinon. 
+ * I love my mother. 
 ----------
  * **riska** :: hazardous (adjective)
  * Speciala skipo forprenis la danĝeran rubon. 
  * A special crew removed the hazardous waste. 
 ----------
+ * **patrono** :: pattern (noun)
+ * Ŝi elektis mirindan desegnon por sia peplomo. 
+ * She chose a wonderful pattern for her quilt. 
+----------
  * **romaneto** :: novella (noun)
  * Ĉu vi legis lian novan novelon? 
  * Have you read his latest novella? 
+----------
+ * **paŭzo** :: recess (noun)
+ * La juĝisto deklaris paŭzon de tridek minutoj. 
+ * The court declared a thirty minute recess. 
 ----------
  * **rompita** :: broken (adjective)
  * La forlasita domo havas rompitajn fenestrojn. 
  * The abandoned house has broken windows. 
 ----------
+ * **percepti** :: to notice (verb)
+ * Ĉu vi perceptis ŝanĝon en la aero? 
+ * Did you notice a change in the air? 
+----------
  * **rosti** :: to roast (verb)
  * Ili rostos porkon por la festeno. 
  * They will roast a pig for the celebration. 
+----------
+ * **persona** :: personal (adjective)
+ * Mi bedaŭras, sed ĉi tiu estas persona afero. 
+ * I'm sorry, but this is a personal matter. 
 ----------
  * **kradrostita** :: grilled (adjective)
  * En la restoracio oni ofertas kradrostitan salmon. 
  * They serve grilled salmon at the restaurant 
 ----------
+ * **petolema** :: playful (adjective)
+ * La petolema hundido ŝtelis mian ŝuon. 
+ * The playful puppy stole my shoe. 
+----------
  * **rozo** :: rose (noun)
  * Ĉiu rozo havas siajn dornojn. 
  * Every rose has its thorns. 
+----------
+ * **pezo** :: weight (noun)
+ * Mi volas perdi iom da pezo ĉi-jare. 
+ * I want to lose weight this year. 
 ----------
  * **rubando** :: ribbon (noun)
  * Flava rubando ligis la pakaĵon. 

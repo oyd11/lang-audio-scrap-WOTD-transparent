@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -455,57 +455,113 @@
  * לפחות הוא עשה משהו; כל האחרים רק הסתכלו. 
  * At least he did something; everyone else just watched. 
 ----------
+ * **יתוש** :: mosquito (noun)
+ * היתושים לא עוזבים אותי! 
+ * The mosquitoes will not leave me alone! 
+----------
  * **גסויות** :: profanity (noun)
  * כאן לא משתמשים בגסויות. 
  * One shouldn't use profanity here. 
+----------
+ * **כוכב קולנוע** :: movie star (noun)
+ * מיהו כוכב הקולנוע האהוב עליך? 
+ * Who's your favorite movie star? 
 ----------
  * **היעדרות** :: absence (noun)
  * אתה יכול להמשיך את הפרויקט בהיעדרי. 
  * You can keep the project going in my absence. 
 ----------
+ * **פירות ים** :: seafood (noun)
+ * אני אוהבת פירות ים, אבל החבר שלי אלרגי אליהם. 
+ * I love seafood, but my friend is allergic to it. 
+----------
  * **בסוד** :: in secret (expression)
  * תכננו מסיבת הפתעה בסוד. 
  * We planned a surprise party in secret. 
+----------
+ * **לשבת** :: to sit down (verb)
+ * לפעמים אני אוהבת סתם לשבת ולקרוא ספר טוב. 
+ * Sometimes I just like to sit down with a good book. 
 ----------
  * **גלגל ענק** :: Ferris wheel (noun)
  * אימא, אני רוצה לעלות על גלגל-הענק! 
  * Mom, I want to get on the Ferris wheel! 
 ----------
+ * **דשא** :: lawn (noun)
+ * רד מהדשא שלי. 
+ * Get off my lawn. 
+----------
  * **גרעיון** :: seed (noun)
  * אני קונה תמיד סוג זה של אבטיח בלי גרעינים. 
  * I always buy the kind of watermelon with no seeds. 
+----------
+ * **רשות** :: permission (noun)
+ * יותר קל לבקש סליחה מאשר רשות. 
+ * It's easier to ask forgiveness than permission. 
 ----------
  * **להתנגד** :: to object (verb)
  * אבא שלך לא התנגד הפעם? 
  * Didn't your father object this time? 
 ----------
+ * **להשלים** :: to complete (verb)
+ * השלם בבקשה את הטופס הזה בזמן ההמתנה. 
+ * Please complete this form while you wait. 
+----------
  * **דיילת** :: stewardess (noun)
  * בתי עובדת כדיילת. 
  * My daughter works as a stewardess. 
+----------
+ * **נוסע** :: passenger (noun)
+ * הנוסע ברכב לא נפגע. 
+ * The passenger of the vehicle was unharmed. 
 ----------
  * **ריחן** :: basil (noun)
  * ריחן הוא המרכיב העיקרי ברוטב הפסטו. 
  * Basil is the main ingredient in pesto. 
 ----------
+ * **תרגיל אש** :: fire drill (noun)
+ * אל תיבהלו, זהו רק תרגיל אש. 
+ * Don't panic, it's only a fire drill. 
+----------
  * **בהקדם האפשרי** :: as soon as (conjunction)
  * אני אגיע לשם בהקדם האפשרי. 
  * I will be there as soon as I can. 
+----------
+ * **לחי** :: cheek (noun)
+ * כשהיא ראתה אותי היא נישקה אותי פעמיים על הלחיים. 
+ * When she saw me, she kissed me twice on the cheeks. 
 ----------
  * **לאכול** :: to consume (verb)
  * הוא אכול קנאה. 
  * He is consumed with jealousy. 
 ----------
+ * **ברוקולי** :: broccoli (noun)
+ * אתה מעדיף לאדות את הברוקולי או לאכול אותו חי? 
+ * Do you prefer to steam broccoli or to eat it raw? 
+----------
  * **מטורף** :: frantic (adjective)
  * החתול שלי הפך מטורף ברגע שהמכונית החלה לנסוע. 
  * My cat became frantic as soon as the car began to move. 
+----------
+ * **להיחטף** :: to abduct (verb)
+ * אמש חלמתי שנחטפתי על ידי חייזרים. 
+ * Last night I dreamt I was being abducted by aliens. 
 ----------
  * **להביס** :: to defeat (verb)
  * הבסנו את האויב בעזרת ידידינו. 
  * We defeated the enemies with the help of our friends. 
 ----------
+ * **מתז** :: sprinkler (noun)
+ * האש לא התפשטה משום שהמתזים הופעלו. 
+ * The fire did not spread because the sprinklers were activated. 
+----------
  * **להתגעגע** :: to miss (verb)
  * אני מתגעגעת לגינה משלי. 
  * I miss having a garden. 
+----------
+ * **צוק** :: cliff (noun)
+ * במהלך הטיול שלנו באנגליה ביקרנו בצוקי דובר. 
+ * During our trip around England we visited the cliffs of Dover. 
 ----------
  * **אלא אם** :: unless (conjunction)
  * הוא לא ילך לישון אלא אם תקרא לו סיפור. 

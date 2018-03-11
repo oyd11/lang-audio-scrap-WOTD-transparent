@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -455,57 +455,113 @@
  * Majalan ngelodang. 
  * Going to the sea. 
 ----------
+ * **woh-wohan** :: fruits (alus (refined))
+ * Bungkusang titiang woh-wohan sane seger manten. 
+ * Please wrap up some fresh fruits for me. 
+----------
  * **ngajanang** :: towards the mountains (biasa (common))
  * Majalan ngajanang. 
  * Going to the mountains. 
+----------
+ * **aji kuda** :: how much (alus (refined))
+ * Aji kuda nika? 
+ * How much is it? 
 ----------
  * **nganggen** :: to use (alus (refined))
  * Pacang nganggen taksi? 
  * Do you want take a taxi? 
 ----------
+ * **susuk** :: remaining monetary change (alus (refined))
+ * Ten wenten susuk. 
+ * I do not have any change. 
+----------
  * **ngauhang** :: towards the west (biasa (common))
  * Majalan ngauhang. 
  * Going to the west. 
+----------
+ * **gatra** :: news (alus (refined))
+ * Punapi gatrane? 
+ * How are you doing? 
 ----------
  * **nawang** :: to know (biasa (common))
  * Ia sing nawang kangin-kauh. 
  * He doesn't know the direction. 
 ----------
+ * **ring dija** :: where is (alus (refined))
+ * Ring dija museum nika? 
+ * Where is the museum? 
+----------
  * **pura** :: temple (biasa (common))
  * Tiang lakar ka Pura Besakih. 
  * I am going to Besakih temple. 
+----------
+ * **magenah** :: located in (alus (refined))
+ * Museum nika magenah ring Ubud. 
+ * The museum is located in Ubud. 
 ----------
  * **sekolah** :: school (biasa (common))
  * Tiang lakar ka sekolah. 
  * I am going to school. 
 ----------
+ * **drika** :: there, over there (alus (refined))
+ * Napi wenten drika? 
+ * What is there? 
+----------
  * **tlaga** :: pond (biasa (common))
  * Tiang lakar ka tlaga. 
  * I am going to the pond. 
+----------
+ * **gegambaran** :: painting (alus (refined))
+ * Wenten koleksi karya gegambaran. 
+ * They have a collection of paintings. 
 ----------
  * **peken** :: market (biasa (common))
  * Tiang lakar ka peken. 
  * I am going to the market. 
 ----------
+ * **ukiran** :: carving (alus (refined))
+ * Wenten koleksi karya ukiran. 
+ * They have a collection of carvings. 
+----------
  * **gunung** :: mountain (biasa (common))
  * Tiang lakar ka gunung. 
  * I am going to the mountain. 
+----------
+ * **tulis** :: writing (alus (refined))
+ * Wenten koleksi karya tulis. 
+ * They have a collection of literary works. 
 ----------
  * **pamit** :: may (alus (refined))
  * Titiang mapamit dumun, nggih? 
  * May I be permitted to leave first? 
 ----------
+ * **melancaran** :: to visit (alus (refined))
+ * Titiang jagi malancaran ka museum. 
+ * I am going to visit the museum. 
+----------
  * **ongkos** :: fare (alus (refined))
  * Maal nika nggih ongkos taksine? 
  * Is the taxi fare expensive? 
+----------
+ * **mawasta** :: is named (alus (refined))
+ * Pelukis sane kasub mawasta Gusti Nyoman Lempad. 
+ * The famous painter was named Gusti Nyoman Lempad. 
 ----------
  * **doh** :: far (alus (refined))
  * Kari doh? 
  * Is it still far away? 
 ----------
+ * **nyingakin** :: to see (alus (refined))
+ * Dados titiang nyingakin karnyane? 
+ * May I see his works? 
+----------
  * **pesan** :: very (biasa (common))
  * Joh pesan. 
  * It's still very far. 
+----------
+ * **becik** :: good, beautiful (alus (refined))
+ * Becik pisan gegambarane. 
+ * The paintings are really beautiful. 
 ----------
  * **lakar** :: will (biasa (common))
  * Lakar kija jani? 

@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -455,57 +455,113 @@
  * Le siège européen de la société a envoyé un enquêteur spécialisé concernant les problèmes de comptabilité. 
  * The European headquarters of the company have sent a specialized investigator concerning accounting problems. 
 ----------
+ * **à l'envers** :: upside down (adverb)
+ * Ne mets pas le pain à l'envers s'il te plaît, ça porte malheur ! 
+ * Don't put the bread upside down please; it brings bad luck! 
+----------
  * **le chandelier** :: chandelier (noun)
  * Quand je suis entré dans le manoir, j'ai tout de suite remarqué le magnifique chandelier de l'entrée. 
  * When I entered into the manor I immediately noticed the magnificent chandelier in the entrance hall. 
+----------
+ * **s'évader** :: to escape (verb)
+ * Deux détenus se sont évadés de la prison de Fresnes ; ils sont recherchés par la police française. 
+ * Two prisoners escaped from the jail of Fresnes; they're wanted by the French Police. 
 ----------
  * **délavé** :: faded (adjective)
  * A force de laver mes vêtements à trop haute température, ils sont délavés. 
  * After washing my clothes time after time at too high a temperature, their color faded. 
 ----------
+ * **dévoué** :: devoted (adjective)
+ * Ma belle-sœur est bénévole dans une association ; c'est une personne très dévouée. 
+ * My sister-in-law is a volunteer in an association; she's a very devoted person. 
+----------
  * **l'établi** :: workbench (noun)
  * Le plombier avait laissé son établi dans le garage et mon fils s'est blessé avec l'un de ses outils. 
  * The plumber had left his workbench in the garage and my son hurt himself with one of his tools. 
+----------
+ * **le bûcher** :: stake (noun)
+ * Jeanne d'Arc a été condamnée au bûcher par le tribunal de l'Inquisition. 
+ * Joan of Arc was sentenced to be burnt at the stake by the Inquisition tribunal. 
 ----------
  * **réprimander** :: to reprimand (verb)
  * Cet élève a été réprimandé par le principal du collège suite à sa mauvaise conduite en classe de Français. 
  * This student was reprimanded by the junior high school principal because of his bad behavior during the French class. 
 ----------
+ * **mentir** :: to lie (verb)
+ * On ne peut pas lui faire confiance parce qu'elle ment sans cesse. 
+ * You can't trust her because she lies constantly. 
+----------
  * **l'attentat** :: terrorist attack (noun)
  * Le plan Vigipirate a été instauré dans les grandes villes de France afin de protéger le pays d'éventuels attentats. 
  * The "Vigipirate" Plan was set up in the large cities of France to protect the country from potential terrorist attacks. 
+----------
+ * **s'éclater** :: to have a blast (verb)
+ * Dommage que tu ne sois pas venu à sa crémaillère, on s'est éclatés ! 
+ * It's too bad you didn't come to her housewarming party, we had a blast ! 
 ----------
  * **sans-fil** :: wireless (adverb)
  * Il n'y a rien de plus pratique que la technologie sans-fil ! 
  * There's nothing more practical than wireless technology! 
 ----------
+ * **débarquer** :: to turn up (verb)
+ * Mes amis ont débarqué à la maison à 9h du soir sans prévenir ; mes parents étaient vraiment furieux. 
+ * My friends turned up at the house at 9pm without warning; my parents were really furious. 
+----------
  * **enjoué** :: cheerful (adjective)
  * Nous apprécions beaucoup son attitude enjouée en toute situation. 
  * We really appreciate her cheerful attitude in any situation. 
+----------
+ * **la malbouffe** :: junk food (noun)
+ * Depuis quelques années, la malbouffe est devenu un vrai problème de société en France. 
+ * For the last few years junk food has become a real social issue in France. 
 ----------
  * **l'élevage** :: breeding (noun)
  * Ses parents possèdent un élevage bovin de 550 bêtes. 
  * His parents own a cattle ranch with 550 head of cattle. 
 ----------
+ * **étudier** :: to study (verb)
+ * Je suis resté éveillé toute la nuit car j'étudiais pour cet examen. 
+ * I've been up all night because I was studying for this test. 
+----------
  * **mal nourri** :: underfed (adjective)
  * Bien plus d'enfants que tu ne peux imaginer sont mal nourris en France. 
  * A lot more children than you can imagine suffer from malnutrition in France. 
+----------
+ * **salutaire** :: beneficial (adjective)
+ * Ces trois jours de congés m'ont été salutaires ; je me sens en pleine forme maintenant ! 
+ * These three days off have been very beneficial; I feel in great shape now! 
 ----------
  * **le bouleau** :: birch (noun)
  * Les services de la mairie ont planté des bouleaux tout au long de la route. 
  * The town hall department planted birches along the road. 
 ----------
+ * **maussade** :: gloomy (adjective)
+ * Aujourd'hui le temps est gris et maussade au Nord de la France. 
+ * Today the weather is grey and gloomy in the north of France. 
+----------
  * **toiser** :: to look up and down (verb)
  * Elle a pour habitude de toiser les gens. 
  * She has the habit of looking people up and down. 
+----------
+ * **ringard** :: old-fashioned (adjective)
+ * Le thème de son dernier film a été jugé ringard par les critiques. 
+ * The theme of his last movie was considered old-fashioned by the critics. 
 ----------
  * **froissé** :: wrinkled (adjective)
  * Pour éviter les vêtements froissés, il est préférable d' utiliser le sèche-linge. 
  * To avoid wrinkled clothes, it's preferable to use the clothes dryer. 
 ----------
+ * **le terroir** :: region (noun)
+ * J'ai acheté de délicieux produits du terroir après la visite de la ferme. 
+ * I bought some delicious local products after visiting the farm. 
+----------
  * **la belle-famille** :: in-laws (noun)
  * Mon mari est Italien ; toute ma belle-famille vit à Milan. 
  * My husband is Italian; all my in-laws live in Milan. 
+----------
+ * **affronter** :: to face (verb)
+ * Il lui faudra affronter la vérité si elle veut aller de l'avant. 
+ * She'll have to face the truth if she wants to go forward. 
 ----------
  * **bloquer** :: to block (verb)
  * Pourquoi me bloquerais-tu sur Twitter, mon ami? 

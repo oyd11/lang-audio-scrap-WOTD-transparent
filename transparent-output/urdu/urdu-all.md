@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -455,57 +455,113 @@
  * اُونچائی پر ہوا میں کم آکسیجن ہوتی ہے. 
  * At high elevations, there is less oxygen in the air. 
 ----------
+ * **پنسل شارپنر** :: pencil sharpener (noun)
+ * کیا تم مجھے اپنا پینسل شارپنر ادھار دو گے؟ 
+ * Can you lend me your pencil sharpener? 
+----------
  * **آمدنی** :: revenue (noun)
  * اخراجات بُلند ہیں، آمدنی کم ہے. آپ کیا کر سکتے ہیں؟ 
  * Costs are up, revenue is down. What can you do? 
+----------
+ * **انسانی حقوق** :: human rights (noun)
+ * ہمیں انسانی حقوق کے لیے لڑائی جاری رکھنا ہے. 
+ * We have to keep on fighting for human rights. 
 ----------
  * **دودھ پلانے والے جانور** :: mammal (noun)
  * وہیل اور ڈالفن دودھ پلانے والے جانور ہیں. 
  * Whales and dolphins are mammals. 
 ----------
+ * **ڈھیلا کرنا** :: to loosen (verb)
+ * وہ بیٹھ گیا اور اپنی ٹائی ڈھيلی کی. 
+ * He sat down and loosened his tie. 
+----------
  * **پانی** :: water (noun)
  * زمین زیادہ تر پانی سے ڈھکی ہوئ ہے. 
  * The Earth is covered mostly by water. 
+----------
+ * **گرل پر** :: on the grill (expression)
+ * مجھے گرل پر پکی مچھلی پسند ہے. 
+ * I like fish cooked on the grill. 
 ----------
  * **پَہيلی** :: riddle (noun)
  * اگر ابوالہول آپ سے ایک پہیلی پوچھے، آپ کو جواب معلوم ہونا چاھیئے. 
  * If the Sphinx asks you a riddle, you better know the answer. 
 ----------
+ * **دلدل** :: swamp (noun)
+ * پولیس کو دلدل میں مجرم نہیں ملا،لیکن کیڑوں کو مل گیا. 
+ * The police didn't find the convict in the swamp, but the bugs did. 
+----------
  * **بٹن بند کرنا** :: to button (verb)
  * میں نے اتنا کھا لیا، میں اپنی پتلون کے بٹن بمشکل بند کر سکتا ہوں! 
  * I ate so much I can barely button my pants! 
+----------
+ * **بچپن** :: childhood (noun)
+ * مجھے بچپن کا تمام فارغ وقت یاد آتا ہے. 
+ * I miss all the free time I had in childhood. 
 ----------
  * **پوسٹر** :: poster (noun)
  * وہ پرانی ڈراونی فلموں کے پوسٹر جمع کرتا ہے. 
  * He collects posters of old horror movies. 
 ----------
+ * **سوچ میں گم ہونا** :: to be lost in thought (verb)
+ * کیا کہا تم نے؟ میں معافی چاہتا ہوں، میں سوچ میں گم گیا تھا. 
+ * What did you say? I'm sorry, I was lost in thought. 
+----------
  * **تال ملانا** :: to tune (verb)
  * ایک ماہر کان سے وایلن کی تال میل کر سکتا ہے. 
  * An expert can tune a violin by ear. 
+----------
+ * **موقع** :: chance (noun)
+ * میں اپنے مستقبل کو اتفاق پر نہیں چھوڑوں گا. 
+ * I will not leave my future up to chance. 
 ----------
  * **سکول کا تعلیمی سال** :: school year (noun)
  * ہر خزاں، ا سکول کا تعلیمی سال نئے سرے سے شروع ہوتا ہے. 
  * Every fall, the school year begins anew. 
 ----------
+ * **کسی کے بارے میں دیوانہ ہونا** :: to be crazy about (expression)
+ * میں اس گانے کے بارے میں دیوانہ ہوں! 
+ * I'm crazy about this song! 
+----------
  * **ٹڈا** :: grasshopper (noun)
  * تمہیں ابھی بہت کچھ سیکھنا ہے،ٹڈے. 
  * You have much to learn, grasshopper. 
+----------
+ * **احساس** :: feeling (noun)
+ * ہمیں اپنے احساسات کے بارے میں بات کرنے کی ضرورت ہے. 
+ * We need to talk about our feelings. 
 ----------
  * **چٹکلا** :: anecdote (noun)
  * میرے دادا سینکڑوں چٹکلے جانتے ہیں. 
  * My grandfather knows hundreds of anecdotes. 
 ----------
+ * **کتوں کو چھوڑنا (کسی پر)** :: to set the dogs (on someone) (expression)
+ * میرے باغ سے باہر نکل جاو ورنہ میں تم پر کتے چھوڑ دوں گا! 
+ * Get out of my orchard or I´ll set the dogs on you! 
+----------
  * **اعلان کرنا** :: to announce (verb)
  * وہ کل فاتح کا اعلان کریں گے. 
  * They will announce the winner tomorrow. 
+----------
+ * **جذباتی** :: passionate (adjective)
+ * میں فوٹوگرافی کے بارے میں جذباتی ہوں. 
+ * I am passionate about photography. 
 ----------
  * **ہنس** :: goose (noun)
  * دو شور کرنے والے ہنس تالاب کے قریب رہتے ہیں. 
  * Two noisy geese live near the pond. 
 ----------
+ * **سفید** :: white (adjective)
+ * میں سفید کپڑے پہننا پسند نہیں کرتا. 
+ * I don't like to wear white clothes. 
+----------
  * **چاندی** :: silver (noun)
  * چاندی کے ساتھ مسئلہ یہ ہے کہ یہ بہت آسانی سے میلی ہو جاتی یے. 
  * The problem with silver is that it tarnishes so easily. 
+----------
+ * **پیراشوٹ** :: parachute (noun)
+ * کیا ہوگا اگر پیراشوٹ نہیں کھلے گا؟ 
+ * What would happen if the parachute doesn't open? 
 ----------
  * **آتشبازی** :: fireworks (noun)
  * آتشبازی نے رات کا آسمان روشن کر دیا. 

@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 421 phrases 
+ 435 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -455,57 +455,113 @@
  * Me pongo guantes cuando hace mucho frío en mi carro. 
  * I put on gloves when it gets cold in my car. 
 ----------
+ * **llevarse bien con** :: to get along with (verb)
+ * Me llevo bien con mi hermana. 
+ * I get along well with my sister. 
+----------
  * **la barbería** :: barber shop (noun)
  * Llevo a mi hijo a la barbería cuando su pelo está largo. 
  * I take my son to the barber when his hair is long. 
+----------
+ * **la empresa** :: company (noun)
+ * Trabajo para una empresa pequeña. 
+ * I work for a small company. 
 ----------
  * **gastar** :: to spend money (verb)
  * Mi esposa gasta mucho dinero en el centro comercial. 
  * My wife spends a lot of money at the mall. 
 ----------
+ * **de rayas** :: striped (adjective)
+ * Mi amigo llevaba una camisa de rayas. 
+ * My friend was wearing a striped shirt. 
+----------
  * **pasar** :: to spend time (verb)
  * Mi esposa pasa mucho tiempo en el centro comercial. 
  * My wife spends a lot of time at the mall. 
+----------
+ * **de cuero** :: leather (adjective)
+ * Voy a comprarle una chaqueta de cuero a mi esposa. 
+ * I'm going to buy my wife a leather jacket. 
 ----------
  * **molesto** :: annoying (adjective)
  * Perdóname, pero encuentro a tu amigo un poco molesto. 
  * Forgive me, but I find your friend a bit annoying. 
 ----------
+ * **el maestro** :: teacher (noun)
+ * El maestro enseña el séptimo grado. 
+ * The teacher teaches the seventh grade. 
+----------
  * **mocoso** :: bratty (adjective)
  * Los niños que están gritando a las niñas son muy mocosos. 
  * The boys who are shouting at the girls are very bratty. 
+----------
+ * **la tarjeta de crédito** :: credit card (noun)
+ * Pago mucho con mi tarjeta de crédito. 
+ * I pay with my credit card a lot. 
 ----------
  * **desmayarse** :: to faint (verb)
  * La mujer se desmayó después de saber la noticia. 
  * The woman fainted after learning the news. 
 ----------
+ * **probarse** :: to try on (verb)
+ * Me estoy probando los pantalones. 
+ * I'm trying on some pants. 
+----------
  * **el desafío** :: challenge (noun)
  * El examen fue un gran desafío para mí. 
  * The exam was a great challenge for me. 
+----------
+ * **probar** :: to try something (verb)
+ * Siempre pruebo la sopa del día. 
+ * I always try the soup of the day. 
 ----------
  * **confundido** :: confused (adjective)
  * Estoy confundido sobre la tarea que tenemos que hacer. 
  * I'm confused about the homework that we have to do. 
 ----------
+ * **antiguo** :: ancient (adjective)
+ * Vi muchas ruinas antiguas en México. 
+ * I saw some ancient ruins in Mexico. 
+----------
  * **necesitar** :: to need (verb)
  * Vas a necesitar un barco más grande. 
  * You're going to need a bigger boat. 
+----------
+ * **árabe** :: Arab (adjective)
+ * Entramos en el palacio árabe. 
+ * We entered the Arab palace. 
 ----------
  * **la carpeta de correo basura** :: junk mail folder (expression)
  * Puede que el email haya ido por error a tu carpeta de correo basura. 
  * The email may have accidentally gone into your junk mail folder. 
 ----------
+ * **la taquilla** :: ticket window (noun)
+ * Voy a comprar los boletos en la taquilla. 
+ * I'm going to buy the tickets at the ticket window. 
+----------
  * **bloquear** :: to block (verb)
  * ¿Por qué me bloquearías en Twitter, amigo? 
  * Why'd you block me on Twitter, friend? 
+----------
+ * **la ventanilla** :: small window (noun)
+ * Miraba las casas por la ventanilla del avión. 
+ * I was looking at the houses through the airplane window. 
 ----------
  * **la paciencia** :: patience (noun)
  * La paciencia es una virtud. 
  * Patience is a virtue. 
 ----------
+ * **económico** :: economic (adjective)
+ * Quisiera un asiento económico. 
+ * I would like an economy seat. 
+----------
  * **arriesgar** :: to venture (verb)
  * El que no arriesga no gana. 
  * Nothing ventured, nothing gained. 
+----------
+ * **desaparecer** :: disappear (verb)
+ * El sospechoso que observaba la policía desapareció. 
+ * The suspect that the police were observing disappeared. 
 ----------
  * **estudiar** :: to study (verb)
  * He estado toda la noche despierto estudiando para este examen. 
