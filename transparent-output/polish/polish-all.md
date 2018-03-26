@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -567,61 +567,121 @@
  * Dlaczego depczesz po kwiatach? 
  * Why are you trampling the flowers? 
 ----------
- * **dostosować się** :: to adapt (verb)
- * Dinozaury nie dostosowały się do nowych warunków. 
- * The dinosaurs didn't adapt to the new conditions. 
-----------
- * **maszerować** :: to march (verb)
- * Demonstranci maszerowali ulicami Warszawy. 
- * The demonstrators marched down the streets of Warsaw. 
-----------
  * **przekonywać** :: to convince (verb)
  * Nie musiał mnie przekonywać, że mówił prawdę. 
  * He didn't have to convince me that he was telling the truth. 
+----------
+ * **dostosować się** :: to adapt (verb)
+ * Dinozaury nie dostosowały się do nowych warunków. 
+ * The dinosaurs didn't adapt to the new conditions. 
 ----------
  * **świecić** :: to shine (verb)
  * Słońce świeciło zza chmur. 
  * The sun shone through the clouds. 
 ----------
+ * **maszerować** :: to march (verb)
+ * Demonstranci maszerowali ulicami Warszawy. 
+ * The demonstrators marched down the streets of Warsaw. 
+----------
  * **dziwić się** :: to be surprised (verb)
  * Bardzo się dziwię twojemu zachowaniu. 
  * I'm very surprised by your behavior. 
+----------
+ * **przekonywać** :: to convince (verb)
+ * Nie musiał mnie przekonywać, że mówił prawdę. 
+ * He didn't have to convince me that he was telling the truth. 
 ----------
  * **cieszyć się** :: to be pleased (verb)
  * Cieszę się, że wróciłeś. 
  * I'm pleased you came back. 
 ----------
+ * **świecić** :: to shine (verb)
+ * Słońce świeciło zza chmur. 
+ * The sun shone through the clouds. 
+----------
  * **pociąg** :: train (noun)
  * Obawiam się, że spóźnię się na pociąg. 
  * I'm afraid I'll be late for my train. 
+----------
+ * **dziwić się** :: to be surprised (verb)
+ * Bardzo się dziwię twojemu zachowaniu. 
+ * I'm very surprised by your behavior. 
 ----------
  * **samochód** :: car (noun)
  * Wczoraj umyłam mój nowy samochód. 
  * Yesterday I washed my new car. 
 ----------
+ * **cieszyć się** :: to be pleased (verb)
+ * Cieszę się, że wróciłeś. 
+ * I'm pleased you came back. 
+----------
  * **książka** :: book (noun)
  * Uwielbiam czytać książki. 
  * I love reading books. 
+----------
+ * **pociąg** :: train (noun)
+ * Obawiam się, że spóźnię się na pociąg. 
+ * I'm afraid I'll be late for my train. 
 ----------
  * **krzesło** :: chair (noun)
  * Składane krzesła są niewygodne. 
  * Folding chairs are not comfortable. 
 ----------
+ * **samochód** :: car (noun)
+ * Wczoraj umyłam mój nowy samochód. 
+ * Yesterday I washed my new car. 
+----------
  * **krzyżówka** :: crossword puzzle (noun)
  * Mogę rozwiązać 5 krzyżówek dziennie. 
  * I can do five crossword puzzles a day. 
+----------
+ * **książka** :: book (noun)
+ * Uwielbiam czytać książki. 
+ * I love reading books. 
 ----------
  * **dziecko** :: child (noun)
  * Dzieci mojej sąsiadki są bardzo hałaśliwe. 
  * My neighbor's children are very noisy. 
 ----------
+ * **krzesło** :: chair (noun)
+ * Składane krzesła są niewygodne. 
+ * Folding chairs are not comfortable. 
+----------
  * **wieczór** :: evening (noun)
  * Wieczorem lubię czytać straszne opowiadania. 
  * In the evening, I like to read spooky stories. 
 ----------
+ * **krzyżówka** :: crossword puzzle (noun)
+ * Mogę rozwiązać 5 krzyżówek dziennie. 
+ * I can do five crossword puzzles a day. 
+----------
  * **świeca** :: candle (noun)
  * Świeca zamrugała złowieszczo. 
  * The candle flickered ominously. 
+----------
+ * **dziecko** :: child (noun)
+ * Dzieci mojej sąsiadki są bardzo hałaśliwe. 
+ * My neighbor's children are very noisy. 
+----------
+ * **upiór** :: phantom (noun)
+ * Znam "Upiora w Operze" na pamięć. 
+ * I know "The Phantom of the Opera" by heart. 
+----------
+ * **wieczór** :: evening (noun)
+ * Wieczorem lubię czytać straszne opowiadania. 
+ * In the evening, I like to read spooky stories. 
+----------
+ * **koperta** :: envelope (noun)
+ * Musisz dokładnie zakleić kopertę. 
+ * You have to seal the envelope very carefully. 
+----------
+ * **świeca** :: candle (noun)
+ * Świeca zamrugała złowieszczo. 
+ * The candle flickered ominously. 
+----------
+ * **konto** :: account (noun)
+ * Czy chciałby pan otworzyć konto? 
+ * Would you like to open an account? 
 ----------
  * **upiór** :: phantom (noun)
  * Znam "Upiora w Operze" na pamięć. 

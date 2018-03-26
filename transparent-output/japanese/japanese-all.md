@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -849,11 +849,23 @@
  * Abunai tokoro e ittewa dame desu. 
  * It is not good to go to a dangerous place. 
 ----------
+ * **連れて来る** :: to bring someone along (verb)
+ * **tsuretekuru** 
+ * 友達を家に連れて来るつもりです。 
+ * Tomodachi o ie ni tsurete kuru tsumori desu. 
+ * I will bring my friends back to my house. 
+----------
  * **腰** :: lower back (noun)
  * **koshi** 
  * 腰が痛くて動けません。 
  * Koshi ga itakute ugokemasen. 
  * My lower back hurts and cannot move. 
+----------
+ * **持って行く** :: to take something to a place (verb)
+ * **motteiku** 
+ * 学校にゲームを持って行ってはいけません。 
+ * Gakkou ni gêmu o motte ittewa ikemasen. 
+ * You must not take your game to school. 
 ----------
  * **乾燥する** :: to be dry (verb)
  * **kansou suru** 
@@ -861,11 +873,23 @@
  * Kyou wa kansou shiteru ne. 
  * It is dry today. 
 ----------
+ * **持って来る** :: to bring something to a place (verb)
+ * **mottekuru** 
+ * うちに来る時、お土産を持ってこなくてもいいですよ。 
+ * Uchi ni kurutoki, omiyage o motte konakutemo iidesuyo. 
+ * You do not have to bring anything when you come to my house. 
+----------
  * **おいしい** :: delicious (adjective)
  * **oishii** 
  * おいしいすしを食べたい。 
  * Oishii sushi o tabetai. 
  * I want to eat delicious sushi. 
+----------
+ * **中古** :: used (noun)
+ * **chuuko** 
+ * 中古の車を買った。 
+ * Chuuko no kuruma o katta. 
+ * I bought a used car. 
 ----------
  * **美しい** :: beautiful (adjective)
  * **utsukushii** 
@@ -873,11 +897,23 @@
  * Madokara utsukushii keshiki ga mieta. 
  * I could see beautiful scenery from my window. 
 ----------
+ * **引っ越す** :: to move (verb)
+ * **hikkosu** 
+ * 来週フロリダに引越します。 
+ * Konshuu furorida ni hikkosi shimasu. 
+ * I will move to Florida next week. 
+----------
  * **きれい** :: pretty (adjective)
  * **kirei** 
  * ニューハンプシャー州はきれいです。 
  * Nyûhanpushâ shuu wa kirei desu. 
  * New Hampshire is a pretty state. 
+----------
+ * **探す** :: to look for (verb)
+ * **sagasu** 
+ * 鍵をなくしたので、探しています。 
+ * Kagi o nakushita node sagashite imasu. 
+ * I lost my key and I am looking for it. 
 ----------
  * **便利** :: convenient (adjective)
  * **benri** 
@@ -885,11 +921,23 @@
  * Keitaidenwa wa totemo benri da. 
  * Cell phones are very convenient. 
 ----------
+ * **見つける** :: to find (verb)
+ * **mitsukeru** 
+ * なくした鍵を見つけた。 
+ * Nakushita kagi o mitsuketa. 
+ * I found my lost key. 
+----------
  * **不便** :: inconvenient (adjective)
  * **fuben** 
  * 不便な町に住みたくない。 
  * Fuben na machi ni sumitakunai. 
  * I do not want to live in an inconvenient town. 
+----------
+ * **敷金** :: security deposit (noun)
+ * **sikikin** 
+ * 敷金がないから引っ越せません。 
+ * Sikikin ga naikara hikkosemasen. 
+ * Because I do not have enough money for a security deposit, I cannot move to a new place. 
 ----------
  * **エアコン** :: air conditioner (noun)
  * **eakon** 
@@ -897,11 +945,23 @@
  * Atsui kara eakon tsukete. 
  * Please turn on the air conditioner because it is hot. 
 ----------
+ * **お手洗い** :: restroom (noun)
+ * **otearai** 
+ * お手洗いに行ってもいいですか。 
+ * Otearai ni ittemo iidesuka. 
+ * May I go to the restroom? 
+----------
  * **本** :: book (noun)
  * **hon** 
  * おもしろい本が読みたい。 
  * Omoshiroi hon ga yomitai. 
  * I want to read an interesting book. 
+----------
+ * **音痴** :: tone deaf (noun)
+ * **onchi** 
+ * 私は音痴だ。 
+ * Watashi wa onchi da. 
+ * I am tone deaf. 
 ----------
  * **誕生日** :: birthday (noun)
  * **tanjoubi** 
@@ -909,11 +969,23 @@
  * Tanjoubi wa itsu desuka. 
  * When is your birthday? 
 ----------
+ * **静か** :: quiet (adjective)
+ * **shizuka** 
+ * 静かにしてください。 
+ * Shizuka ni site kudasai. 
+ * Please be quiet. 
+----------
  * **７月** :: July (noun)
  * **shichigatsu** 
  * ７月に日本に行くつもりです。 
  * Shichigatsu ni nihon ni iku tsumori desu. 
  * I am planning to go to Japan in July. 
+----------
+ * **おなかがいっぱいだ** :: I am full. (expression)
+ * **onakaga ippai da** 
+ * おなかがいっぱいで、動けない。 
+ * Onaka ga ippai de ugokenai. 
+ * I am too full to move. 
 ----------
  * **日曜日** :: Sunday (noun)
  * **nichiyoubi** 
@@ -921,17 +993,35 @@
  * Nichiyoubi ni môru ni ikimashou. 
  * Let's go to the mall on Sunday. 
 ----------
+ * **病気** :: sickness (noun)
+ * **byouki** 
+ * 病気にならないように、気をつけてね。 
+ * Byouki ni naranaiyou ni, kiotsuketene. 
+ * Please take care of yourself so that you will not get sick. 
+----------
  * **いつも** :: always (adverb)
  * **itsumo** 
  * あの学生はいつも宿題を忘れてくる 
  * Ano gakusei wa itsumo shukudai o wasurete kuru. 
  * That student always forgets to do his homework. 
 ----------
+ * **湯** :: hot water (noun)
+ * **yu** 
+ * お風呂にお湯を入れてくれる？ 
+ * Ofuro ni oyu o irete kureru? 
+ * Could you put hot water in the bath tub? 
+----------
  * **行く** :: to go (verb)
  * **iku** 
  * 日本に行きたい。 
  * Nihon ni ikitai. 
  * I want to go to Japan. 
+----------
+ * **遠回り** :: roundabout route (noun)
+ * **toomawari** 
+ * その道は遠回りだよ。 
+ * Sono michi wa tômawari dayo. 
+ * That way is the roundabout route. 
 ----------
  * **見る** :: to see (verb)
  * **miru** 

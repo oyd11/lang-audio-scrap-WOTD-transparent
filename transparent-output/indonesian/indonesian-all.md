@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -567,61 +567,121 @@
  * Dia kelihatan seram pakai janggut. 
  * He looks kind of sinister with a goatee. 
 ----------
+ * **dokter gigi** :: dentist (noun)
+ * Aku tidak tahu seorangpun yang suka pergi ke dokter gigi. 
+ * I don't know anyone who loves to go to the dentist. 
+----------
  * **mayat** :: corpse (noun)
  * Polisi menemukan dua mayat di tempat terjadinya kejahatan. 
  * The police found two corpses at the scene of the crime. 
+----------
+ * **menggambar** :: to draw (verb)
+ * Jangan menggambar di dinding! 
+ * Do not draw on the wall! 
 ----------
  * **memilih** :: to select (verb)
  * Dari menu utama, pilih "opsi". 
  * From the main menu, select "options". 
 ----------
+ * **merusakkan** :: to damage (verb)
+ * Jangan merusakkan paket itu. 
+ * Do not damage the package. 
+----------
  * **sial** :: bad luck (noun)
  * Aku sial terus sejak kemarin. 
  * I have been having bad luck since yesterday. 
+----------
+ * **perbedaan** :: difference (noun)
+ * Perbedaan harganya tidak terlalu besar. 
+ * The difference in price is not that big. 
 ----------
  * **hati** :: liver (noun)
  * Alkohol bisa berbahaya untuk hati. 
  * Alcohol can be harmful to the liver. 
 ----------
+ * **membagi** :: to divide (verb)
+ * Mari kita bagi kuenya menjadi bagian yang sama rata. 
+ * Let's divide the cake into equal parts. 
+----------
  * **menyeduh** :: to brew (verb)
  * Tehnya harus diseduh sedikit lebih lama. 
  * The tea has to brew for a little bit longer. 
+----------
+ * **memberi** :: to give (verb)
+ * Apa yang kamu berikan kepada dia untuk ulang tahunnya? 
+ * What did you give her for her birthday? 
 ----------
  * **tukang daging** :: butcher (noun)
  * Tukang dagingku selalu punya daging yang paling baik. 
  * My butcher always has the best cuts of meat. 
 ----------
+ * **meragukan** :: to doubt (verb)
+ * Aku meragukan ketepatan ukurannya. 
+ * I doubt the accuracy of the measurements. 
+----------
  * **filem** :: movie (noun)
  * Tapi itu bisa di filem-filem! 
  * It worked in the movie! 
+----------
+ * **mandi** :: to shower (verb)
+ * Kamu bisa mandi di kamar mandi atas. 
+ * You can shower in the bathroom upstairs. 
 ----------
  * **mengukir** :: to carve (verb)
  * Seseorang mengukir nama mereka di batang pohon itu. 
  * Someone carved their name into the bark of that tree. 
 ----------
+ * **menjelaskan** :: to explain (verb)
+ * Tolong jelaskan jalan keluarnya kepada saya sekali lagi. 
+ * Explain the solution to me one more time. 
+----------
  * **buah kering** :: dried fruit (noun)
  * Buah kering kaya protein. 
  * Dried fruit is rich in protein. 
+----------
+ * **asing** :: alien (adjective)
+ * Polisi menangkap pendatang asing yang tidak resmi. 
+ * The police are arresting illegal aliens. 
 ----------
  * **penulis** :: writer (noun)
  * Saya mau menjadi seorang penulis kalau sudah besar. 
  * I want to be a writer when I grow up. 
 ----------
+ * **contoh** :: example (noun)
+ * Cara memimpin yang terbaik adalah dengan cara memberi contoh. 
+ * It's always best to lead by example. 
+----------
  * **skak-mat** :: check-mate (noun)
  * Aku hanya dua langkah dari skak-mat. 
  * I'm two moves away from a check-mate. 
+----------
+ * **memilih** :: to choose (verb)
+ * Pilih satu kartu, kartu mana saja. 
+ * Choose a card, any card. 
 ----------
  * **renyah** :: crispy (adjective)
  * Aku suka sereal waktu masih renyah. 
  * I like cereal when it's still crispy. 
 ----------
+ * **energik** :: energetic (adjective)
+ * Setelah jalan-jalan cukup lama, anjing dia menjadi energik! 
+ * Even after a long walk, her dog is energetic! 
+----------
  * **naskah** :: script (noun)
  * Dia menulis naskah untuk filem terakhir dia sendiri. 
  * He wrote the script for his last movie himself. 
 ----------
+ * **keliru** :: mistaken (adjective)
+ * Dia memberikan presentasi tentang "pengharapan yang keliru". 
+ * He is giving a presentation on "mistaken expectations". 
+----------
  * **tsunami** :: tsunami (noun)
  * Ada peringatan tsunami di daerah ini. 
  * There is a tsunami alert in this area. 
+----------
+ * **pengecualian** :: exception (noun)
+ * Ada pengecualian untuk setiap peraturan. 
+ * There are exceptions to every rule. 
 ----------
  * **pengguna internet** :: internet user (noun)
  * Kebanyakan pengguna internet mengharapkan sambungan yang cepat. 

@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -567,61 +567,121 @@
  * My aunt and uncle are having a barbecue this weekend. 
  * Minha tia e meu tio vão ter um churrasco este fim de semana. 
 ----------
+ * **fangs** :: colmilho (noun)
+ * The wolf shows us his fangs. 
+ * O lobo nos mostra seus colmilhos. 
+----------
  * **clumsy** :: desajeitado (adjective)
  * My friend broke her leg; she is a little clumsy. 
  * Minha amiga quebrou a perna; ela é um pouco desajeitada. 
+----------
+ * **Arab** :: árabe (adjective)
+ * We entered the Arab palace. 
+ * Nos entramos no palácio Árabe. 
 ----------
  * **co-worker** :: companheiro de trabalho (noun)
  * My co-worker helps me a lot. 
  * Meu companheiro do trabalho me ajuda muito. 
 ----------
+ * **world** :: mundo (noun)
+ * She travels all around the world. 
+ * Ela viaja todo o mundo. 
+----------
  * **sour** :: azedo (adjective)
  * Lemons are sour. 
  * Os limões são azedos. 
+----------
+ * **pregnant** :: grávida (adjective)
+ * My sister is pregnant. 
+ * Minha irmã está grávida. 
 ----------
  * **sea** :: mar (noun)
  * There are a lot of fish in the sea. 
  * Tem muitos peixes no mar. 
 ----------
+ * **to get** :: levar (verb)
+ * I'm getting the food for the party. 
+ * Vou levar a comida para a festa. 
+----------
  * **to fill** :: encher (verb)
  * We fill the tank with gas every week. 
  * Vamos encher o tanque com gasolina toda semana. 
+----------
+ * **sunny** :: ensolarado (adjective)
+ * It's a sunny day. 
+ * É um dia ensolarado. 
 ----------
  * **leaf** :: folha (noun)
  * The colors of the leaves are very pretty. 
  * As cores das folhas são muito bonitas. 
 ----------
+ * **palm tree** :: palmeira (noun)
+ * When it was too hot, we sat under a palm tree and drank some lemonade. 
+ * Quando estava muito quente, sentamos embaixo da palmeira e tomamos limonada. 
+----------
  * **ice** :: gelo (noun)
  * We want ice in our drinks. 
  * Queremos gelo nas bebidas. 
+----------
+ * **horse** :: cavalo (noun)
+ * The soldiers in the Civil War rode horses. 
+ * Os soldados da Guerra Civil andavam à cavalo. 
 ----------
  * **disappointed** :: decepcionado (adjective)
  * We are disappointed with you. 
  * Estamos decepcionados com você. 
 ----------
+ * **to carry** :: levar (verb)
+ * We will carry some chairs to the beach if it's sunny. 
+ * Levaremos umas cadeiras para a praia se tiver sol. 
+----------
  * **printer** :: impressora (noun)
  * My printer doesn't work. 
  * Minha impressora não serve. 
+----------
+ * **sidewalk** :: calçada (noun)
+ * We're going to take a walk on the sidewalk. 
+ * Vamos passear na calçada. 
 ----------
  * **to support** :: apoiar (verb)
  * I believe that I am going to support that candidate. 
  * Acho que vou apoiar esse candidato. 
 ----------
+ * **sky** :: céu (noun)
+ * The sky is cloudy today. 
+ * O céu está nublado hoje. 
+----------
  * **pleasant** :: agradável (adjective)
  * The atmosphere of the restaurant is very pleasant. 
  * O ambiente do restaurante é muito agradável. 
+----------
+ * **eggplant** :: berinjela (noun)
+ * I like to eat fried eggplant. 
+ * Eu gosto de comer a beinjela frita. 
 ----------
  * **lazy** :: preguiçoso (adjective)
  * He is a lazy employee. 
  * Ele é um empregado muito preguiçoso. 
 ----------
+ * **to float** :: flutuar (verb)
+ * The table begins to float in the air. 
+ * A mesa começa flutuar no ar. 
+----------
  * **suitcase** :: mala (noun)
  * You can only carry two suitcases on the plane. 
  * Só pode levar duas malas no avião. 
 ----------
+ * **to get lost** :: perder-se (verb)
+ * The boys often get lost. 
+ * Os garotos se perdem com freqüência. 
+----------
  * **absent-minded** :: distraído (adjective)
  * I don't want an absent-minded doctor to operate on me. 
  * Eu não quero que um médico distraído me opere. 
+----------
+ * **geraniums** :: gerânio (noun)
+ * We traveled to Spain in the summer and saw geraniums everywhere. 
+ * Viajamos na Espanha no verão e vimos gerânios em todo lugar. 
 ----------
  * **to hang** :: pendurar (verb)
  * I hung lots of posters on my wall. 

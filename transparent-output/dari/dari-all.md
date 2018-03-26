@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -567,61 +567,121 @@
  * آنها تمام وقت را در دعوا کردن سپری میکنند. 
  * They spent the whole time quarrelling. 
 ----------
+ * **دستمال کاغذی** :: napkin (noun)
+ * میتوانید برایم یک دستمال کاغذی دیگر هم بیارید؟ 
+ * Can you bring me another napkin, please? 
+----------
  * **نازدانه** :: spoiled, pampered (adjective)
  * او یک طفل نازدانه است. 
  * He is a spoiled child. 
+----------
+ * **قهر** :: anger (noun)
+ * در وقت قهر احساساتی نشوید. 
+ * Don't get carried away by anger. 
 ----------
  * **صاحب** :: master, owner (noun)
  * من صاحب سرنوشت خود هستم. 
  * I am the master of my own destiny. 
 ----------
+ * **بخشیدن** :: to forgive (verb)
+ * خطا کردن صفت انسان است و بخشیدن صفت خداوند. 
+ * To err is human; to forgive, divine. 
+----------
  * **حد اقل** :: at least (expression)
  * حد اقل او چیزی کرد، دیگران تماشا میکردند. 
  * At least he did something; everyone else just watched. 
+----------
+ * **فشار روانی** :: stress (noun)
+ * در این کشور فشار روانی زیاد نیست. 
+ * There is not a lot of stress in this country. 
 ----------
  * **ناسزا** :: profanity (noun)
  * آدم باید ناسزا نگوید. 
  * One shouldn't use profanity here. 
 ----------
+ * **دیوار ها** :: the walls (noun)
+ * دیوارها موش دارد وموش ها گوش. 
+ * The walls have ears. 
+----------
  * **غیبت** :: absence (noun)
  * در صورت غیبت من میتوانید پروژه را جاری نگهدارید. 
  * You can keep the project going in my absence. 
+----------
+ * **گپ زدن** :: to talk (verb)
+ * مثل گپ زدن به دیوار است. 
+ * It's like talking to a wall. 
 ----------
  * **چرخ فلک** :: Ferris wheel (noun)
  * مادر، من میخواهم که چرخ فلک بروم. 
  * Mom, I want to ride the Ferris wheel! 
 ----------
+ * **دود** :: smoke (noun)
+ * این دود از کجا میاید؟ 
+ * Where is this smoke coming from? 
+----------
  * **سوختن** :: to burn (verb)
  * میگویند وقت آتشی است که ما در آن میسوزیم. 
  * They say time is the fire in which we burn. 
+----------
+ * **دیوانه** :: crazy (adjective)
+ * ما همه دیوانگی خود را داریم. 
+ * We're all a little crazy in one way or another. 
 ----------
  * **خسته** :: seed (noun)
  * من همیشه انواع تربوز بدون خسته را میخرم. 
  * I always buy the variety of watermelon without seeds. 
 ----------
+ * **چشم پت نکردن** :: to not sleep a wink (expression)
+ * تمام شب چشم پت نکردم، مرض بیخوابی داشتم. 
+ * I didn't sleep a wink all night because I had insomnia. 
+----------
  * **انتقاد کردن** :: to object (verb)
  * آیا پدرتان این بار انتقاد نکرد؟ 
  * Didn't your father object this time? 
+----------
+ * **چشم افگار** :: black eye (noun)
+ * بلی، چشم من افگارشد، مگر تو او مرد دیگررا باید میدیدی! 
+ * Yes, I got a black eye, but you should have seen the other guy! 
 ----------
  * **ستیورد** :: stewardess, flight attendant (noun)
  * دختر من به حیث ستیورد کار میکند. 
  * My daughter works as a stewardess. 
 ----------
+ * **ماندن** :: to stay (verb)
+ * چرا کرتی ات را نمی کشی و یک چند دقیقه نمی مانی؟ 
+ * Why don't you take off your coat and stay a while? 
+----------
  * **ریحان** :: basil (noun)
  * ریحان ترکیب اصلی پیستو است. 
  * Basil is the main ingredient for pesto. 
+----------
+ * **لیلام بودن** :: to be on sale (expression)
+ * واقیعتش به این ضرورت هم ندارم، مگر این لیلام است. 
+ * I don't really need this, but it's on sale! 
 ----------
  * **هر قدر زود** :: as soon as (conjunction)
  * هرقدر زود میتوانم آنجا خواهم بود. 
  * I will be there as soon as I can. 
 ----------
+ * **ترسناک** :: hideous, grotesque (adjective)
+ * صحنه جنگ بسیار ترسناک معلوم میشد. 
+ * The fight scene looked quite grotesque. 
+----------
  * **وحشی** :: frantic, frenzied, wild (adjective)
  * وقتی موتر حرکت کرد پشک من دیوانه شد. 
  * My cat became frantic as soon as the car began to move. 
 ----------
+ * **زیر لب گفتن** :: to mumble (verb)
+ * خوب ، من میکنم اش مگر حتمی نیست کی خوشم بیاید، جان زیر لب گفت. 
+ * "Fine, I'll do it, but I don't have to like it." mumbled John. 
+----------
  * **شکست دادن** :: to defeat (verb)
  * با کمک دوستان ما دشمنان را شکست دادیم. 
  * We defeated the enemies with the help of our friends. 
+----------
+ * **پر کردن** :: to fill (verb)
+ * گیلاسم را پر نکنید. 
+ * Don't fill my glass up. 
 ----------
  * **کلبه گِلی** :: hovel, slum (noun)
  * شاید یک کلبه گِلی باشد مگر برای من خانه است. 

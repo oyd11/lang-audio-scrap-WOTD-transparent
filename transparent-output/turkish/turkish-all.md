@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -567,61 +567,121 @@
  * Bütün şişeyi suyla doldurdu. 
  * He filled the entire bottle with water. 
 ----------
+ * **matematik** :: mathematics (noun)
+ * Matematikten hiçbir zaman iyi not alamadım. 
+ * I never received good grades in mathematics. 
+----------
  * **farkında olmak** :: to be aware of (expression)
  * Hareketlerinizin ortaya çıkaracağı sonuçların farkında mısınız? 
  * Are you aware of the consequences of your actions? 
+----------
+ * **karar vermek** :: to decide (noun)
+ * Karar veremiyorum. Yazı tura atalım. 
+ * I can't decide. Let's flip a coin. 
 ----------
  * **ürkütmek** :: to startle (verb)
  * Patlamanın sesi beni ürküttü. 
  * The sound of the explosion startled me. 
 ----------
+ * **para** :: money (noun)
+ * Kimsede yeterince para yok gibi. 
+ * Nobody seems to have enough money. 
+----------
  * **tartışmak** :: to quarrel (verb)
  * Bütün vakitlerini tartışarak harcadılar. 
  * They spent the whole time quarrelling. 
+----------
+ * **ısırmak** :: to bite (verb)
+ * Köpeğim seni ısırmaz. 
+ * My dog will not bite you. 
 ----------
  * **şımarık** :: spoiled (adjective)
  * O şımarık bir çocuk. 
  * He is a spoiled child. 
 ----------
+ * **sivrisinek** :: mosquito (noun)
+ * Sivrisinekler beni rahat bırakmıyor! 
+ * The mosquitoes will not leave me alone! 
+----------
  * **kaptan** :: captain (noun)
  * Nereye gidiyoruz kaptan? 
  * Where are we going, captain? 
+----------
+ * **film yıldızı** :: movie star (noun)
+ * En sevdiğin film yıldızı kim? 
+ * Who's your favorite movie star? 
 ----------
  * **en azından** :: at least (expression)
  * En azından birşey yaptı; diğerleri sadece seyretmekle yetindi. 
  * At least he did something; everyone else just watched. 
 ----------
+ * **deniz ürünleri** :: seafood (noun)
+ * Deniz ürünlerini seviyorum, ama arkadaşımın alerjisi var. 
+ * I love seafood, but my friend is allergic to it. 
+----------
  * **küfür** :: profanity (noun)
  * Burada küfür kullanılmamalı. 
  * One shouldn't use profanity here. 
+----------
+ * **oturmak** :: to sit down (verb)
+ * Bazen oturup güzel bir kitabı okumayı seviyorum. 
+ * Sometimes I just like to sit down with a good book. 
 ----------
  * **yokluk** :: absence (noun)
  * Yokluğumda projeyi devam ettirebilirsin. 
  * You can keep the project going in my absence. 
 ----------
+ * **çim** :: lawn (noun)
+ * Çimlerime basma. 
+ * Get off my lawn. 
+----------
  * **gizli olarak** :: in secret (expression)
  * Gizli olarak bir sürpriz parti planladık. 
  * We planned a surprise party in secret. 
+----------
+ * **izin** :: permission (noun)
+ * Af dilemek, izin almaktan daha kolaydır. 
+ * It's easier to ask forgiveness than permission. 
 ----------
  * **dönme dolap** :: Ferris wheel (noun)
  * Anne, dönme dolaba binmek istiyorum! 
  * Mom, I want to get on the Ferris wheel! 
 ----------
+ * **tamamlamak** :: to complete (verb)
+ * Lütfen eğitimini tamamla. 
+ * Please complete your exercise. 
+----------
  * **çekirdek** :: seed (noun)
  * Her zaman çekirdeksiz karpuz alırım. 
  * I always buy the kind of watermelon with no seeds. 
+----------
+ * **yolcu** :: passenger (noun)
+ * Aracın yolcusu sağ salimdi. 
+ * The passenger of the vehicle was unharmed. 
 ----------
  * **karşı çıkmak** :: to object (verb)
  * Baban bu sefer karşı çıkmadı mı? 
  * Didn't your father object this time? 
 ----------
+ * **yangın tatbikatı** :: fire drill (noun)
+ * Panik olmayın, bu sadece bir yangın tatbikatıdır. 
+ * Don't panic, it's only a fire drill. 
+----------
  * **hostes** :: stewardess (noun)
  * Kızım hostes olarak çalışıyor. 
  * My daughter works as a stewardess. 
 ----------
+ * **yanak** :: cheek (noun)
+ * Beni görünce, yanaklarımdan iki kez öptü. 
+ * When she saw me, she kissed me twice on the cheeks. 
+----------
  * **fesleğen** :: basil (noun)
  * Pesto sosunun temel içeriği fesleğendir. 
  * Basil is the main ingredient in pesto. 
+----------
+ * **brokoli** :: broccoli (noun)
+ * Brokoliyi buharda pişirilmiş olarak mı, yoksa çiğ olarak mı tercih edersiniz? 
+ * Do you prefer to steam broccoli or to eat it raw? 
 ----------
  * **en kısa zamanda** :: as soon as (conjunction)
  * En kısa zamanda orada olacağım. 

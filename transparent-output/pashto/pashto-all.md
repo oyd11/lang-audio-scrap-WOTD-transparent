@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -571,9 +571,21 @@
  * زه دومره چابک نه یم چی د ساتونکي تمثیل وکړم. 
  * I don't have enough agility to play as a guard. 
 ----------
+ * **چابکي** :: agility (noun)
+ * زه دومره چابک نه یم چی د ساتونکي تمثیل وکړم. 
+ * I don't have enough agility to play as a guard. 
+----------
  * **لستوڼی** :: sleeve (noun)
  * ډېره زیاته یخني ده ته باید یو لستوڼو والا څه شې واغوندې. 
  * It's too cold; you'd better wear something with long sleeves. 
+----------
+ * **لستوڼی** :: sleeve (noun)
+ * ډېره زیاته یخني ده ته باید یو لستوڼو والا څه شې واغوندې. 
+ * It's too cold; you'd better wear something with long sleeves. 
+----------
+ * **اخیستل** :: to receive (verb)
+ * زه ترجیح ورکوم چی د نغدو پیسو انعام واخلم. 
+ * I'd rather receive the prize in cash. 
 ----------
  * **اخیستل** :: to receive (verb)
  * زه ترجیح ورکوم چی د نغدو پیسو انعام واخلم. 
@@ -583,9 +595,21 @@
  * دا کتاب رحمان بابا لیکلې دی. 
  * This book has been written by Rahman Baba. 
 ----------
+ * **کتاب** :: book (noun)
+ * دا کتاب رحمان بابا لیکلې دی. 
+ * This book has been written by Rahman Baba. 
+----------
  * **سخت** :: serious (adjective)
  * شل تنه ډېر سخت ټپیان شول. 
  * Twenty people were seriously injured. 
+----------
+ * **سخت** :: serious (adjective)
+ * شل تنه ډېر سخت ټپیان شول. 
+ * Twenty people were seriously injured. 
+----------
+ * **چپلکې** :: slippers (noun)
+ * هغې خپلې چپلکې وویستې او بیرته یې خپل بوټان په پښو کړل. 
+ * She took off her slippers and put on her shoes again. 
 ----------
  * **چپلکې** :: slippers (noun)
  * هغې خپلې چپلکې وویستې او بیرته یې خپل بوټان په پښو کړل. 
@@ -595,9 +619,21 @@
  * د سېلاب قربانیان په چورلکه کې وژغورل شول. 
  * The flood victims were rescued in a helicopter. 
 ----------
+ * **چورلکه** :: helicopter (noun)
+ * د سېلاب قربانیان په چورلکه کې وژغورل شول. 
+ * The flood victims were rescued in a helicopter. 
+----------
  * **د موم رنګه** :: crayon (expression)
  * زما د موم په رنګو رنګه کول خوښيږي. 
  * I like to color with crayons. 
+----------
+ * **د موم رنګه** :: crayon (expression)
+ * زما د موم په رنګو رنګه کول خوښيږي. 
+ * I like to color with crayons. 
+----------
+ * **شطرنج** :: chess (noun)
+ * د شطرنج یوه ښه لوبه څنګه؟ 
+ * How about a nice game of chess? 
 ----------
  * **شطرنج** :: chess (noun)
  * د شطرنج یوه ښه لوبه څنګه؟ 
@@ -607,9 +643,21 @@
  * زه غواړم چې په بام باندې یوه باغچه جوړه کړم. 
  * I would love to build a garden on the roof. 
 ----------
+ * **بام** :: roof (noun)
+ * زه غواړم چې په بام باندې یوه باغچه جوړه کړم. 
+ * I would love to build a garden on the roof. 
+----------
  * **ای ټی ام** :: ATM (expression)
  * زه باید نقدې پیسې ورکړم، آیا دلته ای تي ام شته؟ 
  * I need to pay in cash. Is there an ATM here? 
+----------
+ * **ای ټی ام** :: ATM (expression)
+ * زه باید نقدې پیسې ورکړم، آیا دلته ای تي ام شته؟ 
+ * I need to pay in cash. Is there an ATM here? 
+----------
+ * **کوهی** :: well (noun)
+ * آیا تاسې د دې څا اوبه څښئ؟ 
+ * Do you drink the water from this well? 
 ----------
  * **کوهی** :: well (noun)
  * آیا تاسې د دې څا اوبه څښئ؟ 
@@ -619,9 +667,21 @@
  * زما اپارتمان په دوهم منزل کې دی. 
  * My flat is on the first floor. 
 ----------
+ * **اپارتمان** :: flat, apartment (noun)
+ * زما اپارتمان په دوهم منزل کې دی. 
+ * My flat is on the first floor. 
+----------
  * **زر** :: thousand (determiner)
  * د دې د کولو لپاره زر دلیله وجود لري. 
  * There are a thousand reasons to do it. 
+----------
+ * **زر** :: thousand (determiner)
+ * د دې د کولو لپاره زر دلیله وجود لري. 
+ * There are a thousand reasons to do it. 
+----------
+ * **خوله** :: sweat (noun)
+ * وروسته له منډو وهلو په خوله کې ډوب یم. 
+ * I am soaked in sweat after running. 
 ----------
  * **خوله** :: sweat (noun)
  * وروسته له منډو وهلو په خوله کې ډوب یم. 

@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -567,61 +567,121 @@
  * Flava rubando ligis la pakaĵon. 
  * A yellow ribbon tied the package. 
 ----------
+ * **piro** :: pear (noun)
+ * Ili rikoltis dekduojn da piroj. 
+ * They picked dozens of pears. 
+----------
  * **rubekolo** :: robin (noun)
  * Mi aŭdas rubekolojn kanti en la arboj. 
  * I hear robins singing in the trees. 
+----------
+ * **plado** :: platter (noun)
+ * Ĝi venis al mi sur arĝenta plado. 
+ * It came to me on a silver platter. 
 ----------
  * **rubeno** :: ruby (noun)
  * La rubeno estas ŝia naskiĝoŝtono. 
  * The ruby is her birthstone. 
 ----------
+ * **planedo** :: planet (noun)
+ * Vi povas vidi la planedon Venuso en la ĉielo ĉi-nokte. 
+ * You can see the planet Venus in the sky tonight. 
+----------
  * **ruĝa** :: red (adjective)
  * Ŝi surhavis robon el ruĝa silko. 
  * She wore a red silk dress. 
+----------
+ * **planti** :: to plant (verb)
+ * Ili plantos ĝardenon sekvan printempon. 
+ * They will plant a garden next spring. 
 ----------
  * **sablo** :: sand (noun)
  * Sablo ankoraŭ estas ĉie la tuta strato. 
  * Sand still is all over the street. 
 ----------
+ * **plibeligi** :: to enhance (verb)
+ * Komputilo plibonigis la bildon. 
+ * A computer enhanced the image. 
+----------
  * **ŝafido** :: lamb (noun)
  * Ĉu vi vidas la ŝafidon en la paŝtejo? 
  * Do you see the lamb in the pasture? 
+----------
+ * **pokero** :: poker (noun)
+ * Ili ludis pokeron ĝis noktomezo. 
+ * They played poker until midnight. 
 ----------
  * **salti** :: to leap (verb)
  * La rano saltos, se vi proksimiĝos al ĝi. 
  * The frog will leap if you approach it. 
 ----------
+ * **pordo** :: door (noun)
+ * Fermu la pordon, mi petas. 
+ * Close the door, please. 
+----------
  * **ŝanco** :: luck (noun)
  * Bonan ŝancon pri via intervjuo. 
  * Good luck with your interview. 
+----------
+ * **porkaĵo** :: pork (noun)
+ * Lia sandviĉo enhavas porkaĵon. 
+ * His sandwich has pork in it. 
 ----------
  * **sanktulo** :: saint (noun)
  * Ĉu vi estas nomita laŭ sanktulo? 
  * You're named after a saint? 
 ----------
+ * **porti** :: to carry (verb)
+ * Permesu min porti la sakon pro vi. 
+ * Let me carry the bag for you. 
+----------
  * **ŝargi** :: to charge (verb)
  * La baterio bezonas iom da tempo por ŝargiĝi. 
  * The battery takes some time to charge. 
+----------
+ * **pozi** :: to pose (verb)
+ * Ili pozis por grupa foto. 
+ * They posed for a group photograph. 
 ----------
  * **ŝatata** :: favorite (adjective)
  * Ni spektas mian plej ŝatatan filmon dum mia naskiĝtago. 
  * We watch my favorite film on my birthday. 
 ----------
+ * **presi** :: to print (verb)
+ * Ili presis cent kopiojn de la libro. 
+ * They printed one hundred copies of the book. 
+----------
  * **scienca** :: scientific (adjective)
  * La universitato konduktis multajn sciencajn studojn. 
  * The university conducted many scientific studies. 
+----------
+ * **prezidanto** :: president (noun)
+ * Ni elektas prezidanton ĉiun kvaran jaron. 
+ * We elect a president every four years. 
 ----------
  * **sciigo** :: news (noun)
  * La novaĵo menciis la akcidenton. 
  * The news mentioned the accident. 
 ----------
+ * **printempo** :: springtime (noun)
+ * La birdoj revenos en la printempo. 
+ * The birds will return in the springtime. 
+----------
  * **segilo** :: saw (noun)
  * La segilo ne povis tranĉi la arbon. 
  * The saw could not cut the tree. 
 ----------
+ * **investi** :: to invest (verb)
+ * Li investis sian monon en la firmao. 
+ * He invested his money in the company. 
+----------
  * **seka** :: dry (adjective)
  * Hodiaŭ la aero estas seka. 
  * The air is dry today. 
+----------
+ * **prokrasti** :: to adjourn (verb)
+ * La klaso finiĝos post unu horo. 
+ * Class will adjourn in an hour. 
 ----------
  * **sendependeco** :: independence (noun)
  * Usono festas sian sendependecon je la kvara de julio. 

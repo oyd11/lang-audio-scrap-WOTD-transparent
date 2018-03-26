@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -567,61 +567,121 @@
  * Jag är så glad att imorgon är fredag; det har varit en lång vecka! 
  * I'm so glad tomorrow is Friday; it's been a long week! 
 ----------
+ * **(en) nallebjörn** :: teddy bear (noun)
+ * Det är inte tillåtet att ta med nallebjörnar till skolan. 
+ * Bringing teddy bears to school is not allowed. 
+----------
  * **att ha** :: to have (verb)
  * Har du några planer för helgen? 
  * Do you have any plans for this weekend? 
+----------
+ * **att berömma** :: praise (verb)
+ * Hon blev berömd för sina gärningar. 
+ * She was praised for her deeds. 
 ----------
  * **väder** :: weather (noun)
  * Hur ser vädret för imorgon ut? 
  * What's the weather prediction for tomorrow? 
 ----------
+ * **(ett) hjärta** :: heart (noun)
+ * Mitt hjärta slår tio gånger snabbare när Daniel går förbi. 
+ * My heart beats ten times faster when Daniel walks by. 
+----------
  * **att regna** :: to rain (verb)
  * Det ska regna, ta med ett paraply. 
  * It's going to rain, bring an umbrella. 
+----------
+ * **människor** :: people (noun)
+ * Jag kan inte jobba med de här människorna! 
+ * I can't work with these people! 
 ----------
  * **att leka** :: to play (verb)
  * Barnen gillar att leka utomhus. 
  * The children like to play outside. 
 ----------
+ * **att ta det lugnt** :: to take it easy (expression)
+ * Ta det lugnt, det löser sig. 
+ * Take it easy, it'll be okay. 
+----------
  * **(en) favorit** :: favorite (noun)
  * Det här är en av mina favoritlåtar. 
  * This is one of my favorite songs. 
+----------
+ * **(ett) utgångsdatum** :: expiration date (expression)
+ * Det är viktigt att kolla på utgångsdatumet varje gång man använder mejeriprodukter. 
+ * It is important to look at the expiration date every time you use dairy products. 
 ----------
  * **att glömma** :: to forget (verb)
  * Han glömmer aldrig att tacka. 
  * He never forgets to say thank you. 
 ----------
+ * **snacks** :: snacks (noun)
+ * Under rasten serverades snacks. 
+ * During the break, snacks were served. 
+----------
  * **att se** :: to see (verb)
  * Såg du meteorregnet igår? Helt fantastiskt! 
  * Did you see the meteor shower last night? Amazing! 
+----------
+ * **(en) barnflicka** :: nanny (noun)
+ * Sökes: Barnflicka till två barn. 
+ * Wanted: Nanny for two kids. 
 ----------
  * **var** :: where (adverb)
  * Var ligger den närmaste marknaden? 
  * Where is the nearest market? 
 ----------
+ * **från början till slut** :: from beginning to end (expression)
+ * Jag läste det från början till slut två gånger. 
+ * I read it from beginning to the end twice. 
+----------
  * **att vara arg** :: to be angry (verb)
  * Om du är arg, ta ett djupt andetag och räkna till tio. 
  * If you're angry, take a deep breath and count to ten. 
+----------
+ * **att börja om från början** :: to start from scratch (expression)
+ * Att flytta är som att börja om från början. 
+ * Moving out is like starting from scratch. 
 ----------
  * **(ett) knep** :: trick (noun)
  * Kamouflage är naturens bästa knep. 
  * Camouflage is nature's best trick. 
 ----------
+ * **att tjata** :: to nag (verb)
+ * Allt hennes mormor gör nuförtiden är att tjata. 
+ * All her grandma ever does lately is nag. 
+----------
  * **(en) hemlighet** :: secret (noun)
  * Om jag berättar för dig, kommer det inte att vara en hemlighet längre! 
  * If I tell you, it won't be a secret anymore! 
+----------
+ * **(en) sierska** :: fortune teller (noun)
+ * Sierskan spådde din framgång. 
+ * The fortune teller predicted your success. 
 ----------
  * **att förändra** :: to change (verb)
  * Internet har förändrat våra liv, på gott och på ont. 
  * The internet has changed our lives, for good or bad. 
 ----------
+ * **(ett) bläck** :: ink (noun)
+ * Min penna har slut på bläck. 
+ * My pen is out of ink. 
+----------
  * **(ett) problem** :: problem (noun)
  * Sitt upp! Dålig hållning leder till senare ryggproblem. 
  * Sit up! Bad posture will lead to back problems later on. 
 ----------
+ * **(en) förolämpning** :: insult (noun)
+ * Jag tolererar inte denna förolämpning! 
+ * I will not tolerate this insult! 
+----------
  * **(en) idé** :: idea (noun)
  * Gör inte det! Det är en dålig idé! 
  * Don't do that! It's a bad idea! 
+----------
+ * **att intressera** :: to interest (verb)
+ * Språkstudier intresserar mig. 
+ * Language studies interest me. 
 ----------
  * **att skynda sig** :: to hurry (verb)
  * Om vi inte skyndar oss, kommer vi att missa bussen. 

@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -567,61 +567,121 @@
  * Tá ceithre sheomra leapa thuas staighre agus seomra folctha amháin. 
  * There are four bedrooms and one bathroom upstairs. 
 ----------
+ * **a oscailt** :: to open (verb)
+ * Ar mhiste leat an doras a oscailt? 
+ * Would you mind opening the door? 
+----------
  * **Bíodh cuimhne agat!** :: Remember! (expression)
  * Bíodh cuimhne agat -- ní bhíonn an leithreas sa seomra folctha i gcuid mhaith de na tithe traidisiúnta. 
  * Remember -- the toilet is often not in the bathroom in many of the traditional houses. 
+----------
+ * **a rá** :: to say (verb)
+ * An bhfuil aon rud le rá agat? 
+ * Do you have anything to say? 
 ----------
  * **an t-uisce** :: the water (noun)
  * Bhíodh an leithreas sa leithreas uisce agus bhíodh an folcadán sa seomra folctha. 
  * The toilet used to be in the water closet and the bathtub used to be in the bathroom. 
 ----------
+ * **ina chodladh** :: sleeping (verb)
+ * Thit sé ina chodladh ar an tolg. 
+ * He fell asleep on the sofa. 
+----------
  * **an punt** :: the pound (Irish punt) (noun)
  * D'imigh an punt Éireannach as feidhm sa bhliain dhá mhíle is a dó. 
  * The Irish pound went out of usage in the year 2002. 
+----------
+ * **rua** :: red-haired (adjective)
+ * Is bean rua í. 
+ * She is a red-haired woman. 
 ----------
  * **oiriúnach** :: suitable (adjective)
  * Sa bhliain 1999 bhí a lán daoine buartha an mbeadh a ríomhairí oiriunach don bhliain 2000. 
  * In the year 1999 many people were worried about whether their computers would be Y2K-compliant. 
 ----------
+ * **dearg** :: red (adjective)
+ * Tá an bhratach Mheiriceánach dearg, bán, agus gorm. 
+ * The American flag is red, white, and blue. 
+----------
  * **an bhliain** :: the year (noun)
  * Rachaidh mé go hÉirinn an bhliain seo chugainn. 
  * I will go to Ireland next year. 
+----------
+ * **an dollar** :: the dollar (noun)
+ * Tá dollar amháin air. 
+ * It costs a dollar. 
 ----------
  * **an ball** :: the love mark (a magical symbol that makes those who see it fall in love) (noun)
  * Sa seanscéal Fiannaíochta bhí ball seirce ag Diarmaid agus mar sin thit Gráinne i ngrá leis. 
  * In the old Fenian tale, Diarmaid had a love spot and because of that, Gráinne fell in love with him. 
 ----------
+ * **an euro** :: the euro (noun)
+ * Tá dhá euro air. 
+ * It costs two euro. 
+----------
  * **an grá** :: the love (noun)
  * Grá mo chroí thú! 
  * You are the love of my heart! 
+----------
+ * **an mháthair** :: the mother (noun)
+ * Sin í máthair Shinéad. 
+ * That is Sinéad's mother. 
 ----------
  * **Oíche mhaith!** :: Good night! (expression)
  * Oíche mhaith! 
  * Good night! 
 ----------
+ * **an tuismitheoir** :: the parent (noun)
+ * An bhfuil go leor tuismitheoirí altrama do na páistí go léir? 
+ * Are there enough foster parents for all the children? 
+----------
  * **Dia dhuit ar maidin.** :: Good morning! (expression)
  * Dia dhuit ar maidin. 
  * Good morning! 
+----------
+ * **an t-aontuismitheoir** :: the single parent (noun)
+ * An mbíonn ócáidí d'aontuismitheoirí anseo? 
+ * Are events for single parents held here? 
 ----------
  * **an taibhse** :: the ghost (noun)
  * An bhfaca tú taibhse Oíche Shamhna? 
  * Did you see a ghost on Halloween? 
 ----------
+ * **an gob** :: the mouth, the beak (noun)
+ * Dún do ghob! 
+ * Shut your mouth! 
+----------
  * **an bhó** :: the cow (noun)
  * Is é an 'Dexter' an bhó is lú sa domhan; ní bhíonn níos mó ná 750 punt meáchain inti. 
  * The 'Dexter' is the smallest cow in the world; it doesn't weigh more than 750 lb. 
+----------
+ * **a shlogadh** :: to swallow (verb)
+ * Slog siar é! 
+ * Drink it down! 
 ----------
  * **an sí-abhabha** :: the chihuahua (noun)
  * Is é an sí-abhabha an madra is lú sa domhan. 
  * The chihuahua is the smallest dog in the world. 
 ----------
+ * **ardghléine** :: high-definition (noun)
+ * Ar cheannaigh tú teilifíseán ardghléine? Cheannaigh. 
+ * Did you buy a high-definition TV? Yes. 
+----------
  * **an cú faoil** :: the (Irish) wolfhound (noun)
  * Tá an cú faoil ar cheann de na madraí is mó sa domhan. 
  * The Irish wolfhound is one of the biggest dogs in the world. 
 ----------
+ * **an staighre** :: the stairs (noun)
+ * Tá ceithre sheomra leapa thuas staighre agus seomra folctha amháin. 
+ * There are four bedrooms and one bathroom upstairs. 
+----------
  * **Rúiseach** :: Russian (adjective)
  * Is Rúiseach é Vladamir Putin. 
  * Vladamir Putin is Russian. 
+----------
+ * **Bíodh cuimhne agat!** :: Remember! (expression)
+ * Bíodh cuimhne agat -- ní bhíonn an leithreas sa seomra folctha i gcuid mhaith de na tithe traidisiúnta. 
+ * Remember -- the toilet is often not in the bathroom in many of the traditional houses. 
 ----------
  * **an cú** :: the hound (noun)
  * Fuair Setanta ainm nua, Cú Chulainn, mar mharaigh sé cú de chuid Chulainn agus b'éigean dó a bheith ina ghadhar faire do Chulann ina ionad. 

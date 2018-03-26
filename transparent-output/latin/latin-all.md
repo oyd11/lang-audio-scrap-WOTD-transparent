@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -567,61 +567,121 @@
  * Opus superabat materiam. 
  * The workmanship surpassed the subject matter. 
 ----------
- * **cornu** :: horn (noun)
- * Cornua cervum a periculis defendunt. 
- * The horns of stags defend them from dangers. 
-----------
- * **asper** :: rough, harsh (adjective)
- * Medici graviores morbos asperis remediis curant. 
- * Doctors cure the more serious diseases with harsh remedies. 
-----------
  * **privare** :: to deprive (verb)
  * Oedipus oculis se privavit. 
  * Oedipus deprived himself of his eyes. 
+----------
+ * **cornu** :: horn (noun)
+ * Cornua cervum a periculis defendunt. 
+ * The horns of stags defend them from dangers. 
 ----------
  * **interpres** :: translator, mediator (noun)
  * Nec verbum verbo curabis reddere fidus interpres. 
  * As a true translator you will take care not to translate word for word. 
 ----------
+ * **asper** :: rough, harsh (adjective)
+ * Medici graviores morbos asperis remediis curant. 
+ * Doctors cure the more serious diseases with harsh remedies. 
+----------
  * **servitus** :: servitude, slavery (noun)
  * Bello Persico Themistocles Graeciam servitute liberavit. 
  * In the Persian War, Themistocles freed Greece from slavery. 
+----------
+ * **privare** :: to deprive (verb)
+ * Oedipus oculis se privavit. 
+ * Oedipus deprived himself of his eyes. 
 ----------
  * **repente** :: suddenly, all at once (adverb)
  * Nemo repente fuit turpissimus. 
  * No one ever became thoroughly bad all at once. 
 ----------
+ * **interpres** :: translator, mediator (noun)
+ * Nec verbum verbo curabis reddere fidus interpres. 
+ * As a true translator you will take care not to translate word for word. 
+----------
  * **spiritus** :: breath, breathing, spirit (noun)
  * Cicero multa verba uno spiritu pronuntiabat. 
  * Cicero used to pronounce many words in one breath. 
+----------
+ * **servitus** :: servitude, slavery (noun)
+ * Bello Persico Themistocles Graeciam servitute liberavit. 
+ * In the Persian War, Themistocles freed Greece from slavery. 
 ----------
  * **certus** :: certain, sure (adjective)
  * Nil homini certum est. 
  * Nothing is certain for man. 
 ----------
+ * **repente** :: suddenly, all at once (adverb)
+ * Nemo repente fuit turpissimus. 
+ * No one ever became thoroughly bad all at once. 
+----------
  * **sensus** :: feeling, discretion, tact, sense (noun)
  * Iste communi sensu caret. 
  * That man lacks common feeling. 
+----------
+ * **spiritus** :: breath, breathing, spirit (noun)
+ * Cicero multa verba uno spiritu pronuntiabat. 
+ * Cicero used to pronounce many words in one breath. 
 ----------
  * **avaritia** :: greed (noun)
  * Nulla avarita sine poena est. 
  * There is no greed without penalty. 
 ----------
+ * **certus** :: certain, sure (adjective)
+ * Nil homini certum est. 
+ * Nothing is certain for man. 
+----------
  * **voluptas** :: pleasure (noun)
  * Senectus nos privat omnibus voluptatibus. 
  * Old age deprives us of all pleasures. 
+----------
+ * **sensus** :: feeling, discretion, tact, sense (noun)
+ * Iste communi sensu caret. 
+ * That man lacks common feeling. 
 ----------
  * **prius** :: before, previously (adverb)
  * Nullum est iam dictum quod non dictum sit prius. 
  * Nothing is now said that hasn't been said before. 
 ----------
+ * **avaritia** :: greed (noun)
+ * Nulla avarita sine poena est. 
+ * There is no greed without penalty. 
+----------
  * **pecco** :: to do wrong, to sin (verb)
  * Nemo accusator caret culpa; omnes peccavimus. 
  * No accuser lacks guilt; we have all done wrong. 
 ----------
+ * **voluptas** :: pleasure (noun)
+ * Senectus nos privat omnibus voluptatibus. 
+ * Old age deprives us of all pleasures. 
+----------
  * **edere, esse** :: to eat, to consume (verb)
  * Non ut edam vivo, sed ut vivam edo. 
  * I do not live to eat, but eat to live. 
+----------
+ * **prius** :: before, previously (adverb)
+ * Nullum est iam dictum quod non dictum sit prius. 
+ * Nothing is now said that hasn't been said before. 
+----------
+ * **vacare** :: to be free from (verb)
+ * Nulla pars vitae vacare officio potest. 
+ * No part of life is able to be free from duty. 
+----------
+ * **pecco** :: to do wrong, to sin (verb)
+ * Nemo accusator caret culpa; omnes peccavimus. 
+ * No accuser lacks guilt; we have all done wrong. 
+----------
+ * **nox** :: night (noun)
+ * Omnes una manet nox. 
+ * A single night awaits everyone. 
+----------
+ * **edere, esse** :: to eat, to consume (verb)
+ * Non ut edam vivo, sed ut vivam edo. 
+ * I do not live to eat, but eat to live. 
+----------
+ * **primus** :: foremost, principal (adjective)
+ * Prima virtus est vitio carere. 
+ * The foremost virtue is to be free from fault. 
 ----------
  * **vacare** :: to be free from (verb)
  * Nulla pars vitae vacare officio potest. 

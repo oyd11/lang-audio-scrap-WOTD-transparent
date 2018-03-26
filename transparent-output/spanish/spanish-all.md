@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -567,61 +567,121 @@
  * He estado toda la noche despierto estudiando para este examen. 
  * I've been up all night studying for this test. 
 ----------
+ * **aparecer** :: appear (verb)
+ * Su nombre no aparece en la lista. 
+ * Your name does not appear on the list. 
+----------
  * **dolor de cabeza** :: headache (expression)
  * El tráfico de camino a casa me da dolor de cabeza. 
  * The traffic on my drive home is a real headache. 
+----------
+ * **el peatón** :: pedestrian (noun)
+ * Cuando el peatón cruzaba la calle no vio el carro. 
+ * When the pedestrian was crossing the street he didn't see the car. 
 ----------
  * **la cebolla** :: onion (noun)
  * Si la cebolla es muy grande, usa solamente la mitad. 
  * If the onion is too big, use only half of it. 
 ----------
+ * **canadiense** :: Canadian (adjective)
+ * Ese actor es canadiense. 
+ * That actor is Canadian. 
+----------
  * **las patatas fritas** :: fries (expression)
  * ¿Quieres patatas fritas como acompañamiento? 
  * Do you want fries with that? 
+----------
+ * **devolver** :: to return something (verb)
+ * Tengo que devolver mi libro a la biblioteca. 
+ * I have to return my book to the library. 
 ----------
  * **la estrella de Hollywood** :: movie star (expression)
  * ¿Cuál es tu estrella de Hollywood favorita? 
  * Who's your favorite movie star? 
 ----------
+ * **la acera** :: sidewalk (noun)
+ * Vamos a pasear por la acera. 
+ * We're going to take a walk on the sidewalk. 
+----------
  * **el préstamo** :: loan (noun)
  * A la Antorcha Humana le denegaron el préstamo. 
  * The Human Torch was denied a bank loan. 
+----------
+ * **el acero** :: steel (noun)
+ * Parece que el boxeador tiene manos de acero. 
+ * It looks like the boxer has hands of steel. 
 ----------
  * **el marisco** :: seafood (noun)
  * Me encanta el marisco, pero mi amigo le tiene alergia. 
  * I love seafood, but my friend is allergic to it. 
 ----------
+ * **lleno** :: full (adjective)
+ * El estacionamiento está lleno. 
+ * The parking lot is full. 
+----------
  * **sentarse** :: to sit down (verb)
  * A veces me gusta sentarme con un buen libro. 
  * Sometimes I just like to sit down with a good book. 
+----------
+ * **simpático** :: friendly (adjective)
+ * Tu abuela es muy simpática. 
+ * Your grandmother is very friendly. 
 ----------
  * **el césped** :: lawn (noun)
  * No pises mi césped. 
  * Get off my lawn. 
 ----------
+ * **el jamón** :: ham (noun)
+ * Quiero un sándwich de jamón y queso. 
+ * I want a ham and cheese sandwich. 
+----------
  * **el permiso** :: permission (noun)
  * Es más fácil pedir perdón que pedir permiso. 
  * It's easier to ask forgiveness than permission. 
+----------
+ * **cenar** :: to have dinner (verb)
+ * Mi familia y yo cenamos a las seis de la tarde. 
+ * My family and I have dinner at 6 p.m. 
 ----------
  * **lindo** :: beautiful (adjective)
  * Ay, que lindo eres. 
  * Oh, you're so beautiful. 
 ----------
+ * **bello** :: beautiful (adjective)
+ * Las islas de Hawai son bellas. 
+ * Hawaii's islands are beautiful. 
+----------
  * **apostar** :: to bet (verb)
  * Apuesto mil pesos a que se cae. 
  * I bet a thousand pesos he falls. 
+----------
+ * **el pájaro** :: bird (noun)
+ * El cardenal es un pájaro rojo. 
+ * The cardinal is a red bird. 
 ----------
  * **primo segundo** :: second cousin (expression)
  * Mi vecina se casó con su primo segundo. 
  * My neighbor married her second cousin. 
 ----------
+ * **tocar** :: to play (verb)
+ * José toca la guitarra muy bien. 
+ * José plays the guitar very well. 
+----------
  * **el moño** :: bun (noun)
  * Le queda muy bien el pelo cuando se lo sujeta en un moño. 
  * Her hair looks really good when she puts it up in a bun. 
 ----------
+ * **largo** :: long (adjective)
+ * ¡Ella tiene unas vacaciones largas! 
+ * She has a long vacation! 
+----------
  * **completar** :: to complete (verb)
  * Tú me completas. 
  * You complete me. 
+----------
+ * **la primavera** :: spring (noun)
+ * Los meses de la primavera son marzo, abril y mayo. 
+ * Spring's months are March, April and May. 
 ----------
  * **el pasajero** :: passenger (noun)
  * El pasajero del vehículo salió ileso. 

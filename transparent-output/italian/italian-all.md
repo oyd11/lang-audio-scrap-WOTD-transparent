@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -567,61 +567,121 @@
  * Il sindaco ha vietato la circolazione dei veicoli privati in centro. 
  * The mayor has banned private vehicles from the downtown area. 
 ----------
+ * **bene** :: well (adverb)
+ * Hai fatto bene a chiamare subito l'ambulanza, il caso è grave! 
+ * You did well to call the ambulance immediately, his condition is critical! 
+----------
  * **assumere** :: to hire (verb)
  * La settimana scorsa ho assunto una nuova segretaria. 
  * Last week I hired a new secretary. 
+----------
+ * **raggiungere** :: to reach (verb)
+ * L'azienda raggiungerà presto gli obiettivi di produzione dell'anno in corso. 
+ * The company will soon reach its production targets for the current year. 
 ----------
  * **Il fastidio** :: annoyance (noun)
  * Quello che sentiva effettivamente era più un fastidio che un vero dolore. 
  * What he actually felt was more an annoyance than a real pain. 
 ----------
+ * **Il Capodanno** :: New Year's Eve (noun)
+ * Come festeggerete il Capodanno? Andrete ad una festa? 
+ * How will you celebrate New Year's Eve? Will you go to a party? 
+----------
  * **Il quaderno** :: notebook (noun)
  * Che quaderno vuoi? A righe o a quadretti? 
  * Which notebook do you want? Lined or squared? 
+----------
+ * **L'educazione** :: manners (noun)
+ * Ringraziare è una regola di base della buona educazione. 
+ * Saying thank you is a basic rule of good manners. 
 ----------
  * **Il volo** :: flight (noun)
  * Il volo per Bari è stato cancellato a causa della nebbia. 
  * The flight to Bari was canceled due to the fog. 
 ----------
+ * **scappare** :: to escape (verb)
+ * I ladri sono scappati su uno scooter rubato. 
+ * The thieves escaped on a stolen scooter. 
+----------
  * **inutilmente** :: unnecessarily (adverb)
  * Non preoccuparti inutilmente; tutto sta procedendo per il meglio. 
  * Don't worry unnecessarily; everything is working out for the best. 
+----------
+ * **semplicemente** :: simply (adverb)
+ * Esprimetevi più semplicemente e la gente capirà! 
+ * Express yourself more simply, and people will understand! 
 ----------
  * **La testa** :: head (noun)
  * L'ingresso al museo costa 12 euro a testa; i bambini entrano gratis. 
  * Admission to the museum costs 12 euro a head; children are admitted for free. 
 ----------
+ * **L'ala** :: wing (noun)
+ * Le ali della mosca sono trasparenti e leggerissime. 
+ * The fly's wings are transparent and very light. 
+----------
  * **vivere** :: to live (verb)
  * Hanno vissuto insieme per quasi 3 anni in un appartamento a Padova. 
  * They lived together for almost 3 years in an apartment in Padua. 
+----------
+ * **Il labbro** :: lip (noun)
+ * Hai le labbra ancora sporche di gelato. 
+ * You still have ice cream on your lips! 
 ----------
  * **L'argomento** :: subject (noun)
  * Non cambiare argomento; finiamo di discutere il nostro progetto. 
  * Don't change the subject; let's finish discussing our project. 
 ----------
+ * **cercare** :: to look for (verb)
+ * Ho perso un orecchino nell'erba; è meglio se lo cerco prima che faccia buio. 
+ * I've lost an earring in the grass; I had better look for it before it gets dark. 
+----------
  * **scherzare** :: to joke (verb)
  * Smettila di scherzare, per favore! Sono in ballo cose importanti. 
  * Please quit joking around! Important things are at stake. 
+----------
+ * **stradale** :: road (adjective)
+ * I cartelli stradali non erano chiari e ci siamo persi. 
+ * The road signs weren't clear so we got lost. 
 ----------
  * **chiedere** :: to ask (verb)
  * Chiederò ulteriori dettagli quando mi consegneranno il pacco. 
  * I will ask for further details when they deliver the parcel. 
 ----------
+ * **bere** :: to drink (verb)
+ * Ieri sera ho bevuto troppo vino ed oggi ho un forte mal di testa. 
+ * Last night I drank too much wine, and today I have a horrible headache. 
+----------
  * **saltare** :: to jump (verb)
  * Per toccare il soffitto con il dito dovete saltare molto in alto. 
  * To touch the ceiling with your finger you have to jump very high. 
+----------
+ * **scoprire** :: to realize (verb)
+ * Ogni giorno scopro di amarti più del giorno prima. Buon San Valentino! 
+ * Every day I realize that I love you more than the day before. Happy St. Valentine's Day. 
 ----------
  * **L'uovo** :: egg (noun)
  * La dieta permette di mangiare non più di 3 uova alla settimana. 
  * This diet allows you to eat no more than 3 eggs per week. 
 ----------
+ * **togliere** :: to remove (verb)
+ * Togliere le melanzane dal forno dopo mezz'ora e servirle subito. 
+ * Remove the eggplant from the oven after half an hour, and serve them immediately. 
+----------
  * **regalare** :: to present (verb)
  * Il giorno del pensionamento, i colleghi le regaleranno una collana. 
  * On the day of her retirement, her co-workers will present her with a necklace. 
 ----------
+ * **alto** :: high (adjective)
+ * Il Monte Bianco, con i suoi 4810 metri, è la vetta più alta d'Italia. 
+ * Mont Blanc, at 4,810 meters, is the highest peak in Italy. 
+----------
  * **L'età** :: age (noun)
  * Si ottiene il diritto di voto al raggiungimento della maggiore età. 
  * The right to vote is granted upon reaching the legal age. 
+----------
+ * **così** :: like that (adverb)
+ * Non rimproverarlo così, non l'ha fatto apposta! 
+ * Don't scold him like that, he didn't do it on purpose! 
 ----------
  * **prestare** :: to lend (verb)
  * Ho prestato il libro di cucina giapponese a Nicoletta. 

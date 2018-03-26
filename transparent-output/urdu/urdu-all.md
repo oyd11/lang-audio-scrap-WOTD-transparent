@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -567,61 +567,121 @@
  * آتشبازی نے رات کا آسمان روشن کر دیا. 
  * Fireworks lit the night sky. 
 ----------
+ * **کتنا پیارا!** :: How cute! (expression)
+ * آپ کا بیٹا ہے؟ کتنا پیارا! 
+ * Is that your son? How cute! 
+----------
  * **واقف ہونا** :: to be aware (verb)
  * جی ہاں، آفیسر، میں حد رفتار سے واقف ہوں. 
  * Yes, officer, I am aware of the speed limit. 
+----------
+ * **چُوزہ** :: duckling (noun)
+ * بدسورت چُوزہ بڑا ہو کر ایک خوبصورت ہنس بن گیا. 
+ * The ugly duckling grew up to be a beautiful swan. 
 ----------
  * **گاڑی** :: car (noun)
  * آپ نے گاڑی کہاں پارک کی تھی؟ 
  * Where did you park the car? 
 ----------
+ * **چالو کرنا** :: to start (verb)
+ * گاڑی چالو نہیں ہو گی. 
+ * The car won't start. 
+----------
  * **کیلا** :: banana (noun)
  * کیلے آپ کے لئے اچھے ہیں. 
  * Bananas are good for you. 
+----------
+ * **کتنا اچھا!** :: How cool! (expression)
+ * ایپل کی نئی چیز کتنی اچھی ہے؟! 
+ * How cool is Apple's new product?! 
 ----------
  * **دوربین** :: binoculars (noun)
  * براہ مہربانی مجھے دوربین پاس کریں. 
  * Please pass me the binoculars. 
 ----------
+ * **ہیئر ڈرائر** :: hairdryer (noun)
+ * اگر میں ہیئر ڈرائر کا استعمال نہ کروں تو میرے بال اچھے نہیں لگیں گے. 
+ * If I don't use a hairdryer my hair won't look good. 
+----------
  * **نابینائی** :: blindness (noun)
  * سورج کو گھورنے کا نتیجہ نابینائی ہے! 
  * Staring at the sun causes blindness! 
+----------
+ * **زور سے ہنسنا** :: to laugh out loud (verb)
+ * جب ہم نے تصویر کو دیکھا، تو ہم زور سے ہنس پڑے. 
+ * When we saw the picture, we laughed out loud. 
 ----------
  * **کیتلی** :: kettle (noun)
  * کیا کیتلی نے ابھی تک سیٹی بجائ؟ 
  * Has the kettle whistled yet? 
 ----------
+ * **خوبصورت** :: beautiful (adjective)
+ * تم اس لباس میں خوبصورت لگ رہی ہو. 
+ * You look beautiful in that dress. 
+----------
  * **جوتے** :: boot (noun)
  * آپ کے جوتے کیچڑ والے کمرے میں ہیں. 
  * Your boots are in the mudroom. 
+----------
+ * **مفت** :: free (adjective)
+ * دو خریدیں، ایک مفت لے لیں. 
+ * Buy two, get one free. 
 ----------
  * **اینٹ** :: brick (noun)
  * دیوار میں اینٹیں گنو اگر تم بور ہو گئے ہو. 
  * Count the bricks in the wall if you're bored. 
 ----------
+ * **تجویز** :: suggestion (noun)
+ * میں نے کچھ تجاویز کرنی ہیں. 
+ * I have some suggestions to make. 
+----------
  * **برش** :: to brush (verb)
  * اسے بالوں میں برش کرنے کی ضرورت ہے. 
  * She needs to brush her hair. 
+----------
+ * **تھکنا** :: exhausted (adjective)
+ * میں نے دن بھر کام کیا ہے میں تھک گیا ہوں. 
+ * I've worked all day long; I'm exhausted. 
 ----------
  * **جلانا** :: to burn (verb)
  * ہم نے غلطی سے سٹیک کو جلا دیا. 
  * We accidentally burned the steak. 
 ----------
+ * **فرشتہ** :: angel (noun)
+ * آپ کی مدد کے لئے آپ کا شکریہ؛ آپ فرشتہ ہیں. 
+ * Thank you for your help; you're an angel. 
+----------
  * **استبل** :: stable (noun)
  * ان کے گھوڑے استبل میں رہتے ہیں. 
  * Their horses live in the stable. 
+----------
+ * **تَلخی سے** :: bitterly (adverb)
+ * بیچاری لڑکی نے تَلخی سے رونا شروع کر دیا. 
+ * The poor girl started to cry bitterly. 
 ----------
  * **شیمپین** :: champagne (noun)
  * شیمپین لے آؤ، ہم سٹرابیری فراہم کریں گے. 
  * Bring champagne, we'll supply the strawberries. 
 ----------
+ * **بدقسمتی** :: unfortunate (noun)
+ * میری بدقسمتی میری ساس ہمارے ساتھ رہتی ہے. 
+ * Unfortunately for me, my mother-in-law lives with us. 
+----------
  * **پرکشش** :: attractive (adjective)
  * میں تسلیم کرتا ہوں، یہ ایک پرکشش پیشکش ہے. 
  * I admit, it is an attractive offer. 
 ----------
+ * **نام** :: name (noun)
+ * آپ کا نام کیا ہے؟ 
+ * What's your name? 
+----------
  * **مالک** :: boss (noun)
  * ہمارا مالک ہم سے خوش اخلاقی سے برتاؤ کرتا ہے. 
  * Our boss treats us courteously. 
+----------
+ * **ملنا** :: to meet (verb)
+ * آپ سے مل کر خوشی ہوئ ہے. 
+ * It is a pleasure to meet you. 
 ----------
  * **گھوڑا** :: horse (noun)
  * میں نے دیکھا، اور میرے سامنے ایک کمزور گھوڑا تھا! 

@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -567,61 +567,121 @@
  * Pourquoi me bloquerais-tu sur Twitter, mon ami? 
  * Why'd you block me on Twitter, friend? 
 ----------
+ * **faire semblant** :: to fake (verb)
+ * Parfois les enfants font semblant d'être malades pour éviter l'école ! 
+ * Kids sometimes fake being sick to avoid school! 
+----------
  * **le parpaing** :: cinder block (noun)
  * Alors qu'aux Etats-Unis la plupart des maisons sont en bois, en France elles sont très souvent en parpaings. 
  * Whereas most houses in the US are made of wood, in France they are very often made of cinder block. 
+----------
+ * **la cartouche** :: carton of cigarettes (noun)
+ * De nos jours, le prix d'une cartouche de cigarettes dépasse les 20€ ; cela peut s'avérer dissuasif ! 
+ * Nowadays the price of a carton of cigarettes is more than 20€; it can be dissuasive! 
 ----------
  * **la navette** :: shuttle (noun)
  * Les conducteurs de métro sont en grève mais des navettes assurent la liaison entre le centre-ville et la gare. 
  * The subway conductors are on strike, but shuttles insure a connection between the city center and the train station. 
 ----------
+ * **la berline** :: sedan (noun)
+ * Mon parrain a deux enfants ; il s'est acheté une berline qui est plus confortable. 
+ * My godfather has two kids; he bought himself a sedan that is more comfortable. 
+----------
  * **le radeau de survie** :: life boat (noun)
  * Après le crash de l'avion, les passagers ont pu rejoindre la plage grâce aux radeaux de survie. 
  * After the plane crash, the passengers were able to reach the beach thanks to the life boats. 
+----------
+ * **le gant de toilette** :: washcloth (noun)
+ * Certaines personnes pensent qu'utiliser un gant de toilette n'est pas très hygiénique. 
+ * Some people think that using a washcloth is not too hygienic. 
 ----------
  * **primesautier** :: impulsive (adjective)
  * Notre patron est assez primesautier ; c'est autant une qualité qu'un défaut. 
  * Our boss is quite impulsive; it is as much of a quality as it is a fault. 
 ----------
+ * **le brin** :: sprig (noun)
+ * J'ajoute toujours quelques brins de persil à ma sauce de salade, ainsi elle a plus de goût ! 
+ * I always add a few parsley sprigs to my salad dressing; it is more tasty that way! 
+----------
  * **la trêve** :: truce (noun)
  * Les deux camps ennemis se sont accordé une trêve de 48 heures pour évacuer les blessés. 
  * The two enemy camps agreed to a 48 hour truce to evacuate the wounded. 
+----------
+ * **le faux-semblant** :: pretender (noun)
+ * L'habit ne fait pas le moine ; il faut se méfier des faux-semblants. 
+ * Clothes don't make the man; beware of pretenders. 
 ----------
  * **hivernal** :: wintry (adjective)
  * Nous sommes seulement en Octobre et nous avons déjà des températures hivernales ! 
  * It's only October and we already have winter temperatures! 
 ----------
+ * **le chalumeau** :: blowtorch (noun)
+ * Les cambrioleurs ont découpé la porte au chalumeau puis ils ont vidé le contenu du coffre. 
+ * The robbers cut the door with a blowtorch, then emptied the contents of the safe. 
+----------
  * **médusé** :: petrified (adjective)
  * Je suis restée médusée à l'annonce de la terrible nouvelle. 
  * I stood petrified upon hearing the terrible news. 
+----------
+ * **la bouilloire** :: kettle (noun)
+ * Ma sœur s'est gravement brûlée avec l'eau de la bouilloire. 
+ * My sister severely burnt herself with the water from the kettle. 
 ----------
  * **la penderie** :: closet (noun)
  * Je l'envie parce que sa penderie peut contenir des milliers de vêtements ! 
  * I envy her because her closet can hold thousands of clothes. 
 ----------
+ * **l'aube** :: dawn (noun)
+ * Pour atteindre le sommet avant ce soir, il nous faudra partir aux premières lueurs de l'aube. 
+ * To reach the summit before this evening, we'll have to leave at the first light of dawn. 
+----------
  * **inachevé** :: incomplete (adjective)
  * Le maître d'école n'accepte pas que l'on rende un devoir inachevé. 
  * The teacher doesn't accept that you turn in an incomplete homework assignment. 
+----------
+ * **le crépuscule** :: twilight (noun)
+ * J'adore être sur la plage pour admirer les couleurs du crépuscule à l'horizon. 
+ * I love being on the beach to admire the twilight's colors on the horizon. 
 ----------
  * **défaire** :: to undo (verb)
  * Ma fille adore le puzzle que vous lui avez offert ; elle ne cesse de le défaire pour pouvoir le recommencer. 
  * My daughter loves the jigsaw puzzle you gave her; she keeps undoing it so that she can start it again. 
 ----------
+ * **la retraite aux chandelles** :: candlelight walk (noun)
+ * C'est une coutume pour le 14 juillet de terminer la journée par une retraite aux chandelles. 
+ * It's a custom on Bastille Day, July 14th, to end the day with a candlelight walk. 
+----------
  * **chétif** :: puny (adjective)
  * Depuis sa plus tendre enfance il n'a pas grand appétit, ce qui explique pourquoi il est un peu chétif. 
  * Since he was a very young, he has not had a big appetite, which explains why he is a bit puny. 
+----------
+ * **montrer** :: to show (verb)
+ * Montre-moi l'argent! 
+ * Show me the money! 
 ----------
  * **de côté** :: sideways (adverb)
  * Le policier lui jeta un regard de côté puis continua sa route sans s'arrêter. 
  * The policeman looked at him sideways, then kept going on his way without stopping. 
 ----------
+ * **les combles** :: attic (noun)
+ * L'architecte m'a dit que nous pourrions faire deux chambres et une salle de bain dans les combles. 
+ * The architect told me that we could make two bedrooms and a bathroom in the attic. 
+----------
  * **grognon** :: grumpy (adjective)
  * Je dois avouer que je suis assez grognon si je ne dors pas assez. 
  * I must confess that I am rather grumpy if I don't get enough sleep. 
 ----------
+ * **la tirelire** :: piggy bank (noun)
+ * Combien d'argent as-tu dans ta tirelire? 
+ * How much money do you have in your piggybank? 
+----------
  * **le point faible** :: weak point (noun)
  * Avant d'attaquer son adversaire il est important de connaître son point faible. 
  * Before attacking one's opponent it is important to know his weak point. 
+----------
+ * **le brevet de collèges** :: high school diploma (noun)
+ * Les étudiants doivent passer un examen difficile pour obtenir leur brevet. 
+ * The students must pass a difficult exam to obtain their high school diploma. 
 ----------
  * **l'humidité** :: humidity (noun)
  * Ce n'est pas la chaleur, c'est l'humidité. 

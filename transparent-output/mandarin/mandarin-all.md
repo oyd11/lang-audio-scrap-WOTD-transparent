@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -849,11 +849,23 @@
  * #N/A! 
  * I have a bit of a fever. 
 ----------
+ * **贵姓** :: your surname is…? (idiom)
+ * **guìxìng** 
+ * 您贵姓？ 
+ * Nín guìxìng? 
+ * What is your last name? 
+----------
  * **药** :: medicine (noun)
  * **yào** 
  * 我要去买药。 
  * Wǒ yào qù mǎi yào. 
  * I need to buy some medicine. 
+----------
+ * **叫** :: to be called (verb)
+ * **jiào** 
+ * 他叫小明。 
+ * Tā jiào xiǎomíng. 
+ * His name is Xiaoming. 
 ----------
  * **牙** :: tooth (noun)
  * **yá** 
@@ -861,11 +873,23 @@
  * Wǒ yá téng. 
  * I have a toothache. 
 ----------
+ * **先生** :: mister (noun)
+ * **xiānsheng** 
+ * 王先生要买什么？ 
+ * Wáng xiānsheng yào mǎi shénme? 
+ * What does Mr. Wang want to buy? 
+----------
  * **胃** :: stomach (noun)
  * **wèi** 
  * 我的胃不舒服。 
  * Wǒ de wèi bù shūfu. 
  * My stomach doesn't feel well. 
+----------
+ * **学习** :: to study (verb)
+ * **xuéxí** 
+ * 他学习汉语。 
+ * Tā xuéxí hànyǔ. 
+ * He studies Chinese. 
 ----------
  * **听说** :: to hear of; to hear about (verb)
  * **tīngshuō** 
@@ -873,11 +897,23 @@
  * Tīngshūo tā gōngzuò de hěn wǎn. 
  * I hear she works very late. 
 ----------
+ * **学生** :: student (noun)
+ * **xuésheng** 
+ * 他们都是学生。 
+ * Tāmen dōu shì xuésheng. 
+ * They are all students. 
+----------
  * **生病** :: to get sick; to fall ill (verb-object)
  * **shēngbìng** 
  * 我不常生病。 
  * Wǒ bù cháng shēngbìng. 
  * I do not get sick often. 
+----------
+ * **什么** :: what (noun)
+ * **shénme** 
+ * 今天我们做什么？ 
+ * Jīntiān wǒmen zuò shénme? 
+ * What are we doing today? 
 ----------
  * **告诉** :: to tell (verb)
  * **gàosu** 
@@ -885,11 +921,23 @@
  * Qǐng gàosù tā yīdiǎn kāihuì. 
  * Please tell him the meeting is at one o'clock. 
 ----------
+ * **聚会** :: get-together, gathering (noun)
+ * **jùhuì** 
+ * 我请你参加我的生日聚会。 
+ * Wǒ qǐng nǐ cānjiā wǒ de shēngrì jùhuì. 
+ * I am inviting you to my birthday party. 
+----------
  * **散步** :: to take a walk (verb-object)
  * **sànbù** 
  * 他吃饭后常常散步。 
  * Tā chīfàn hòu chángcháng sànbù. 
  * He often takes a walk after meals. 
+----------
+ * **德国** :: Germany (noun)
+ * **déguó** 
+ * 德国在欧洲。 
+ * Déguó zài ōuzhōu. 
+ * Germany is in Europe. 
 ----------
  * **可是** :: but (conjunction)
  * **kěshì** 
@@ -897,11 +945,23 @@
  * Wǒ hěnhǎo, kěshì tài máng. 
  * I am well, but too busy. 
 ----------
+ * **加拿大** :: Canada (noun)
+ * **jiānádà** 
+ * 加拿大很大。 
+ * Jiānádà hěn dà. 
+ * Canada is big. 
+----------
  * **租** :: to rent (verb)
  * **zū** 
  * 他想租一间房。 
  * Tā xiǎng zū yī jiān fáng. 
  * He wants to rent a room. 
+----------
+ * **地铁** :: subway (noun)
+ * **dìtiě** 
+ * 我乘地铁去医院。 
+ * Wǒ chéng dìtiě qù yīyuàn. 
+ * I'll take the subway to the hospital. 
 ----------
  * **厨房** :: kitchen (noun)
  * **chúfáng** 
@@ -909,11 +969,23 @@
  * Zhè jiān chúfáng tài xiǎo. 
  * This kitchen is too small. 
 ----------
+ * **多** :: many, much (adjective)
+ * **duō** 
+ * 汽车很多。 
+ * Qìchē hěn duō. 
+ * There are many buses. 
+----------
  * **办** :: to deal with, to do, to take care of, to manage (verb)
  * **bàn** 
  * 我有很多事要办。 
  * Wǒ yǒu hěnduō shì yào bàn. 
  * I have a lot to take care of. 
+----------
+ * **少** :: few, little (adjective)
+ * **shǎo** 
+ * 商店不少。 
+ * Shāngdiàn bù shǎo 
+ * There are quite a few shops. 
 ----------
  * **让** :: to allow, to let (verb)
  * **ràng** 
@@ -921,17 +993,35 @@
  * Bàba bú ràng wǒ hē píjiǔ. 
  * Dad does not allow me to drink beer. 
 ----------
+ * **比赛** :: game, competition (noun)
+ * **bǐsài** 
+ * 看比赛！ 
+ * Kàn bǐsài! 
+ * Watch the game! 
+----------
  * **帮助** :: to help (verb)
  * **bāngzhù** 
  * 我可以帮助你吗？ 
  * Wǒ kěyǐ bāngzhù nǐ ma? 
  * May I help you? 
 ----------
+ * **运动员** :: athlete (noun)
+ * **yùndòngyuán** 
+ * 美国运动员好。 
+ * Měiguó yùndòngyuán hǎo. 
+ * The American athletes are good. 
+----------
  * **经理** :: manager (noun)
  * **jīnglǐ** 
  * 今天经理有会。 
  * Jīntiān jīnglǐ yǒu huì. 
  * The manager has a meeting today. 
+----------
+ * **国家** :: country, state (noun)
+ * **guójiā** 
+ * 有很多国家参赛。 
+ * Yǒu hěnduō guójiā cānsài. 
+ * There are many countries participating in the games. 
 ----------
  * **可能** :: maybe (adverb)
  * **kěnèng** 

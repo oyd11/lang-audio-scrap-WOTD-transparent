@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -567,61 +567,121 @@
  * मेरे भतीजे को गॉब्लिन और परियों की कहानियाँ बहुत पसन्द हैं। 
  * My nephew likes stories with goblins and fairies. 
 ----------
+ * **कभी भी नहीं** :: not in a million years (expression)
+ * मैं उस फिल्म को कभी भी नहीं देखूँगी। 
+ * I wouldn't watch that movie in a million years. 
+----------
  * **फुर्ती** :: agility (noun)
  * एक रक्षक की तरह खेलने के लिए मुझमें पर्याप्त फुर्ती नहीं है। 
  * I don't have enough agility to play as a guard. 
+----------
+ * **रूम फ्रेशनर** :: room air freshener (noun)
+ * एक रूम फ्रेशनर शायद इस बदबू को दूर कर दे। 
+ * A room air freshener might eliminate the odor. 
 ----------
  * **आस्तीन** :: sleeve (noun)
  * यहां ठंड है, तुम्हारे लिए लम्बी आस्तीन वाली कोई पोशाक पहनना बेहतर होगा। 
  * It's cold; you'd better wear something with long sleeves. 
 ----------
+ * **पीछा छुड़ाना** :: to get rid of (verb)
+ * हमें अपने पुराने फर्नीचर से पीछा छुड़ाना ही होगा। 
+ * We have to get rid of our old furniture. 
+----------
  * **प्राप्त करना** :: to receive (verb)
  * मैं इसके बजाय नकद में पुरस्कार प्राप्त करना पसन्द करूंगी। 
  * I'd rather receive the prize in cash. 
+----------
+ * **दर्द** :: pain (noun)
+ * कोई दर्द नहीं उठाया तो कोई लाभ भी नहीं। 
+ * No pain, no gain. 
 ----------
  * **नोटरी** :: notary (noun)
  * इस समझौते पर नोटरी के सामने हस्ताक्षर करना ज़रूरी है। 
  * The contract has to be signed in front of a notary. 
 ----------
+ * **विवादास्पद** :: controversial (adjective)
+ * यह टेलीविज़न शो इतना हिंसात्मक होने के कारण विवादास्पद है। 
+ * This television show is controversial for being so violent. 
+----------
  * **गंभीर रूप से** :: seriously (adverb)
  * बीस लोग बहुत गंभीर रूप से ज़ख़्मी हुए थे। 
  * Twenty people were seriously injured. 
+----------
+ * **ढाल** :: shield (noun)
+ * शूरवीर ने अपनी ढाल के साथ प्रहार को रोक दिया। 
+ * The knight blocked the blow with his shield. 
 ----------
  * **चप्पल** :: slipper (noun)
  * उसने अपनी चप्पलें पहनी और पंजों के बल चुपचाप नीचे उतर गई। 
  * She put on her slippers and tip-toed quietly downstairs. 
 ----------
+ * **हाथ मिलाना** :: to shake hands (phrase)
+ * हाथ मिलाओ और आपस में सुलह कर लो। 
+ * Shake hands and make up. 
+----------
  * **हैलीकॉप्टर** :: helicopter (noun)
  * बाढ़ पीड़ितों को एक हेलीकॉप्टर के जरिए बचाया गया था। 
  * The flood victims were rescued in a helicopter. 
+----------
+ * **च्यूइंग गम** :: gum (noun)
+ * मैं चलने और च्युइंग गम चबाने का काम एक ही समय पर नहीं कर सकती। 
+ * I can't walk and chew gum at the same time. 
 ----------
  * **क्रेयॉन** :: crayon (noun)
  * किसी ने इस किताब में एक क्रेयान से रंग भर दिया है! 
  * Someone has colored in this book with a crayon! 
 ----------
+ * **बहुत महंगा होना** :: to be very expensive (expression)
+ * मैंने नवीनतम मॉडल इसलिए नहीं खरीदा क्योंकि वह बहुत महंगा है। 
+ * I didn't buy the most recent model because it's very expensive. 
+----------
  * **शतरंज** :: chess (noun)
  * शतरंज की एक बाज़ी कैसी रहेगी? 
  * How about a nice game of chess? 
+----------
+ * **कीबोर्ड** :: keyboard (noun)
+ * मुझे नहीं पता कि कीबोर्ड का लेआउट कैसे बदलते हैं। 
+ * I don't know how to change the keyboard layout. 
 ----------
  * **छत** :: roof (noun)
  * मैं छत पर एक बागीचा बनाना पसन्द करूंगी। 
  * I would love to build a garden on the roof. 
 ----------
+ * **सेब** :: apple (noun)
+ * रोज़ एक सेब खाना आपको डॉक्टर से दूर रखता है। 
+ * An apple a day keeps the doctor away. 
+----------
  * **एटीएम** :: ATM (noun)
  * मुझे नकद भुगतान करना है। क्या यहां कोई एटीएम है? 
  * I need to pay in cash. Is there an ATM here? 
+----------
+ * **चेतावनी देना** :: to warn (verb)
+ * मैं तुम्हें आखिरी बार चेतावनी दे रही हूँ। 
+ * That's the last time I'm going to warn you. 
 ----------
  * **कुंआ** :: well (noun)
  * एक आर्टीसियन कुंआ क्या होता है? 
  * What is an artesian well? 
 ----------
+ * **स्वास्थ्य** :: health (noun)
+ * स्वास्थ्य दुनिया की किसी भी दौलत से बेहतर है। 
+ * Health is better than wealth. 
+----------
  * **अपार्टमेंट** :: apartment (noun)
  * मेरा अपार्टमेंट पहली मंजिल पर है। 
  * My apartment is on the first floor. 
 ----------
+ * **हंसना** :: laughter (noun)
+ * हंसना सबसे बढ़िया दवाई है। 
+ * Laughter is the best medicine. 
+----------
  * **हज़ार** :: thousand (adjective)
  * इसे करने के हज़ार कारण मौजूद हैं। 
  * There are a thousand reasons to do it. 
+----------
+ * **नैपकिन** :: napkin (noun)
+ * कृपया, क्या तुम मुझे एक नैपकिन ला दोगे? 
+ * Can you bring me another napkin, please? 
 ----------
  * **पसीना** :: sweat (noun)
  * मैं जॉगिंग के बाद पसीने से नहा गई हूँ। 

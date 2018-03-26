@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -567,61 +567,121 @@
  * 우리는 영국 여행 중에 도버의 절벽을 찾아갔어요. 
  * During our trip around England we visited the cliffs of Dover. 
 ----------
+ * **실명** :: blindness (noun)
+ * 태양을 응시하는 것은 실명의 원인이 됩니다! 
+ * Staring at the sun causes blindness! 
+----------
  * **전화하다** :: to call (verb)
  * 오늘 밤에 저한테 전화하세요. 그때 계획을 세워요. 
  * Call me tonight and we'll make plans. 
+----------
+ * **주전자** :: kettle (noun)
+ * 주전자에서 아직 소리가 안 났나요? 
+ * Has the kettle whistled yet? 
 ----------
  * **탑승권** :: boarding pass (noun)
  * 자, 카운터에서 탑승권을 준비해 주시기 바랍니다. 
  * Please, have your boarding pass ready at the counter. 
 ----------
+ * **부츠** :: boots (noun)
+ * 당신의 부츠가 현관에 있습니다. 
+ * Your boots are on the porch. 
+----------
  * **힌트** :: hint (noun)
  * 어떤 사람들은 힌트를 알아차리지 못한다. 
  * Some people just can't take a hint. 
+----------
+ * **벽돌** :: brick (noun)
+ * 심심하면 벽에 벽돌이나 세어 보세요. 
+ * Count the bricks in the wall if you're bored. 
 ----------
  * **인터페이스** :: interface (noun)
  * 이 프로그램은 아주 좋은 사용자 인터페이스가 있어요. 
  * The program has a very nice user interface. 
 ----------
+ * **빗다** :: to brush (verb)
+ * 그녀는 머리를 빗어야겠어요. 
+ * She needs to brush her hair. 
+----------
  * **윤년** :: leap year (noun)
  * 내년엔 윤년이에요. 
  * Next year is a leap year. 
+----------
+ * **태우다** :: to burn (verb)
+ * 우린 실수로 스테이크를 태웠습니다. 
+ * We accidentally burned the steak. 
 ----------
  * **주요뉴스** :: headline (noun)
  * 오늘 아침에 주요뉴스를 보셨어요? 
  * Did you see the headlines this morning? 
 ----------
+ * **마구간** :: stable (noun)
+ * 그들의 말은 마구간에 삽니다. 
+ * Their horses live in the stable. 
+----------
  * **월요일** :: Monday (noun)
  * 동료들은 오늘 아침에 월요병에 걸렸어. 
  * My coworkers had the Monday blues this morning. 
+----------
+ * **샴페인** :: champagne (noun)
+ * 샴페인을 가져오세요. 우리가 딸기를 제공할게요. 
+ * Bring champagne, we'll supply the strawberries. 
 ----------
  * **녹다** :: to melt (verb)
  * 겨울눈이 이미 다 녹았어요. 
  * The winter snow has already melted. 
 ----------
+ * **매력적인** :: attractive (adjective)
+ * 인정할게. 그건 매력적인 제안이야. 
+ * I admit, it is an attractive offer. 
+----------
  * **초안** :: draft (noun)
  * 첫 번째 초안이 내일까지 준비될 거예요. 
  * The first draft will be ready by tomorrow. 
+----------
+ * **상사** :: boss (noun)
+ * 우리 상사는 우릴 정중하게 대합니다. 
+ * Our boss treats us courteously. 
 ----------
  * **거미** :: spider (noun)
  * 욕조 안에 거미가 있어요! 그나마 저 거미는 깨끗하겠어요. 
  * There is a spider in the bathtub! At least he'll be clean. 
 ----------
+ * **말** :: horse (noun)
+ * 내 앞에 핼쑥한 말이 있었어! 
+ * I looked, and before me was a pale horse! 
+----------
  * **해동시키다** :: to thaw (verb)
  * 냉동 칠면조를 오븐에 넣기 전에 해동시키도록 하세요. 
  * You have to thaw the turkey before putting it in the oven. 
+----------
+ * **사이다** :: cider (noun)
+ * 그들은 달달한 애플 사이다를 팝니다. 
+ * They sell sweet apple cider. 
 ----------
  * **범선** :: sailboat (noun)
  * 범선은 물 위에서 바람을 이용해서 이동을 합니다. 
  * Sailboats use wind to move on the water. 
 ----------
+ * **스크랩북** :: scrapbook (noun)
+ * 지난 휴가에 관한 스크랩북을 만들었어요. 
+ * I made a scrapbook of our last vacation. 
+----------
  * **동의하다** :: to agree (verb)
  * 그 문제에 대해서 여러분들과 동의합니다. 
  * I agree with you on that issue. 
 ----------
+ * **시가** :: cigar (noun)
+ * 쿠바의 최대 수출품 중 하나가 시가입니다. 
+ * Cigars are one of Cuba's largest exports. 
+----------
  * **무작위로** :: at random (expression)
  * 우리는 무작위로 자리를 골랐어요. 
  * We chose a seat at random. 
+----------
+ * **안다** :: to hug (verb)
+ * 그 어린 소녀는 아버지를 안았습니다. 
+ * The young girl hugged her father. 
 ----------
  * **기분을 상하게 하다** :: to offend (verb)
  * 제가 기분을 상하게 하려고 한 것은 아니에요. 

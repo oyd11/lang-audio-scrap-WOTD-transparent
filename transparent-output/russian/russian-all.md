@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -567,61 +567,121 @@
  * Я всю ночь спать не ложилась, готовилась к этому экзамену. 
  * I've been up all night studying for this test. 
 ----------
+ * **говорить** :: to speak (verb)
+ * Я чуть-чуть говорю по-немецки. 
+ * I speak a little German. 
+----------
  * **головная боль** :: headache (phrase)
  * Из-за головной боли я не могла сконцентрироваться на работе. 
  * Because of the headache I couldn't concentrate on my work. 
+----------
+ * **первый** :: first (adjective)
+ * Это произошло не в первый раз и не в последний. 
+ * It's not the first time, and won't be the last. 
 ----------
  * **луковица** :: onion (noun)
  * Если луковица большая, то используйте лишь половину. 
  * If the onion is too big, use only half of it. 
 ----------
+ * **извиняться** :: to apologize (verb)
+ * Извиняюсь, у меня сегодня тяжёлый день. 
+ * I apologize, I'm having a bad day. 
+----------
  * **картофель фри** :: fries (phrase)
  * Вам картофель фри добавить? 
  * Do you want fries with that? 
+----------
+ * **магазин** :: store (noun)
+ * Я иду в магазин. Хочешь со мной? 
+ * I'm going to the store, want to go with me? 
 ----------
  * **пляж** :: beach (noun)
  * Завтра мы с ней пойдём на пляж. 
  * She and I will go to the beach tomorrow. 
 ----------
+ * **предпочитать** :: to prefer (verb)
+ * Финики вкусные, но я предпочитаю ананас. 
+ * The dates are delicious, but I prefer pineapple. 
+----------
  * **сурок** :: groundhog (noun)
  * Увидел ли сурок свою тень? 
  * Did the groundhog see his shadow? 
+----------
+ * **пятница** :: Friday (noun)
+ * Я так рада, что завтра - пятница. Эта неделя просто бесконечная! 
+ * I'm so glad tomorrow is Friday; it's been a long week! 
 ----------
  * **прогулка** :: hike (noun)
  * Как насчёт прогулки по лесу? 
  * How about a walk in the woods? 
 ----------
+ * **выходной** :: weekend (noun)
+ * Какие у тебя планы на выходной? 
+ * Do you have any plans for this weekend? 
+----------
  * **автомеханик** :: auto mechanic (noun)
  * Автомеханик починил нашу машину. 
  * A mechanic fixed our car. 
+----------
+ * **погода** :: weather (noun)
+ * Какой прогноз погоды на завтра? 
+ * What's the weather prediction for tomorrow? 
 ----------
  * **гений** :: genius (noun)
  * Он думает, что он - гений. 
  * He is a genius in his own mind. 
 ----------
+ * **идёт дождь** :: it rains (phrase)
+ * Захвати зонтик - сегодня пойдёт дождь. 
+ * It's going to rain, bring an umbrella. 
+----------
  * **монета** :: coin (noun)
  * Я не могу принять решение. Давайте подбросим монету. 
  * I can't decide. Let's flip a coin. 
+----------
+ * **играть** :: to play (verb)
+ * Детям нравится играть на улице. 
+ * The children like to play outside. 
 ----------
  * **деньги** :: money (noun)
  * Денег никогда не бывает достаточно. 
  * Nobody seems to have enough money. 
 ----------
+ * **любимый** :: favorite (adjective)
+ * Это одна из моих любимых песен. 
+ * This is one of my favorite songs. 
+----------
  * **кусать** :: to bite (verb)
  * Моя собака вас не укусит. 
  * My dog will not bite you. 
+----------
+ * **забывать** :: to forget (verb)
+ * Он никогда не забывает сказать "спасибо" и "пожалуйста". 
+ * He never forgets to say please and thank you. 
 ----------
  * **комар** :: mosquito (noun)
  * Комары мне надоели! 
  * The mosquitoes will not leave me alone! 
 ----------
+ * **видеть** :: to see (verb)
+ * Ты видел метеорный дождь прошлой ночью? Здорово! 
+ * Did you see the meteor shower last night? Amazing! 
+----------
  * **кинозвезда** :: movie star (noun)
  * Кто твоя любимая кинозвезда? 
  * Who's your favorite movie star? 
 ----------
+ * **где** :: where (adverb)
+ * Где ближайший рынок? 
+ * Where is the nearest market? 
+----------
  * **морепродукты** :: seafood (noun)
  * Я люблю морепродукты, но у моего друга на них аллергия. 
  * I love seafood, but my friend is allergic to it. 
+----------
+ * **быть сердитым** :: to be angry (phrase)
+ * Если ты сердит, глубоко вдохни, выдохни и досчитай до десяти. 
+ * If you're angry, take a deep breath and count to ten. 
 ----------
  * **сесть** :: to sit down (verb)
  * Иногда мне просто нравится сесть с книгой и почитать. 

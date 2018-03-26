@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -567,61 +567,121 @@
  * Minha cozinha é grande. 
  * My kitchen is big. 
 ----------
+ * **elevador** :: elevator (noun)
+ * Pegue o elevador até o nono andar. 
+ * Take the elevator to the ninth floor. 
+----------
  * **primo** :: cousin (noun)
  * Cresci com meu primo Junior. 
  * I grew up with my cousin Junior. 
+----------
+ * **tocar um instrumento** :: to play an instrument (verb)
+ * Ele toca piano como um mestre. 
+ * He plays the piano like a master. 
 ----------
  * **abrir** :: to open (expression)
  * Você pode abrir a porta, por favor? 
  * Can you open the door, please? 
 ----------
+ * **dado** :: dice (noun)
+ * É sua vez de jogar o dado. 
+ * It's your turn to roll the dice. 
+----------
  * **primeiro** :: first (adjective)
  * Quando é o primeiro dia de aula? 
  * When is the first day of school? 
+----------
+ * **lua** :: moon (noun)
+ * A lua está brilhante hoje à noite. 
+ * The moon is bright tonight. 
 ----------
  * **cheio** :: full (adjective)
  * O ônibus está cheio. 
  * The bus is full. 
 ----------
+ * **descobrir** :: to uncover (verb)
+ * Sua expedição descobriu ruínas antigas. 
+ * Their expedition uncovered ancient ruins. 
+----------
  * **americano** :: American (adjective)
  * Meu carro é americano. 
  * My car is American. 
+----------
+ * **insalubre** :: unhealthy (adjective)
+ * Fumar é um hábito insalubre. 
+ * Smoking is an unhealthy habit. 
 ----------
  * **fechar** :: to close (expression)
  * Feche a janela a noite. 
  * Close the window at night. 
 ----------
+ * **resfriar** :: to cool (verb)
+ * O ventilador vai resfriar a sala. 
+ * The fan will cool the room. 
+----------
  * **ensolarado** :: sunny (adjective)
  * O dia está ensolarado. 
  * The day is sunny. 
+----------
+ * **imprudente** :: reckless (adjective)
+ * Que motorista imprudente - está mandando mensagem pelo celular! 
+ * What a reckless driver - he's texting! 
 ----------
  * **óculos** :: glasses (noun)
  * Seus óculos estão quebrados. 
  * Your glasses are broken. 
 ----------
+ * **marinho** :: navy (adjective)
+ * No escuro eu acidentalmente coloquei uma meia azul marinho e uma preta. 
+ * In the dark I accidentally put on one navy blue sock and one black. 
+----------
  * **pais** :: parents (noun)
  * Meus pais são muito bons. 
  * My parents are so good. 
+----------
+ * **pendurar** :: to hang (verb)
+ * Há teias de aranha penduradas do teto. 
+ * There are cobwebs hanging from the ceiling. 
 ----------
  * **quinta-feira** :: Thursday (noun)
  * O que você vai fazer quinta-feira? 
  * What are you going to do on Thursday? 
 ----------
+ * **umidade** :: humidity (noun)
+ * No calor, a umidade é muito alta. 
+ * It's not the heat, humidity is really high. 
+----------
  * **peixe** :: fish (noun)
  * Comemos peixe toda sexta-feira. 
  * We eat fish every Friday. 
+----------
+ * **peito** :: chest (noun)
+ * Meu peito dói. 
+ * My chest hurts. 
 ----------
  * **churrasco** :: barbecue (noun)
  * O brasileiro come muito churrasco. 
  * Brazilians eat a lot of barbecue. 
 ----------
+ * **mentiroso** :: liar (adjective)
+ * Você é muito mentiroso! 
+ * You're such a liar! 
+----------
  * **enfermeira** :: nurse (noun)
  * Quero ser enfermeira. 
  * I want to be a nurse. 
 ----------
+ * **perder** :: to lose (verb)
+ * Não tenho nada a perder. 
+ * I have nothing to lose. 
+----------
  * **poder** :: to be able to (expression)
  * Ela vai poder vir a minha casa hoje? 
  * Is she going to be able to come to my house today? 
+----------
+ * **aqui** :: here (adverb)
+ * Está muito quente aqui dentro. 
+ * It's very hot in here. 
 ----------
  * **vazio** :: empty (adjective)
  * O cinema está vazio. 

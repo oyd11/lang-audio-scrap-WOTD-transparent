@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 435 phrases 
+ 439 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -567,17 +567,33 @@
  * Lakar kija jani? 
  * Where will you go now? 
 ----------
+ * **kenak** :: doing good, fine, healthy (alus (refined))
+ * Punapi kenak, Kak? 
+ * Are you fine, Grandpa? 
+----------
  * **lunga** :: to go (alus (refined))
  * Lunga kija? 
  * Where are you going? 
+----------
+ * **kenken** :: how (biasa (common))
+ * Seger, kenken Sari? 
+ * Fine, how about you, Sari? 
 ----------
  * **ring** :: at (alus (refined))
  * Ring dija kamar kecil? 
  * Where is the bathroom? 
 ----------
+ * **inguh** :: confused, troubled (biasa (common))
+ * Jani tiang sedek inguh, Kak. 
+ * I feel confused now, Grandpa. 
+----------
  * **rarisang** :: please (alus (refined))
  * Nggih, rarisang. 
  * Yes, please go ahead. 
+----------
+ * **naenin** :: have, have ever (alus (refined))
+ * Nggih, titiyang naenin mirengin indik punika. 
+ * Yes I heard about it. 
 ----------
  * **masan** :: season (alus (refined))
  * Mangkin masan panes. 

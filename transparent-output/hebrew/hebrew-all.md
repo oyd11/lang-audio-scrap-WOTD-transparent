@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -567,61 +567,121 @@
  * הוא לא ילך לישון אלא אם תקרא לו סיפור. 
  * He won't go to sleep unless you read him a story. 
 ----------
+ * **להתקשר** :: to call (verb)
+ * תתקשר אליי הערב ונקבע תוכניות. 
+ * Call me tonight and we'll make plans. 
+----------
  * **להתגעגע** :: longing for (expression)
  * עם הגיל מגיעה הנוסטלגיה והגעגועים לזמנים פשוטים יותר. 
  * With age comes nostalgia and a longing for simpler times. 
+----------
+ * **כרטיס עליה** :: boarding pass (noun)
+ * אנא הכינו את כרטיסי העלייה בהגיעכם לדלפק. 
+ * Please, have your boarding pass ready at the counter. 
 ----------
  * **ללחוש** :: to whisper (verb)
  * אני אוהבת לשמוע את הרוח לוחשת בין העצים. 
  * I love to hear the wind whisper through the trees. 
 ----------
+ * **רמז** :: hint (noun)
+ * יש אנשים שלא מבינים רמזים. 
+ * Some people just can't take a hint. 
+----------
  * **בחוץ** :: in the open (expression)
  * בילינו את הלילה בחוץ, תחת כיפת השמים. 
  * We slept in the open, under the stars. 
+----------
+ * **ממשק** :: interface (noun)
+ * לתכנית הזו יש ממשק משתמש נחמד למדי. 
+ * The program has a very nice user interface. 
 ----------
  * **פגישה עיוורת** :: blind date (noun)
  * מה אתה חושב על פגישה עיוורת באמצעות מצלמת אינטרנט? 
  * What do you think about a blind date by webcam? 
 ----------
+ * **שנה מעוברת** :: leap year (noun)
+ * השנה הבאה תהיה שנה מעוברת. 
+ * Next year is a leap year. 
+----------
  * **אי-סדר** :: mess (noun)
  * החיים שלי הם ממש אי-סדר ואני לא יודעת מה לעשות. 
  * My life is a mess and I don’t know what to do. 
+----------
+ * **כותרת** :: headline (noun)
+ * ראית את הכותרות הבוקר? 
+ * Did you see the headlines this morning? 
 ----------
  * **חידה** :: puzzle (noun)
  * פתרון חידות הוא תרגיל טוב למח. 
  * Solving puzzles is a good mental exercise. 
 ----------
+ * **יום שני** :: Monday (noun)
+ * יום שני הוא היום השני בשבוע. 
+ * Monday is the second day of the week. 
+----------
  * **חוסר** :: lack of (expression)
  * בבחינה חשפו התלמידים את חוסר ההכנה המוחלט שלהם. 
  * In the exam the students revealed their total lack of preparation. 
+----------
+ * **להינמס** :: to melt (verb)
+ * השלג מהחורף כבר נמס. 
+ * The winter snow has already melted. 
 ----------
  * **להשוויץ** :: to show off (verb)
  * הוא עשה את זה רק כדי להשוויץ בפני חבריו. 
  * He did it just to show off in front of his friends. 
 ----------
+ * **טיוטה** :: draft (noun)
+ * הטיוטה הראשונה תהיה מוכנה עד מחר. 
+ * The first draft will be ready by tomorrow. 
+----------
  * **לשים לב** :: to notice (verb)
  * לא שמתי לב לעדת הזאבים המתקרבת. 
  * I failed to notice the approaching pack of wolves. 
+----------
+ * **עכביש** :: spider (noun)
+ * יש עכביש באמבטיה! לפחות הוא יהיה נקי. 
+ * There is a spider in the bathtub! At least he'll be clean. 
 ----------
  * **שמח** :: happy (adjective)
  * האם אתה שמח? 
  * Are you happy? 
 ----------
+ * **להפשיר** :: to thaw (verb)
+ * לפני שמכניסים תרנגול הודו לתנור צריך להפשיר אותו. 
+ * You have to thaw the turkey before putting it in the oven. 
+----------
  * **אקדמיה למוזיקה** :: music academy (noun)
  * הוא למד באקדמיה למוסיקה בווינה. 
  * He studied at the music academy in Vienna. 
+----------
+ * **סירת מפרש** :: sailboat (noun)
+ * סירות מפרש משתמשות ברוח כדי לנוע במים. 
+ * Sailboats use wind to move on the water. 
 ----------
  * **חממה** :: greenhouse (noun)
  * מדענים מודאגים מאפקט החממה. 
  * Scientists worry about the Greenhouse Effect. 
 ----------
+ * **להסכים** :: to agree (verb)
+ * אני מסכימה איתך בעניין זה. 
+ * I agree with you on that issue. 
+----------
  * **ניסיון** :: attempt (noun)
  * הוא נכשל בניסיון לגבור על השיא העולמי. 
  * He failed in his attempt to beat the world record. 
 ----------
+ * **באופן אקראי** :: at random (expression)
+ * בחרנו מקום ישיבה באקראי. 
+ * We chose a seat at random. 
+----------
  * **ויכוח** :: argument (noun)
  * היה לנו ויכוח על כסף. 
  * We had an argument about money. 
+----------
+ * **להעליב** :: to offend (verb)
+ * לא התכוונתי להעליב אותך. 
+ * I didn't mean to offend you. 
 ----------
  * **סדר-יום** :: agenda (noun)
  * הנושא השישי על סדר היום נראה מעניין מאד. 

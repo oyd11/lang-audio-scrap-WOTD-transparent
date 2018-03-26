@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -567,61 +567,121 @@
  * We zijn zonder ongelukken aangekomen. 
  * We arrived without any mishap. 
 ----------
+ * **bekoorlijk** :: alluring (adjective)
+ * Kijk die man daar, hij is helemaal onder de indruk van die bekoorlijke jonge vrouw. 
+ * See that man over there, he's completely taken with that alluring young woman. 
+----------
  * **het maagzuur** :: heartburn (expression)
  * Angst kan maagzuur veroorzaken. 
  * Anxiety can cause heartburn. 
+----------
+ * **belabberd** :: dreadful (adjective)
+ * Die belabberde jas kun je wel meegeven aan het Leger des Heils! 
+ * You can give that dreadful coat to the Salvation Army! 
 ----------
  * **het toilet doortrekken** :: to flush the toilet (expression)
  * Vergeet niet het toilet door te trekken. 
  * Don't forget to flush the toilet. 
 ----------
+ * **excentriek** :: eccentric (adjective)
+ * Excentrieke mensen kunnen zich meer veroorloven dan de gewone burger. 
+ * Eccentric people can get away with a lot more than the regular civilian. 
+----------
  * **knoeien met** :: to rig (verb)
  * Er was met de uitslag van de verkiezingen geknoeid. 
  * The election was rigged. 
+----------
+ * **arctisch** :: Arctic (adjective)
+ * Met die arctische temperaturen hier mogen we de verwarming wel eens wat opdraaien! 
+ * With those Arctic temperatures here we should really turn up the heat! 
 ----------
  * **de overval** :: robbery (noun)
  * De politie kwam te laat op de plaats van de overval. 
  * The police arrived late at the robbery scene. 
 ----------
+ * **barmhartig** :: merciful (adjective)
+ * De bedelaar kreeg een aalmoes van een barmhartige vrouw. 
+ * The beggar got alms from a merciful woman. 
+----------
  * **de printer** :: printer (noun)
  * Het papier van de printer is op. 
  * The printer is out of paper. 
+----------
+ * **gezellig** :: cozy (adjective)
+ * We hebben een leuke en gezellige avond gehad. 
+ * We had a nice and cozy evening. 
 ----------
  * **de jongleur** :: juggler (noun)
  * Het publiek applaudisseerde voor de jongleur. 
  * The audience applauded the juggler. 
 ----------
+ * **broos** :: fragile (adjective)
+ * Een vrouw vindt het niet altijd leuk om als een broos bloemetje te worden behandeld. 
+ * A woman doesn't always like being treated like a fragile flower. 
+----------
  * **onthullen** :: to reveal (verb)
  * Het onderzoek onthulde een schandaal. 
  * The investigation revealed a scandal. 
+----------
+ * **fris** :: fresh (adjective)
+ * Het is heerliijk om op een warme dag een frisse duik in het water te nemen. 
+ * It's lovely to take a fresh dive in the water on a hot summer day. 
 ----------
  * **de snelweg** :: highway (noun)
  * Sommige mensen zeggen dat het leven een snelweg is. 
  * Some say that life is a highway. 
 ----------
+ * **futloos** :: dull (adjective)
+ * Ik ben vandaag in een futloze bui. 
+ * Today I'm in a dull mood. 
+----------
  * **de levenslange gevangenisstraf** :: life imprisonment (expression)
  * De misdadiger werd veroordeeld tot levenslange gevangenisstraf. 
  * The criminal was sentenced to life imprisonment. 
+----------
+ * **onnozel** :: gullible (adjective)
+ * Wat ben je toch een onnozele hals! 
+ * You are such a gullible fool! 
 ----------
  * **gapen** :: to yawn (verb)
  * Na de lunch kan ik niet stoppen met gapen. 
  * After lunch, I can't stop yawning. 
 ----------
+ * **fluwelen** :: velvet (adjective)
+ * Vanavond zal ik een diep paarse fluwelen jurk dragen. 
+ * Tonight I'll wear a deep purple velvet dress. 
+----------
  * **de stommeling** :: fool (noun)
  * Moet je deze stommeling zien. Hij leest de krant ondersteboven. 
  * Check this fool out. He's reading the newspaper but it's upside down. 
+----------
+ * **inheems** :: native (adjective)
+ * Als inheemse Nederlander hou ik toch erg van stamppotten. 
+ * As a native Dutchman I really like to eat stews. 
 ----------
  * **de teddybeer** :: teddy bear (expression)
  * Het is niet toegestaan om teddyberen mee naar school te nemen. 
  * Bringing teddy bears to school is not allowed. 
 ----------
+ * **bedreven** :: skillful (adjective)
+ * De bedreven monteur had in een ommezien de auto gerepareerd. 
+ * The skillful mechanic had fixed the car in an instant. 
+----------
  * **prijzen** :: praise (noun)
  * Haar daden waren prijzenswaardig. 
  * Her deeds were praiseworthy. 
 ----------
+ * **belachelijk** :: ridiculous (adjective)
+ * Wat heb jij nu voor een belachelijke hoed op? 
+ * Oh my, what a ridiculous hat you are wearing! 
+----------
  * **het hart** :: heart (noun)
  * Mijn hart sloeg over. 
  * My heart skipped a beat. 
+----------
+ * **fatsoenlijk** :: decent (adjective)
+ * Het is een fatsoenlijk gebaar om iemand beleefd te groeten. 
+ * It's a decent gesture to greet someone politely. 
 ----------
  * **mensen** :: people (noun)
  * Ik kan niet met deze mensen werken! 

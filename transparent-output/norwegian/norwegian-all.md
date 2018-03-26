@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -567,9 +567,21 @@
  * Røde Kors holder utkikk etter tilfeller for brudd på menneskerettighetene. 
  * The Red Cross keeps watch for cases where Human Rights are violated. 
 ----------
+ * **menneskerettighet** :: human rights (noun)
+ * Røde Kors holder utkikk etter tilfeller for brudd på menneskerettighetene. 
+ * The Red Cross keeps watch for cases where Human Rights are violated. 
+----------
  * **vintersolverv** :: winter solstice (noun)
  * Vintersolverv er enten 21. eller 22. desember. 
  * The winter solstice is either December 21 or 22. 
+----------
+ * **vintersolverv** :: winter solstice (noun)
+ * Vintersolverv er enten 21. eller 22. desember. 
+ * The winter solstice is either December 21 or 22. 
+----------
+ * **lærer** :: teacher (noun)
+ * Tre hundre lærere går ut i streik. 
+ * Three hundred teachers are going out on strike. 
 ----------
  * **lærer** :: teacher (noun)
  * Tre hundre lærere går ut i streik. 
@@ -579,9 +591,21 @@
  * I dag blir det sannsynligvis en deilig sommerdag i Danmark med unntak av vestkysten. 
  * Today will probably be a delightful summer day in Denmark, with the exception of the west coast. 
 ----------
+ * **unntak** :: exception (noun)
+ * I dag blir det sannsynligvis en deilig sommerdag i Danmark med unntak av vestkysten. 
+ * Today will probably be a delightful summer day in Denmark, with the exception of the west coast. 
+----------
  * **ekteskap** :: marriage (noun)
  * To voksne kan erklære at de ønsker å inngå et ekteskap med hverandre. 
  * Two adults can declare that they wish to enter into a marriage with each other. 
+----------
+ * **ekteskap** :: marriage (noun)
+ * To voksne kan erklære at de ønsker å inngå et ekteskap med hverandre. 
+ * Two adults can declare that they wish to enter into a marriage with each other. 
+----------
+ * **bygd** :: village, rural area (noun)
+ * Vi introduserer ord og bilder til de landlige bygdene i Rauma kommune. 
+ * We are introducing the rural towns in Rauma township with words and pictures. 
 ----------
  * **bygd** :: village, rural area (noun)
  * Vi introduserer ord og bilder til de landlige bygdene i Rauma kommune. 
@@ -591,9 +615,21 @@
  * Vi har dårlig tid; la oss ta en drosje. 
  * We don't have much time; let's take a taxi. 
 ----------
+ * **drosje** :: taxi (noun)
+ * Vi har dårlig tid; la oss ta en drosje. 
+ * We don't have much time; let's take a taxi. 
+----------
  * **erfaring** :: experience (noun)
  * Vi må lære av vår erfaring. 
  * We must learn from our experiences. 
+----------
+ * **erfaring** :: experience (noun)
+ * Vi må lære av vår erfaring. 
+ * We must learn from our experiences. 
+----------
+ * **minne** :: remind (verb)
+ * Vi har nå et evig minne om vårt hyggelige opphold hos dere. 
+ * We now have an eternal memory of our pleasant stay with you. 
 ----------
  * **minne** :: remind (verb)
  * Vi har nå et evig minne om vårt hyggelige opphold hos dere. 
@@ -603,9 +639,21 @@
  * Hva tror du er det beste tilbudet på en mobiltelefon? 
  * What do you think is the best offer on a mobile phone? 
 ----------
+ * **tilbud** :: offer (noun)
+ * Hva tror du er det beste tilbudet på en mobiltelefon? 
+ * What do you think is the best offer on a mobile phone? 
+----------
  * **utstyr** :: equipment (noun)
  * Hva slags utstyr trenger en nybakt lærer? 
  * What kind of equipment does a new teacher need? 
+----------
+ * **utstyr** :: equipment (noun)
+ * Hva slags utstyr trenger en nybakt lærer? 
+ * What kind of equipment does a new teacher need? 
+----------
+ * **kjøkken** :: kitchen (noun)
+ * Hva slags kjøkken drømmer du om i ditt nye hus? 
+ * What kind of kitchen are you dreaming of for your new house? 
 ----------
  * **kjøkken** :: kitchen (noun)
  * Hva slags kjøkken drømmer du om i ditt nye hus? 
@@ -615,9 +663,21 @@
  * Da politiet kom til puben, oppsto det et lite basketak mellom politibetjent og den fulle mannen. 
  * When the police came to the pub, a little row began between the police officer and the drunk man. 
 ----------
+ * **basketak** :: fight, quarrel (noun)
+ * Da politiet kom til puben, oppsto det et lite basketak mellom politibetjent og den fulle mannen. 
+ * When the police came to the pub, a little row began between the police officer and the drunk man. 
+----------
  * **aksjeandel** :: share of stock (noun)
  * Når du kjøper aksjer må du tenke langsiktig. 
  * When you buy stocks you have to think for the long-run. 
+----------
+ * **aksjeandel** :: share of stock (noun)
+ * Når du kjøper aksjer må du tenke langsiktig. 
+ * When you buy stocks you have to think for the long-run. 
+----------
+ * **blinklys** :: turn signal (noun)
+ * Når du endrer kjørefelt, må man bruke blinklys. 
+ * When you shift lanes, you have to use your signal lights. 
 ----------
  * **blinklys** :: turn signal (noun)
  * Når du endrer kjørefelt, må man bruke blinklys. 

@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 435 phrases 
+ 450 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -567,61 +567,121 @@
  * My friend was wearing a striped shirt. 
  * Mi amigo llevaba una camisa de rayas. 
 ----------
- * **leather** :: de cuero (noun)
- * I'm going to buy my wife a leather jacket. 
- * Voy a comprarle una chaqueta de cuero a mi esposa. 
-----------
- * **teacher** :: maestro (noun)
- * The teacher teaches the seventh grade. 
- * El maestro enseña el séptimo grado. 
-----------
- * **credit card** :: tarjeta de crédito (noun)
- * I pay with my credit card a lot. 
- * Pago mucho con mi tarjeta de crédito. 
-----------
- * **to try on** :: probarse (verb)
- * I'm trying on some pants. 
- * Me estoy probando los pantalones. 
-----------
- * **to feel** :: sentir (verb)
- * I feel angry when I read about politics. 
- * Siento enojado cuando leo sobre la política. 
-----------
- * **ancient** :: antiguo (adjective)
- * I saw some ancient ruins in Mexico. 
- * Vi muchas ruinas antiguas en México. 
-----------
  * **Arab** :: árabe (adjective)
  * We entered the Arab palace. 
  * Entramos en el palacio árabe. 
+----------
+ * **leather** :: de cuero (noun)
+ * I'm going to buy my wife a leather jacket. 
+ * Voy a comprarle una chaqueta de cuero a mi esposa. 
 ----------
  * **ticket window** :: taquilla (noun)
  * I'm going to buy the tickets at the ticket window. 
  * Voy a comprar los boletos en la taquilla. 
 ----------
+ * **teacher** :: maestro (noun)
+ * The teacher teaches the seventh grade. 
+ * El maestro enseña el séptimo grado. 
+----------
  * **scarf** :: bufanda (noun)
  * She wore a large scarf to protect herself from the wind. 
  * Ella llevaba una bufanda grande para protegerse del viento. 
+----------
+ * **credit card** :: tarjeta de crédito (noun)
+ * I pay with my credit card a lot. 
+ * Pago mucho con mi tarjeta de crédito. 
 ----------
  * **economy** :: económico (adjective)
  * I would like an economy seat. 
  * Quisiera un asiento económico. 
 ----------
+ * **to try on** :: probarse (verb)
+ * I'm trying on some pants. 
+ * Me estoy probando los pantalones. 
+----------
  * **to disappear** :: desaparecer (verb)
  * The murder suspect disappeared; the police couldn't find him. 
  * El sospechoso en el asesinato desapareció; la policía no podía encontrarle. 
+----------
+ * **to feel** :: sentir (verb)
+ * I feel angry when I read about politics. 
+ * Siento enojado cuando leo sobre la política. 
 ----------
  * **to appear** :: aparecer (verb)
  * Your name does not appear on the list. 
  * Su nombre no aparece en la lista. 
 ----------
+ * **ancient** :: antiguo (adjective)
+ * I saw some ancient ruins in Mexico. 
+ * Vi muchas ruinas antiguas en México. 
+----------
  * **pedestrian** :: peatón (noun)
  * When the pedestrian was crossing the street, he didn't see the car. 
  * Cuando el peatón cruzaba la calle no vio el carro. 
 ----------
+ * **Arab** :: árabe (adjective)
+ * We entered the Arab palace. 
+ * Entramos en el palacio árabe. 
+----------
  * **Canadian** :: canadiense (adjective)
  * That actor is Canadian. 
  * Ese actor es canadiense. 
+----------
+ * **ticket window** :: taquilla (noun)
+ * I'm going to buy the tickets at the ticket window. 
+ * Voy a comprar los boletos en la taquilla. 
+----------
+ * **to return** :: devolver (verb)
+ * I have to return my book to the library. 
+ * Tengo que devolver mi libro a la biblioteca. 
+----------
+ * **scarf** :: bufanda (noun)
+ * She wore a large scarf to protect herself from the wind. 
+ * Ella llevaba una bufanda grande para protegerse del viento. 
+----------
+ * **sidewalk** :: acera (noun)
+ * We're going to take a walk on the sidewalk. 
+ * Vamos a pasear por la acera. 
+----------
+ * **economy** :: económico (adjective)
+ * I would like an economy seat. 
+ * Quisiera un asiento económico. 
+----------
+ * **steel** :: acero (noun)
+ * It looks like the boxer has hands of steel. 
+ * Parece que el boxeador tiene manos de acero. 
+----------
+ * **to disappear** :: desaparecer (verb)
+ * The murder suspect disappeared; the police couldn't find him. 
+ * El sospechoso en el asesinato desapareció; la policía no podía encontrarle. 
+----------
+ * **full** :: lleno (adjective)
+ * The parking lot is full. 
+ * El estacionamiento está lleno. 
+----------
+ * **to appear** :: aparecer (verb)
+ * Your name does not appear on the list. 
+ * Su nombre no aparece en la lista. 
+----------
+ * **friendly** :: simpático (adjective)
+ * Your grandmother is very friendly. 
+ * Tu abuela es muy simpática. 
+----------
+ * **pedestrian** :: peatón (noun)
+ * When the pedestrian was crossing the street, he didn't see the car. 
+ * Cuando el peatón cruzaba la calle no vio el carro. 
+----------
+ * **ham** :: jamón (noun)
+ * I want a ham and cheese sandwich. 
+ * Quiero un sándwich de jamón y queso. 
+----------
+ * **Canadian** :: canadiense (adjective)
+ * That actor is Canadian. 
+ * Ese actor es canadiense. 
+----------
+ * **to have dinner** :: cenar (verb)
+ * My family and I have dinner at 6 p.m. 
+ * Mi familia y yo cenamos a las seis de la tarde. 
 ----------
  * **to return** :: devolver (verb)
  * I have to return my book to the library. 

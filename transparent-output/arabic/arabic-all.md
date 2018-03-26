@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 435 phrases 
+ 445 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -567,41 +567,81 @@
  * أكد الطبيب للمريض أن صحته في تحسن. 
  * The doctor assured the patient that his health was improving. 
 ----------
+ * **سافر** :: to travel (verb)
+ * في العام الماضي، سافرنا إلى لندن. 
+ * Last year, we traveled to London. 
+----------
  * **فقير** :: poor (adjective)
  * سمير يسكن في حي فقير. 
  * Samir lives in a poor neighborhood. 
+----------
+ * **سمك** :: fish (noun)
+ * لا أحب السمك المقلي. 
+ * I don't like fried fish. 
 ----------
  * **فارغ** :: empty (adjective)
  * المحل فارغ، لايوجد زبائن في هذا الوقت. 
  * The shop is empty, there are no customers at this time. 
 ----------
+ * **معقد** :: complicated (adjective)
+ * المشكلة ليست معقدة. 
+ * The problem is not complicated. 
+----------
  * **حزين** :: sad (adjective)
  * لِمَ أنت حزين؟ 
  * Why are you sad? 
+----------
+ * **إختار** :: to choose (verb)
+ * عمي و زوجته اِختارا زيارة إسبانيا. 
+ * My uncle and his wife chose to visit Spain. 
 ----------
  * **مظلم** :: dark (adjective)
  * تجنب المشي في هذا الشارع لأنه مظلم. 
  * Avoid walking in the street because it is dark. 
 ----------
+ * **جامعة** :: university (noun)
+ * هل ستدرسين في الجامعة الأمريكية ببيروت؟ 
+ * Will you study at the American University in Beirut? 
+----------
  * **بعيد** :: far (adjective)
  * مقر عملها بعيد عن بيتها. 
  * Her work is far from her home. 
+----------
+ * **طالب** :: student (noun)
+ * عادل طالبٌ في المدرسة الثانوية. 
+ * Adel is a student at a high school. 
 ----------
  * **أخضر** :: green (adjective)
  * يكون العشب أخضر في فصل الربيع. 
  * The grass is green in the spring. 
 ----------
+ * **ساعد** :: to help (verb)
+ * هل من الممكن أن تساعديني؟ 
+ * Could you help me? 
+----------
  * **مُتعب** :: tired (adjective)
  * لم أحضر للحفل لأنني مُتعب. 
  * I didn't come to the party because I'm tired. 
+----------
+ * **مريض** :: sick (adjective)
+ * زوجي مريض منذ يوم الأحد. 
+ * My husband has been sick since Sunday. 
 ----------
  * **واضح** :: clear (adjective)
  * من فضلك اُكتب اسمَك بخط واضح. 
  * Please, write your name in clear handwriting. 
 ----------
+ * **اتصل** :: to call (verb)
+ * سأتصل بك غداً. 
+ * I will call you tomorrow. 
+----------
  * **شاب** :: young (adjective)
  * جاء إلى الولايات المتحدة عندما كان شاباً. 
  * He came to the United States when he was young. 
+----------
+ * **شرطة** :: police (noun)
+ * أين مركز الشرطة من فضلك؟ 
+ * Where is the police station, please? 
 ----------
  * **هامة** :: important (adjective)
  * وصلتني رسالة هامة. 
