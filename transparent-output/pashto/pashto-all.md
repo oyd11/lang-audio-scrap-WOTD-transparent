@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -686,6 +686,10 @@
  * **خوله** :: sweat (noun)
  * وروسته له منډو وهلو په خوله کې ډوب یم. 
  * I am soaked in sweat after running. 
+----------
+ * **فصل** :: chapter (noun)
+ * دا فصل ډېر په زړه پورې دی. 
+ * This chapter is very interesting. 
 ----------
  * **فصل** :: chapter (noun)
  * دا فصل ډېر په زړه پورې دی. 

@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -686,6 +686,10 @@
  * **vazio** :: empty (adjective)
  * O cinema está vazio. 
  * The cinema is empty. 
+----------
+ * **cachoeira** :: waterfall (noun)
+ * Só conseguíamos ouvir o barulho da cachoeira. 
+ * All we could hear was the roar of the waterfall. 
 ----------
  * **muito** :: very (adverb)
  * Gosto muito da minha escola. 

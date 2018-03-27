@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -686,6 +686,10 @@
  * **en kısa zamanda** :: as soon as (conjunction)
  * En kısa zamanda orada olacağım. 
  * I will be there as soon as I can. 
+----------
+ * **kaçırmak** :: to abduct (verb)
+ * Dün gece rüyamda uzaylılar tarafından kaçırıldığımı gördüm. 
+ * Last night I dreamt I was being abducted by aliens. 
 ----------
  * **yiyip bitirmek** :: to consume (verb)
  * Kıskançlık onun içini yiyip bitirdi. 

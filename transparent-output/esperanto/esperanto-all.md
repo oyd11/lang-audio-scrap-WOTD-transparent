@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -686,6 +686,10 @@
  * **sendependeco** :: independence (noun)
  * Usono festas sian sendependecon je la kvara de julio. 
  * America celebrates its independence on the fourth of July. 
+----------
+ * **pupo** :: doll (noun)
+ * Kiom da pupojn ŝi jam kolektis? 
+ * How many dolls has she collected? 
 ----------
  * **senintenca** :: unintentional (adjective)
  * La mandato havas senintencajn konsekvencojn. 

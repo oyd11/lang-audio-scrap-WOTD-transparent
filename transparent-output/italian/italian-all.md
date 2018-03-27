@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -686,6 +686,10 @@
  * **prestare** :: to lend (verb)
  * Ho prestato il libro di cucina giapponese a Nicoletta. 
  * I lent the Japanese cookbook to Nicoletta. 
+----------
+ * **La nebbia** :: fog (noun)
+ * In autunno c'è sempre una fitta nebbia in questa regione. 
+ * In the fall there is always a thick fog in this area. 
 ----------
  * **qualche** :: some (adjective)
  * Con le melanzane potete cucinare anche qualche peperone. 

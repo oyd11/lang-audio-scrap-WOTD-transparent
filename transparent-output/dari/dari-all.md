@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -686,6 +686,10 @@
  * **کلبه گِلی** :: hovel, slum (noun)
  * شاید یک کلبه گِلی باشد مگر برای من خانه است. 
  * It may be a slum, but it's home to me. 
+----------
+ * **خبر داشتن** :: to be aware of (expression)
+ * آیا از نتایج اعمال تان خبر دارید؟ 
+ * Are you aware of the consequences of your actions? 
 ----------
  * **دق شدن** :: to miss (verb)
  * پشت وقت بیکاری که در طفولیت داشتم دق شدیم. 

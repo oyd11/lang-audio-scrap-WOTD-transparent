@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -686,6 +686,10 @@
  * **گھوڑا** :: horse (noun)
  * میں نے دیکھا، اور میرے سامنے ایک کمزور گھوڑا تھا! 
  * I looked, and before me was a pale horse! 
+----------
+ * **لذیذ** :: delicious (adjective)
+ * وہ لذیذ تھا. 
+ * That was delicious. 
 ----------
  * **سیب کا عرق** :: apple juice (noun)
  * وہ میٹھا سیب کا عرق بیچتے ہیں. 

@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -686,6 +686,10 @@
  * **сесть** :: to sit down (verb)
  * Иногда мне просто нравится сесть с книгой и почитать. 
  * Sometimes I just like to sit down with a good book. 
+----------
+ * **уловка** :: trick (noun)
+ * Маскировка - одна из самых интересных уловок в природе. 
+ * Camouflage is nature's craftiest trick. 
 ----------
  * **газон** :: lawn (noun)
  * Сойдите с моего газона. 

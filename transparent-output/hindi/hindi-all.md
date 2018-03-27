@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -686,6 +686,10 @@
  * **पसीना** :: sweat (noun)
  * मैं जॉगिंग के बाद पसीने से नहा गई हूँ। 
  * I am dripping with sweat after jogging. 
+----------
+ * **गुस्सा** :: anger (noun)
+ * गुस्से के कारण आपे से बाहर न हो जाओ। 
+ * Don't get carried away by anger. 
 ----------
  * **अध्याय** :: chapter (noun)
  * यह अध्याय बहुत दिलचस्प है। 

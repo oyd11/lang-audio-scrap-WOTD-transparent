@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -686,6 +686,10 @@
  * **vacare** :: to be free from (verb)
  * Nulla pars vitae vacare officio potest. 
  * No part of life is able to be free from duty. 
+----------
+ * **sobrius** :: sober, prudent (adjective)
+ * Nemo saltat sobrius nisi insanit. 
+ * No one dances sober unless he's insane. 
 ----------
  * **nox** :: night (noun)
  * Omnes una manet nox. 

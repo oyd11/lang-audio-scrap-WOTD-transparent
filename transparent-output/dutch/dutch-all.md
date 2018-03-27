@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -686,6 +686,10 @@
  * **mensen** :: people (noun)
  * Ik kan niet met deze mensen werken! 
  * I can't work with these people! 
+----------
+ * **leesbaar** :: readable (adjective)
+ * Is dat een beetje een leesbaar boek of is het te moeilijk om te begrijpen? 
+ * Is that a readable book or is it too difficult to understand? 
 ----------
  * **gek worden** :: to freak out (expression)
  * Probeer niet gek te worden, maar ik heb net al ons spaargeld verloren met poker. 

@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -682,6 +682,10 @@
  * **blinklys** :: turn signal (noun)
  * Når du endrer kjørefelt, må man bruke blinklys. 
  * When you shift lanes, you have to use your signal lights. 
+----------
+ * **altmuligmann** :: handyman (noun)
+ * Naboen min er en altmuligmann i motsetning til meg som ikke engang kan skifte lyspærer. 
+ * While I can't even change a light bulb, my neighbor is a handyman. 
 ----------
  * **altmuligmann** :: handyman (noun)
  * Naboen min er en altmuligmann i motsetning til meg som ikke engang kan skifte lyspærer. 

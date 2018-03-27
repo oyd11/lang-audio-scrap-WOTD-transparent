@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -686,6 +686,10 @@
  * **to return** :: devolver (verb)
  * I have to return my book to the library. 
  * Tengo que devolver mi libro a la biblioteca. 
+----------
+ * **beautiful** :: bello (adjective)
+ * Hawaii's islands are beautiful. 
+ * Las islas de Hawai son bellas. 
 ----------
  * **sidewalk** :: acera (noun)
  * We're going to take a walk on the sidewalk. 

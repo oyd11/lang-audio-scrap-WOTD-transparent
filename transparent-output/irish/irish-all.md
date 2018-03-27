@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -686,6 +686,10 @@
  * **an cú** :: the hound (noun)
  * Fuair Setanta ainm nua, Cú Chulainn, mar mharaigh sé cú de chuid Chulainn agus b'éigean dó a bheith ina ghadhar faire do Chulann ina ionad. 
  * Setanta got a new name, Cú Chulainn, because he killed the hound of Culann and he had to be Culann's watchdog instead. 
+----------
+ * **an t-uisce** :: the water (noun)
+ * Bhíodh an leithreas sa leithreas uisce agus bhíodh an folcadán sa seomra folctha. 
+ * The toilet used to be in the water closet and the bathtub used to be in the bathroom. 
 ----------
  * **an Nollaig** :: Christmas (noun)
  * Tá, a Virginia, tá Daidí na Nollag ann. 

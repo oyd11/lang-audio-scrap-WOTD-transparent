@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -686,6 +686,10 @@
  * **to hang** :: pendurar (verb)
  * I hung lots of posters on my wall. 
  * Eu pendurei muitos pôsteres na parede. 
+----------
+ * **to manage** :: administrar (verb)
+ * My daughter doesn't manage her money well. 
+ * Minha filha não administra bem o dinheiro. 
 ----------
  * **to drown** :: afogar-se (verb)
  * Many sailors drown each year. 

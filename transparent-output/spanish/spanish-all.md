@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -686,6 +686,10 @@
  * **el pasajero** :: passenger (noun)
  * El pasajero del vehículo salió ileso. 
  * The passenger of the vehicle was unharmed. 
+----------
+ * **abrir** :: to open (verb)
+ * Yo voy a abrir la ventana. 
+ * I am going to open the window. 
 ----------
  * **la estructura** :: structure (expression)
  * La exposición contenía varias estructuras móviles. 

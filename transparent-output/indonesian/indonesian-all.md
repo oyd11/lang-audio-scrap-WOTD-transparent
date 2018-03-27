@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -686,6 +686,10 @@
  * **pengguna internet** :: internet user (noun)
  * Kebanyakan pengguna internet mengharapkan sambungan yang cepat. 
  * Most internet users expect fast connection speeds. 
+----------
+ * **hantu** :: ghost (noun)
+ * Menurut mereka ada hantu di rumah tua itu. 
+ * They say that ghosts haunt the old house. 
 ----------
  * **rambut gimbal** :: dreadlocks (noun)
  * Rambut gimbal tidak cocok untuk kamu. 

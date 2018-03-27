@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -1028,6 +1028,12 @@
  * 昨日、おもしろい映画を見た。 
  * Kinou、 omoshiroi eiga o mita. 
  * I saw an interesting movie yesterday. 
+----------
+ * **ファン** :: fan (noun)
+ * **fan** 
+ * 最近サッカーファンが増えてきている。 
+ * Saikin sakkâ fan ga fueteiru. 
+ * Recently the number of soccer fans is increasing. 
 ----------
  * **勉強する** :: to study (verb)
  * **benkyou suru** 

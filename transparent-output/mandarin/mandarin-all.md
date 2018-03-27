@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -1028,6 +1028,12 @@
  * 明天可能下雨。 
  * Míngtiān kěnéng xiàyǔ. 
  * It might rain tomorrow. 
+----------
+ * **国旗** :: national flag (noun)
+ * **guóqí** 
+ * 看中国国旗! 
+ * Kàn zhōngguó guóqí. 
+ * Look at the Chinese flag! 
 ----------
  * **等** :: to wait (verb)
  * **děng** 

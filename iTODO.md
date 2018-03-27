@@ -2,6 +2,7 @@
 
  * Remote play wav (html)
  * Remote play (cli, cache)
+ * find dups?
 
  * 'Non-Mac' rendering of Synth audio
  * -> to files?

@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -686,6 +686,10 @@
  * **기분을 상하게 하다** :: to offend (verb)
  * 제가 기분을 상하게 하려고 한 것은 아니에요. 
  * I didn't mean to offend you. 
+----------
+ * **암송하다** :: to recite (verb)
+ * 옛시를 암송할 수 있어요? 
+ * Can you recite the old poem? 
 ----------
  * **자동차 대리점** :: car dealership (noun)
  * 우리 동네 자동차 대리점에는 제가 찾는 모델이 없어요. 

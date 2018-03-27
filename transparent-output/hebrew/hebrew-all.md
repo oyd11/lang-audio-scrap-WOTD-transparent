@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -686,6 +686,10 @@
  * **סדר-יום** :: agenda (noun)
  * הנושא השישי על סדר היום נראה מעניין מאד. 
  * The sixth item on the agenda looks very interesting. 
+----------
+ * **סוכנות רכב** :: car dealership (noun)
+ * סוכנות הרכב המקומית שלי לא מחזיקה את הדגם שאני מחפשת. 
+ * My local car dealership doesn't have the model I'm looking for. 
 ----------
  * **לייעץ** :: to advise (verb)
  * הרופא ייעץ לה כיצד לטפל בתינוק שלה. 

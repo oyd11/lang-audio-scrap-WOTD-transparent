@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 445 phrases 
+ 451 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -647,25 +647,49 @@
  * وصلتني رسالة هامة. 
  * I received an important letter. 
 ----------
+ * **كان** :: to be (verb)
+ * سيكون الجو بارداً جداً غداً. 
+ * It will be very cold tomorrow. 
+----------
  * **معقد** :: complex (adjective)
  * هذه المشكلة معقدة. 
  * This problem is complex. 
+----------
+ * **أفضل** :: better (adjective)
+ * حالته الصحية أفضل من السنة الماضية. 
+ * His health is better than last year. 
 ----------
  * **جاف** :: dry (adjective)
  * الهواء جاف في المنزل. 
  * The air is dry in the house. 
 ----------
+ * **طبيب** :: doctor (noun)
+ * ما اسم طبيبك؟ 
+ * What's your doctor's name? 
+----------
  * **عام** :: general (adjective)
  * المدير العام متغيب. 
  * The general manager is absent. 
+----------
+ * **تسبّب** :: to cause (verb)
+ * تسببت العاصفة في خسائر كبيرة. 
+ * The storm caused many losses. 
 ----------
  * **صحيّ** :: healthy (adjective)
  * هذا غذاءٌ صحيّ. 
  * This is healthy food. 
 ----------
+ * **مكسور** :: broken (adjective)
+ * ذراعي مكسورة. 
+ * My arm is broken. 
+----------
  * **عادي** :: normal (adjective)
  * من العادي أنْ يلعبَ الأطفالُ كثيراً. 
  * It is normal that children play a lot. 
+----------
+ * **مرّ** :: bitter (adjective)
+ * هذا الدواء مرّ. 
+ * This medicine is bitter. 
 ----------
  * **خاص** :: private (adjective)
  * لديه طائرة خاصة. 

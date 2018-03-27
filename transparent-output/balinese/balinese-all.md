@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 439 phrases 
+ 451 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -599,49 +599,97 @@
  * Mangkin masan panes. 
  * Now it's the hot season. 
 ----------
+ * **ning** :: calm, quiet (alus (refined))
+ * Ring genah sane ning tur embang 
+ * At a quiet and open space 
+----------
  * **mangkin** :: now (alus (refined))
  * Masan napi mangkin? 
  * What season is it now? 
+----------
+ * **meled** :: to want (alus (refined))
+ * Titiang meled malajah! 
+ * I want to learn. 
 ----------
  * **sabeh** :: rain (alus (refined))
  * Mangkin masan sabeh. 
  * Now it's the rainy season. 
 ----------
+ * **mataken** :: to ask (alus (refined))
+ * Titiang jagi mataken jebos. 
+ * I want to briefly ask something. 
+----------
  * **ngapidan** :: how long (alus (refined))
  * Ngapidan nika masan hujane? 
  * How long is the rainy season? 
+----------
+ * **saratang** :: to need, be important (alus (refined))
+ * Napi sane wenten saratang, Sari? 
+ * What is it that is important, Sari? 
 ----------
  * **panes** :: hot (alus (refined))
  * Ngapidan nika masan panese? 
  * How long is the hot season? 
 ----------
+ * **melajah** :: to learn, to study (biasa (common))
+ * Tiang lakar malajah yoga, Bli. 
+ * I want to learn yoga, older brother. 
+----------
  * **peluh** :: to sweat (biasa (common))
  * Masan panes ngae awake pesu peluh. 
  * The hot season makes the body sweat. 
+----------
+ * **nyen** :: who (biasa (common))
+ * Nyen adane? 
+ * What is your name? 
 ----------
  * **manyi** :: to harvest (alus (refined))
  * Masan napi nika becik anggen manyi? 
  * When is the right time to harvest? 
 ----------
+ * **kija** :: where (biasa (common))
+ * Lakar kija? 
+ * Where will you go? 
+----------
  * **ritatkala** :: when (alus (refined))
  * Becik nika manyi ritatkala masan dingin. 
  * It's time to harvest when it's the cool season. 
+----------
+ * **tiang** :: I (biasa (common))
+ * Tiang lakar ka Kuta. 
+ * I will go to Kuta. 
 ----------
  * **blabar** :: flood (biasa (common))
  * Tukade blabar nuju masan hujan. 
  * The river floods in the rainy season. 
 ----------
+ * **kabar** :: news (biasa (common))
+ * Kenken kebare? 
+ * How are you? 
+----------
  * **pantingan** :: laundry (biasa (common))
  * Masan hujan makelo ngetuhang pantingan. 
  * During the rainy season it takes a long time to dry laundry. 
+----------
+ * **luung** :: good (biasa (common))
+ * Luung sajaan. 
+ * Very good. 
 ----------
  * **balihin** :: to try (biasa (common))
  * Dadi balihin abedik. 
  * Please try a bit of it. 
 ----------
+ * **dija** :: where (biasa (common))
+ * Uli dija? 
+ * Where are you from? 
+----------
  * **mayah** :: to pay (biasa (common))
  * Tiang lakar mayah. 
  * I'd like to pay. 
+----------
+ * **uli** :: from (biasa (common))
+ * Tiang uli Amerika. 
+ * I'm from America. 
 ----------
  * **jaen** :: delicious (biasa (common))
  * Jaen sajaan jajane. 

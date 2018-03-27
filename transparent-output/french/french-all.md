@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -686,6 +686,10 @@
  * **l'humidité** :: humidity (noun)
  * Ce n'est pas la chaleur, c'est l'humidité. 
  * It's not the heat, it's the humidity. 
+----------
+ * **isoler** :: to insulate (verb)
+ * Le constructeur doit absolument avoir fini d'isoler la maison avant cet hiver. 
+ * The builder must absolutely have finished insulating the house before this winter. 
 ----------
  * **le complot** :: plot (noun)
  * Un nouveau complot visant le Président a été déjoué par les Renseignements Généraux. 

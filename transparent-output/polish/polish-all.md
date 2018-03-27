@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -686,6 +686,10 @@
  * **upiór** :: phantom (noun)
  * Znam "Upiora w Operze" na pamięć. 
  * I know "The Phantom of the Opera" by heart. 
+----------
+ * **ryba** :: fish (noun)
+ * Nie umie śpiewać, ale pływa jak ryba. 
+ * He can't sing, but he swims like a fish. 
 ----------
  * **koperta** :: envelope (noun)
  * Musisz dokładnie zakleić kopertę. 

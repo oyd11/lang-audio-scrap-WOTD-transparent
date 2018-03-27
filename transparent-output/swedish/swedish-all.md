@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 450 phrases 
+ 451 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -686,6 +686,10 @@
  * **att skynda sig** :: to hurry (verb)
  * Om vi inte skyndar oss, kommer vi att missa bussen. 
  * If we don't hurry, we'll miss the bus. 
+----------
+ * **varje år** :: every year (adverb)
+ * Vi åker till stranden varje år. 
+ * We visit the beach every year. 
 ----------
  * **Förlåt!** :: Sorry! (verb)
  * Hej allihopa! Förlåt att jag är sen. 
