@@ -1,6 +1,6 @@
 # balinese WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **ngeroko** :: to smoke (a cigarette) (biasa)
@@ -695,89 +695,177 @@
  * Jaen sajaan jajane. 
  * The cake is delicious. 
 ----------
+ * **nganten** :: married (biasa (common))
+ * Suba nganten? 
+ * Are you married? 
+----------
  * **jagi** :: to want to (alus (refined))
  * Napi jagi makarya niki? 
  * What do you want to do? 
+----------
+ * **suba** :: already (biasa (common))
+ * Tiang suba nganten. 
+ * I'm already married. 
 ----------
  * **masiram** :: to bathe (alus (refined))
  * Titiang jagi masiram. 
  * I want to bathe. 
 ----------
+ * **om** :: indeed (alus (refined))
+ * Om swastiastu. 
+ * Indeed may all be well. 
+----------
  * **maratengang** :: to cook (alus (refined))
  * Titiang jagi maratengang ajengan. 
  * I want to cook rice. 
+----------
+ * **majalan** :: to walk, travel (biasa (common))
+ * Lakar majalan? 
+ * Where are you traveling? 
 ----------
  * **muspa** :: to pray (alus (refined))
  * Titiang jagi muspa ring pura. 
  * I want to pray in the temple. 
 ----------
+ * **nganginang** :: towards the east (biasa (common))
+ * Majalan nganginang. 
+ * Going to the east. 
+----------
  * **matekap** :: to plow (biasa (common))
  * Titiang jagi matekap di carike. 
  * I want to plow the rice fields. 
+----------
+ * **ngelodang** :: towards the seaward (biasa (common))
+ * Majalan ngelodang. 
+ * Going to the sea. 
 ----------
  * **godoh** :: fried banana (biasa (common))
  * Titiang jagi ngajeng godoh. 
  * I want to eat fried banana. 
 ----------
+ * **ngajanang** :: towards the mountains (biasa (common))
+ * Majalan ngajanang. 
+ * Going to the mountains. 
+----------
  * **banten** :: offering (alus (refined))
  * Titiang jagi matanding banten. 
  * I want to put together an offering. 
+----------
+ * **nganggen** :: to use (alus (refined))
+ * Pacang nganggen taksi? 
+ * Do you want take a taxi? 
 ----------
  * **toya** :: water (alus (refined))
  * Titiang jagi nginum toya. 
  * I want to drink water. 
 ----------
+ * **ngauhang** :: towards the west (biasa (common))
+ * Majalan ngauhang. 
+ * Going to the west. 
+----------
  * **numbas** :: to buy (alus (refined))
  * Titiang jagi numbas woh-wohan. 
  * I want to buy fruits. 
+----------
+ * **nawang** :: to know (biasa (common))
+ * Ia sing nawang kangin-kauh. 
+ * He doesn't know the direction. 
 ----------
  * **nyait** :: to sew (biasa (common))
  * Titiang jagi nyait kebaya. 
  * I want to sew a blouse. 
 ----------
+ * **pura** :: temple (biasa (common))
+ * Tiang lakar ka Pura Besakih. 
+ * I am going to Besakih temple. 
+----------
  * **malukat** :: to purify (alus (refined))
  * Titiang jagi malukat. 
  * I want to be purfied with holy water. 
+----------
+ * **sekolah** :: school (biasa (common))
+ * Tiang lakar ka sekolah. 
+ * I am going to school. 
 ----------
  * **ngigel** :: to dance (alus (refined))
  * Titiang jagi malajah ngigel. 
  * I want to learn to dance. 
 ----------
+ * **tlaga** :: pond (biasa (common))
+ * Tiang lakar ka tlaga. 
+ * I am going to the pond. 
+----------
  * **mamargi** :: to go (alus (refined))
  * Titiang jagi mamargi ke pasar. 
  * I want to go to the market. 
+----------
+ * **peken** :: market (biasa (common))
+ * Tiang lakar ka peken. 
+ * I am going to the market. 
 ----------
  * **negakin** :: to drive or ride a vehicle (alus (refined))
  * Titiang jagi negakin motor. 
  * I want to drive a motorcycle. 
 ----------
+ * **gunung** :: mountain (biasa (common))
+ * Tiang lakar ka gunung. 
+ * I am going to the mountain. 
+----------
  * **ulam** :: fish (alus (refined))
  * Biang, wenten ulam tongkol? 
  * Madam, do you have any tuna? 
+----------
+ * **pamit** :: may (alus (refined))
+ * Titiang mapamit dumun, nggih? 
+ * May I be permitted to leave first? 
 ----------
  * **aukud** :: counting for a tailed animal (alus (refined))
  * Aji kuda aukud ulame, Biang? 
  * How much does one fish cost, Ma'am? 
 ----------
+ * **ongkos** :: fare (alus (refined))
+ * Maal nika nggih ongkos taksine? 
+ * Is the taxi fare expensive? 
+----------
  * **tali** :: thousand; string (alus (refined))
  * Limang tali nggih, Biang? 
  * How about five thousand, Ma'am? 
+----------
+ * **doh** :: far (alus (refined))
+ * Kari doh? 
+ * Is it still far away? 
 ----------
  * **kalih** :: two (alus (refined))
  * Biang, tiang numbas kalih ukud, nggih? 
  * May I buy two, Ma'am? 
 ----------
+ * **pesan** :: very (biasa (common))
+ * Joh pesan. 
+ * It's still very far. 
+----------
  * **anyar** :: new, fresh (alus (refined))
  * Ulam anyar wenten, Biang? 
  * Do you have fresh fish, Ma'am? 
+----------
+ * **lakar** :: will (biasa (common))
+ * Lakar kija jani? 
+ * Where will you go now? 
 ----------
  * **kuda** :: how much (alus (refined))
  * Aji kuda atanding, Biang? 
  * How much is one portion, Ma'am? 
 ----------
+ * **lunga** :: to go (alus (refined))
+ * Lunga kija? 
+ * Where are you going? 
+----------
  * **tanding** :: portion (alus (refined))
  * Napi icenin ja tigang tanding aji dasa tali, Biang? 
  * Can you give me 3 packages for 10,000 (rupiah)? 
+----------
+ * **ring** :: at (alus (refined))
+ * Ring dija kamar kecil? 
+ * Where is the bathroom? 
 ----------
  * **sareng** :: and (alus (refined))
  * Cumi sareng udang wenten, Biang? 

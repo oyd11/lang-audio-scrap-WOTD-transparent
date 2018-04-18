@@ -1,6 +1,6 @@
 # italian WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **semplicemente** :: simply (adverb)
@@ -695,89 +695,177 @@
  * Con le melanzane potete cucinare anche qualche peperone. 
  * With the eggplant you can also cook some peppers. 
 ----------
+ * **approfittare** :: to take advantage (verb)
+ * Ho approfittato dei saldi invernali per comprarmi un cappotto elegante. 
+ * I took advantage of the winter sales to buy a nice coat. 
+----------
  * **camminare** :: to walk (verb)
  * Se camminate più veloci arriviamo al rifugio per pranzo. 
  * If you walk faster we'll reach the cabin by lunchtime. 
+----------
+ * **Il cognome** :: last name (noun)
+ * Per favore, scriva il suo cognome accanto alla data di nascita. 
+ * Please write your last name beside your birth date. 
 ----------
  * **leggero** :: light (adjective)
  * La custodia in tessuto leggero protegge il gioiello dalla polvere. 
  * The light cloth casing protects the jewel from dust. 
 ----------
+ * **principale** :: main (adjective)
+ * Il problema principale di alcuni paesi è la mancanza d'acqua potabile. 
+ * In some countries, the main problem is the lack of drinkable water. 
+----------
  * **La macchia** :: stain (noun)
  * Le macchie di vino sono difficili da togliere. 
  * Wine stains are hard to remove. 
+----------
+ * **viaggiare** :: to travel (verb)
+ * Preferisco viaggiare in aereo piuttosto che in treno, e tu? 
+ * I prefer to travel by plane rather than by train, and you? 
 ----------
  * **cieco** :: blind (adjective)
  * Mio fratello non può guidare perché è quasi cieco. 
  * My brother can't drive because he's almost blind. 
 ----------
+ * **osare** :: to dare (verb)
+ * Ma come osa! Lei non può leggere la mia posta! 
+ * How dare you! You have no right to read my mail! 
+----------
  * **Il ginocchio** :: knee (noun)
  * In questo esercizio dovete piegare bene le ginocchia. 
  * In this exercise you must really bend your knees. 
+----------
+ * **La zanzara** :: mosquito (noun)
+ * Sono stato a passeggiare sul fiume, e le zanzare mi hanno punta dappertutto! 
+ * I went for a walk by the river, and the mosquitoes bit me all over! 
 ----------
  * **spiegare** :: to explain (verb)
  * Ora le spiego come funziona l'ADSL. 
  * Now I'll explain to you how the ADSL works. 
 ----------
+ * **accendere** :: to light (verb)
+ * Il ragazzo ha acceso il fuoco per cucinare le salsicce. 
+ * The boy lit the fire to roast the sausages. 
+----------
  * **colpire** :: to hit (verb)
  * Il sasso ha colpito Giovanni in testa. 
  * The stone hit Giovanni in the head. 
+----------
+ * **rumoroso** :: noisy (adjective)
+ * Quest'auto è molto rumorosa, secondo me c'è qualcosa che non va. 
+ * This car is very noisy, in my opinion there's something wrong with it. 
 ----------
  * **La sede** :: headquarters (noun)
  * La sede del partito è in Piazza Italia. 
  * The party headquarters are in Italia Square. 
 ----------
+ * **deludere** :: to disappoint (verb)
+ * La squadra ha deluso i suoi tifosi giocando scorrettamente. 
+ * The team disappointed its fans by playing dirty. 
+----------
  * **significare** :: to mean (verb)
  * Cosa significa la parola 'impasse'? 
  * What does the word 'impasse' mean? 
+----------
+ * **Il padrone** :: owner (noun)
+ * Il padrone del cane è responsabile del comportamento dell'animale. 
+ * The dog's owner is responsible for its behavior. 
 ----------
  * **tenere** :: to hold (verb)
  * Se lo tieni così stretto, l'uovo si rompe. 
  * If you hold it too tightly, the egg will break. 
 ----------
+ * **La battaglia** :: battle (noun)
+ * La città è impegnata in un'importante battaglia contro l'inquinamento. 
+ * The city is engaged in an important battle against pollution. 
+----------
  * **ambientale** :: environmental (adjective)
  * L'inquinamento ambientale è un problema mondiale. 
  * Environmental pollution is a world problem. 
+----------
+ * **impazzire** :: to go mad (verb)
+ * Le mucche impazziscono a causa di una malattia, il cosiddetto 'morbo della mucca pazza'. 
+ * The cows go mad because of a disease, the so-called 'mad-cow disease'. 
 ----------
  * **ammalarsi** :: to become sick (verb)
  * Le bimbe si sono ammalate il primo giorno di vacanza. 
  * The girls became sick the first day of vacation. 
 ----------
+ * **stendere** :: to hang out (verb)
+ * A chi tocca stendere il bucato questa settimana? 
+ * Whose turn is it to hang out the laundry this week? 
+----------
  * **distrattamente** :: absent-mindedly (adverb)
  * Non guidare distrattamente, è pericoloso! 
  * Do not drive absent-mindedly: it is dangerous! 
+----------
+ * **male** :: improperly (adverb)
+ * Attenzione! Se è montato male, il giocattolo non funziona. 
+ * Watch out! If it is set up improperly then the toy won't work. 
 ----------
  * **La cartolina** :: post-card (noun)
  * Buongiorno, vorrei spedire questa cartolina negli Stati Uniti. 
  * Hello, I would like to send this postcard to the United States. 
 ----------
+ * **cattivo** :: naughty (adjective)
+ * Qualche volta quel ragazzino è proprio cattivo. 
+ * Sometimes that little boy can be so naughty. 
+----------
  * **girare** :: to turn (verb)
  * Per arrivare al museo deve girare a sinistra al prossimo semaforo. 
  * To get to the museum you have to turn left at the next stoplight. 
+----------
+ * **accorgersi** :: to notice (verb)
+ * Non vi siete accorte che ho cambiato pettinatura? 
+ * Haven't you noticed that I changed my hairdo? 
 ----------
  * **libero** :: free (adjective)
  * Se stasera sei libera possiamo andare al cinema. 
  * If you are free tonight we can go to the movies. 
 ----------
+ * **indietro** :: behind (adverb)
+ * Sono indietro con i compiti; questo fine-settimana dovrò studiare. 
+ * I'm behind in my homework; I'll have to study this weekend. 
+----------
  * **agire** :: to act (verb)
  * La delegazione agisce per conto dell'associazione e ne tutela gli interessi. 
  * The delegation acts on behalf of the association and protects its interests. 
+----------
+ * **economico** :: cheap (adjective)
+ * Faccio sempre la spesa in questo negozio; è tutto molto economico. 
+ * I always shop in this store; everything is very cheap. 
 ----------
  * **sedersi** :: to sit (verb)
  * Gli ospiti d'onore si siederanno in prima fila. 
  * The guests of honor will sit in the front row. 
 ----------
+ * **appartenere** :: to belong (verb)
+ * Questo castello appartiene al principe Enrico e alla sua famiglia. 
+ * This castle belongs to Prince Henry and his family. 
+----------
  * **sparire** :: to disappear (verb)
  * I conigli sono spariti nel cappello del mago. 
  * The rabbits disappeared in the magician's hat. 
+----------
+ * **Lo zio** :: uncle (noun)
+ * Lo zio Attilio è emigrato in Francia. 
+ * Uncle Attilio emigrated to France. 
 ----------
  * **carico** :: charged (adjective)
  * Quando la batteria è carica, è possibile usare il cordless. 
  * When the battery is charged, it's possible to use the cordless phone. 
 ----------
+ * **pagare** :: to pay (verb)
+ * Secondo me questo vestito l'hai pagato troppo. 
+ * In my opinion, you paid too much for this dress. 
+----------
  * **prima** :: earlier (adverb)
  * Arriveremo a Napoli un giorno prima; per voi va bene? 
  * We will arrive in Naples a day earlier; does that work for you? 
+----------
+ * **facile** :: easy (adjective)
+ * I primi 20 esercizi sono i più facili; gli altri sono abbastanza difficili. 
+ * The first 20 exercises are the easiest ones; the others are pretty hard. 
 ----------
  * **addosso** :: on (adverb)
  * Mettiti addosso qualcosa di pesante; farà molto freddo. 

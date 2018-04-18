@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -695,89 +695,177 @@
  * Сойдите с моего газона. 
  * Get off my lawn. 
 ----------
+ * **секрет** :: secret (noun)
+ * Если я тебе расскажу, то это уже не будет секретом! 
+ * If I tell you, it won't be a secret anymore! 
+----------
  * **разрешение** :: permission (noun)
  * Проще просить прощения, чем добиваться разрешения. 
  * It's easier to ask forgiveness than permission. 
+----------
+ * **изменять** :: to change (verb)
+ * К лучшему или нет, но Интернет изменил нашу жизнь. 
+ * The internet has changed our lives, for good or bad. 
 ----------
  * **троюродная сестра** :: second cousin (phrase)
  * Мой сосед женился на своей троюродной сестре. 
  * My neighbor married her second cousin. 
 ----------
+ * **проблема** :: problem (noun)
+ * Сядь ровно! Плохая осанка приведёт к проблемам со спиной. 
+ * Sit up! Bad posture will lead to back problems later on. 
+----------
  * **заплетать** :: to braid (verb)
  * Ей особенно идёт, когда она заплетает волосы. 
  * Her hair looks really good when she braids it. 
+----------
+ * **идея** :: idea (noun)
+ * Я тебе могу назвать тысячу причин, почему это плохая идея. 
+ * I can give you a dozen reasons why this is a bad idea. 
 ----------
  * **завершать** :: to complete (verb)
  * Наконец-то я завершила этот проект. 
  * I finally completed this project. 
 ----------
+ * **торопиться** :: to hurry (verb)
+ * Если мы не поторопимся, то мы опоздаем на автобус. 
+ * If we don't hurry, we'll miss the bus. 
+----------
  * **пассажир** :: passenger (noun)
  * Пассажир в машине не получил никаких травм. 
  * The passenger of the vehicle was unharmed. 
+----------
+ * **Извините.** :: Sorry. (verb)
+ * Привет всем! Извините за опоздание. 
+ * Hi everyone! Sorry I'm late. 
 ----------
  * **сооружение** :: structure (noun)
  * Выставка включала несколько мобильных сооружений. 
  * The exhibit included several mobile structures. 
 ----------
+ * **обвинять** :: to blame (verb)
+ * Вы не можете обвинять других в своих проблемах. 
+ * You can't blame other people for your problems. 
+----------
  * **учебная пожарная тревога** :: fire drill (phrase)
  * Без паники! Это всего лишь учебная пожарная тревога. 
  * Don't panic! It's only a fire drill. 
+----------
+ * **солнце** :: sun (noun)
+ * Растениям нужна хорошая почва, солнце и регулярный полив. 
+ * Gardens need good soil, sun, and regular watering. 
 ----------
  * **щека** :: cheek (noun)
  * При встрече она меня поцеловала в обе щёки. 
  * When she saw me, she kissed me twice on the cheeks. 
 ----------
+ * **неделя** :: week (noun)
+ * Сколько недель продлится этот проект? 
+ * How many weeks does this project have to take? 
+----------
  * **страдать запорами** :: to be constipated (expression)
  * Пейте больше воды, если страдаете запорами. 
  * You have to drink a lot of water when you're constipated. 
+----------
+ * **большинство** :: majority (noun)
+ * Крикливое меньшинство обычно не представляет собой большинство. 
+ * The vocal minority do not represent the majority in most cases. 
 ----------
  * **брокколи** :: broccoli (noun)
  * Вы предпочитаете варить брокколи или готовить на пару? 
  * Do you prefer to boil broccoli or steam it? 
 ----------
+ * **повторять** :: to repeat (verb)
+ * Я не понимаю. Вы можете повторить? 
+ * I don't understand. Can you repeat that? 
+----------
  * **похитить** :: to abduct (verb)
  * Прошлой ночью мне приснилось, что меня похитили инопланетяне. 
  * Last night I dreamt I was being abducted by aliens. 
+----------
+ * **язык** :: language (noun)
+ * Как ты можешь таким языком говорить в этом доме? 
+ * How dare you use such language in this house? 
 ----------
  * **огнетушитель** :: fire extinguisher (noun)
  * Огнетушитель должен быть в каждой кухне. 
  * Every kitchen must be equipped with a fire extinguisher. 
 ----------
+ * **глагол** :: verb (noun)
+ * Глагол обозначает действие. 
+ * A verb is an action word. 
+----------
  * **скала** :: cliff (noun)
  * Во время нашей поездки в Англию мы посетили скалы Довера. 
  * During our trip around England we visited the cliffs of Dover. 
+----------
+ * **шапка** :: hat (noun)
+ * Это смешная шапка, но на тебе она хорошо смотрится! 
+ * It's a ridiculous hat, but you wear it well! 
 ----------
  * **роща** :: copse (noun)
  * Давайте передохнём вон в той роще. 
  * Let's take a rest next to that copse over there. 
 ----------
+ * **кислород** :: oxygen (noun)
+ * Кислород необходим для многих химических реакций. 
+ * Oxygen is essential for many chemical reactions. 
+----------
  * **звонить** :: to call (noun)
  * Позвони мне вечером, и мы решим, что делать. 
  * Call me tonight and we'll make plans. 
+----------
+ * **наблюдать** :: to observe (verb)
+ * Папа, я научилась этому, наблюдая за тобой! 
+ * I learned it from observing you, Dad! 
 ----------
  * **пропуск на посадку** :: boarding pass (phrase)
  * Пожалуйста, предъявите ваш пропуск на посадку у стойки. 
  * Please, have your boarding pass ready at the counter. 
 ----------
+ * **дети** :: kids (noun)
+ * Сейчас 10 часов. Вы знаете, где ваши дети? 
+ * It's 10 o'clock. Do you know where your kids are? 
+----------
  * **намёк** :: hint (noun)
  * Некоторые люди намёков не понимают. 
  * Some people just can't take a hint. 
+----------
+ * **прибыль** :: revenue (noun)
+ * Расходы увеличиваются, а прибыль падает. Что тут можно сделать? 
+ * Costs are up, revenue is down. What can you do? 
 ----------
  * **интерфейс** :: interface (noun)
  * У этой программы - отличный интерфейс пользователя. 
  * The program has a very nice user interface. 
 ----------
+ * **млекопитающее** :: mammal (noun)
+ * Киты и дельфины - млекопитающие. 
+ * Whales and dolphins are mammals. 
+----------
  * **високосный год** :: leap year (phrase)
  * Следующий год - високосный. 
  * Next year is a leap year. 
+----------
+ * **вода** :: water (noun)
+ * Большая часть земной поверхности покрыта водой. 
+ * The Earth is covered mostly by water. 
 ----------
  * **заголовок** :: headline (noun)
  * Ты видела утренние заголовки? 
  * Did you see the headlines this morning? 
 ----------
+ * **боязнь** :: fear (noun)
+ * Боязнь переездов или перемен называется метатесиофобия. 
+ * The fear of moving or making changes is called metathesiophobia. 
+----------
  * **понедельник** :: Monday (noun)
  * Для меня понедельник всегда день тяжёлый. 
  * Mondays are always tough for me. 
+----------
+ * **загадка** :: riddle (noun)
+ * Не беспокойся! Я знаю ответ на эту загадку. 
+ * Don't worry! I know the answer to this riddle. 
 ----------
  * **таять** :: to melt (verb)
  * Снег уже растаял. 

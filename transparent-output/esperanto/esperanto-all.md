@@ -1,6 +1,6 @@
 # esperanto WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **miraklo** :: miracle (noun)
@@ -695,89 +695,177 @@
  * La mandato havas senintencajn konsekvencojn. 
  * The mandate has unintentional consequences. 
 ----------
+ * **purigi** :: to launder (verb)
+ * Mi purigus miajn vestojn se mi havus deterganton. 
+ * I would launder my clothes if I had detergent. 
+----------
  * **senkonscia** :: unconscious (adjective)
  * Ambulanco prenis la senkonscian viron. 
  * An ambulance picked up the unconscious man. 
+----------
+ * **rajdi** :: to ride (verb)
+ * Li ĉiam rajdas sian biciklon al la laborejo. 
+ * He always rides his bicycle to work. 
 ----------
  * **senmova** :: stationary (adjective)
  * Mia ĉambro estis provizita per senmovan komodon. 
  * My room came with a stationary dresser. 
 ----------
+ * **rano** :: frog (noun)
+ * Ranoj estas ĉie sur la strato post pluvado. 
+ * Frogs are all over the road after it rains. 
+----------
  * **senpluveco** :: drought (noun)
  * Sen la pluvo, ni alfrontus senpluvecon. 
  * Without the rain, we face a drought. 
+----------
+ * **raŭpo** :: caterpillar (noun)
+ * Raŭpoj voris la foliojn de la arbo. 
+ * Caterpillars have devoured the leaves of the tree. 
 ----------
  * **ŝerco** :: joke (noun)
  * Ni aŭdis hieraŭ amuzan ŝercon . 
  * We heard a funny joke yesterday. 
 ----------
+ * **recenzi** :: to review (verb)
+ * Recenzu mian raporton, mi petas. 
+ * Will you review my report, please? 
+----------
  * **sezono** :: season (noun)
  * Ŝi sopiras la varmajn sezonojn. 
  * She cannot wait for the warm season. 
+----------
+ * **recepto** :: recipe (noun)
+ * Ĉu mi rajtas havi vian recepton pri torto? 
+ * May I have your pie recipe? 
 ----------
  * **silenta** :: silent (adjective)
  * Li vekiĝis en silenta vintra mateno. 
  * He awoke to a silent winter morning. 
 ----------
+ * **remburita** :: padded (adjective)
+ * La infanoj surhavas remburitajn jakojn. 
+ * The children wear padded jackets. 
+----------
  * **simpligi** :: to simplify (verb)
  * Ĉu vi povas simpligi la ĵargonon por mi? 
  * Could you please simplify the jargon for me? 
+----------
+ * **renovigi** :: to renew (verb)
+ * Ni reabonis pasintsemajne. 
+ * We renewed our subscription last week. 
 ----------
  * **sincera** :: sincere (adjective)
  * Ili ofertis siajn sincerajn pardonpetojn. 
  * They offered their sincere apologies. 
 ----------
+ * **rimarki** :: to remark (verb)
+ * Li rimarkis pri la beleco de la pentraĵo. 
+ * He remarked on the beauty of the painting. 
+----------
  * **koltuko** :: scarf (noun)
  * Li portos koltukon kiam neĝas. 
  * He will wear a scarf when it snows. 
+----------
+ * **riska** :: hazardous (adjective)
+ * Speciala skipo forprenis la danĝeran rubon. 
+ * A special crew removed the hazardous waste. 
 ----------
  * **ĵeti** :: to toss (verb)
  * Ŝi ĵetis la pilkon a ŝia hundo. 
  * She tossed the ball to her dog. 
 ----------
+ * **romaneto** :: novella (noun)
+ * Ĉu vi legis lian novan novelon? 
+ * Have you read his latest novella? 
+----------
  * **kukurbo** :: squash (noun)
  * Ŝi rifuzas manĝi kukurbon. 
  * She refuses to eat squash. 
+----------
+ * **rompita** :: broken (adjective)
+ * La forlasita domo havas rompitajn fenestrojn. 
+ * The abandoned house has broken windows. 
 ----------
  * **smeraldo** :: emerald (noun)
  * Ŝi surhavis multekostajn smeraldojn. 
  * She wore expensive emeralds. 
 ----------
+ * **rosti** :: to roast (verb)
+ * Ili rostos porkon por la festeno. 
+ * They will roast a pig for the celebration. 
+----------
  * **sobra** :: temperate (adjective)
  * Ĝuu la mildan veteron antaŭ ol la neĝo alvenas. 
  * Enjoy the temperate weather before the snow arrives. 
+----------
+ * **kradrostita** :: grilled (adjective)
+ * En la restoracio oni ofertas kradrostitan salmon. 
+ * They serve grilled salmon at the restaurant 
 ----------
  * **sodo** :: soda (noun)
  * Kian sodakvon vi ŝatus? 
  * What kind of soda would you like? 
 ----------
+ * **rozo** :: rose (noun)
+ * Ĉiu rozo havas siajn dornojn. 
+ * Every rose has its thorns. 
+----------
  * **solvi** :: to dissolve (verb)
  * Acido kapablas solvi la plejparton de materialojn. 
  * Acid can dissolve most materials. 
+----------
+ * **rubando** :: ribbon (noun)
+ * Flava rubando ligis la pakaĵon. 
+ * A yellow ribbon tied the package. 
 ----------
  * **ŝoveli** :: to shovel (verb)
  * Li ŝovelas la neĝon dum tuta mateno. 
  * He has been shoveling snow all morning. 
 ----------
+ * **rubekolo** :: robin (noun)
+ * Mi aŭdas rubekolojn kanti en la arboj. 
+ * I hear robins singing in the trees. 
+----------
  * **specimeno** :: sample (noun)
  * Ĉu vi dezirus senpagan specimenon? 
  * Would you like a free sample? 
+----------
+ * **rubeno** :: ruby (noun)
+ * La rubeno estas ŝia naskiĝoŝtono. 
+ * The ruby is her birthstone. 
 ----------
  * **stelo** :: star (noun)
  * Ni ne povas vidi la stelojn tra la nuboj. 
  * We cannot see the stars through the clouds. 
 ----------
+ * **ruĝa** :: red (adjective)
+ * Ŝi surhavis robon el ruĝa silko. 
+ * She wore a red silk dress. 
+----------
  * **ŝtormo** :: storm (noun)
  * La ŝtormo apenaŭ maltrafis nin. 
  * The storm narrowly missed us. 
+----------
+ * **sablo** :: sand (noun)
+ * Sablo ankoraŭ estas ĉie la tuta strato. 
+ * Sand still is all over the street. 
 ----------
  * **streĉa** :: tense (adjective)
  * Kelkaj streĉigaj momentoj pasis. 
  * Some tense moments passed. 
 ----------
+ * **ŝafido** :: lamb (noun)
+ * Ĉu vi vidas la ŝafidon en la paŝtejo? 
+ * Do you see the lamb in the pasture? 
+----------
  * **subĉiela** :: outdoor (adjective)
  * Ĉu vi vidis la novan subĉielan ekspozicion? 
  * Have you seen the new outdoor exhibit? 
+----------
+ * **salti** :: to leap (verb)
+ * La rano saltos, se vi proksimiĝos al ĝi. 
+ * The frog will leap if you approach it. 
 ----------
  * **subjektiva** :: subjective (adjective)
  * Iuj diras ke arto estas subjektiva. 

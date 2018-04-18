@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -695,89 +695,177 @@
  * Kıskançlık onun içini yiyip bitirdi. 
  * He is consumed with jealousy. 
 ----------
+ * **yağmurlama sistemi** :: sprinkler (noun)
+ * Yangın yayılmadı, çünkü yağmurlama sistemi aktifleşti. 
+ * The fire did not spread because the sprinklers were activated. 
+----------
  * **yenmek** :: to defeat (verb)
  * Arkadaşlarımız sayesinde düşmanlarımızı yendik. 
  * We defeated the enemies with the help of our friends. 
+----------
+ * **kayalık** :: cliff (noun)
+ * İngiltere'ye ziyaretimiz sırasında, Dover kayalıklarını ziyaret ettik. 
+ * During our trip around England we visited the cliffs of Dover. 
 ----------
  * **özlemek** :: to miss (verb)
  * Bahçem olmasını özledim. 
  * I miss having a garden. 
 ----------
+ * **aramak** :: to call (verb)
+ * Bu akşam beni ararsan bir plan yaparız. 
+ * If you call me tonight, we'll make plans then. 
+----------
  * **(-)mazsa** :: unless (conjunction)
  * Kitap okunmazsa uyumuyor. 
  * He won't go to sleep unless you read him a story. 
+----------
+ * **uçuş kartı** :: boarding pass (noun)
+ * Gişeye geldiğinizde, lütfen uçuş kartınız hazır olsun. 
+ * Please, have your boarding pass ready at the counter. 
 ----------
  * **özlem duymak** :: longing for (expression)
  * Yaşla birlikte nostalji ve daha sade günler için özlem gelir. 
  * With age comes nostalgia and a longing for simpler times. 
 ----------
+ * **ipucu vermek** :: to give a hint (verb)
+ * Bana çok güzel bir ipucu verdi. 
+ * He gave me a very good hint. 
+----------
  * **fısıldamak** :: to whisper (verb)
  * Rüzgarın ağaçlar arasından geçerken çıkan fısıltısını duymayı seviyorum. 
  * I love to hear the wind whisper through the trees. 
+----------
+ * **arayüz** :: interface (noun)
+ * Programın çok güzel bir kullanıcı arayüzü var. 
+ * The program has a very nice user interface. 
 ----------
  * **açıkta** :: in the open (expression)
  * Yıldızlar altında, açıkta uyuduk. 
  * We slept in the open, under the stars. 
 ----------
+ * **artık yıl** :: leap year (noun)
+ * Gelecek yıl, artık yıl olacak. 
+ * Next year is a leap year. 
+----------
  * **tanışma randevusu** :: blind date (noun)
  * Tanışma randevusu pek iyi geçmedi. 
  * His blind date didn't go so well. 
+----------
+ * **manşet** :: headline (noun)
+ * Bu sabah manşetleri gördün mü? 
+ * Did you see the headlines this morning? 
 ----------
  * **karmakarışık** :: mess (noun)
  * Hayatım karmakarışık ve ne yapacağımı bilmiyorum. 
  * My life is a mess and I don't know what to do. 
 ----------
+ * **Pazartesi** :: Monday (noun)
+ * Sende Pazartesi gününün mahmurluğu var! 
+ * Looks like someone has a case of the Mondays! 
+----------
  * **bulmaca** :: puzzle (noun)
  * Bulmaca çözmek çok iyi bir zihin egzersizidir. 
  * Solving puzzles is a good mental exercise. 
+----------
+ * **erimek** :: to melt (verb)
+ * Kış mevsiminin karları çoktan eridi. 
+ * The winter snow has already melted. 
 ----------
  * **yoksunluk** :: lack of (expression)
  * Kadınlar konusunda sağ duyudan yoksun. 
  * He lacks common sense when it comes to women. 
 ----------
+ * **taslak** :: draft (noun)
+ * İlk taslak yarına hazır olacak. 
+ * The first draft will be ready by tomorrow. 
+----------
  * **gösteriş yapmak** :: to show off (verb)
  * Sadece arkadaşlarına gösteriş yapmak için bunu yaptı. 
  * He did it just to show off in front of his friends. 
+----------
+ * **örümcek** :: spider (noun)
+ * Banyo küvetinde bir örümcek var! En azından tertemiz olur. 
+ * There is a spider in the bathtub! At least he'll be clean. 
 ----------
  * **farkına varmak** :: to notice (verb)
  * Kurtların yaklaşmakta olduklarının farkına varamadım. 
  * I failed to notice the approaching pack of wolves. 
 ----------
+ * **buzunu çözmek** :: to thaw (verb)
+ * Hindiyi fırına atmadan önce, buzunu çözmeniz gerek. 
+ * You have to thaw the turkey before putting it in the oven. 
+----------
  * **mutlu** :: happy (adjective)
  * Mutlu musun? 
  * Are you happy? 
+----------
+ * **yelkenli tekne** :: sailboat (noun)
+ * Yelkenli tekneler, suyun üzerinde hareket etmek için rüzgar gücünden yararlanırlar. 
+ * Sailboats use wind to move on the water. 
 ----------
  * **müzik akademisi** :: music academy (noun)
  * Viyana'daki müzik akademisinde okudu. 
  * He studied at the music academy in Vienna. 
 ----------
+ * **aynı fikirde olmak** :: to agree (verb)
+ * Bu konuda sizinle aynı fikirdeyim. 
+ * I agree with you on that issue. 
+----------
  * **sera** :: greenhouse (noun)
  * Bilimadamları Sera Etkisi hakkında endişeleniyorlar. 
  * Scientists worry about the Greenhouse Effect. 
+----------
+ * **rastgele** :: at random (expression)
+ * Rastgele bir koltuk seçtik. 
+ * We chose a seat at random. 
 ----------
  * **teşebbüs** :: attempt (noun)
  * Dünya rekorunu kırma teşebbüsünde başarısız oldu. 
  * He failed in his attempt to beat the world record. 
 ----------
+ * **gücendirmek** :: to offend (verb)
+ * Sizi gücendirmek istemedim. 
+ * I didn't mean to offend you. 
+----------
  * **tartışma** :: argument (noun)
  * Para hakkında tartıştık. 
  * We had an argument about money. 
+----------
+ * **otomobil bayii** :: car dealership (noun)
+ * Aradığım model, yerel otomobil bayiinde yok. 
+ * My local car dealership doesn't have the model I'm looking for. 
 ----------
  * **gündem** :: agenda (noun)
  * Gündemdeki altıncı madde çok ilginç görünüyor. 
  * The sixth item on the agenda looks very interesting. 
 ----------
+ * **keçi sakal** :: goatee (noun)
+ * Keçi sakalıyla biraz uğursuz görünüyor. 
+ * He looks kind of sinister with a goatee. 
+----------
  * **fikir vermek** :: to advise (verb)
  * Doktor, bebeğine nasıl bakacağı hakkında fikir verdi. 
  * The doctor advised her how to take care of her baby. 
+----------
+ * **ceset** :: corpse (noun)
+ * Polis olay yerinde iki ceset buldu. 
+ * The police found two corpses at the scene of the crime. 
 ----------
  * **kitap** :: book (noun)
  * Bu kitabın adı "Yaklaşan Fırtına". 
  * This book's title is "The Gathering Storm". 
 ----------
+ * **seçmek** :: to select (verb)
+ * Ana menüden, "seçenekler"i seçin. 
+ * From the main menu, select "options". 
+----------
  * **tanıtmak** :: to introduce (verb)
  * Bir sonraki konuşmacımız Bay Jordan Chase'i tanıtmak istiyorum. 
  * I'd like to introduce our next speaker, Mr. Jordan Chase. 
+----------
+ * **kötü şans** :: bad luck (expression)
+ * Eğer kötü şans da olmasaydı, hiç şansım olmazdı! 
+ * If it weren't for bad luck, I'd have no luck at all! 
 ----------
  * **sefil** :: destitute (adjective)
  * Nüfusun çoğu sefil. 

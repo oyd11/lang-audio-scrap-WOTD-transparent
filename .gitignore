@@ -8,6 +8,7 @@ inno-download/
 transparent-sound/
 transparent-playlists/
 
+*.log
 *.sw?
 *.mp3
 *.wav

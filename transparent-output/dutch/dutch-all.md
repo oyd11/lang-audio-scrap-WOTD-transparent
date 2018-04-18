@@ -1,6 +1,6 @@
 # dutch WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **het dak** :: roof (noun)
@@ -695,89 +695,177 @@
  * Probeer niet gek te worden, maar ik heb net al ons spaargeld verloren met poker. 
  * Don't freak out, but I just lost our entire savings in a poker game. 
 ----------
+ * **ongewenst** :: unwanted (adjective)
+ * We zaten de hele avond opgescheept met een ongewenste gast. 
+ * We were stuck all evening with an unwanted guest. 
+----------
  * **de vervaldatum** :: expiration date (expression)
  * De vervaldatum van deze melk is al erg lang voorbij! 
  * This milk's expiration date has come and gone! 
+----------
+ * **tastbaar** :: tangible (adjective)
+ * Ik wil geen droomman; ik wil een tastbare man! 
+ * I don't want a dream guy; I want a tangible guy! 
 ----------
  * **hapjes** :: snack (noun)
  * Tijdens de pauze werden hapjes geserveerd. 
  * During the break, snacks were served. 
 ----------
+ * **sprakeloos** :: speechless (adjective)
+ * De sprakeloze leraar wist niets meer uit te brengen. 
+ * The speechless teacher couldn't utter a single word. 
+----------
  * **het kindermeisje** :: nanny (noun)
  * Gezocht: een kindermeisje voor twee kinderen. 
  * Wanted: nanny for two kids. 
+----------
+ * **tjokvol** :: chock-full (adjective)
+ * De vuilnisbak zat tjokvol met afval. 
+ * The trash can was chock-full with garbage. 
 ----------
  * **van begin tot eind** :: from beginning to end (expression)
  * Ik heb het twee keer van begin tot eind gelezen. 
  * I read it twice from beginning to end. 
 ----------
+ * **ordelijk** :: neat (adjective)
+ * Ik werk graag aan een ordelijk bureau. 
+ * I like to work at a neat desk. 
+----------
  * **opnieuw beginnen** :: to start from scratch (expression)
  * Het huis uit gaan is net alsof je opnieuw begint. 
  * Moving out is like starting from scratch. 
+----------
+ * **heftig** :: passionate (adjective)
+ * Hij verklaarde haar zijn liefde met heftige bewoordingen. 
+ * He declared to her his love with passionate words. 
 ----------
  * **de waarzegger** :: fortune teller (noun)
  * De waarzegger heeft jouw succes voorspeld. 
  * The fortune teller predicted your success. 
 ----------
+ * **loom** :: lazy (adjective)
+ * De lome kat lag lekker in het zonnetje te luieren. 
+ * The lazy cat was catching a few rays of sun. 
+----------
  * **inktzwart** :: inky (adjective)
  * De inktzwarte nacht had geen sterren. 
  * The inky night sky had no stars. 
+----------
+ * **stijf** :: stiff (adjective)
+ * Met een stijf gebaar werd ik naar binnen geleid. 
+ * With a stiff gesture, I was invited inside. 
 ----------
  * **de belediging** :: insult (noun)
  * Ik accepteer deze belediging niet! 
  * I will not tolerate this insult! 
 ----------
+ * **versierd** :: decorated (adjective)
+ * Haar huis is, zoals altijd, mooi versierd. 
+ * Her house is, as usual, very well decorated. 
+----------
  * **interesseren** :: to interest (verb)
  * Ik ben geïnteresseerd in het leren van talen. 
  * Language studies interest me. 
+----------
+ * **nodig hebben** :: to need (verb)
+ * Je hebt een grotere boot nodig. 
+ * You're going to need a bigger boat. 
 ----------
  * **ieder jaar** :: every year (adjective)
  * We gaan ieder jaar naar het strand. 
  * We visit the beach every year. 
 ----------
+ * **de junkmailmap** :: junk mail folder (expression)
+ * Misschien is het e-mailbericht per ongeluk in je junkmailmap terecht gekomen. 
+ * The email may have accidentally gone into your junk mail folder. 
+----------
  * **gooien** :: to throw (verb)
  * Hij gooide een sneeuwbal naar me. 
  * He threw a snowball at me. 
+----------
+ * **blokkeren** :: to block (verb)
+ * Waarom heb je me geblokkeerd op Twitter, vriend? 
+ * Why'd you block me on Twitter, friend? 
 ----------
  * **de jury** :: jury (noun)
  * Na lang overleg heeft de jury een winnaar aangewezen. 
  * The jury declared a winner after long deliberations. 
 ----------
+ * **het geduld** :: patience (noun)
+ * Geduld is een schone zaak. 
+ * Patience is a virtue. 
+----------
  * **tellen** :: to count (verb)
  * Kun je alle snoepjes in de pot tellen? 
  * Can you count all the jellybeans in that jar? 
+----------
+ * **wagen** :: to venture (verb)
+ * Wie niet waagt, die niet wint. 
+ * Nothing ventured, nothing gained. 
 ----------
  * **de haard** :: hearth (noun)
  * We zaten bij de haard van onze thee te drinken. 
  * We sat near the hearth sipping tea. 
 ----------
+ * **leren** :: to study (verb)
+ * Ik ben de hele nacht opgebleven om voor dit examen te leren. 
+ * I've been up all night studying for this test. 
+----------
  * **de helm** :: helmet (noun)
  * Draag je helm als je fietst. 
  * Wear your helmet when you ride your bike. 
+----------
+ * **de hoofdpijn** :: headache (expression)
+ * Ik krijg echt hoofdpijn van de file op weg naar huis. 
+ * The traffic congestion on my way home gives me a real headache. 
 ----------
  * **de kelder** :: cellar (noun)
  * Ze hebben een indrukwekkende wijnkelder met klimaatbeheersing. 
  * They have an impressive climate-controlled wine cellar. 
 ----------
+ * **de ui** :: onion (noun)
+ * Ik heb een hekel aan rauwe ui in salades of op een broodje! 
+ * I hate raw onion in salads and sandwiches! 
+----------
  * **de doos** :: box (noun)
  * Laten we eens kijken wat er in de doos zit. Niets! Helemaal niets! 
  * Now let's see what's in the box. Nothing! Absolutely nothing! 
+----------
+ * **frietjes** :: fries (expression)
+ * Wil je er een portie frietjes bij? 
+ * Do you want fries with that? 
 ----------
  * **de clown** :: clown (noun)
  * Niets is zo verdrietig als de tranen van een clown. 
  * Nothing is sadder than the tears of a clown. 
 ----------
+ * **het strand** :: beach (noun)
+ * Zij en ik gaan morgen naar het strand. 
+ * She and I will go to the beach tomorrow. 
+----------
  * **de airconditioner** :: air conditioner (noun)
  * Zet alsjeblieft de airconditioner aan. 
  * Turn on the air conditioner, please. 
+----------
+ * **de haas** :: hare (noun)
+ * Mijn naam is haas, ik weet van niets. 
+ * My name is hare; I know nothing. 
 ----------
  * **het gehakt** :: ground meat (noun)
  * Ik heb een half pond gehakt nodig. 
  * I need half a pound of ground meat. 
 ----------
+ * **wandelen** :: to hike (verb)
+ * Zullen we in het bos gaan wandelen? 
+ * Do you want to hike through the woods? 
+----------
  * **een slecht humeur hebben** :: to be in a bad mood (expression)
  * Zeg maar niets tegen hem. Hij heeft een slecht humeur. 
  * Don't talk to him. He's in a bad mood. 
+----------
+ * **de wiskunde** :: mathematics (noun)
+ * Ik haal nooit goede cijfers voor wiskunde. 
+ * I never received good grades in mathematics. 
 ----------
  * **een beetje** :: a little bit (expression)
  * Deze soep kan wel een beetje zout gebruiken. 

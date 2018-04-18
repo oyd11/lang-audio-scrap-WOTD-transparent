@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -699,9 +699,21 @@
  * زما ترخه قهوه نه خوښيږي، زه ترجیح ورکوم چی پکې لږه بوره وي. 
  * I don't like bitter coffee, I prefer it with a bit of sugar. 
 ----------
+ * **ترخه** :: bitter (adjective)
+ * زما ترخه قهوه نه خوښيږي، زه ترجیح ورکوم چی پکې لږه بوره وي. 
+ * I don't like bitter coffee, I prefer it with a bit of sugar. 
+----------
  * **تېرېدل** :: to dispense with (expression)
  * راځه چې د غیر ضروري جزیاتو نه تېر شو. 
  * Let's dispense with the unnecessary details. 
+----------
+ * **تېرېدل** :: to dispense with (expression)
+ * راځه چې د غیر ضروري جزیاتو نه تېر شو. 
+ * Let's dispense with the unnecessary details. 
+----------
+ * **مارکر** :: marker (noun)
+ * زه نارنجي مارکر غواړم. 
+ * I want the orange marker. 
 ----------
  * **مارکر** :: marker (noun)
  * زه نارنجي مارکر غواړم. 
@@ -711,9 +723,21 @@
  * سطل چېرته دی؟ 
  * Where is the bucket? 
 ----------
+ * **سطل** :: bucket (noun)
+ * سطل چېرته دی؟ 
+ * Where is the bucket? 
+----------
  * **سپی** :: dog (noun)
  * ولې ته خپل سپی کوټي کې نه پرېږدې؟ 
  * Why don't you let your dog inside the room? 
+----------
+ * **سپی** :: dog (noun)
+ * ولې ته خپل سپی کوټي کې نه پرېږدې؟ 
+ * Why don't you let your dog inside the room? 
+----------
+ * **ولي** :: saint (noun)
+ * زه ولي نه یم. 
+ * I'm not a saint. 
 ----------
  * **ولي** :: saint (noun)
  * زه ولي نه یم. 
@@ -723,9 +747,21 @@
  * دا پته ماته نامعلومه ده. 
  * This address is unknown to me. 
 ----------
+ * **نامعلوم** :: unknown (adjective)
+ * دا پته ماته نامعلومه ده. 
+ * This address is unknown to me. 
+----------
  * **ملاتړ کول** :: support (noun)
  * ستا د ملاتړ څخه مننه. 
  * Thanks for your support. 
+----------
+ * **ملاتړ کول** :: support (noun)
+ * ستا د ملاتړ څخه مننه. 
+ * Thanks for your support. 
+----------
+ * **ټوټه** :: piece (noun)
+ * زه یو ټوټه کاغذ غواړم. 
+ * I want a piece of paper. 
 ----------
  * **ټوټه** :: piece (noun)
  * زه یو ټوټه کاغذ غواړم. 
@@ -735,9 +771,21 @@
  * زه اول نه پوهېدم چې څه ووایم. 
  * At first I didn't know what to say. 
 ----------
+ * **اول** :: at first (expression)
+ * زه اول نه پوهېدم چې څه ووایم. 
+ * At first I didn't know what to say. 
+----------
  * **کمی** :: shortage (noun)
  * په اروپا کې د کورونو کمی دی. 
  * In Europe, there is a housing shortage. 
+----------
+ * **کمی** :: shortage (noun)
+ * په اروپا کې د کورونو کمی دی. 
+ * In Europe, there is a housing shortage. 
+----------
+ * **په پای کې** :: in the end (expression)
+ * په پای کې ما ومنله چې هغه په حقه وو. 
+ * In the end I had to admit that he was right. 
 ----------
  * **په پای کې** :: in the end (expression)
  * په پای کې ما ومنله چې هغه په حقه وو. 
@@ -747,9 +795,21 @@
  * هغه ماته د ګلونو غنچه وړاندې کړه. 
  * He offered me a bunch of flowers. 
 ----------
+ * **ګل** :: flower (noun)
+ * هغه ماته د ګلونو غنچه وړاندې کړه. 
+ * He offered me a bunch of flowers. 
+----------
  * **تر اوسه** :: yet (adverb)
  * هغه تر اوسه نه ده تللې. 
  * She hasn't gone yet. 
+----------
+ * **تر اوسه** :: yet (adverb)
+ * هغه تر اوسه نه ده تللې. 
+ * She hasn't gone yet. 
+----------
+ * **کالي** :: clothing (noun)
+ * دغه خیرنې جامې وباسه. 
+ * Take those dirty clothes off! 
 ----------
  * **کالي** :: clothing (noun)
  * دغه خیرنې جامې وباسه. 
@@ -759,9 +819,21 @@
  * لمبو د مخفی نوټونو نښې په څو ثانیو کې له منځه یوړې. 
  * The flames destroyed all traces of the secret note in seconds. 
 ----------
+ * **لمبه** :: flame (noun)
+ * لمبو د مخفی نوټونو نښې په څو ثانیو کې له منځه یوړې. 
+ * The flames destroyed all traces of the secret note in seconds. 
+----------
  * **مخالف** :: against (preposition)
  * زه د دې نظرېې مخالف یم. 
  * I am against this idea. 
+----------
+ * **مخالف** :: against (preposition)
+ * زه د دې نظرېې مخالف یم. 
+ * I am against this idea. 
+----------
+ * **رڼا** :: light (noun)
+ * د ورځې په رڼا کې به مونږ هرڅه بل شان ووینو. 
+ * We'll see things differently in the cold light of day. 
 ----------
  * **رڼا** :: light (noun)
  * د ورځې په رڼا کې به مونږ هرڅه بل شان ووینو. 
@@ -771,6 +843,14 @@
  * زه به هغه ته داسې وړاندیز وکړم چې هغه ونه شي کولاي رد یې کړي. 
  * I'm going to make him an offer he can't refuse. 
 ----------
+ * **وړاندیز** :: offer (noun)
+ * زه به هغه ته داسې وړاندیز وکړم چې هغه ونه شي کولاي رد یې کړي. 
+ * I'm going to make him an offer he can't refuse. 
+----------
+ * **پای** :: end (noun)
+ * دې الفاظو د درې کلونو شخړو ته د پای ټکې کښود. 
+ * These words brought three years of conflict to an end. 
+----------
  * **پای** :: end (noun)
  * دې الفاظو د درې کلونو شخړو ته د پای ټکې کښود. 
  * These words brought three years of conflict to an end. 
@@ -778,6 +858,14 @@
  * **واده کول** :: to marry, get married (verb)
  * کله واده کوې؟ 
  * When are you getting married? 
+----------
+ * **واده کول** :: to marry, get married (verb)
+ * کله واده کوې؟ 
+ * When are you getting married? 
+----------
+ * **مینه** :: love (noun)
+ * هغه د مینې لپاره دا کار وکړ. 
+ * He did it for love. 
 ----------
  * **مینه** :: love (noun)
  * هغه د مینې لپاره دا کار وکړ. 

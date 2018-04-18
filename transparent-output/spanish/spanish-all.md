@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -695,89 +695,177 @@
  * La exposición contenía varias estructuras móviles. 
  * The exhibit included several mobile structures. 
 ----------
+ * **barato** :: inexpensive (adjective)
+ * Este recuerdo es barato. 
+ * This souvenir is inexpensive. 
+----------
  * **el simulacro de incendio** :: fire drill (noun)
  * Que no cunda el pánico, sólo es un simulacro de incendio. 
  * Don't panic, it's only a fire drill. 
+----------
+ * **La Pascua** :: Easter (noun)
+ * Muchas personas celebran la Pascua. 
+ * Many people celebrate Easter. 
 ----------
  * **el moflete** :: cheek (noun)
  * Cuando me vio me dio dos besos en los mofletes. 
  * When she saw me, she kissed me twice on the cheeks. 
 ----------
+ * **recoger** :: to pick up (verb)
+ * Tú necesitas recoger todos los papeles, por favor. 
+ * You need to pick up all of the papers, please. 
+----------
  * **estar estreñido** :: to be constipated (expression)
  * Cuando estás estreñido tienes que beber mucha agua. 
  * You have to drink a lot of water when you're constipated. 
+----------
+ * **caro** :: expensive (adjective)
+ * Él maneja un carro muy caro. 
+ * He drives an expensive car. 
 ----------
  * **la alcachofa** :: artichoke (noun)
  * El arroz con pollo está más rico si le añades corazones de alcachofa. 
  * Chicken and rice tastes better if you add in some artichoke hearts. 
 ----------
+ * **la misa** :: Mass (noun)
+ * Los domingos ellos van a misa. 
+ * On Sundays they go to Mass. 
+----------
  * **el brécol** :: broccoli (noun)
  * ¿Prefieres el brécol hervido o al vapor? 
  * Do you prefer to boil broccoli or steam it? 
+----------
+ * **decir** :: to say (verb)
+ * Tú siempre dices las cosas correctas. 
+ * You always say the right things. 
 ----------
  * **abducir** :: to abduct (verb)
  * Anoche soñé que era abducido por extraterrestres. 
  * Last night I dreamt I was being abducted by aliens. 
 ----------
+ * **peludo** :: hairy (adjective)
+ * El esposo de ella es muy peludo. 
+ * Her husband is very hairy. 
+----------
  * **el aspersor** :: sprinkler (noun)
  * El incendio no se propagó porque saltaron los aspersores. 
  * The fire did not spread because the sprinklers were activated. 
+----------
+ * **el conejo** :: rabbit (noun)
+ * El conejo corre rápido. 
+ * The rabbit runs quickly. 
 ----------
  * **el acantilado** :: cliff (noun)
  * Durante nuestro viaje a Inglaterra visitamos los acantilados de Dover. 
  * During our trip around England we visited the cliffs of Dover. 
 ----------
+ * **oír** :: to hear (verb)
+ * Yo no oigo la música bien. 
+ * I'm not hearing the music well. 
+----------
  * **alegrarle el día a alguien** :: to make someone's day (expression)
  * Vamos, alégrame el día. 
  * Go ahead, make my day. 
+----------
+ * **verdadero** :: true (adjective)
+ * Ella es mi madre verdadera. 
+ * She is my true mother. 
 ----------
  * **la prejubilación** :: early retirement (noun)
  * La empresa ofreció la prejubilación a los empleados más veteranos. 
  * The company offered early retirement to the longest-serving employees. 
 ----------
+ * **el cesto** :: basket (noun)
+ * Nosotros usamos el cesto para el picnic. 
+ * We use the basket for the picnic. 
+----------
  * **la arboleda** :: copse (noun)
  * Vamos a descansar junto a aquella arboleda. 
  * Let's take a rest next to that copse over there. 
+----------
+ * **aburrido** :: boring (adjective)
+ * La clase es bastante aburrida. 
+ * The class is rather boring. 
 ----------
  * **la llamada** :: call (noun)
  * ¿Tienes suelto para hacer una llamada? 
  * Do you have any change to make a phone call? 
 ----------
+ * **el charco** :: puddle (noun)
+ * Hay un charco grande delante de la casa. 
+ * There is a big puddle in front of the house. 
+----------
  * **la tarjeta de embarque** :: boarding pass (expression)
  * Por favor, enseñen su tarjeta de embarque en el mostrador. 
  * Please, have your boarding pass ready at the counter. 
+----------
+ * **pagar** :: to pay (verb)
+ * Mi padre paga la cuenta. 
+ * My father is paying the bill. 
 ----------
  * **la indirecta** :: hint (noun)
  * Mi amigo me soltó una indirecta porque no lo había invitado a la fiesta. 
  * My friend dropped a hint because he hadn't been invited to the party. 
 ----------
+ * **extranjero** :: foreign (adjective)
+ * Yo quiero visitar un país extranjero. 
+ * I want to visit a foreign country. 
+----------
  * **la interfaz** :: interface (noun)
  * El programa tiene una interfaz muy atractiva. 
  * The program has a very attractive user interface. 
+----------
+ * **el pato** :: duck (noun)
+ * Yo veo varios patos en el lago. 
+ * I see several ducks in the lake. 
 ----------
  * **el año bisiesto** :: leap year (expression)
  * El año que viene es bisiesto. 
  * Next year is a leap year. 
 ----------
+ * **ganar** :: to win (verb)
+ * Cuando nosotros jugamos a las cartas, tú siempre ganas. 
+ * When we play cards, you always win. 
+----------
  * **el titular** :: headline (noun)
  * ¿Has leído los titulares de esta mañana? 
  * Have you read the headlines this morning? 
+----------
+ * **cuidadoso** :: careful (adjective)
+ * Mi padre es muy cuidadoso con la electricidad. 
+ * My father is careful with the electricity. 
 ----------
  * **el lunes** :: Monday (noun)
  * ¡Parece que a alguien le ha afectado el lunes! 
  * Looks like someone has a case of the Mondays! 
 ----------
+ * **el avión** :: airplane (noun)
+ * Nosotros tomamos un avión para ir a Florida. 
+ * We're taking an airplane to Florida. 
+----------
  * **derretirse** :: to melt (verb)
  * Las nieves del invierno ya se han derretido. 
  * The winter snow has already melted. 
+----------
+ * **listo** :: clever (adjective)
+ * El detective es muy listo. 
+ * The detective is very clever. 
 ----------
  * **el borrador** :: draft (noun)
  * El primer borrador estará listo mañana. 
  * The first draft will be ready by tomorrow. 
 ----------
+ * **la hierba** :: grass (noun)
+ * La hierba es verde. 
+ * Grass is green. 
+----------
  * **el ciempiés** :: centipede (noun)
  * ¡Hay un ciempiés en la bañera! 
  * There is a centipede in the bathtub! 
+----------
+ * **cortar** :: to cut (verb)
+ * Yo tengo que cortar la tela. 
+ * I have to cut the fabric. 
 ----------
  * **descongelar** :: to defrost (verb)
  * Tienes que descongelar el pavo antes de meterlo en el horno. 

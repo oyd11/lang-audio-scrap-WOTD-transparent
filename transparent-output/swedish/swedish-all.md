@@ -1,6 +1,6 @@
 # swedish WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **(en) huvudsvål** :: scalp (expression)
@@ -695,89 +695,177 @@
  * Hej allihopa! Förlåt att jag är sen. 
  * Hi everyone! Sorry I'm late. 
 ----------
+ * **att kasta** :: to throw (verb)
+ * Han kastade en snöboll på mig. 
+ * He threw a snowball at me. 
+----------
  * **att skylla på** :: to blame (verb)
  * Du kan inte skylla dina problem på andra. 
  * You can't blame other people for your problems. 
+----------
+ * **(en) jury** :: jury (noun)
+ * Har juryn kommit fram till någon dom? 
+ * Has the jury reached a verdict? 
 ----------
  * **(en) sol** :: sun (noun)
  * Trädgårdar behöver bra jordmån, sol, och regelbunden vattning. 
  * Gardens need good soil, sun, and regular watering. 
 ----------
+ * **att räkna** :: to count (verb)
+ * Han kan räkna till etthundra på koreanska. 
+ * He can count to 100 in Korean. 
+----------
  * **(en) vecka** :: week (noun)
  * Hur många veckor ska det här projektet ta? 
  * How many weeks does this project have to take? 
+----------
+ * **(en) eldstad** :: hearth (noun)
+ * Vi satt vid eldstaden och smuttade på vårt te. 
+ * We sat by the hearth sipping our tea. 
 ----------
  * **(en) majoritet** :: majority (noun)
  * Den högröstade minoriteten representerar inte majoriteten i de flesta fallen. 
  * The vocal minority do not represent the majority in most cases. 
 ----------
+ * **(en) hjälm** :: helmet (noun)
+ * Använd hjälm när du cyklar. 
+ * Wear your helmet when you ride your bike. 
+----------
  * **att upprepa** :: to repeat (verb)
  * Jag förstår inte. Kan du upprepa det? 
  * I don't understand. Can you repeat that? 
+----------
+ * **(en) källare** :: cellar (noun)
+ * Vi har prinsesstårta i källaren. 
+ * We have princess cake in the cellar. 
 ----------
  * **(ett) språk** :: language (noun)
  * Hur vågar du använda sådant språk i det här huset?! 
  * How dare you use such language in this house?! 
 ----------
+ * **(en) låda** :: box (noun)
+ * Låt oss nu se vad som finns i lådan. Ingenting! Absolut ingenting! 
+ * Now let's see what's in the box. Nothing! Absolutely nothing! 
+----------
  * **(ett) verb** :: verb (noun)
  * Ett verb är ett ord som uttrycker en handling eller ett skeende. 
  * A verb is an word that expresses action or occurrence. 
+----------
+ * **(en) pajas** :: clown (noun)
+ * Ingenting är sorgligare än en clowns tårar. 
+ * Nothing is sadder than the tears of a clown. 
 ----------
  * **att ha på sig** :: to wear (verb)
  * Vad fan har du på dig?! 
  * What the heck are you wearing?! 
 ----------
+ * **köttfärs** :: ground meat (noun)
+ * Jag behöver tvåhundra gram (200g) köttfärs. 
+ * I need half a pound (200 g) of ground meat. 
+----------
  * **(ett) syre** :: oxygen (noun)
  * På höga höjder finns det mindre syre i luften. 
  * At high elevations, there is less oxygen in the air. 
+----------
+ * **(ett) godis** :: candy (noun)
+ * Min storasyster tog hem godis till oss. 
+ * My big sister brought us candy. 
 ----------
  * **att kolla** :: to watch (verb)
  * Jag lärde mig det genom att kolla på dig, Pappa! 
  * I learned it from watching you, Dad! 
 ----------
+ * **att vara på dåligt humör** :: to be in a bad mood (expression)
+ * Prata inte med honom. Han är på dåligt humör. 
+ * Don't talk to him. He's in a bad mood. 
+----------
  * **(ett) barn** :: kids (noun)
  * Klockan är tio. Vet du var dina barn är? 
  * It's 10 o'clock. Do you know where your kids are? 
+----------
+ * **lite** :: a little bit (adverb)
+ * Den här soppan behöver lite salt. 
+ * This soup could use a little bit of salt. 
 ----------
  * **(en) intäkt** :: revenue (noun)
  * Kostnaderna är höga och intäkterna låga. Vad kan man göra? 
  * Costs are up, revenue is down. What can you do? 
 ----------
+ * **att lägga sig i** :: to meddle (verb)
+ * Jag tycker inte om min granne. Hon lägger sig alltid i. 
+ * I don't like my neighbor. She's a meddler. 
+----------
  * **(ett) däggdjur** :: mammal (noun)
  * Valar och delfiner är däggdjur. 
  * Whales and dolphins are mammals. 
+----------
+ * **(en) förlorare** :: loser (noun)
+ * Var inte kompis med dem. De är förlorare. 
+ * Don't be friends with them. They are losers. 
 ----------
  * **vatten** :: water (noun)
  * Jorden är täckt mest av vatten. 
  * The Earth is covered mostly by water. 
 ----------
+ * **trots** :: in spite of (conjunction)
+ * Trots min motvilja, gick jag med honom. 
+ * In spite of my reluctance, I went with him. 
+----------
  * **(en) rädsla** :: fear (noun)
  * Rädslan för att flytta eller att genomgå förändring kallas tropofobi. 
  * The fear of moving or making changes is called tropophobia. 
+----------
+ * **att följa** :: to follow (verb)
+ * Pingvinen följde mig hela vägen till affären. 
+ * The penguin followed me all the way to the store. 
 ----------
  * **(en) gåta** :: riddle (noun)
  * Om Sfinxen ställer en gåta, är det bäst att du vet svaret. 
  * If the Sphinx asks you a riddle, you better know the answer. 
 ----------
+ * **Skämtar du?** :: Are you kidding? (expression)
+ * Jag kan inte tro det. Skämtar du? 
+ * I can't believe it. Are you kidding? 
+----------
  * **att knäppa** :: to button (verb)
  * Jag har ätit så mycket att jag knappt kan knäppa byxorna! 
  * I ate so much I can barely button my pants! 
+----------
+ * **då och då** :: from time to time (expression)
+ * Jag åker till stranden lite då och då. 
+ * I go to the beach from time to time. 
 ----------
  * **(en) affisch** :: poster (noun)
  * Han samlar på affischer av gamla skräckfilmer. 
  * He collects posters of old horror movies. 
 ----------
+ * **(ett) skydd** :: shelter (noun)
+ * Skydd är ett av tre grundläggande behov. 
+ * Shelter is one of three basic needs. 
+----------
  * **att uppträda** :: to perform (verb)
  * Vi uppträdde på vår lokala teater. 
  * We performed in our community theater. 
+----------
+ * **(ett) uppror** :: uprising (noun)
+ * Upproret förde med sig de sociala förändringar som behövdes. 
+ * The uprising brought about the needed social changes. 
 ----------
  * **att stämma** :: to tune (verb)
  * En expert kan stämma en violin på gehör. 
  * An expert can tune a violin by ear. 
 ----------
+ * **att vara i tjänst** :: to be on duty (expression)
+ * Jag kan inte åka i helgen, jag är i tjänst då. 
+ * I can't go this weekend, I am on duty. 
+----------
  * **(ett) läsår** :: school year (noun)
  * Varje höst börjar ett nytt läsår. 
  * Every fall, the school year begins anew. 
+----------
+ * **att sakna** :: to lack (verb)
+ * Nationen saknade en armé att försvara sig med. 
+ * The nation lacked an army to defend itself with. 
 ----------
  * **(en) gräshoppa** :: grasshopper (noun)
  * Du har mycket att lära dig, gräshoppan. 

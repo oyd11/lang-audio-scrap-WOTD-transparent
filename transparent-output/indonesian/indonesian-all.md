@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -695,89 +695,177 @@
  * Rambut gimbal tidak cocok untuk kamu. 
  * Dreadlocks don't look good on you. 
 ----------
+ * **menyelesaikan** :: to finish (verb)
+ * Apa kamu sudah menyelesaikan pekerjaan rumah? 
+ * Have you finished the home work? 
+----------
  * **mengejutkan** :: shocking (adjective)
  * Rekaman kecelakaan itu sangat mengejutkan. 
  * The footage of the accident was shocking. 
+----------
+ * **berbunga** :: to flower (verb)
+ * Pohon-pohon itu akan berbunga dalam beberapa minggu. 
+ * The trees will flower in a few weeks. 
 ----------
  * **cemberut** :: to pout (verb)
  * Apa kamu bilang kepada adik perempuanmu? Dia cemberut lagi. 
  * What did you say to your sister? She's pouting again. 
 ----------
+ * **menakutkan** :: scary (adjective)
+ * Apa kamu suka filem menakutkan? 
+ * Do you like scary movies? 
+----------
  * **di sampingmu** :: by your side (expression)
  * Aku mau menghabiskan seluruh hidupku di sampingmu. 
  * I want to spend the rest of my life by your side. 
+----------
+ * **mundur** :: to withdraw (verb)
+ * Hamba dengar dia datang: mari kita mundur, Tuanku. 
+ * I hear him coming: let's withdraw, my lord. 
 ----------
  * **sasaran** :: target (noun)
  * Panah itu tepat mengenai sasaran. 
  * The arrow hit the center of the target. 
 ----------
+ * **menggali** :: to dig (verb)
+ * Gali sampai kamu temukan minyak. 
+ * Dig until you strike oil. 
+----------
  * **biskuit** :: cookies (noun)
  * Ibu saya selalu mengirim saya kotak biskuit untuk hari Natal. 
  * My mother always sends me a box of cookies for Christmas. 
+----------
+ * **fosil** :: fossil (noun)
+ * Fosil di museum itu dari periode Cretaceous. 
+ * The fossils at the museum are from the Cretaceous period. 
 ----------
  * **...biarpun dibayar** :: not in a million years (expression)
  * Aku tidak mau nonton filem itu biarpun dibayar. 
  * I wouldn't watch that movie in a million years. 
 ----------
+ * **memotret** :: to photograph (verb)
+ * Dia memotret seekor burung langka. 
+ * She photographed a rare bird. 
+----------
  * **pengharum ruangan** :: air freshener (noun)
  * Pengharum ruangan bisa mengatasi bau. 
  * An air freshener might eliminate the odor. 
+----------
+ * **dingin** :: chilly (adjective)
+ * Hari yang dingin! 
+ * What a chilly day! 
 ----------
  * **menyingkirkan** :: to get rid of (verb)
  * Kita harus singkirkan perabot tua kita. 
  * We have to get rid of our old furniture. 
 ----------
+ * **menunggu** :: to wait for (verb)
+ * Kami sedang menunggu bis. 
+ * We are waiting for the bus. 
+----------
  * **sakit** :: pain (noun)
  * Sakitnya tak tertahankan. 
  * The pain is unbearable. 
+----------
+ * **berseluncur** :: to skate (verb)
+ * Anak-anak berseluncur di danau ketika danau itu membeku. 
+ * The children skate on the pond once it is frozen solid. 
 ----------
  * **kontroversional** :: controversial (adjective)
  * Acara televisi ini kontroversional karena unsur kekerasannya. 
  * This television show is controversial for being so violent. 
 ----------
+ * **kereta luncur** :: sled (noun)
+ * Kakeknya memberi dia kereta luncur musim dingin lalu. 
+ * His grandfather gave him a sled last winter. 
+----------
  * **tameng** :: shield (noun)
  * Ksatria itu menangkis pukulan dengan tamengnya. 
  * The knight blocked the blow with his shield. 
+----------
+ * **tenggorokan** :: throat (noun)
+ * Tenggorokanku sakit hari ini. 
+ * My throat is hurting today. 
 ----------
  * **berjabat tangan** :: to shake hands (verb)
  * Mari berjabat tangan dan berbaikan. 
  * Shake hands and make up. 
 ----------
+ * **lulus** :: to graduate (verb)
+ * Adikku akan lulus satu bulan lagi. 
+ * My brother will graduate in a month. 
+----------
  * **permen karet** :: bubble gum (noun)
  * Aku tidak bisa berjalan sambil makan permen karet. 
  * I can't walk and chew gum at the same time. 
+----------
+ * **mesin pemotong rumput** :: lawnmower (noun)
+ * Mesin pemotong rumput ini perlu bensin. 
+ * The lawnmower needs gasoline. 
 ----------
  * **sangat mahal** :: very expensive (expression)
  * Aku tidak beli model terbaru karena sangat mahal. 
  * I didn't buy the most recent model because it's very expensive. 
 ----------
+ * **padang rumput** :: meadow (noun)
+ * Padang rumput yang luas membentang di bawah tebing. 
+ * A vast meadow spreads out below the cliff. 
+----------
  * **kibor** :: keyboard (noun)
  * Aku tidak tahu bagaimana mengganti tampilan kibor. 
  * I don't know how to change the keyboard layout. 
+----------
+ * **sejarah** :: history (noun)
+ * Mereka belajar sejarah di universitas. 
+ * They studied history at the university. 
 ----------
  * **apel** :: apple (noun)
  * Buah apel kaya vitamin A, B dan C. 
  * Apples are rich in vitamin A, B and C. 
 ----------
+ * **jam** :: clock (noun)
+ * Tiga puluh tahun yang lalu, petir menyambar menara jam itu. 
+ * Thirty years ago, lightning struck that clock tower. 
+----------
  * **memperingkatkan** :: to warn (verb)
  * Ini terakhir kalinya saya memperingatkan kamu! 
  * That's the last time I'm going to warn you! 
+----------
+ * **rumah sakit** :: hospital (noun)
+ * Di mana rumah sakit? 
+ * Where is the hospital? 
 ----------
  * **kesehatan** :: health (noun)
  * Kesehatan lebih baik dari pada kekayaan. 
  * Health is better than wealth. 
 ----------
+ * **abaikan** :: to ignore (verb)
+ * Abaikan bagian terakhir. 
+ * Ignore that last part. 
+----------
  * **tertawa** :: laughter (noun)
  * Tertawa adalah obat yang paling manjur. 
  * Laughter is the best medicine. 
+----------
+ * **menyampaikan secara tidak langsung** :: to imply (verb)
+ * Menurut kamu apa maksud pidato itu secara tidak langsung? 
+ * What do you think the speech implied? 
 ----------
  * **serbet** :: napkin (noun)
  * Bisa tolong ambilkan saya satu serbet lagi? 
  * Can you bring me another napkin, please? 
 ----------
+ * **pajak** :: tax (noun)
+ * Jangan lupa membayar pajakmu! 
+ * Do not forget to pay your taxes! 
+----------
  * **kemarahan** :: anger (noun)
  * Jangan biarkan kemarahan berlarut. 
  * Don't get carried away by anger. 
+----------
+ * **berimprovisasi** :: to improvise (verb)
+ * Aktor-aktor itu berimprovisasi di sepanjang adegan. 
+ * The actors improvised the entire scene. 
 ----------
  * **memaafkan** :: to forgive (verb)
  * Memaafkan bukan hal yang mudah. 

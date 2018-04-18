@@ -1,6 +1,6 @@
 # english-portuguese WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **to travel** :: viajar (verb)
@@ -695,89 +695,177 @@
  * Many sailors drown each year. 
  * Muitos marinheiros se afogam todo ano. 
 ----------
+ * **Mass** :: missa (noun)
+ * On Sundays, they go to Mass. 
+ * Nos domingos, eles vão para a missa. 
+----------
  * **raw** :: cru (adjective)
  * You should never eat raw meat. 
  * Você nunca deve comer carne crua. 
+----------
+ * **seriously** :: à sério (adverb)
+ * My friends never take me seriously. 
+ * Meus amigos nunca me tomam à sério. 
 ----------
  * **cooler** :: caixa térmica (noun)
  * I want to buy a cooler for the drinks. 
  * Quero uma caixa térmica para as bebidas. 
 ----------
+ * **knife** :: faca (noun)
+ * The thief has a knife. 
+ * O ladrão tem uma faca. 
+----------
  * **to have a good time** :: divertir muito (verb)
  * My family and I always have a good time at the restaurant. 
  * Minha família e eu sempre divertimos muito no restaurante. 
+----------
+ * **bookstore** :: livraria (noun)
+ * You always buy too much when you go to the bookstore. 
+ * Você sempre compra demais quando for a livraria. 
 ----------
  * **successful** :: bem-sucedido (adjective)
  * Shakira is a successful singer. 
  * Shakira é uma cantora bem-sucedida. 
 ----------
+ * **pedestrian** :: pedestre (noun)
+ * When the pedestrian was crossing the street, he didn't see the car. 
+ * Quando o pedrestre estava atrevassando a rua, não viu o carro. 
+----------
  * **garlic** :: alho (noun)
  * Dracula doesn't like garlic. 
  * O Drácula não gosta do alho. 
+----------
+ * **to surprise** :: surpreender (verb)
+ * The police want to surprise the robber outside of the bank. 
+ * A polícia quer surpreender o ladrão fora do banco. 
 ----------
  * **to find** :: encontrar (verb)
  * The boy likes to find money in the sofa. 
  * O garoto gosta de encontrar dinheiro no sofá. 
 ----------
+ * **notes** :: anotação (noun)
+ * We take a lot of notes in class. 
+ * Tomamos muitas anotacões na aula. 
+----------
  * **forest** :: floresta (noun)
  * The hunters are looking for animals in the forest. 
  * Os caçadores estão procurando animais na floresta. 
+----------
+ * **ride** :: passeio (noun)
+ * We're going on a horseback ride. 
+ * Vamos fazer um passeio à cavalo. 
 ----------
  * **shocking** :: chocante (adjective)
  * His death is shocking. 
  * A morte dele é chocante. 
 ----------
+ * **to snow** :: nevar (expression)
+ * It will snow a lot this week. 
+ * Vai nevar muito esta semana. 
+----------
  * **happy** :: feliz (adjective)
  * The dog is happy with his bone. 
  * O cachorro está feliz com o osso. 
+----------
+ * **honey** :: mel (noun)
+ * Bees produce many kinds of honey. 
+ * As abelhas produzem muitos tipos de mel. 
 ----------
  * **to attend** :: frenqüentar (verb)
  * My son attends the university. 
  * Meu filho freqüenta a faculdade. 
 ----------
+ * **sweet** :: doce (adjective)
+ * White chocolate is very sweet. 
+ * O chocolate branco é muito doce. 
+----------
  * **tank** :: tanque (noun)
  * The tank is empty; we need more gas. 
  * O tanque está vazio; precisamos abastecer. 
+----------
+ * **luggage** :: bagagem (noun)
+ * We will take a lot of luggage with us on the plane. 
+ * Vamos levar muita bagagem no avião. 
 ----------
  * **fall** :: Outono (noun)
  * The months of fall are September, October and November. 
  * Os meses do Outono são Setembro, Outubro e Novembro. 
 ----------
+ * **soil** :: terra (noun)
+ * We need more soil for the new garden we are planting. 
+ * Precisamos de mais terra para o novo jardim que estamos plantando. 
+----------
  * **fresh** :: fresco (adjective)
  * I enjoy the fresh air in the mountains. 
  * Eu desfruto o ar fresco das montanhas. 
+----------
+ * **gloves** :: luvas (noun)
+ * I put on gloves when it gets cold in my car. 
+ * Coloco as luvas quando fizer frio no carro. 
 ----------
  * **board game** :: jogo de mesa (noun)
  * The children receive several board games. 
  * As crianças recebem vários jogos de mesa. 
 ----------
+ * **rocky** :: rochoso (adjective)
+ * The hill is rocky. 
+ * A colina é rochosa. 
+----------
  * **waves** :: ondas (noun)
  * The waves during the storm are very high. 
  * As ondas foram altas durante a tempestade. 
+----------
+ * **loyal** :: fiel (adjective)
+ * The dog is a very loyal animal. 
+ * O cachorro é um animal muito fiel. 
 ----------
  * **navy** :: marinho (adjective)
  * Her sweater is navy blue. 
  * O suéter dele é azul marinho. 
 ----------
+ * **to build** :: construir (verb)
+ * The kids are going outside to build a snow fort. 
+ * As crianças vão sair para construir uma fortaleza de neve. 
+----------
  * **to know** :: conhecer (verb)
  * I know Los Angeles very well. 
  * Eu conheço bem Los Angeles. 
+----------
+ * **chilling** :: arrepiante (adjective)
+ * She had a chilling nightmare. 
+ * Ele teve um pesadelo arrepiante. 
 ----------
  * **to develop** :: desenvolver (verb)
  * The town is developing its tourism. 
  * A cidadezinha está desenvolvendo o turismo. 
 ----------
+ * **to win** :: ganhar (verb)
+ * When we play cards, you always win. 
+ * Quando jogarmos cartas, você sempre ganha. 
+----------
  * **to fly** :: voar (verb)
  * I will fly to Argentina in February. 
  * Vou voar para Argentina em Fevereiro. 
+----------
+ * **to scream** :: gritar (verb)
+ * The woman screams upon seeing the vampire. 
+ * A mulher grita quando vê o vampiro. 
 ----------
  * **fire** :: fogo (noun)
  * In the summer, there are a lot of fires in the mountains. 
  * No verão, tem muitos fogos nas montanhas. 
 ----------
+ * **to plant** :: plantar (verb)
+ * He plants his sunflowers in the spring. 
+ * Ele planta girassóis na primavera. 
+----------
  * **to try on** :: provar (verb)
  * I'm trying on some pants. 
  * Vou provar algumas calças. 
+----------
+ * **to turn in** :: entregar (verb)
+ * You have to turn in the report to the boss. 
+ * Você tem que entregar o relatório ao chefe. 
 ----------
  * **glass** :: vidro (noun)
  * The parents had to pick up the broken glass when their son broke the window. 

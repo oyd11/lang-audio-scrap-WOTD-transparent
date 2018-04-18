@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -695,89 +695,177 @@
  * لديه طائرة خاصة. 
  * He has a private airplane. 
 ----------
+ * **تنفس** :: to breathe (verb)
+ * هذا الطفل يتنفسُ بصعوبة. 
+ * This child is breathing with difficulty. 
+----------
  * **خجول** :: shy (adjective)
  * قطتي خجولة جدا. 
  * My cat is very shy. 
+----------
+ * **بكى** :: to cry (verb)
+ * البنت الصغيرة تبكي. 
+ * The little girl is crying. 
 ----------
  * **مُفاجىء** :: sudden (adjective)
  * كان قرار انتقالها إلى بوسطن مفاجئاً. 
  * Her decision to move to Boston was sudden. 
 ----------
+ * **لغة** :: language (noun)
+ * مايك يتكلم اللغة العربية. 
+ * Mike speaks the Arabic language. 
+----------
  * **حكيم** :: wise (adjective)
  * والدي رجل حكيم. 
  * My father is a wise man. 
+----------
+ * **الخميس** :: Thursday (noun)
+ * الخميس هو آخر أيام العمل الأسبوعى في السعودية. 
+ * Thursday is the last business day of the week in Saudi Arabia. 
 ----------
  * **خطأ** :: wrong (adjective)
  * أنا آسف ، حكمكم خطأ. 
  * I am sorry, your judgment is wrong. 
 ----------
+ * **ضدّ** :: against (adverb)
+ * لا للعنف ضدّ المرأة! 
+ * No to violence against women! 
+----------
  * **دقيق** :: accurate (adjective)
  * الرجاء ، كن دقيقاً! 
  * Please, be accurate! 
+----------
+ * **أزرق** :: blue (adjective)
+ * أختي اشترت قميصاً أزرق. 
+ * My sister bought a blue shirt. 
 ----------
  * **بينما** :: while (adverb)
  * كان يغني بينما كنتُ أعمل. 
  * He was singing while I was working. 
 ----------
+ * **نظّف** :: to clean (verb)
+ * هل يمكنكم أن تنظفوا غرفتي؟ 
+ * Could you clean my room? 
+----------
  * **طوال** :: throughout (adverb)
  * الجرّاحُ عمل طوال الليل. 
  * The surgeon worked through the night. 
+----------
+ * **عنوان** :: address (noun)
+ * ما هو عنوان الفندق؟ 
+ * What's the hotel's address? 
 ----------
  * **خلف** :: behind (adverb)
  * الكنيسة خلف مركز الشرطة. 
  * The church is behind the police station. 
 ----------
+ * **مستشفى** :: hospital (noun)
+ * ما هو رقم المستشفى؟ 
+ * What's the hospital's phone number? 
+----------
  * **فوق** :: above (adverb)
  * يعيش صديقي في منزلٍ فوق المخبز. 
  * My friend lives in a house above the bakery. 
+----------
+ * **غاضب** :: angry (adjective)
+ * لماذا أنت غاضب؟ 
+ * Why are you angry? 
 ----------
  * **تحت** :: under (adverb)
  * يختبئ القطّ تحت السلّم. 
  * The cat is hiding under the stairs. 
 ----------
+ * **اعترف** :: to admit (verb)
+ * اعترف بخطئه. 
+ * He admitted his mistake. 
+----------
  * **بين** :: between (adverb)
  * مكتبي بين السرير والنافذة. 
  * My desk is between the bed and the window. 
+----------
+ * **مصر** :: Egypt (noun)
+ * مصر دولة عربية. 
+ * Egypt is an Arab country. 
 ----------
  * **حيث** :: where (adverb)
  * تناولنا العشاء في المطعم حيث كنت أعمل. 
  * We had dinner at the restaurant where I used to work. 
 ----------
+ * **غالٍ** :: expensive (adjective)
+ * هذا غالٍ! 
+ * This is expensive. 
+----------
  * **أمس** :: yesterday (adverb)
  * هذا الفيلم عُرضَ أمس. 
  * This movie came out yesterday. 
+----------
+ * **صديق** :: friend (noun)
+ * عندي صديق من المغرب. 
+ * I have a friend from Morocco. 
 ----------
  * **الآن** :: now (adverb)
  * هل تسمعني الآن؟ 
  * Do you hear me now? 
 ----------
+ * **اعتذر** :: to apologize (verb)
+ * أعتذر عن التأخير! 
+ * I apologize for the delay. 
+----------
  * **هنا** :: here (adverb)
  * ولدوا هنا. 
  * They were born here. 
+----------
+ * **وصل** :: to arrive (verb)
+ * متى سيصل القطار إلى المحطة؟ 
+ * When will the train arrive at the station? 
 ----------
  * **هناك** :: there (adverb)
  * يمكنك الجلوس هناك. 
  * You can sit there. 
 ----------
+ * **أسود** :: black (adjective)
+ * لوني المفضل هو الأسود. 
+ * My favorite color is black. 
+----------
  * **أقل** :: less (adverb)
  * يتقاضى أقل من زوجته. 
  * He makes less money than his wife. 
+----------
+ * **وراء** :: behind (adverb)
+ * رشيد و أسرته يسكنون وراء محطة البنزين. 
+ * Rashid and his family live behind the gas station. 
 ----------
  * **معظم** :: most (adverb)
  * معظم المشاركين حاضرون. 
  * Most of the participants are present. 
 ----------
+ * **سأل** :: to ask (verb)
+ * هل سألتهم عن عنوان البيت؟ 
+ * Did you ask them about the house address? 
+----------
  * **بسرعة** :: rapidly (adverb)
  * طبقة الجليد تذوب بسرعة. 
  * The glacier is melting rapidly. 
+----------
+ * **ممتاز** :: excellent (adjective)
+ * الأكل ممتاز في هذا المطعم. 
+ * The food is excellent at this restaurant. 
 ----------
  * **الأقل** :: the least (adjective)
  * هذا البرنامج هو الأقل كلفة. 
  * This program is the least expensive one. 
 ----------
+ * **رئيس** :: president (noun)
+ * الرئيس الأمريكي هو باراك أوباما. 
+ * The American president is Barack Obama. 
+----------
  * **بسهولة** :: easily (adverb)
  * هو لا يقتنع بسهولة أبداً. 
  * He is never convinced easily. 
+----------
+ * **منذ** :: since (adverb)
+ * راضية و سامية تعيشان في أمريكا منذ 2001. 
+ * Radia and Samia have lived in the United States since 2001. 
 ----------
  * **عاجلاً** :: soon (adverb)
  * يجب أن ترى الطبيب عاجلاً. 

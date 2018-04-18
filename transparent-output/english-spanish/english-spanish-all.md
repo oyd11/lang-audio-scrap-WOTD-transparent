@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -695,89 +695,177 @@
  * We're going to take a walk on the sidewalk. 
  * Vamos a pasear por la acera. 
 ----------
- * **steel** :: acero (noun)
- * It looks like the boxer has hands of steel. 
- * Parece que el boxeador tiene manos de acero. 
-----------
- * **full** :: lleno (adjective)
- * The parking lot is full. 
- * El estacionamiento está lleno. 
-----------
- * **friendly** :: simpático (adjective)
- * Your grandmother is very friendly. 
- * Tu abuela es muy simpática. 
-----------
- * **ham** :: jamón (noun)
- * I want a ham and cheese sandwich. 
- * Quiero un sándwich de jamón y queso. 
-----------
- * **to have dinner** :: cenar (verb)
- * My family and I have dinner at 6 p.m. 
- * Mi familia y yo cenamos a las seis de la tarde. 
-----------
- * **beautiful** :: bello (adjective)
- * Hawaii's islands are beautiful. 
- * Las islas de Hawai son bellas. 
-----------
  * **bird** :: pájaro (noun)
  * The cardinal is a red bird. 
  * El cardenal es un pájaro rojo. 
+----------
+ * **steel** :: acero (noun)
+ * It looks like the boxer has hands of steel. 
+ * Parece que el boxeador tiene manos de acero. 
 ----------
  * **to play** :: tocar (verb)
  * José plays the guitar very well. 
  * José toca la guitarra muy bien. 
 ----------
+ * **full** :: lleno (adjective)
+ * The parking lot is full. 
+ * El estacionamiento está lleno. 
+----------
  * **long** :: largo (adjective)
  * In the summer, she has a long vacation! 
  * ¡En el verano, ella tiene vacaciones largas! 
+----------
+ * **friendly** :: simpático (adjective)
+ * Your grandmother is very friendly. 
+ * Tu abuela es muy simpática. 
 ----------
  * **spring** :: primavera (noun)
  * Spring begins in March every year. 
  * La primavera empieza en marzo cada año. 
 ----------
+ * **ham** :: jamón (noun)
+ * I want a ham and cheese sandwich. 
+ * Quiero un sándwich de jamón y queso. 
+----------
  * **to open** :: abrir (verb)
  * I will open the windows when it starts to get warmer. 
  * Abriré las ventanas cuando empieze buen tiempo. 
+----------
+ * **to have dinner** :: cenar (verb)
+ * My family and I have dinner at 6 p.m. 
+ * Mi familia y yo cenamos a las seis de la tarde. 
 ----------
  * **inexpensive** :: barato (adjective)
  * This souvenir is inexpensive. 
  * Éste recuerdo es barato. 
 ----------
+ * **beautiful** :: bello (adjective)
+ * Hawaii's islands are beautiful. 
+ * Las islas de Hawai son bellas. 
+----------
  * **Easter** :: Pascuas (noun)
  * Many people celebrate Easter. 
  * Muchas personas celebran la Pascua. 
+----------
+ * **bird** :: pájaro (noun)
+ * The cardinal is a red bird. 
+ * El cardenal es un pájaro rojo. 
 ----------
  * **to pick up** :: recoger (verb)
  * Please pick up all of the paper from the floor. 
  * Por favor, recoge todos los papeles del suelo. 
 ----------
+ * **to play** :: tocar (verb)
+ * José plays the guitar very well. 
+ * José toca la guitarra muy bien. 
+----------
  * **expensive** :: caro (adjective)
  * He drives an expensive car. 
  * Él maneja un carro muy caro. 
+----------
+ * **long** :: largo (adjective)
+ * In the summer, she has a long vacation! 
+ * ¡En el verano, ella tiene vacaciones largas! 
 ----------
  * **Mass** :: misa (noun)
  * On Sundays, they go to Mass. 
  * Los domingos ellos van a misa. 
 ----------
+ * **spring** :: primavera (noun)
+ * Spring begins in March every year. 
+ * La primavera empieza en marzo cada año. 
+----------
  * **to say** :: decir (verb)
  * I feel better already; you always say the right things. 
  * Ya me siento mejor; tú siempre dices las cosas correctas. 
+----------
+ * **to open** :: abrir (verb)
+ * I will open the windows when it starts to get warmer. 
+ * Abriré las ventanas cuando empieze buen tiempo. 
 ----------
  * **hairy** :: peludo (adjective)
  * Her husband is very hairy. 
  * El esposo de ella es muy peludo. 
 ----------
+ * **inexpensive** :: barato (adjective)
+ * This souvenir is inexpensive. 
+ * Éste recuerdo es barato. 
+----------
  * **rabbit** :: conejo (noun)
  * The rabbit runs fast. 
  * El conejo corre rápido. 
+----------
+ * **Easter** :: Pascuas (noun)
+ * Many people celebrate Easter. 
+ * Muchas personas celebran la Pascua. 
 ----------
  * **to hear** :: oír (verb)
  * I can't hear the music very well from here. 
  * No puedo oír la música muy bien de aquí. 
 ----------
+ * **to pick up** :: recoger (verb)
+ * Please pick up all of the paper from the floor. 
+ * Por favor, recoge todos los papeles del suelo. 
+----------
  * **true** :: verdad (adjective)
  * Everything they said about the accident is true. 
  * Todo lo que ellos dijeron con respecto al accidente es verdad. 
+----------
+ * **expensive** :: caro (adjective)
+ * He drives an expensive car. 
+ * Él maneja un carro muy caro. 
+----------
+ * **basket** :: cesto (noun)
+ * We will put our picnic in a basket. 
+ * Ponemos la comida para la jira en un cesto. 
+----------
+ * **Mass** :: misa (noun)
+ * On Sundays, they go to Mass. 
+ * Los domingos ellos van a misa. 
+----------
+ * **to lose** :: perder (verb)
+ * The basketball team loses a lot of games. 
+ * El equipo de baloncesto pierde muchos partidos. 
+----------
+ * **to say** :: decir (verb)
+ * I feel better already; you always say the right things. 
+ * Ya me siento mejor; tú siempre dices las cosas correctas. 
+----------
+ * **boring** :: aburrido (adjective)
+ * Our chemistry class is rather boring. 
+ * Nuestra clase de química es bastante aburrida. 
+----------
+ * **hairy** :: peludo (adjective)
+ * Her husband is very hairy. 
+ * El esposo de ella es muy peludo. 
+----------
+ * **puddle** :: charco (noun)
+ * They get wet every day because there is a big puddle in front of the house. 
+ * Se mojan todos los días porque hay un charco grande frente de la casa. 
+----------
+ * **rabbit** :: conejo (noun)
+ * The rabbit runs fast. 
+ * El conejo corre rápido. 
+----------
+ * **to pay** :: pagar (verb)
+ * My father will pay the bill at dinner tonight. 
+ * Mi padre pagará la cuenta para la cena esta noche. 
+----------
+ * **to hear** :: oír (verb)
+ * I can't hear the music very well from here. 
+ * No puedo oír la música muy bien de aquí. 
+----------
+ * **foreign** :: extranjero (adjective)
+ * I want to visit a foreign country on my next vacation. 
+ * Yo quiero visitar un país extranjero para mis vacaciones próximas. 
+----------
+ * **true** :: verdad (adjective)
+ * Everything they said about the accident is true. 
+ * Todo lo que ellos dijeron con respecto al accidente es verdad. 
+----------
+ * **duck** :: pato (noun)
+ * I will feed the ducks that live in the lake. 
+ * Yo alimentaré los patos que viven en el lago. 
 ----------
  * **basket** :: cesto (noun)
  * We will put our picnic in a basket. 

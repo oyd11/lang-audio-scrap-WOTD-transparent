@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -695,9 +695,21 @@
  * Du må bruke korketrekker for å åpne vinflasker. 
  * You have to use a corkscrew to open wine bottles. 
 ----------
+ * **korketrekker** :: corkscrew (noun)
+ * Du må bruke korketrekker for å åpne vinflasker. 
+ * You have to use a corkscrew to open wine bottles. 
+----------
  * **inkassator** :: debt collector (noun)
  * Har du for mange utestående krav, vil du bli kontaktet av inkassatoren. 
  * If you have too many current outstanding claims, you will be contacted by the debt collector. 
+----------
+ * **inkassator** :: debt collector (noun)
+ * Har du for mange utestående krav, vil du bli kontaktet av inkassatoren. 
+ * If you have too many current outstanding claims, you will be contacted by the debt collector. 
+----------
+ * **regjering** :: government, administration (noun)
+ * Statsministeren er regjeringens øverste leder. 
+ * The Prime Minister is the ranking leader of the government. 
 ----------
  * **regjering** :: government, administration (noun)
  * Statsministeren er regjeringens øverste leder. 
@@ -707,9 +719,21 @@
  * En finansanalytiker opprettholder at mobiltelefonfirmaet har bommet på de siste trendene i mobilmarkedet. 
  * A finance analyst maintains that the mobile phone company once again missed the mark on the latest trends. 
 ----------
+ * **bomme** :: miss the mark (verb)
+ * En finansanalytiker opprettholder at mobiltelefonfirmaet har bommet på de siste trendene i mobilmarkedet. 
+ * A finance analyst maintains that the mobile phone company once again missed the mark on the latest trends. 
+----------
  * **innrømme** :: admit (verb)
  * En tjueåring fra Molde innrømmet under politiavhør i går at han har fabrikkert falske 100 og 200 sedler. 
  * A twenty year old admitted in a police hearing yesterday that he has manufactured fake 100 and 200 kroner bills. 
+----------
+ * **innrømme** :: admit (verb)
+ * En tjueåring fra Molde innrømmet under politiavhør i går at han har fabrikkert falske 100 og 200 sedler. 
+ * A twenty year old admitted in a police hearing yesterday that he has manufactured fake 100 and 200 kroner bills. 
+----------
+ * **le** :: laugh (verb)
+ * Etter at jeg hørte vitsen, lo jeg til det gjorde vondt. 
+ * After I heard the joke, I laughed until it hurt. 
 ----------
  * **le** :: laugh (verb)
  * Etter at jeg hørte vitsen, lo jeg til det gjorde vondt. 
@@ -719,9 +743,21 @@
  * Klimaendringer kan forårsake oversvømmelser i land med lave kyster. 
  * Climate changes can cause floods in countries with low coasts. 
 ----------
+ * **oversvømme** :: flood (verb)
+ * Klimaendringer kan forårsake oversvømmelser i land med lave kyster. 
+ * Climate changes can cause floods in countries with low coasts. 
+----------
  * **vite** :: know a fact (verb)
  * Visste du ikke at Oslo var hovedstaden i Norge? 
  * Didn't you know that Oslo was the capital of Norway? 
+----------
+ * **vite** :: know a fact (verb)
+ * Visste du ikke at Oslo var hovedstaden i Norge? 
+ * Didn't you know that Oslo was the capital of Norway? 
+----------
+ * **gjøre** :: do (verb)
+ * Alle kan gjøre noe for å begrense sur nedbør. 
+ * Everyone can do something to limit acid rain. 
 ----------
  * **gjøre** :: do (verb)
  * Alle kan gjøre noe for å begrense sur nedbør. 
@@ -731,9 +767,21 @@
  * Fem personer ble alvorlig skadet i en trafikkulykke på E6 i går. 
  * Five people were seriously injured in a traffic accident on E6 yesterday. 
 ----------
+ * **skade** :: injure, harm (verb)
+ * Fem personer ble alvorlig skadet i en trafikkulykke på E6 i går. 
+ * Five people were seriously injured in a traffic accident on E6 yesterday. 
+----------
  * **påstå** :: maintain (verb)
  * "Jeg er uskyldig i saken" påstår guvernøren. 
  * I am not guilty in the issue, the governor maintains. 
+----------
+ * **påstå** :: maintain (verb)
+ * "Jeg er uskyldig i saken" påstår guvernøren. 
+ * I am not guilty in the issue, the governor maintains. 
+----------
+ * **forstå** :: understand (verb)
+ * Jeg skjønte ingenting av det han snakket om. 
+ * I didn't understand anything that he was talking about. 
 ----------
  * **forstå** :: understand (verb)
  * Jeg skjønte ingenting av det han snakket om. 
@@ -743,9 +791,21 @@
  * Jeg glemte passordet mitt og kan ikke logge inn. 
  * I forgot my password and cannot log in. 
 ----------
+ * **glemme** :: forget (verb)
+ * Jeg glemte passordet mitt og kan ikke logge inn. 
+ * I forgot my password and cannot log in. 
+----------
  * **ligne** :: resemble (verb)
  * Jeg hater det når folk sier at jeg ligner på broren min. 
  * I hate it when people say I look like my brother. 
+----------
+ * **ligne** :: resemble (verb)
+ * Jeg hater det når folk sier at jeg ligner på broren min. 
+ * I hate it when people say I look like my brother. 
+----------
+ * **oppdage** :: discover (verb)
+ * Han brøt til slutt helt sammen og innrømmet alt angående forbrytelsen. 
+ * In the end, he broke down and admitted everything about the crime. 
 ----------
  * **oppdage** :: discover (verb)
  * Han brøt til slutt helt sammen og innrømmet alt angående forbrytelsen. 
@@ -755,9 +815,21 @@
  * Det er fullstendig uakseptabelt å mobbe andre. 
  * It's totally unacceptable to bully others. 
 ----------
+ * **mobbe** :: bully, victimize (verb)
+ * Det er fullstendig uakseptabelt å mobbe andre. 
+ * It's totally unacceptable to bully others. 
+----------
  * **ruinere** :: ruin (verb)
  * Løgn kan ruinere et vennskap. 
  * Lies can ruin a friendship. 
+----------
+ * **ruinere** :: ruin (verb)
+ * Løgn kan ruinere et vennskap. 
+ * Lies can ruin a friendship. 
+----------
+ * **besøke** :: visit (verb)
+ * Mange norsk-amerikanere besøker sine slektinger i Norge hvert år. 
+ * Many Norwegian-Americans visit their relatives in Norway each year. 
 ----------
  * **besøke** :: visit (verb)
  * Mange norsk-amerikanere besøker sine slektinger i Norge hvert år. 
@@ -767,6 +839,14 @@
  * Flere kvinner i Norge lever til de blir hundre år gamle. 
  * More and more women in Norway live until they are 100 years old. 
 ----------
+ * **leve, være levende** :: live, be alive (verb)
+ * Flere kvinner i Norge lever til de blir hundre år gamle. 
+ * More and more women in Norway live until they are 100 years old. 
+----------
+ * **drikke** :: drink (verb)
+ * Min datter drakk en hel flaske vin i går. 
+ * My daughter drank a whole bottle of wine. 
+----------
  * **drikke** :: drink (verb)
  * Min datter drakk en hel flaske vin i går. 
  * My daughter drank a whole bottle of wine. 
@@ -774,6 +854,14 @@
  * **overleve** :: survive (verb)
  * Ulykken var så alvorlig at ingen overlevde. 
  * The accident was so catastrophic that no one survived. 
+----------
+ * **overleve** :: survive (verb)
+ * Ulykken var så alvorlig at ingen overlevde. 
+ * The accident was so catastrophic that no one survived. 
+----------
+ * **unngå** :: avoid (verb)
+ * Det beste man kan gjøre for å unngå et hjerteinfarkt er å slutte å røyke. 
+ * The best thing you can do to avoid a heart attack is to quit smoking. 
 ----------
  * **unngå** :: avoid (verb)
  * Det beste man kan gjøre for å unngå et hjerteinfarkt er å slutte å røyke. 

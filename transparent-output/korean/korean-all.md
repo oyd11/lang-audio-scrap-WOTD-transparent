@@ -1,6 +1,6 @@
 # korean WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **암송하다** :: to recite (verb)
@@ -695,89 +695,177 @@
  * 우리 동네 자동차 대리점에는 제가 찾는 모델이 없어요. 
  * My local car dealership doesn't have the model I'm looking for. 
 ----------
+ * **질문** :: question (noun)
+ * 정직하게 질문에 답을 하시기 바랍니다. 
+ * Please answer the question honestly. 
+----------
  * **염소수염** :: goatee (noun)
  * 그는 염소수염 때문에 인상이 나빠 보여요. 
  * He looks kind of sinister with a goatee. 
+----------
+ * **치과의사** :: dentist (noun)
+ * 6개월에 한 번씩 치과의사에게 상담하세요. 
+ * Consult your dentist every six months. 
 ----------
  * **시체** :: corpse (noun)
  * 경찰은 범죄 현장에서 시체 두 구를 발견했어요. 
  * The police found two corpses at the scene of the crime. 
 ----------
+ * **그리다** :: to draw (verb)
+ * 미술가는 훌륭한 그림을 그렸습니다. 
+ * The artist drew an excellent figure. 
+----------
  * **선택하다** :: to select (verb)
  * 메인 메뉴에서 옵션을 선택하세요. 
  * From the main menu, select "options". 
+----------
+ * **훼손하다** :: to damage (verb)
+ * 그 소포를 훼손하지 마세요. 
+ * Do not damage the package. 
 ----------
  * **불운** :: bad luck (expression)
  * 올해에는 불운이 없길 바랍니다. 
  * I hope you have no bad luck this year. 
 ----------
+ * **차이** :: difference (noun)
+ * 하루로 이렇게 차이가 나다니! 
+ * What a difference a day makes! 
+----------
  * **간** :: liver (noun)
  * 술은 간에 해롭습니다. 
  * Alcohol can be harmful to the liver. 
+----------
+ * **나누다** :: to divide (verb)
+ * 케익을 똑같이 나누자. 
+ * Let's divide the cake into equal parts. 
 ----------
  * **우러나다** :: to brew (verb)
  * 차는 좀 더 오래 우러나야 합니다. 
  * The tea has to brew for a little bit longer. 
 ----------
+ * **주다** :: to give (verb)
+ * 그녀의 생일에 무엇을 주었니? 
+ * What did you give her for her birthday? 
+----------
  * **정육점** :: butcher (noun)
  * 이 동네 정육점은 늘 제일 좋은 고기 부위가 있습니다. 
  * The local butcher always has the best cuts of meat. 
+----------
+ * **의심하다** :: to doubt (verb)
+ * 측정의 정확성을 의심합니다. 
+ * I doubt the accuracy of the measurements. 
 ----------
  * **영화** :: movie (noun)
  * 영화에서는 다 됐잖아! 
  * It worked in the movie! 
 ----------
+ * **샤워하다** :: to shower (verb)
+ * 윗층 화장실에서 샤워하세요. 
+ * You can shower in the bathroom upstairs. 
+----------
  * **새기다** :: to carve (verb)
  * 누군가가 그 나무 껍질에 자기네 이름을 새겼어요. 
  * Someone carved their name into the bark of that tree. 
+----------
+ * **설명하다** :: to explain (verb)
+ * 한 번 더 풀이법을 설명해 보세요. 
+ * Explain the solution to me one more time. 
 ----------
  * **말린 과일** :: dried fruit (noun)
  * 말린 과일에는 단백질이 풍부합니다. 
  * Dried fruit is rich in protein. 
 ----------
+ * **외계인** :: alien (noun)
+ * 우주에는 외계인들이 있습니까? 
+ * Are there aliens in outer space? 
+----------
  * **작가** :: writer (noun)
  * 전 어른이 되면 작가가 되고 싶어요. 
  * I want to be a writer when I grow up. 
+----------
+ * **모범** :: example (noun)
+ * 모범을 보임으로써 리드하는 것이 제일 좋다. 
+ * It's always best to lead by example. 
 ----------
  * **장군** :: check-mate (noun)
  * 내가 두 수를 두면 장군이야. 
  * I'm two moves away from a check-mate. 
 ----------
+ * **고르다** :: to choose (verb)
+ * 아무 카드나 한 장 고르세요. 
+ * Choose a card, any card. 
+----------
  * **바삭바삭한** :: crispy (adjective)
  * 전 시리얼이 바삭바삭할 때가 좋아요. 
  * I like cereal when it's still crispy. 
+----------
+ * **힘이 넘치다** :: to be energetic (expression)
+ * 산책을 오래 했는데도 그녀의 강아지는 아직도 힘이 넘칩니다! 
+ * Even after a long walk, her puppy is energetic! 
 ----------
  * **대본** :: script (noun)
  * 그는 마지막 영화의 대본을 직접 썼어요. 
  * He wrote the script for his last movie himself. 
 ----------
+ * **잘못 알고 있다** :: to be mistaken (expression)
+ * 영화가 한 시간짜리인 줄 알았는데 내가 잘못 알고 있었어. 
+ * I thought the movie was one hour long, but I was mistaken. 
+----------
  * **쓰나미** :: tsunami (noun)
  * 이 지역에 쓰나미 경보가 내려져 있습니다. 
  * There is a tsunami alert in this area. 
+----------
+ * **예외** :: exception (noun)
+ * 모든 규칙에는 예외가 있습니다. 
+ * There are exceptions to every rule. 
 ----------
  * **인터넷 사용자** :: internet user (noun)
  * 대부분의 인터넷 사용자들은 빠른 접속 속도를 기대합니다. 
  * Most internet users expect fast connection speeds. 
 ----------
+ * **유령** :: ghost (noun)
+ * 저 낡은 집에 유령이 나타난다고들 말합니다. 
+ * They say that ghosts haunt the old house. 
+----------
  * **레게머리** :: dreadlocks (noun)
  * 레게머리는 너에게 어울리지 않아. 
  * Dreadlocks don't look good on you. 
+----------
+ * **끝내다** :: to finish (verb)
+ * 그 책 다 끝냈니? 
+ * Have you finished the book? 
 ----------
  * **충격적이다** :: shocking (adjective)
  * 사고 장면이 충격적이었어요. 
  * The footage of the accident was shocking. 
 ----------
+ * **꽃을 피우다** :: to flower (verb)
+ * 나무들은 몇 주 지나면 꽃을 피울겁니다. 
+ * The trees will flower in a few weeks. 
+----------
  * **당신 곁에서** :: by your side (expression)
  * 제 나머지 삶을 당신 곁에서 보내고 싶어요. 
  * I want to spend the rest of my life by your side. 
+----------
+ * **무서운** :: scary (adjective)
+ * 무서운 영화 좋아하세요? 
+ * Do you like scary movies? 
 ----------
  * **과녁** :: target (noun)
  * 화살이 과녁 중심을 맞혔어요. 
  * The arrow hit the center of the target. 
 ----------
+ * **파다** :: to dig (verb)
+ * 기름이 나올 때까지 파라. 
+ * Dig until you strike oil. 
+----------
  * **쿠키** :: cookies (noun)
  * 우리 엄마는 항상 크리스마스마다 쿠키 한 상자를 보내 주세요. 
  * My mother always sends me a box of cookies for Christmas. 
+----------
+ * **화석** :: fossil (noun)
+ * 그 박물관에는 백악기 시대의 화석이 전시되어 있습니다. 
+ * The fossils at the museum are from the Cretaceous period. 
 ----------
  * **절대로 ~하지 않는다** :: not in a million years (expression)
  * 전 절대로 그 영화를 보지 않을 거예요. 

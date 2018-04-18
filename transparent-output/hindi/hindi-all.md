@@ -1,6 +1,6 @@
 # hindi WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **कीबोर्ड** :: keyboard (noun)
@@ -695,89 +695,177 @@
  * यह अध्याय बहुत दिलचस्प है। 
  * This chapter is very interesting. 
 ----------
+ * **माफ करना** :: to forgive (verb)
+ * गलती करना मानवीय स्वभाव है, लेकिन क्षमा कर देना ईश्वरीय गुण है। 
+ * To err is human, to forgive divine. 
+----------
  * **कड़वा** :: bitter (adjective)
  * मुझे कड़वी कॉफी पसन्द नहीं, मैं उसे थोड़ी-सी चीनी के साथ लेना पसन्द करती हूँ। 
  * I don't like bitter coffee, I prefer it with a bit of sugar. 
+----------
+ * **तनाव** :: stress (noun)
+ * अत्यधिक तनाव के कारण मैं सो नहीं पा रही हूँ। 
+ * I'm under too much stress to sleep. 
 ----------
  * **इसका फैसला करना** :: to dispense with (phrase)
  * आओ बेकार के विवरण का पहले से फैसला कर लें। 
  * Let's dispense with the unnecessary details. 
 ----------
+ * **दीवारें** :: the walls (noun)
+ * दीवारों के भी कान होते हैं। 
+ * The walls have ears. 
+----------
  * **बाल्टी** :: bucket (noun)
  * वॉलरस के पास एक बाल्टी है। 
  * The walrus has a bucket. 
+----------
+ * **बात करना** :: to talk (verb)
+ * यह तो ऐसा है जैसे कि दीवार से बातें करना। 
+ * It's like talking to a wall. 
 ----------
  * **कुत्ता** :: dog (noun)
  * मैं तुम्हें, मेरी प्रिय, और तुम्हारे कुत्ते को भी पकड़ लूंगा! 
  * I'll get you, my pretty, and your little dog, too! 
 ----------
+ * **धुंआ** :: smoke (noun)
+ * जहां धुंआ होता है वहीं आग भी होती है। 
+ * Where there's smoke, there's fire. 
+----------
  * **संत** :: saint (noun)
  * मैं कोई संत नहीं हूँ। 
  * I'm not a saint. 
+----------
+ * **पागल** :: crazy (adjective)
+ * हम सभी किसी न किसी तरह से थोड़े पागल होते ही हैं। 
+ * We're all a little crazy in one way or another. 
 ----------
  * **अनजान** :: unknown (adjective)
  * उसके ठिकाने से सब अनजान हैं, पर मुझे लगता है कि वह देश छोड़ कर भाग गया है। 
  * His whereabouts are unknown, but I think he fled the country. 
 ----------
+ * **बिलकुल न सो पाना** :: to not sleep a wink (expression)
+ * अनिद्रा की बीमारी के कारण मैं रात भर सो नहीं पाई। 
+ * I didn't sleep a wink all night because I had insomnia. 
+----------
  * **समर्थन** :: support (noun)
  * आपके समर्थन के लिए धन्यवाद. 
  * Thanks for your support. 
+----------
+ * **ठहरना** :: to stay (verb)
+ * तुम क्यों नहीं अपना कोट उतार कर कुछ देर के लिए ठहर जाते? 
+ * Why don't you take off your coat and stay a while? 
 ----------
  * **टुकड़ा** :: piece (noun)
  * मुझे कागज़ का एक टुकड़ा चाहिए। 
  * I need a piece of paper. 
 ----------
+ * **बिक्री पर होना** :: to be on sale (phrase)
+ * मुझे असल में इसकी ज़रूरत नहीं है, लेकिन यह बिक्री पर है! 
+ * I don't really need this, but it's on sale! 
+----------
  * **पहली बार में** :: at first (phrase)
  * पहली बार में मुझे नहीं पता था कि क्या कहना चाहिए। 
  * At first I didn't know what to say. 
+----------
+ * **वीभत्स** :: grotesque (adjective)
+ * लड़ाई का दृश्य बहुत वीभत्स लग रहा था। 
+ * The fight scene looked quite grotesque. 
 ----------
  * **कमी** :: shortage (noun)
  * यूरोप में घरों की कमी है। 
  * In Europe there is a housing shortage. 
 ----------
+ * **बुदबुदाना** :: to mumble (verb)
+ * "ठीक है, मैं कर लूंगा", जॉन बुदबुदाया। 
+ * "Fine, I'll do it," mumbled John. 
+----------
  * **अंत में** :: in the end (phrase)
  * अंत में मुझे यह मानना ही पड़ा कि वह सही था। 
  * In the end I had to admit that he was right. 
+----------
+ * **भर जाना** :: to fill (verb)
+ * उसकी एक झलक भी उसे खुशी से भर देती है। 
+ * The very sight of him fills her with joy. 
 ----------
  * **शर्मीला** :: shy (adjective)
  * जब आप बहुत अधिक शर्मीले हों, तो दोस्त बनाना मुश्किल होता है। 
  * Making friends is hard when you are painfully shy. 
 ----------
+ * **पता होना** :: to be aware of (phrase)
+ * क्या तुम्हें अपने कामों से होने वाले परिणामों के बारे में पता है? 
+ * Are you aware of the consequences of your actions? 
+----------
  * **फूल** :: flower (noun)
  * एक गुप्त प्रशंसक ने मुझे फूल भेजे! 
  * A mysterious admirer sent me flowers! 
+----------
+ * **चौंकना** :: to startle (verb)
+ * इस धमाके की आवाज़ से मैं चौंक गई। 
+ * The sound of the explosion startled me. 
 ----------
  * **अभी तक** :: yet (adverb)
  * वह अभी तक गई नहीं है। 
  * She hasn't gone yet. 
 ----------
+ * **झगड़ना** :: to quarrel (verb)
+ * उन्होने अपना सारा समय झगड़ते हुए बिताया। 
+ * They spent the whole time quarrelling. 
+----------
  * **कपड़े** :: clothing (noun)
  * उन गन्दे कपड़ों को उतार दो! 
  * Take those dirty clothes off! 
+----------
+ * **लाड़-प्यार से बिगाड़ना** :: spoiled, pampered (adjective)
+ * वह बच्चा लाड़-प्यार के कारण बिगड़ गया है। 
+ * He is a spoiled child. 
 ----------
  * **लौ** :: flame (noun)
  * उस लौ ने गुप्त सन्देश को कुछ ही पलों में नष्ट कर दिया। 
  * The flame destroyed the secret message in seconds. 
 ----------
+ * **विधाता** :: master (noun)
+ * मैं अपने भाग्य की विधाता खुद हूँ। 
+ * I am the master of my own destiny. 
+----------
  * **खिलाफ** :: against (preposition)
  * कई बार ऐसा लगता है कि सारा संसार ही मेरे खिलाफ है! 
  * Sometimes it feels like the whole world is against me! 
+----------
+ * **कम से कम** :: at least (phrase)
+ * कम से कम उसने कुछ किया तो सही; बाकी सब तो केवल देखते ही रहे। 
+ * At least he did something; everyone else just watched. 
 ----------
  * **रोशनी** :: light (noun)
  * हम चीजें दिन की खुली रोशनी में स्पष्ट रूप से देखेंगे। 
  * We'll see things clearly in the cold light of day. 
 ----------
+ * **ईश निंदा** :: profanity (noun)
+ * किसी भी व्यक्ति को ईश निंदा नहीं करनी चाहिए। 
+ * One shouldn't use profanity here. 
+----------
  * **पेशकश** :: offer (noun)
  * मैं उसे एक ऐसी पेशकश करने जा रही हूँ, जिसे वह मना नहीं कर पाएगा। 
  * I'm going to make him an offer he can't refuse. 
+----------
+ * **गैरहाज़िरी** :: absence (noun)
+ * तुम मेरी गैरहाज़िरी में इस परियोजना को चलाए रख सकते हो। 
+ * You can keep the project going in my absence. 
 ----------
  * **अंत** :: end (noun)
  * हर नई शुरूआत किसी और शुरूआत के अंत से पैदा होती है। 
  * Every new beginning comes from some other beginning's end. 
 ----------
+ * **गुप्त रूप से** :: in secret (phrase)
+ * हमने गुप्त रूप से एक सरप्राइज़ पार्टी की योजना बनाई। 
+ * We planned a surprise party in secret. 
+----------
  * **शादी करना** :: to get married (verb)
  * तुम शादी कब कर रही हो? 
  * When are you getting married? 
+----------
+ * **बड़ा ऊंचा झूला** :: Ferris wheel (noun)
+ * मां, मैं उस ऊंचे झूले पर बैठना चाहती हूँ! 
+ * Mom, I want to get on the Ferris wheel! 
 ----------
  * **प्यार करना** :: to love (verb)
  * मैं तुम्हें हमेशा प्यार करूंगी। 

@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -695,89 +695,177 @@
  * پشت وقت بیکاری که در طفولیت داشتم دق شدیم. 
  * I miss all the free time I had as a child. 
 ----------
+ * **ترساندن** :: to startle (verb)
+ * صدای انفجار مرا ترساند. 
+ * The sound of the explosion startled me. 
+----------
  * **مگراینکه** :: unless (conjunction)
  * او به خواب نخواهد رفت مگراینکه یک قصه برایش بخوانید. 
  * He won't go to sleep unless you read him a story. 
+----------
+ * **دعوا کردن** :: to quarrel (verb)
+ * آنها تمام وقت را در دعوا کردن سپری میکنند. 
+ * They spent the whole time quarrelling. 
 ----------
  * **گلۀ سگ تازی** :: pack of hounds (noun)
  * همسایه ای ما یک گلۀ سگ تازی دارد. 
  * Our neighbor has a pack of hounds. 
 ----------
+ * **نازدانه** :: spoiled, pampered (adjective)
+ * او یک طفل نازدانه است. 
+ * He is a spoiled child. 
+----------
  * **آرزو کردن** :: longing for (expression)
  * آرزوی وطنم را میکنم، بخاطریکه در خارج زنده گی میکنم. 
  * I feel longing for my home because I'm living abroad. 
+----------
+ * **صاحب** :: master, owner (noun)
+ * من صاحب سرنوشت خود هستم. 
+ * I am the master of my own destiny. 
 ----------
  * **پس پس کردن** :: whisper (verb)
  * باد در لابلای درخت ها پس پس میکند. 
  * The wind whispers through the trees. 
 ----------
+ * **حد اقل** :: at least (expression)
+ * حد اقل او چیزی کرد، دیگران تماشا میکردند. 
+ * At least he did something; everyone else just watched. 
+----------
  * **بیرون** :: in the open (expression)
  * ما بیرون در زیر ستاره ها خواب کردیم. 
  * We slept in the open, under the stars. 
+----------
+ * **ناسزا** :: profanity (noun)
+ * آدم باید ناسزا نگوید. 
+ * One shouldn't use profanity here. 
 ----------
  * **من امیدوارم!** :: I hope so! (interjection)
  * من امیدوارم که تمام دوستانم بیایند. 
  * I hope all my friends will come. 
 ----------
+ * **غیبت** :: absence (noun)
+ * در صورت غیبت من میتوانید پروژه را جاری نگهدارید. 
+ * You can keep the project going in my absence. 
+----------
  * **صمیمی** :: friendly (adjective)
  * مردم افغانستان بسیار صمیمی هستند. 
  * People of Afghanistan are very friendly. 
+----------
+ * **چرخ فلک** :: Ferris wheel (noun)
+ * مادر، من میخواهم که چرخ فلک بروم. 
+ * Mom, I want to ride the Ferris wheel! 
 ----------
  * **اصراف** :: in excess (expression)
  * اگر اصراف نشود نوشیدن الکول بد نیست. 
  * Drinking is OK as long as you don't do it in excess. 
 ----------
+ * **سوختن** :: to burn (verb)
+ * میگویند وقت آتشی است که ما در آن میسوزیم. 
+ * They say time is the fire in which we burn. 
+----------
  * **شاروال** :: mayor (noun)
  * شاروال کابل کی است؟ 
  * Who's the mayor of Kabul? 
+----------
+ * **خسته** :: seed (noun)
+ * من همیشه انواع تربوز بدون خسته را میخرم. 
+ * I always buy the variety of watermelon without seeds. 
 ----------
  * **گدوود** :: mess (noun)
  * زندگی من گدوود است، نمیدانم چی کنم. 
  * My life is a mess and I don't know what to do. 
 ----------
+ * **انتقاد کردن** :: to object (verb)
+ * آیا پدرتان این بار انتقاد نکرد؟ 
+ * Didn't your father object this time? 
+----------
  * **معما** :: jigsaw puzzle (noun)
  * با هم گذاشتن قطعه های معما تمرین خوب دماغی است. 
  * Putting jigsaw puzzles together is a good mental exercise. 
+----------
+ * **ستیورد** :: stewardess, flight attendant (noun)
+ * دختر من به حیث ستیورد کار میکند. 
+ * My daughter works as a stewardess. 
 ----------
  * **فقدان** :: lack of (expression)
  * در امتحان شاگردان فقدان آمادگی ایشان را اظهار کردند. 
  * In the exam the students revealed their total lack of preparation. 
 ----------
+ * **ریحان** :: basil (noun)
+ * ریحان ترکیب اصلی پیستو است. 
+ * Basil is the main ingredient for pesto. 
+----------
  * **خود نمایی کردن** :: to show off (verb)
  * بخاصر خود نمایی کردن به دوستانش آن کار را انجام داد. 
  * He did it just to show off in front of his friends. 
+----------
+ * **هر قدر زود** :: as soon as (conjunction)
+ * هرقدر زود میتوانم آنجا خواهم بود. 
+ * I will be there as soon as I can. 
 ----------
  * **متوجه شدن** :: notice (verb)
  * من متوجه گلۀ گرگ ها که به طرف من میامدند نشدم. 
  * I failed to notice the approaching pack of wolves. 
 ----------
+ * **وحشی** :: frantic, frenzied, wild (adjective)
+ * وقتی موتر حرکت کرد پشک من دیوانه شد. 
+ * My cat became frantic as soon as the car began to move. 
+----------
  * **خوش** :: happy (adjective)
  * آیا خوش هستید؟ 
  * Are you happy? 
+----------
+ * **شکست دادن** :: to defeat (verb)
+ * با کمک دوستان ما دشمنان را شکست دادیم. 
+ * We defeated the enemies with the help of our friends. 
 ----------
  * **اکادمی موسیقی** :: music academy (noun)
  * او در ویانا در اکادمی موسیقی درس خواند. 
  * He studied at the music academy in Vienna. 
 ----------
+ * **کلبه گِلی** :: hovel, slum (noun)
+ * شاید یک کلبه گِلی باشد مگر برای من خانه است. 
+ * It may be a slum, but it's home to me. 
+----------
  * **گلخانه** :: greenhouse (noun)
  * ساینسدانها در باره گازهای گلخانه یی نگران هستند. 
  * Scientists worry about the Greenhouse Effect. 
+----------
+ * **دق شدن** :: to miss (verb)
+ * پشت وقت بیکاری که در طفولیت داشتم دق شدیم. 
+ * I miss all the free time I had as a child. 
 ----------
  * **کوشش** :: attempt (noun)
  * او در کوشش شکستاندن ریکارد جهانی ناکام شد. 
  * He failed in his attempt to beat the world record. 
 ----------
+ * **مگراینکه** :: unless (conjunction)
+ * او به خواب نخواهد رفت مگراینکه یک قصه برایش بخوانید. 
+ * He won't go to sleep unless you read him a story. 
+----------
  * **دعوا** :: argument (noun)
  * ما در باره پول دعوا داشتیم. 
  * We had an argument about money. 
+----------
+ * **گلۀ سگ تازی** :: pack of hounds (noun)
+ * همسایه ای ما یک گلۀ سگ تازی دارد. 
+ * Our neighbor has a pack of hounds. 
 ----------
  * **آجندا** :: agenda (noun)
  * ماده ششم در آجندا جالبترین به نظر میرسد. 
  * The sixth item on the agenda looks the most interesting. 
 ----------
+ * **آرزو کردن** :: longing for (expression)
+ * آرزوی وطنم را میکنم، بخاطریکه در خارج زنده گی میکنم. 
+ * I feel longing for my home because I'm living abroad. 
+----------
  * **توصیه کردن** :: to advise (verb)
  * داکتر در باره چگونگی مواظبت از طفلش به او توصیه کرد. 
  * The doctor advised her how to take care of her baby. 
+----------
+ * **پس پس کردن** :: whisper (verb)
+ * باد در لابلای درخت ها پس پس میکند. 
+ * The wind whispers through the trees. 
 ----------
  * **شروع کردن** :: to start (verb)
  * بیایید که این محفل را شروع کنیم. 

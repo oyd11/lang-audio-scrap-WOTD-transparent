@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -1041,11 +1041,23 @@
  * Ima furansugo o benkyou shite imasu. 
  * I am studying French. 
 ----------
+ * **出来る** :: to be ready (verb)
+ * **dekiru** 
+ * ご飯が出来たよ。 
+ * Gohan ga dekitayo. 
+ * Dinner is ready. 
+----------
  * **買う** :: to buy (verb)
  * **kau** 
  * 新しいコンピュータを買いに行きます。 
  * Atarashii konpyûtâ o kaini ikimasu 
  * I am going to buy a new computer. 
+----------
+ * **うれしい** :: happy (adjective)
+ * **ureshii** 
+ * 優勝できてうれしいです。 
+ * Yuushou dekite ureshii desu. 
+ * I am very happy that I was able to win. 
 ----------
  * **いただきます** :: Let's eat. (expression)
  * **itadakimasu** 
@@ -1053,11 +1065,23 @@
  * Taberu mae ni "itadakimasu" to iimasu. 
  * Before eating, we say "let's eat." 
 ----------
+ * **イケメン** :: handsome man (noun)
+ * **ikemen** 
+ * イケメンが好きです。 
+ * Ikemen ga suki desu. 
+ * I like handsome men. 
+----------
  * **おはよう** :: Good morning. (expression)
  * **ohayou** 
  * 朝、先生に会った時「おはようございます。」と言った。 
  * Asa sensei ni atta toki "ohayougozaimasu" to itta. 
  * I said "Good morning" to my teacher when I saw her. 
+----------
+ * **いかす** :: to be attractive (verb)
+ * **ikasu** 
+ * あの子いかしているね。 
+ * Anoko ikashiteirune. 
+ * That girl is very attractive. 
 ----------
  * **こんばんは** :: Good evening. (expression)
  * **konnbannwa** 
@@ -1065,11 +1089,23 @@
  * Yoru, konbini de sensei ni attatoki "konbanwa" to iimashita. 
  * When I saw my teacher at a convenience store, I said "Good evening". 
 ----------
+ * **ガリガリ** :: very skinny (adjective)
+ * **garigari** 
+ * 彼女はがりがりにやせている。 
+ * Kanojo wa garigari ni yasete iru. 
+ * She is very skinny. 
+----------
  * **はじめまして** :: Nice to meet you. (expression)
  * **hajimemashite** 
  * はじめまして。田中です。どうぞよろしく。 
  * Hajimemashite. Tanaka desu. Douzo yoroshiku. 
  * My name is Tanaka. Nice to meet you. 
+----------
+ * **ガリ勉** :: nerd (noun)
+ * **gariben** 
+ * あいつはガリ勉だから勉強ができるんだ。 
+ * Aitsu wa gariben dakara benkyou ga dekirunnda. 
+ * He has good grades because he is a nerd. 
 ----------
  * **おなかがすいた** :: I am hungry. (expression)
  * **onakaga suita** 
@@ -1077,11 +1113,23 @@
  * Onakaga suite, nanimo dekinai. 
  * I cannot do anything because I am hungry. 
 ----------
+ * **人生** :: life (noun)
+ * **jinsei** 
+ * 人生山あり谷あり 
+ * Jinsei yama ari tani ari. 
+ * There are hard times and good times in life. 
+----------
  * **のどがかわいた** :: I am thirsty. (expression)
  * **nodo ga kawaita** 
  * のどがかわいて、死にそうです。 
  * Nodoga kawaite, shinisou desu. 
  * I am so thirsty, I feel like I am dying. 
+----------
+ * **一生** :: lifetime (noun)
+ * **isshou** 
+ * 一生に一度のチャンスがやってきた。 
+ * Isshou ni ichido no chansu ga yatte kita. 
+ * A once in a lifetime chance came to me. 
 ----------
  * **どういたしまして** :: You are welcome. (expression)
  * **douitashimashite** 
@@ -1089,11 +1137,23 @@
  * Douitashimashite. Mata nanika attara itte kudasai. 
  * You are welcome. If there is anything I can do, please let me know. 
 ----------
+ * **クロワッサン** :: croissant (noun)
+ * **kurowassan** 
+ * クロワッサンが食べたい。 
+ * Kurowassan ga tabetai. 
+ * I want to eat a croissant. 
+----------
  * **コンビニ** :: convenience store (noun)
  * **konbini** 
  * コンビニでお昼ご飯を買った。 
  * Konbini de ohiru o katta. 
  * I bought lunch at a convenience store. 
+----------
+ * **上手** :: good at (adjective)
+ * **jouzu** 
+ * 田中さんはテニスが上手です。 
+ * Tanaka san wa tenisu ga jouzu desu. 
+ * Mr. Tanaka is good at tennis. 
 ----------
  * **消しゴム** :: eraser (noun)
  * **keshigomu** 
@@ -1101,11 +1161,23 @@
  * Keshigomu wo kashite kudasai. 
  * May I borrow an eraser? 
 ----------
+ * **下手** :: poor at (adjective)
+ * **heta** 
+ * 私は絵を描くのが下手です。 
+ * Watashi wa e o kakunoga heta desu. 
+ * I am poor at drawing. 
+----------
  * **電気** :: electricity (noun)
  * **denki** 
  * ちょっと、電気つけて。 
  * Chotto, denki tsukete. 
  * Please turn on the electricity. 
+----------
+ * **命** :: life (noun)
+ * **inochi** 
+ * 命あってのものだね。 
+ * Inochi atteno monodane. 
+ * While there is life, there is hope. 
 ----------
  * **すごい** :: great (adjective)
  * **sugoi** 
@@ -1113,11 +1185,23 @@
  * Ano eiga wa sugoi yo. 
  * That movie is great. 
 ----------
+ * **ドジ** :: mistake (noun)
+ * **doji** 
+ * ドジをしてしまった。 
+ * Doji o shite shimatta. 
+ * I made a mistake. 
+----------
  * **高い** :: high, expensive (adjective)
  * **takai** 
  * フランスに行きたいけど、飛行機代が高すぎて行けない。 
  * Furansu ni ikitai kedo hikoukidai ga takasugite ikenai. 
  * I want to go to France but the airplane ticket is too expensive to go. 
+----------
+ * **矛盾** :: contradiction (noun)
+ * **mujun** 
+ * 彼の理論は矛盾だらけだ。 
+ * Kare no riron wa mujun darake da. 
+ * His theory is full of contradictions. 
 ----------
  * **安い** :: cheap (adjective)
  * **yasui** 
@@ -1125,11 +1209,23 @@
  * Nihon ni iku nowa yasukunai. 
  * Going to Japan is not cheap. 
 ----------
+ * **損** :: loss (noun)
+ * **son** 
+ * こんなことをしても、損なだけだよ。 
+ * Konna koto o shitemo son na dake dayo. 
+ * It is only your loss if you do this. 
+----------
  * **二酸化炭素** :: carbon dioxide (noun)
  * **nisankatanso** 
  * 温室効果ガスの大部分は二酸化炭素だ。 
  * Onshitsukoukagasu no daibubun wa nisankatanso da. 
  * The majority of greenhouse gas is carbon dioxide. 
+----------
+ * **得な** :: lucky (adjective)
+ * **tokuna** 
+ * 田中さんはだれからも好かれる得な性格だ。 
+ * Tanaka san wa darekara mo sukareru toku na seikaku da. 
+ * Mr. Tanaka has a lucky nature and is loved by everybody. 
 ----------
  * **排出量** :: emission (noun)
  * **haishutsuryou** 
@@ -1137,11 +1233,23 @@
  * Nisankatanso no haishuturyou o herasanakereba naranai. 
  * We must reduce carbon dioxide emissions. 
 ----------
+ * **アマチュア** :: amateur (noun)
+ * **amachua** 
+ * アマチュアにしては上手です。 
+ * Amachua ni shitewa zyôzu desu. 
+ * He is good for an amateur. 
+----------
  * **左利き** :: left-handed (noun)
  * **hidarikiki** 
  * 姉は左利きです。 
  * Ane wa hidarikiki desu. 
  * My sister is left-handed. 
+----------
+ * **付き合う** :: to date (verb)
+ * **tsukiau** 
+ * 今、付き合っている人はいません。 
+ * Ima, tsukiatteiru hito wa imasen. 
+ * I am not dating anyone. 
 ----------
  * **いじめ** :: bullying (noun)
  * **ijime** 
@@ -1149,11 +1257,23 @@
  * Ijime wa ookina mondai da. 
  * Bullying is a big problem. 
 ----------
+ * **結婚している** :: married (adjective)
+ * **kekkon shiteiru** 
+ * 姉はまだ結婚していません。 
+ * Ane wa mada kekkon shite imasen 
+ * My older sister is not married yet. 
+----------
  * **彼** :: boyfriend (noun)
  * **kare** 
  * 彼ができました。 
  * Kare ga dekimashita. 
  * I have a new boyfriend. 
+----------
+ * **嫌い** :: to dislike (verb)
+ * **kirai** 
+ * 勉強が嫌いです。 
+ * Benkyou ga kirai desu. 
+ * I dislike studying. 
 ----------
  * **彼女** :: girlfriend (noun)
  * **kanojo** 
@@ -1161,11 +1281,23 @@
  * Kanojo to dêto shimashita. 
  * I went on a date with my girlfriend. 
 ----------
+ * **好き** :: to like (verb)
+ * **suki** 
+ * チョコレートが好きです。 
+ * Chokorêto ga suki desu. 
+ * I like chocolate. 
+----------
  * **すっぴん** :: a face with no makeup (noun)
  * **suppin** 
  * すっぴんで仕事にいけない。 
  * Suppin de shigoto ni ikenai. 
  * I cannot go to work without makeup. 
+----------
+ * **年をとっている** :: old (adjective)
+ * **toshi o totte iru** 
+ * あのおじいさんは年をとっている。 
+ * Ano ojiisan wa toshi o totteiru. 
+ * That grandpa is old. 
 ----------
  * **ファミレス** :: family restaurant (noun)
  * **famiresu** 

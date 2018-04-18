@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -695,89 +695,177 @@
  * Musisz dokładnie zakleić kopertę. 
  * You have to seal the envelope very carefully. 
 ----------
- * **konto** :: account (noun)
- * Czy chciałby pan otworzyć konto? 
- * Would you like to open an account? 
-----------
- * **ryba** :: fish (noun)
- * Nie umie śpiewać, ale pływa jak ryba. 
- * He can't sing, but he swims like a fish. 
-----------
  * **biuro** :: office (noun)
  * Jestem w biurze codziennie od 9 do 17. 
  * I'm at the office from 9 to 5 every day. 
+----------
+ * **konto** :: account (noun)
+ * Czy chciałby pan otworzyć konto? 
+ * Would you like to open an account? 
 ----------
  * **klucz** :: key (noun)
  * Oto klucz do rozwiązania tej zagadki. 
  * This is the key to solving this mystery. 
 ----------
+ * **ryba** :: fish (noun)
+ * Nie umie śpiewać, ale pływa jak ryba. 
+ * He can't sing, but he swims like a fish. 
+----------
  * **okulary** :: glasses (noun)
  * Lekarz zalecił mi noszenie okularów. 
  * The doctor recommended that I wear glasses. 
+----------
+ * **biuro** :: office (noun)
+ * Jestem w biurze codziennie od 9 do 17. 
+ * I'm at the office from 9 to 5 every day. 
 ----------
  * **góra** :: mountain (noun)
  * Rysy to najwyższa góra w Polsce. 
  * Rysy is the highest mountain in Poland. 
 ----------
+ * **klucz** :: key (noun)
+ * Oto klucz do rozwiązania tej zagadki. 
+ * This is the key to solving this mystery. 
+----------
  * **owca** :: sheep (noun)
  * Na polu pasło się stado owiec. 
  * A flock of sheep was grazing in the field. 
+----------
+ * **okulary** :: glasses (noun)
+ * Lekarz zalecił mi noszenie okularów. 
+ * The doctor recommended that I wear glasses. 
 ----------
  * **kubek** :: mug (noun)
  * Jestem znanym kolekcjonerem kubków. 
  * I'm a renowned collector of mugs. 
 ----------
+ * **góra** :: mountain (noun)
+ * Rysy to najwyższa góra w Polsce. 
+ * Rysy is the highest mountain in Poland. 
+----------
  * **zdjęcie** :: picture (noun)
  * Zgubiłam wszystkie moje ślubne zdjęcia. 
  * I lost all of my wedding pictures. 
+----------
+ * **owca** :: sheep (noun)
+ * Na polu pasło się stado owiec. 
+ * A flock of sheep was grazing in the field. 
 ----------
  * **tort** :: cake (noun)
  * Ich tort ślubny zawalił się przed ich oczami. 
  * Their wedding cake collapsed in front of their eyes. 
 ----------
+ * **kubek** :: mug (noun)
+ * Jestem znanym kolekcjonerem kubków. 
+ * I'm a renowned collector of mugs. 
+----------
  * **słownik** :: dictionary (noun)
  * Tłumacze często korzystają ze słowników. 
  * Translators often use dictionaries. 
+----------
+ * **zdjęcie** :: picture (noun)
+ * Zgubiłam wszystkie moje ślubne zdjęcia. 
+ * I lost all of my wedding pictures. 
 ----------
  * **kanapka** :: sandwich (noun)
  * Podałam mu kanapki z szynką i serem. 
  * I served him ham and cheese sandwiches. 
 ----------
+ * **tort** :: cake (noun)
+ * Ich tort ślubny zawalił się przed ich oczami. 
+ * Their wedding cake collapsed in front of their eyes. 
+----------
  * **kapelusz** :: hat (noun)
  * Widząc mnie, uchylił kapelusza. 
  * As he saw me, he tipped his hat. 
+----------
+ * **słownik** :: dictionary (noun)
+ * Tłumacze często korzystają ze słowników. 
+ * Translators often use dictionaries. 
 ----------
  * **ból** :: pain (noun)
  * Narzekał na silny ból brzucha. 
  * He complained of a severe abdominal pain. 
 ----------
+ * **kanapka** :: sandwich (noun)
+ * Podałam mu kanapki z szynką i serem. 
+ * I served him ham and cheese sandwiches. 
+----------
  * **lek** :: remedy, medicine (noun)
  * Przyjaźń to cudowny lek na samotność. 
  * Friendship is a wonderful remedy for loneliness. 
+----------
+ * **kapelusz** :: hat (noun)
+ * Widząc mnie, uchylił kapelusza. 
+ * As he saw me, he tipped his hat. 
 ----------
  * **koszula** :: shirt (noun)
  * Nie cierpię prasować koszul. 
  * I hate ironing shirts. 
 ----------
+ * **ból** :: pain (noun)
+ * Narzekał na silny ból brzucha. 
+ * He complained of a severe abdominal pain. 
+----------
  * **list** :: letter (noun)
  * Jego fanclub otrzymuje codziennie setki listów. 
  * His fanclub receives hundreds of letters every day. 
+----------
+ * **lek** :: remedy, medicine (noun)
+ * Przyjaźń to cudowny lek na samotność. 
+ * Friendship is a wonderful remedy for loneliness. 
 ----------
  * **motyl** :: butterfly (noun)
  * Zobaczyłam bardzo rzadkiego motyla siedzącego na kaktusie. 
  * I saw a very rare butterfly sitting on a cactus. 
 ----------
+ * **koszula** :: shirt (noun)
+ * Nie cierpię prasować koszul. 
+ * I hate ironing shirts. 
+----------
  * **długopis** :: pen (noun)
  * W napadzie złości połamał swój długopis. 
  * In a fit of anger, he broke his pen. 
+----------
+ * **list** :: letter (noun)
+ * Jego fanclub otrzymuje codziennie setki listów. 
+ * His fanclub receives hundreds of letters every day. 
 ----------
  * **stopa** :: foot (noun)
  * Słyszałam, że Yeti ma ogromne stopy. 
  * I heard that Yeti has giant feet. 
 ----------
+ * **motyl** :: butterfly (noun)
+ * Zobaczyłam bardzo rzadkiego motyla siedzącego na kaktusie. 
+ * I saw a very rare butterfly sitting on a cactus. 
+----------
  * **ciało** :: body (noun)
  * Tauaż ciała stał się ostatnio bardzo modny. 
  * The body tattoo has become very popular lately. 
+----------
+ * **długopis** :: pen (noun)
+ * W napadzie złości połamał swój długopis. 
+ * In a fit of anger, he broke his pen. 
+----------
+ * **bałagan** :: mess (noun)
+ * Mam na biurku taki bałagan, że nic nie mogę znaleźć. 
+ * I have such a mess on my desk, I can't find anything. 
+----------
+ * **stopa** :: foot (noun)
+ * Słyszałam, że Yeti ma ogromne stopy. 
+ * I heard that Yeti has giant feet. 
+----------
+ * **siostra** :: sister (noun)
+ * Chciałabym mieć siostrę, zamiast tego mam 3 braci. 
+ * I wish I had a sister, instead I have three brothers. 
+----------
+ * **ciało** :: body (noun)
+ * Tauaż ciała stał się ostatnio bardzo modny. 
+ * The body tattoo has become very popular lately. 
+----------
+ * **ząb** :: tooth (noun)
+ * Musisz myć zęby przez co najmniej 2 minuty. 
+ * You have to brush your teeth for at least two minutes. 
 ----------
  * **bałagan** :: mess (noun)
  * Mam na biurku taki bałagan, że nic nie mogę znaleźć. 

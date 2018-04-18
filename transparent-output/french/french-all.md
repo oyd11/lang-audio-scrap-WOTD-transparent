@@ -1,6 +1,6 @@
 # french WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **en bataille** :: messy (expression)
@@ -695,89 +695,177 @@
  * Un nouveau complot visant le Président a été déjoué par les Renseignements Généraux. 
  * A new plot against the president has been foiled by the Intelligence Services. 
 ----------
+ * **le chevalier** :: knight (noun)
+ * Les Chevaliers de la Table Ronde étaient les défenseurs de l'honneur et du courage. 
+ * The Knights of the Round Table were the defenders of honor and courage. 
+----------
  * **parallèlement** :: in synch (adverb)
  * Il cumule deux emplois ; il travaille dans un bureau au centre-ville et s'occupe parallèlement d'une boutique en ligne sur internet. 
  * He handles two jobs: he works in an office downtown, and at the same time he manages an online sales site. 
+----------
+ * **le pot-au-feu** :: beef stew (noun)
+ * L'odeur du pot-au-feu dans la cuisine ravive en moi des souvenirs d'enfance. 
+ * The smell of the beef stew in the kitchen brings back childhood memories. 
 ----------
  * **alors que** :: whereas (adverb)
  * La bibliothèque ferme ses portes à 16h30 alors qu'elle sort de l'école à 17h, donc elle ne pourra pas aller y travailler. 
  * The library closes at 4:30pm, whereas she leaves school at 5pm, therefore she won't be able to work there. 
 ----------
+ * **la marmite** :: pot (noun)
+ * Je me rappelle les bons petits plats mijotant dans les marmites de ma grand-mère. 
+ * I remember the good meals simmering in my grandma's pots. 
+----------
  * **incassable** :: unbreakable (adjective)
  * Les jouets pour les tout-petits sont pour la plupart incassables. 
  * For the most part, toys for toddlers are unbreakable. 
+----------
+ * **en bataille** :: messy (expression)
+ * Que t'est-il arrivé ? Tu as les cheveux en bataille ! 
+ * What happened? Your hair is a mess! 
 ----------
  * **incompris** :: misunderstood (adjective)
  * Après cette dispute nous nous sommes quittés fâchés et je me sens vraiment incomprise. 
  * After this argument we left upset with each other, and I really feel misunderstood. 
 ----------
+ * **l'abat-jour** :: lampshade (noun)
+ * Lors d'une brocante, j'ai trouvé cet abat-jour du 19è siècle, c'est une pièce rare. 
+ * I found this lampshade from the 19th century at an antiques fair: it's a collector's item. 
+----------
  * **la faillite** :: bankruptcy (noun)
  * Pendant une crise économique, la faillite est parfois inévitable. 
  * During an economic crisis, bankruptcy is sometimes unavoidable. 
+----------
+ * **la serpillère** :: mop (noun)
+ * Le chat a renversé son lait, je demanderai alors à la femme de ménage de passer la serpillère. 
+ * The cat spilt its milk so I'll ask the housekeeper to mop the floor. 
 ----------
  * **les gens** :: people (noun)
  * Je ne peux pas travailler avec ces gens ! 
  * I can't work with these people! 
 ----------
+ * **accueillant** :: welcoming (adjective)
+ * Les Italiens sont réputés pour être des gens très accueillants. 
+ * Italians are known to be very welcoming people. 
+----------
  * **la lettre de motivation** :: cover letter (noun)
  * Une bonne lettre de motivation donnera envie à l'employeur de lire votre curriculum vitae. 
  * A good cover letter will motivate the employer to read your resume. 
+----------
+ * **se la couler douce** :: to take it easy (expression)
+ * Elle a été renvoyée par son patron car certains de ses collègues disaient qu'elle se la coulait douce. 
+ * She was fired by her boss because some of her colleagues said she was taking it easy. 
 ----------
  * **puéril** :: childish (adjective)
  * Je n'arrive pas à m'entendre avec ma cousine, elle a une attitude si puérile ! 
  * I can't seem to get along with my cousin; her attitude is so childish. 
 ----------
+ * **autrement** :: otherwise (adverb)
+ * Je pensais que ce serait simple, autrement je ne t'aurais pas demander de me remplacer ! 
+ * I'd thought it would be simple, otherwise I wouldn't have asked you replace me! 
+----------
  * **le béton** :: concrete (noun)
  * Ce jeune artiste sculpte dans du béton ; ses œuvres sont très particulières. 
  * This young artist sculpts in concrete; his works are very distinctive. 
+----------
+ * **se tourner les pouces** :: to twiddle one's thumbs (expression)
+ * Nous déménageons ! Tu ferais mieux de nous aider au lieu de te tourner les pouces ! 
+ * We're moving! You'd better help us instead of twiddling your thumbs! 
 ----------
  * **le tape-cul** :: see-saw (noun)
  * Ce terrain de jeux est très complet ; il y a deux balançoires, un toboggan et même un tape-cul. 
  * This playground is very complete: there are two swings, a slide, and even a see-saw. 
 ----------
+ * **les fiançailles** :: engagement (noun)
+ * La fête de fiançailles de mes voisins était particulièrement réussie ! 
+ * My neighbor's engagement party was a great success! 
+----------
  * **récolter** :: to garner (verb)
  * Ce repas de charité a permis de récolter des milliers d'euros pour la recherche contre le cancer. 
  * This charity dinner has garnered thousands of Euros for cancer research. 
+----------
+ * **l'âme sœur** :: soul mate (noun)
+ * De nombreuses agences matrimoniales vous promettent de trouver l'âme sœur, mais ce n'est pas une tâche aisée. 
+ * Many matrimonial agencies promise to find you a soul mate, but this is not an easy task. 
 ----------
  * **à but non lucratif** :: non-profit (adjective)
  * Nous avons crée une association à but non-lucratif qui propose des cours de "Français comme Langue Etrangère" aux nouveaux arrivants. 
  * We created a non-profit association which offers "French as a Foreign Language" classes to newcomers. 
 ----------
+ * **exiger** :: to require (verb)
+ * Certains jours exigent plus de café que d'autres. 
+ * Some days require more coffee than others. 
+----------
  * **l'orthographe** :: spelling (noun)
  * Les dictées permettent aux professeurs d'évaluer le niveau d'orthographe de leurs élèves. 
  * Dictations allow the teachers to test the level of their pupils' spelling skills. 
+----------
+ * **tatillon** :: finicky (adverb)
+ * Mon nouveau patron est très tatillon, je ne suis pas sûre que nous allons nous entendre. 
+ * My new boss is very finicky; I'm not sure we will be able to get along. 
 ----------
  * **le travail** :: work (noun)
  * Mon travail ici est terminé. 
  * My work here is done. 
 ----------
+ * **être tiraillé** :: to be torn (expression)
+ * Dans son nouveau poste, mon frère est tiraillé entre son travail et sa famille. 
+ * For this new job my brother is torn between his work and his family. 
+----------
  * **malentendant** :: hard of hearing (adjective)
  * Le langage des signes est indispensable pour les personnes sourdes et malentendantes. 
  * Sign language is essential for the deaf and hard of hearing. 
+----------
+ * **flâner** :: to stroll (verb)
+ * Les Parisiens aiment flâner dans les rues de Montmartre, c'est un endroit original et apaisant. 
+ * Parisians like strolling in the streets of Montmartre, it's a unique and peaceful place. 
 ----------
  * **l'humanité** :: mankind (noun)
  * Tout au long de l'histoire, de nombreux fléaux ont menacé l'humanité, mais jusqu'alors aucune solution n'a jamais été trouvée. 
  * Throughout history numerous epidemics have threatened mankind, but so far no solution has been found. 
 ----------
+ * **tricot** :: knitting (noun)
+ * Ces jeunes retraités organisent un atelier tricot tous les mercredis après-midis. 
+ * These new retirees organize a knitting workshop every Wednesday afternoon. 
+----------
  * **le service** :: department (noun)
  * Le service comptabilité et le service ressources humaines travaillent ensemble sur ce dossier. 
  * The accounting department and human resources are working together on this file. 
+----------
+ * **courtiser** :: to court (verb)
+ * Après l'avoir courtisée pendant des mois, Paul a enfin demandé Sophie en mariage le jour de la Saint-Valentin. 
+ * After courting her for months, Paul finally proposed to Sophie on Valentine's Day. 
 ----------
  * **sans voix** :: speechless (adverb)
  * Après le discours du directeur général sur les résultats de l'entreprise, l'équipe est restée sans voix. 
  * After the CEO's presentation of the company's results, the staff was speechless. 
 ----------
+ * **laisser tomber** :: to dump (expression)
+ * Ma sœur fréquentait un type très gentil, elle l'a laissé tomber sans explication. 
+ * My sister was dating a very nice guy, she dumped him without any explanation. 
+----------
  * **le bienfaiteur** :: benefactor (noun)
  * Cette école d'art fermera si on ne lui trouve pas rapidement un bienfaiteur qui apporte des fonds. 
  * This art school will close if we don't quickly find a benefactor who brings some funds. 
+----------
+ * **idolâtrer** :: to idolize (verb)
+ * Ma nièce idolâtre sa mère, il n'y a personne de plus important au monde. 
+ * My niece idolizes her mother, there's nobody more important in the world. 
 ----------
  * **l'accouchement** :: delivery (noun)
  * Ma belle-sœur est très fatiguée et risque un accouchement prématuré ; c'est pourquoi il lui faut beaucoup de repos. 
  * My sister-in-law is very tired and runs the risk of premature delivery; this is why she needs a lot of rest. 
 ----------
+ * **noyade** :: drowning (adjective)
+ * Le drapeau rouge a été hissé sur la plage en raison du risque de noyade. 
+ * The red flag was hoisted on the beach this morning because of the high risk of drowning. 
+----------
  * **surdoué** :: gifted (adjective)
  * Cette école a ouvert une classe spécialement pour les enfants surdoués où l'enseignement est mieux adapté à leurs besoins. 
  * This school opened a special class for gifted children where the education is better adapted to their needs. 
+----------
+ * **l'autoroute** :: highway (noun)
+ * Certains disent que la vie est une autoroute. 
+ * Some say that life is a highway. 
 ----------
  * **les sourcils** :: eyebrows (noun)
  * Regarde comme cette petite fille fronce les sourcils quand elle est insatisfaite ; elle est si drôle ! 

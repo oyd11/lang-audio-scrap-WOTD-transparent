@@ -1,6 +1,6 @@
 # irish WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **a ordú** :: to order (verb)
@@ -695,89 +695,177 @@
  * Tá, a Virginia, tá Daidí na Nollag ann. 
  * Yes, Virginia, there is a Santa Claus. 
 ----------
+ * **an punt** :: the pound (Irish punt) (noun)
+ * D'imigh an punt Éireannach as feidhm sa bhliain dhá mhíle is a dó. 
+ * The Irish pound went out of usage in the year 2002. 
+----------
  * **Mam** :: Mom (US), Mam (Ireland) (noun)
  * Níl mo sciorta ró ghairid, a Mham. Tá sé díreach cosúil le sciortaí na gcailíní eile! 
  * But my skirt isn't too short, Mom, it's just like the other girls' skirts. 
+----------
+ * **oiriúnach** :: suitable (adjective)
+ * Sa bhliain 1999 bhí a lán daoine buartha an mbeadh a ríomhairí oiriunach don bhliain 2000. 
+ * In the year 1999 many people were worried about whether their computers would be Y2K-compliant. 
 ----------
  * **Daid** :: Dad (US), Da (Ireland) (noun)
  * Tá fiche dollar de dhíth orm, a Dhaid. 
  * I need twenty dollars, Dad. 
 ----------
+ * **an bhliain** :: the year (noun)
+ * Rachaidh mé go hÉirinn an bhliain seo chugainn. 
+ * I will go to Ireland next year. 
+----------
  * **Mamaí** :: Mommy (US), Mammy (Ireland) (noun)
  * An bhfuil cead againn uachtar reoite a cheannach, a Mhamaí 
  * Can we buy ice cream, Mommy? 
+----------
+ * **an ball** :: the love mark (a magical symbol that makes those who see it fall in love) (noun)
+ * Sa seanscéal Fiannaíochta bhí ball seirce ag Diarmaid agus mar sin thit Gráinne i ngrá leis. 
+ * In the old Fenian tale, Diarmaid had a love spot and because of that, Gráinne fell in love with him. 
 ----------
  * **Daidí** :: Daddy (US, Ireland) (noun)
  * Rachaidh muid go dtí an zú le Daidí amárach. 
  * We will go to the zoo with Daddy tomorrow. 
 ----------
+ * **an grá** :: the love (noun)
+ * Grá mo chroí thú! 
+ * You are the love of my heart! 
+----------
  * **Mamó** :: Grandma (noun)
  * Is breá liom a bheith ag fanacht ag teach Mhamó. 
  * I really like staying at Grandma's house. 
+----------
+ * **Oíche mhaith!** :: Good night! (expression)
+ * Oíche mhaith! 
+ * Good night! 
 ----------
  * **Daideo** :: Grandad (noun)
  * Chuidigh Daideo liom mo rothar a dheisiú. 
  * Grandad helped me fix my bike. 
 ----------
+ * **Dia dhuit ar maidin.** :: Good morning! (expression)
+ * Dia dhuit ar maidin. 
+ * Good morning! 
+----------
  * **an cóilí** :: the collie (noun)
  * Ní cóilí baineann ar chor ar bith a bhí i Lassie, ach madra fireann. 
  * Lassie wasn't a female collie at all, but a male dog. 
+----------
+ * **an taibhse** :: the ghost (noun)
+ * An bhfaca tú taibhse Oíche Shamhna? 
+ * Did you see a ghost on Halloween? 
 ----------
  * **an chaint** :: the speech (noun)
  * Bhí caint ag an gcapall an tUasal Ed sa seanchlár teilifíse. 
  * In the old TV show, the horse Mr. Ed had the ability to speak. 
 ----------
+ * **an bhó** :: the cow (noun)
+ * Is é an 'Dexter' an bhó is lú sa domhan; ní bhíonn níos mó ná 750 punt meáchain inti. 
+ * The 'Dexter' is the smallest cow in the world; it doesn't weigh more than 750 lb. 
+----------
  * **aisteach** :: strange (adjective)
  * Is duine aisteach í. Ní labhaireann sí le h-éinne. 
  * She is a strange person. She doesn't speak to anyone. 
+----------
+ * **an sí-abhabha** :: the chihuahua (noun)
+ * Is é an sí-abhabha an madra is lú sa domhan. 
+ * The chihuahua is the smallest dog in the world. 
 ----------
  * **an tsrón** :: the nose (noun)
  * Bhainfeadh Samantha tarraingt bheag as a srón chun draíocht a dhéanamh sa chlár Bewitched. 
  * Samantha would twitch her nose in order to do magic in the show Bewitched. 
 ----------
+ * **an cú faoil** :: the (Irish) wolfhound (noun)
+ * Tá an cú faoil ar cheann de na madraí is mó sa domhan. 
+ * The Irish wolfhound is one of the biggest dogs in the world. 
+----------
  * **an tsúil** :: the eye (noun)
  * Tá rud éigin i mo shúil agus tá sé pianmhar. 
  * There is something in my eye and it is painful. 
+----------
+ * **Rúiseach** :: Russian (adjective)
+ * Is Rúiseach é Vladamir Putin. 
+ * Vladamir Putin is Russian. 
 ----------
  * **an béal** :: the mouth (noun)
  * Oscail do bhéal agus ith do chuid bia. 
  * Open your mouth and eat your food. 
 ----------
+ * **an cú** :: the hound (noun)
+ * Fuair Setanta ainm nua, Cú Chulainn, mar mharaigh sé cú de chuid Chulainn agus b'éigean dó a bheith ina ghadhar faire do Chulann ina ionad. 
+ * Setanta got a new name, Cú Chulainn, because he killed the hound of Culann and he had to be Culann's watchdog instead. 
+----------
  * **an slaghdán** :: the cold (illness) (noun)
  * Tá slaghdán orm. 
  * I have a cold. 
+----------
+ * **an Nollaig** :: Christmas (noun)
+ * Tá, a Virginia, tá Daidí na Nollag ann. 
+ * Yes, Virginia, there is a Santa Claus. 
 ----------
  * **fuar** :: cold (adjective)
  * Tá sé fuar istigh anseo. 
  * It's cold in here. 
 ----------
+ * **Mam** :: Mom (US), Mam (Ireland) (noun)
+ * Níl mo sciorta ró ghairid, a Mham. Tá sé díreach cosúil le sciortaí na gcailíní eile! 
+ * But my skirt isn't too short, Mom, it's just like the other girls' skirts. 
+----------
  * **Sin sin!** :: That's that! (expression)
  * Sin sin! Tá sé déanta. 
  * That's that! It's done. 
+----------
+ * **Daid** :: Dad (US), Da (Ireland) (noun)
+ * Tá fiche dollar de dhíth orm, a Dhaid. 
+ * I need twenty dollars, Dad. 
 ----------
  * **Sin é!** :: That's it! (expression)
  * Sin é! Tá sin ceart. 
  * That's it! That's correct. 
 ----------
+ * **Mamaí** :: Mommy (US), Mammy (Ireland) (noun)
+ * An bhfuil cead againn uachtar reoite a cheannach, a Mhamaí 
+ * Can we buy ice cream, Mommy? 
+----------
  * **Amachaigí!** :: You (all) go outside! (expression)
  * Amachaigí anois! 
  * You all go outside now! 
+----------
+ * **Daidí** :: Daddy (US, Ireland) (noun)
+ * Rachaidh muid go dtí an zú le Daidí amárach. 
+ * We will go to the zoo with Daddy tomorrow. 
 ----------
  * **Isteachaigí!** :: You (all) go inside! (expression)
  * Isteachaigí anois! 
  * You all go inside now! 
 ----------
+ * **Mamó** :: Grandma (noun)
+ * Is breá liom a bheith ag fanacht ag teach Mhamó. 
+ * I really like staying at Grandma's house. 
+----------
  * **críonna** :: wise (adjective)
  * Deirtear 'máthair mhór' do 'grandmother' i nDún na nGall, ach deir a lán daoine i gCiarraí 'máthair chríonna.' 
  * In Donegal, people say 'máthair mhór' for 'grandmother,' but in Kerry, a lot of people say 'máthair chríonna.' 
+----------
+ * **Daideo** :: Grandad (noun)
+ * Chuidigh Daideo liom mo rothar a dheisiú. 
+ * Grandad helped me fix my bike. 
 ----------
  * **Alasca** :: Alaska (noun)
  * Is as Alasca mé. Agus tusa? 
  * I'm from Alaska, and you? 
 ----------
+ * **an cóilí** :: the collie (noun)
+ * Ní cóilí baineann ar chor ar bith a bhí i Lassie, ach madra fireann. 
+ * Lassie wasn't a female collie at all, but a male dog. 
+----------
  * **Ceanada** :: Canada (expression)
  * An as Ceanada thú? 
  * Are you from Canada? 
+----------
+ * **an chaint** :: the speech (noun)
+ * Bhí caint ag an gcapall an tUasal Ed sa seanchlár teilifíse. 
+ * In the old TV show, the horse Mr. Ed had the ability to speak. 
 ----------
  * **an ghealach** :: the moon (noun)
  * Tá an ghealach lán anocht. 

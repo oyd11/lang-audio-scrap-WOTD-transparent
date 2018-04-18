@@ -1,6 +1,6 @@
 # latin WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **trahere** :: to drag (verb)
@@ -695,89 +695,177 @@
  * Omnes una manet nox. 
  * A single night awaits everyone. 
 ----------
- * **primus** :: foremost, principal (adjective)
- * Prima virtus est vitio carere. 
- * The foremost virtue is to be free from fault. 
-----------
- * **sobrius** :: sober, prudent (adjective)
- * Nemo saltat sobrius nisi insanit. 
- * No one dances sober unless he's insane. 
-----------
  * **vacuus** :: free from (adjective)
  * Vir scelere vacuus non eget iaculis neque arcu. 
  * A man free from wickedness does not need javelins or a bow. 
+----------
+ * **primus** :: foremost, principal (adjective)
+ * Prima virtus est vitio carere. 
+ * The foremost virtue is to be free from fault. 
 ----------
  * **ante** :: before, previously (adverb)
  * Cogita ante salis. 
  * Think before you leap. 
 ----------
+ * **sobrius** :: sober, prudent (adjective)
+ * Nemo saltat sobrius nisi insanit. 
+ * No one dances sober unless he's insane. 
+----------
  * **tumultus** :: tumult, uprising, disturbance (noun)
  * Magni tumultus eo tempore in urbe erant. 
  * Great tumults were in the city at that time. 
+----------
+ * **vacuus** :: free from (adjective)
+ * Vir scelere vacuus non eget iaculis neque arcu. 
+ * A man free from wickedness does not need javelins or a bow. 
 ----------
  * **duo** :: two (adjective)
  * De duobus malis, minus est semper eligendum. 
  * Of two evils, the lesser must always be chosen. 
 ----------
+ * **ante** :: before, previously (adverb)
+ * Cogita ante salis. 
+ * Think before you leap. 
+----------
  * **laus** :: praise (noun)
  * Laus nimis saepe est neque certa neque magna. 
  * Excessive praise is often neither reliable nor great. 
+----------
+ * **tumultus** :: tumult, uprising, disturbance (noun)
+ * Magni tumultus eo tempore in urbe erant. 
+ * Great tumults were in the city at that time. 
 ----------
  * **consuetudo** :: habit (noun)
  * Consuetudinis magna vis est. 
  * The force of habit is great. 
 ----------
+ * **duo** :: two (adjective)
+ * De duobus malis, minus est semper eligendum. 
+ * Of two evils, the lesser must always be chosen. 
+----------
  * **metus** :: fear (noun)
  * Omnes metu novo territi sunt. 
  * Everyone was frightened by a new fear. 
+----------
+ * **laus** :: praise (noun)
+ * Laus nimis saepe est neque certa neque magna. 
+ * Excessive praise is often neither reliable nor great. 
 ----------
  * **vix** :: scarcely (adverb)
  * Contra felicem vix deus vires habet. 
  * Against a lucky man, a god scarcely has power. 
 ----------
+ * **consuetudo** :: habit (noun)
+ * Consuetudinis magna vis est. 
+ * The force of habit is great. 
+----------
  * **finis** :: end (noun)
  * Qui finis metus atque servitutis in ea civitate potest videri? 
  * What end of fear and slavery can be seen in that state? 
+----------
+ * **metus** :: fear (noun)
+ * Omnes metu novo territi sunt. 
+ * Everyone was frightened by a new fear. 
 ----------
  * **reverentia** :: respect (noun)
  * Maxima debetur puero reverentia. 
  * The greatest respect is owed to a child. 
 ----------
+ * **vix** :: scarcely (adverb)
+ * Contra felicem vix deus vires habet. 
+ * Against a lucky man, a god scarcely has power. 
+----------
  * **vinculum** :: chain (noun)
  * Caesar iubebit hunc in vincula duci. 
  * Caesar will order this man to be lead away in chains. 
+----------
+ * **finis** :: end (noun)
+ * Qui finis metus atque servitutis in ea civitate potest videri? 
+ * What end of fear and slavery can be seen in that state? 
 ----------
  * **vitium** :: fault, vice, crime (noun)
  * Nemo sine vitio est. 
  * No one is without fault. 
 ----------
+ * **reverentia** :: respect (noun)
+ * Maxima debetur puero reverentia. 
+ * The greatest respect is owed to a child. 
+----------
  * **iterum** :: again, a second time (adverb)
  * Erunt etiam altera bella atque iterum ad Troiam magnus mittetur Achilles. 
  * There will also be other wars and great Achilles will be sent to Troy a second time. 
+----------
+ * **vinculum** :: chain (noun)
+ * Caesar iubebit hunc in vincula duci. 
+ * Caesar will order this man to be lead away in chains. 
 ----------
  * **effugere** :: to flee from, to escape (verb)
  * Nec mortem effugere quisquam nec amorem potest. 
  * No one is able to flee from death or love. 
 ----------
+ * **vitium** :: fault, vice, crime (noun)
+ * Nemo sine vitio est. 
+ * No one is without fault. 
+----------
  * **intempestiva** :: untimely, out of season (adjective)
  * Amicitia nullo loco excluditur; numquam intempestiva est. 
  * Friendship is shut out in no place; it is never out of season. 
+----------
+ * **iterum** :: again, a second time (adverb)
+ * Erunt etiam altera bella atque iterum ad Troiam magnus mittetur Achilles. 
+ * There will also be other wars and great Achilles will be sent to Troy a second time. 
 ----------
  * **audire** :: to hear, to listen to (verb)
  * Nemo surdior est quam is qui non audiet. 
  * No man is more deaf than he who will not hear. 
 ----------
+ * **effugere** :: to flee from, to escape (verb)
+ * Nec mortem effugere quisquam nec amorem potest. 
+ * No one is able to flee from death or love. 
+----------
  * **vulgus** :: common people, public (noun)
  * Vulgus vult decipi. 
  * The public wishes to be deceived. 
+----------
+ * **intempestiva** :: untimely, out of season (adjective)
+ * Amicitia nullo loco excluditur; numquam intempestiva est. 
+ * Friendship is shut out in no place; it is never out of season. 
 ----------
  * **honestus** :: honorable (adjective)
  * Non omne quod licet honestum est. 
  * Not everything that is permitted is honorable. 
 ----------
+ * **audire** :: to hear, to listen to (verb)
+ * Nemo surdior est quam is qui non audiet. 
+ * No man is more deaf than he who will not hear. 
+----------
  * **plane** :: clearly (adverb)
  * Ubi tyrannus est, ibi plane est nulla res publica. 
  * Where there is a tyrant, there clearly is no republic. 
+----------
+ * **vulgus** :: common people, public (noun)
+ * Vulgus vult decipi. 
+ * The public wishes to be deceived. 
+----------
+ * **dementia** :: madness (noun)
+ * Nullum magnum ingenium est sine mixtura dementiae. 
+ * There is no great genius without a mixture of madness. 
+----------
+ * **honestus** :: honorable (adjective)
+ * Non omne quod licet honestum est. 
+ * Not everything that is permitted is honorable. 
+----------
+ * **quondam** :: once, formerly (adverb)
+ * Fuerunt quondam in hac re publica viri magnae virtutis. 
+ * There were once, in this republic, men of great virtue. 
+----------
+ * **plane** :: clearly (adverb)
+ * Ubi tyrannus est, ibi plane est nulla res publica. 
+ * Where there is a tyrant, there clearly is no republic. 
+----------
+ * **aequare** :: to make equal (verb)
+ * Omnia mors aequat. 
+ * Death makes all things equal. 
 ----------
  * **dementia** :: madness (noun)
  * Nullum magnum ingenium est sine mixtura dementiae. 

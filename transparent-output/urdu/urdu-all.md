@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -695,89 +695,177 @@
  * وہ میٹھا سیب کا عرق بیچتے ہیں. 
  * They sell sweet apple juice. 
 ----------
+ * **آپ** :: you (noun)
+ * آپ کہاں سے ہیں؟ 
+ * Where are you from? 
+----------
  * **اسکریپبک** :: scrapbook (noun)
  * میں نے اپنی گزشتہ چھٹی کا اسکریپبک بنایا. 
  * I made a scrapbook of our last vacation. 
+----------
+ * **بولنا** :: to speak (verb)
+ * میں تھوڑی جرمن بولتا ہوں. 
+ * I speak a little German. 
 ----------
  * **سگار** :: cigar (noun)
  * سگار کیوبا کی سب سے بڑی برآمدات میں سے ایک ہیں. 
  * Cigars are one of Cuba's largest exports. 
 ----------
+ * **پہلا** :: first (adjective)
+ * یہ پہلی بار نہیں ہے، اور آخری بھی نہیں ہو گی. 
+ * It's not the first time, and won't be the last. 
+----------
  * **گلے لگانا** :: to hug (verb)
  * چوٹی بچی نے اپنے بھالو کو گلے لگا لیا. 
  * The young girl hugged her teddy bear. 
+----------
+ * **دکان** :: store (noun)
+ * میں دکان پر جا رہا ہوں، میرے ساتھ جانا چاہتے ہو؟ 
+ * I'm going to the store, want to go with me? 
 ----------
  * **کاٹنا** :: to carve (verb)
  * اس نے ایک سرجن جیسی ہنر مند باضابطگی کے ساتھ روسٹ کاٹا. 
  * He carved the roast with the skilled precision of a surgeon. 
 ----------
+ * **ترجیح دینا** :: to prefer (verb)
+ * کھجوریں مزیدار ہیں، لیکن میں اناناس کو ترجیح دیتا ہوں. 
+ * The dates are delicious, but I prefer pineapple. 
+----------
  * **پڑھنا** :: to recite (verb)
  * آپ پرانی نظم پڑھ سکتے ہیں؟ 
  * Can you recite the old poem? 
+----------
+ * **جمعہ** :: Friday (noun)
+ * مجھے بہت خوشی ہے کل جمعہ ہے؛ یہ ہفتہ طویل ہو گیا ہے! 
+ * I'm so glad tomorrow is Friday; it's been a long week! 
 ----------
  * **سوال** :: question (noun)
  * براہ مہربانی سوال کا جواب دیانت داری سے دیں. 
  * Please answer the question honestly. 
 ----------
+ * **ہونا** :: to have (verb)
+ * کیا آپ کا اس ہفتے کے آخر کے لئے کوئی منصوبہ ہے؟ 
+ * Do you have any plans for this weekend? 
+----------
  * **دندان ساز** :: dentist (noun)
  * میں ایک ہزار دفعہ دندان ساز کے پاس جا چکا ہوں، تو میں ڈرل جانتا ہوں. 
  * I've been to the dentist a thousand times, so I know the drill. 
+----------
+ * **موسم** :: weather (noun)
+ * کل کے لئے موسم کی پیشن گوئی کیا ہے؟ 
+ * What's the weather prediction for tomorrow? 
 ----------
  * **بنانا** :: to draw (verb)
  * آرٹسٹ نے ایک بہترین شَکَل بنائ. 
  * The artist drew an excellent figure. 
 ----------
+ * **بارش ہونا** :: to rain (verb)
+ * بارش ہونے والی ہے، چھَتری لے آنا. 
+ * It's going to rain, bring an umbrella. 
+----------
  * **نقصان پہنچانا** :: to damage (verb)
  * پیکیج کو نقصان نہ پہنچانا. 
  * Do not damage the package. 
+----------
+ * **کھیلنا** :: to play (verb)
+ * بچے باہر کھیلنے کو پسند کرتے ہیں. 
+ * The children like to play outside. 
 ----------
  * **فرق** :: difference (noun)
  * ایک دن سے کتنا فرق پڑتا ہے! 
  * What a difference a day makes! 
 ----------
+ * **پسندیدہ** :: favorite (adjective)
+ * یہ میرے پسندیدہ گیتوں میں سے ایک ہے. 
+ * This is one of my favorite songs. 
+----------
  * **تقسیم کرنا** :: to divide (verb)
  * چلو کیک کو یکساں حصوں میں تقسیم کر لیں. 
  * Let's divide the cake into equal parts. 
+----------
+ * **بھولنا** :: to forget (verb)
+ * وہ کبھی بھی براہ مہربانی اور شکریہ کہنا نہیں بھولتا. 
+ * He never forgets to say please and thank you. 
 ----------
  * **دینا** :: to give (verb)
  * تم نے اس کی سالگرہ کے لیے اسے کیا دیا؟ 
  * What did you give her for her birthday? 
 ----------
+ * **دیکھنا** :: to see (verb)
+ * کیا تم نے کل رات شہاب ثاقب کی برسات دیکھی تھی؟ حیران کُن! 
+ * Did you see the meteor shower last night? Amazing! 
+----------
  * **شک کرنا** :: to doubt (verb)
  * مجھے ناپ کی درستگی پر شک ہے. 
  * I doubt the accuracy of the measurements. 
+----------
+ * **کہاں** :: where (adverb)
+ * سب سے قریبی مارکیٹ کہاں ہے؟ 
+ * Where is the nearest market? 
 ----------
  * **وضاحت کرنا** :: to explain (verb)
  * مجھے ایک بار پھر اس حل کی وضاحت کریں. 
  * Explain the solution to me one more time. 
 ----------
+ * **ناراض ہونا** :: to be angry (verb)
+ * اگر آپ ناراض ہیں، ایک گہری سانس لے کر دس تک گنتی کریں. 
+ * If you're angry, take a deep breath and count to ten. 
+----------
  * **غَلَط** :: mistaken (adjective)
  * اس کی غلط شناخت کا معاملہ تھا. 
  * His was a case of mistaken identity. 
+----------
+ * **راز** :: secret (noun)
+ * اگر میں تمہیں بتا دوں، تو یہ ایک راز نہیں رہے گا! 
+ * If I tell you, it won't be a secret anymore! 
 ----------
  * **مستثنی** :: exception (noun)
  * ہر اصول کے مستثنی ہیں. 
  * There are exceptions to every rule. 
 ----------
+ * **خیال** :: idea (noun)
+ * میں تمہیں ایک درجن وجوہات دے سکتا ہوں کہ یہ کیوں ایک برا خیال ہے. 
+ * I can give you a dozen reasons why this is a bad idea. 
+----------
  * **ختم کرنا** :: to finish (verb)
  * کیا آپ نے کتاب ختم کر لی؟ 
  * Have you finished the book? 
+----------
+ * **جلدی کرنا** :: to hurry (verb)
+ * اگر ہم نے جلدی نہ کی، تو ہم سے بس چھوٹ جائے گی. 
+ * If we don't hurry, we'll miss the bus. 
 ----------
  * **پھول نکلنا** :: to flower (verb)
  * چند ہفتوں میں درختوں پر پھول نکل آئیں گے. 
  * The trees will flower in a few weeks. 
 ----------
+ * **دوش دینا** :: to blame (verb)
+ * آپ اپنے مسائل کے لئے دوسرے لوگوں کو دوش نہیں دے سکتے. 
+ * You can't blame other people for your problems. 
+----------
  * **پھول** :: flower (noun)
  * پھولوں کو میز پر گلدان میں رکھ دو. 
  * Put the flowers in the vase on the table. 
+----------
+ * **سورج** :: sun (noun)
+ * باغات اچھی زمین، سورج، اور باقاعدگی سے پانی چاہتے ہیں. 
+ * Gardens need good soil, sun, and regular watering. 
 ----------
  * **ڈراونا** :: scary (adjective)
  * کیا آپ کو ڈراونی فلمیں پسند ہیں؟ 
  * Do you like scary movies? 
 ----------
+ * **ہفتہ** :: week (noun)
+ * کتنے ہفتے اس منصوبہ نے لینے ہیں؟ 
+ * How many weeks does this project have to take? 
+----------
  * **واپسی** :: to withdraw (verb)
  * میں اسے آتے ہوے سن رہا ہوں چلو واپس لے لیتے ہیں، میرے آقا. 
  * I hear him coming: let's withdraw, my lord. 
+----------
+ * **اکثریت** :: majority (noun)
+ * صوتی اقلیت زیادہ تر صورتوں میں اکثریت کی نمائندگی نہیں کرتی. 
+ * The vocal minority do not represent the majority in most cases. 
 ----------
  * **کھودنا** :: to dig (verb)
  * کھودو یہاں تک کہ تم تیل سے ٹکرائو. 

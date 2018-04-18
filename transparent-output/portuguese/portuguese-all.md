@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -695,89 +695,177 @@
  * Gosto muito da minha escola. 
  * I like my school very much. 
 ----------
+ * **céu** :: sky (noun)
+ * O céu está encoberto. 
+ * The sky is overcast. 
+----------
  * **ruim** :: bad (adjective)
  * Estou muito ruim em matemática. 
  * I am bad at Math. 
+----------
+ * **floresta** :: forest (noun)
+ * Não dá para ver a floresta por causa das árvores. 
+ * You can't see the forest for the trees. 
 ----------
  * **frio** :: cold (adjective)
  * Vai estar muito frio hoje a noite. 
  * It's going to be very cold tonight. 
 ----------
+ * **suficiente** :: enough (adjective)
+ * Comi o suficiente, obrigado. 
+ * I've eaten enough, thank you. 
+----------
  * **sou** :: to be (expression)
  * Eu sou engenheiro. 
  * I am an engineer. 
+----------
+ * **chaves** :: keys (noun)
+ * Perdi minhas chaves novamente. 
+ * I have lost my keys again. 
 ----------
  * **país** :: country (noun)
  * De que país você veio? 
  * What country did you come from? 
 ----------
+ * **perigo** :: danger (noun)
+ * Estes animais estão em perigo de extinção. 
+ * These are animals in danger of extinction. 
+----------
  * **gerente** :: manager (noun)
  * Paulo é o gerente desta loja. 
  * Paulo is the manager of this store. 
+----------
+ * **requerer** :: to require (verb)
+ * Alguns dias requerem mais café do que outros. 
+ * Some days require more coffee than others. 
 ----------
  * **quarto** :: room (noun)
  * Meu quarto é cheio de quadros. 
  * My room is full of pictures. 
 ----------
+ * **cozinhar** :: to cook (verb)
+ * Adoro cozinhar com vinho. 
+ * I love to cook with wine. 
+----------
  * **ótimo** :: great (adjective)
  * Sou ótimo em geografia. 
  * I am great in Geography. 
+----------
+ * **pesado** :: heavy (adjective)
+ * Minha mala está tão pesada que não consigo carregá-la. 
+ * My suitcase is so heavy I can´t carry it. 
 ----------
  * **pensar** :: to think (expression)
  * Vitória pensou que estava certa. 
  * Vitoria thought she was right. 
 ----------
+ * **alguém** :: somebody (pronoun)
+ * Alguém pode me dizer quando chegaremos à estação? 
+ * Can someone tell me when we will arrive at the station? 
+----------
  * **mais** :: more (adverb)
  * O Rio de Janeiro é mais bonito que São Paulo. 
  * Rio de Janeiro is more beautiful than São Paulo. 
+----------
+ * **copo** :: glass (noun)
+ * Tenho que dirigir, então só vou tomar um copo de água. 
+ * I have to drive, so I'll just have a glass of water. 
 ----------
  * **sexta-feira** :: Friday (noun)
  * Sexta-feira é meu dia favorito! 
  * Friday is my favorite day. 
 ----------
+ * **onde** :: where (adverb)
+ * Eu te mostro onde aconteceu. 
+ * I'll show you where it happened. 
+----------
  * **sonho** :: dream (noun)
  * Tive um sonho tão estranho. 
  * I had a very weird dream. 
+----------
+ * **cigano** :: gypsy (noun)
+ * Esmeralda, do "Corcunda de Notredame" era uma cigana. 
+ * Esmeralda in "The Hunchback of Notredame" was a gypsy. 
 ----------
  * **cansada** :: tired (adjective)
  * Cheguei muito cansada do trabalho. 
  * I arrived from work very tired. 
 ----------
+ * **culpa** :: fault (noun)
+ * Não é minha culpa. 
+ * It is not my fault. 
+----------
  * **chuva** :: rain (noun)
  * Chove tanto em Brasília 
  * It rains a lot in Brasília. 
+----------
+ * **inferno** :: hell (noun)
+ * Você acha que o inferno será um lugar tão ruim? 
+ * Do you think that hell will be such a bad place? 
 ----------
  * **morrer** :: to die (expression)
  * Os soldados morreram na guerra. 
  * The soldiers died in the war. 
 ----------
+ * **torre** :: tower (noun)
+ * A donzela podia ver seu cavaleiro da torre. 
+ * The maiden could see her knight from the tower. 
+----------
  * **vizinha** :: neighbor (noun)
  * Minha vizinha está viajando. 
  * My neighbor is traveling. 
+----------
+ * **trabalho** :: work (noun)
+ * Meu trabalho aqui está feito. 
+ * My work here is done. 
 ----------
  * **enorme** :: huge (adjective)
  * Eles compraram uma casa enorme. 
  * They bought a huge house. 
 ----------
+ * **nunca** :: never (adverb)
+ * Nunca te deixarei ir. 
+ * I will never let you go. 
+----------
  * **carta** :: letter (noun)
  * Recebemos uma carta do nosso primo. 
  * We received a letter from our cousin. 
+----------
+ * **sorriso** :: smile (noun)
+ * Um sorriso é a melhor maneira de dizer "obrigado". 
+ * A smile is the best way to say "thank you." 
 ----------
  * **correio** :: post office (noun)
  * Ela precisa ir ao correio. 
  * She needs to go to the post office. 
 ----------
+ * **porta** :: door (noun)
+ * Feche a porta, por favor, está frio lá fora. 
+ * Close the door please, it's cold outside. 
+----------
  * **ocupado** :: busy (adjective)
  * Meu chefe está sempre ocupado. 
  * My boss is always busy. 
+----------
+ * **vingar-se** :: to get revenge (verb)
+ * A vítima se vingou do infrator. 
+ * The victim got revenge on the wrongdoer. 
 ----------
  * **peru** :: turkey (noun)
  * Vamos comer peru no jantar. 
  * Let's eat turkey for dinner. 
 ----------
+ * **decepção** :: disappointment (noun)
+ * Não consegui esconder minha decepção por causa da derrota. 
+ * I couldn't hide my disappointment over the defeat. 
+----------
  * **abóbora** :: pumpkin (noun)
  * Eu gosto de torta de abóbora. 
  * I like pumpkin pie. 
+----------
+ * **aterrissar** :: to land (verb)
+ * Devemos ficar sentados quando o avião aterrissa. 
+ * One should remain seated when the plane lands. 
 ----------
  * **ações de graça** :: Thanksgiving (noun)
  * Hoje é dia de Ações de Graça. 

@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -1041,11 +1041,23 @@
  * Wǒ děng le hěn jiǔ. 
  * I waited for a long time. 
 ----------
+ * **奥运会** :: Olympic games (noun)
+ * **àoyùnhuì** 
+ * 我喜欢看奥运会。 
+ * Wǒ xǐhuān kàn àoyùnhuì. 
+ * I like to watch the Olympic games. 
+----------
  * **客厅** :: living room (noun)
  * **kètīng** 
  * 我们的客厅很大。 
  * Wǒmén de kètīng hěn dà. 
  * Our living room is very large. 
+----------
+ * **村** :: village, pavilion (noun)
+ * **cūn** 
+ * 奥运村很好。 
+ * Àoyùncūn hěn hǎo. 
+ * The Olympic pavilion is good. 
 ----------
  * **方便** :: convenient (adjective)
  * **fāngbiàn** 
@@ -1053,11 +1065,23 @@
  * Zhèr mǎi dōngxi hěn fāngbiàn. 
  * It is convenient to go shopping here. 
 ----------
+ * **火炬** :: torch (noun)
+ * **huǒjù** 
+ * 看奥运火炬！ 
+ * Kàn àoyùn huǒjù! 
+ * Look at the Olympic torch! 
+----------
  * **热心** :: enthusiastic (adjective)
  * **rèxīn** 
  * 他很热心地帮助我。 
  * Tā hěn rèxīn de bāngzhù wǒ. 
  * He helps me enthusiastically. 
+----------
+ * **国歌** :: national anthem (noun)
+ * **guógē** 
+ * 美国国歌很美。 
+ * Měiguó guógē hěn měi. 
+ * The American national anthem is beautiful. 
 ----------
  * **服务** :: to serve (verb)
  * **fúwù** 
@@ -1065,11 +1089,23 @@
  * Zhè jiā shāngdiàn fúwù hěn hǎo. 
  * This store's servuce is very good. 
 ----------
+ * **队** :: team (noun)
+ * **duì** 
+ * 中国队很多人。 
+ * Zhōngguó duì hěnduō rén. 
+ * The Chinese team is large. 
+----------
  * **新** :: new (adjective)
  * **xīn** 
  * 这个书店是新的。 
  * Zhè ge shūdiàn shì xīnde. 
  * This bookstore is new. 
+----------
+ * **入场** :: to enter the field (verb)
+ * **rùchǎng** 
+ * 现在美国队入场。 
+ * Xiànzài měiguó duì rù chǎng. 
+ * The American team is now entering the field. 
 ----------
  * **旧** :: old (adjective)
  * **jiù** 
@@ -1077,11 +1113,23 @@
  * Wǒde yīfu hěn jiù. 
  * My clothes are very old. 
 ----------
+ * **开幕** :: to open, commence, begin (verb)
+ * **kāimù** 
+ * 奥运会开幕了。 
+ * Àoyùnhuì kāimù le. 
+ * The Olympic games are opening. 
+----------
  * **回** :: to return (verb)
  * **huí** 
  * 他已经回家了。 
  * Tā yǐjīng huíjiā le. 
  * He has already gone home. 
+----------
+ * **冰** :: ice (noun)
+ * **bīng** 
+ * 爸爸要冰。 
+ * Bàba yào bīng. 
+ * Dad wants ice. 
 ----------
  * **山** :: mountain (noun)
  * **shān** 
@@ -1089,11 +1137,23 @@
  * Zhōngguó yǒu hěnduō dà shān. 
  * There are many big mountains in China. 
 ----------
+ * **要** :: want (verb)
+ * **yào** 
+ * 他们都要咖啡。 
+ * Tāmen dōu yào kāfēi. 
+ * They all want coffee. 
+----------
  * **河** :: river (noun)
  * **hé** 
  * 黄河在中国。 
  * Huánghé zài zhōngguó. 
  * The Yellow River is in China. 
+----------
+ * **也** :: also, too (adverb)
+ * **yě** 
+ * 我也是美国人。 
+ * Wǒ yěshì měiguórén. 
+ * I am also an American. 
 ----------
  * **刚才** :: just now (adverb)
  * **gāngcái** 
@@ -1101,11 +1161,23 @@
  * Tā gāngcái lái zhǎoguò nǐ. 
  * He has just come to look for you. 
 ----------
+ * **忙** :: busy (adjective)
+ * **máng** 
+ * 他们都非常忙。 
+ * Tāmen dōu fēicháng máng. 
+ * They are all extremely busy. 
+----------
  * **寄** :: to mail (verb)
  * **jì** 
  * 我给妈妈寄了礼物。 
  * Wǒ gěi māma jìle lǐwù. 
  * I have mailed the gift to mom. 
+----------
+ * **爸爸** :: father (noun)
+ * **bàba** 
+ * 我爸爸是医生。 
+ * Wǒ bàba shì yīshēng. 
+ * My father is a doctor. 
 ----------
  * **打扫** :: to clean (verb)
  * **dǎsǎo** 
@@ -1113,11 +1185,23 @@
  * Tā měitiān dǎsǎo fángjiān. 
  * He cleans the room everyday. 
 ----------
+ * **妈妈** :: mother (noun)
+ * **māma** 
+ * 我妈妈教数学。 
+ * Wǒ māma jiāo shùxué. 
+ * My mother teaches mathematics. 
+----------
  * **有意思** :: interesting (adjective)
  * **yǒuyìsi** 
  * 这本书很有意思。 
  * Zhè běn shū hěn yǒuyìsi. 
  * This book is very interesting. 
+----------
+ * **朋友** :: friend (noun)
+ * **péngyou** 
+ * 我在和朋友打球。 
+ * Wǒ zài hé péngyou dǎqiú. 
+ * I am playing ball with my friend. 
 ----------
  * **洗** :: to wash (verb)
  * **xǐ** 
@@ -1125,11 +1209,23 @@
  * Qǐng bǎ chē xǐyixǐ. 
  * Please wash the car. 
 ----------
+ * **哥哥** :: older brother (noun)
+ * **gēge** 
+ * 哥哥学习很好。 
+ * Gēge xuéxí hěnhǎo. 
+ * The older brother studies well. 
+----------
  * **旅行** :: to travel (verb)
  * **lǚxíng** 
  * 我想去西部旅行。 
  * Wǒ xiǎng qù xībù lǚxíng. 
  * I'd like to travel in the west. 
+----------
+ * **弟弟** :: younger brother (noun)
+ * **dìdi** 
+ * 弟弟喜欢游泳。 
+ * Dìdi xǐhuān yóuyǒng. 
+ * The younger brother likes to swim. 
 ----------
  * **房子** :: house (noun)
  * **fángzi** 
@@ -1137,11 +1233,23 @@
  * Tā jiā de fángzi hěn měi. 
  * His family's house is very beautiful. 
 ----------
+ * **喝** :: to drink (verb)
+ * **hē** 
+ * 你要喝什么？ 
+ * Nǐ yào hē shénme? 
+ * What do you want to drink? 
+----------
  * **念** :: to read aloud (verb)
  * **niàn** 
  * 请念生词。 
  * Qǐng niàn shēngcí. 
  * Please read the new words aloud. 
+----------
+ * **咖啡** :: coffee (noun)
+ * **kāfēi** 
+ * 中国人不太喜欢咖啡。 
+ * Zhōngguó rén bù tài xǐhuān kāfēi. 
+ * The Chinese do not like coffee very much. 
 ----------
  * **口语** :: spoken language (noun)
  * **kǒuyǔ** 
@@ -1149,11 +1257,23 @@
  * Wǒ de hànyǔ kǒuyǔ bú tài hǎo. 
  * My spoken Chinese is not very good. 
 ----------
+ * **茶** :: tea (noun)
+ * **chá** 
+ * 喝茶对身体好。 
+ * Hēchá duì shēntǐ hǎo. 
+ * Drinking tea is good for your health. 
+----------
  * **语法** :: grammar (noun)
  * **yǔfǎ** 
  * 汉语语法不太难。 
  * Hànyǔ yǔfǎ bú tài nán. 
  * Chinese grammar is not very difficult. 
+----------
+ * **高兴** :: happy (adjective)
+ * **gāoxìng** 
+ * 工作让我很高兴。 
+ * Gōngzuò ràng wǒ hěn gāoxìng. 
+ * Working makes me happy. 
 ----------
  * **圣诞节** :: Christmas (noun)
  * **shèngdànjié** 
@@ -1161,11 +1281,23 @@
  * Shèngdànjié wǒ yào huíjiā. 
  * I will go home for Christmas. 
 ----------
+ * **认识** :: to know, to recognize (verb)
+ * **rènshi** 
+ * 我认识很多留学生。 
+ * Wǒ rènshi hěnduō liúxuéshēng. 
+ * I know many foreign students. 
+----------
  * **干净** :: clean (adjective)
  * **gānjìng** 
  * 他的房间很干净。 
  * Tā de fángjiān hěn gānjìng. 
  * His room is very clean. 
+----------
+ * **可以** :: may (verb)
+ * **kěyǐ** 
+ * 你可以借五本书。 
+ * Nǐ kěyǐ jiè wǔ běn shū. 
+ * You may borrow five books. 
 ----------
  * **感恩节** :: Thanksgiving (noun)
  * **gǎnēnjié** 

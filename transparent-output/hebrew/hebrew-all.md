@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 451 phrases 
+ 473 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -695,89 +695,177 @@
  * הרופא ייעץ לה כיצד לטפל בתינוק שלה. 
  * The doctor advised her how to take care of her baby. 
 ----------
+ * **זקן תיש** :: goatee (noun)
+ * הוא נראה קצת מרושע עם זקן תיש. 
+ * He looks kind of sinister with a goatee. 
+----------
  * **ספר** :: book (noun)
  * הספר הזה נקרא "הסערה המתאספת". 
  * This book is called "The Gathering Storm". 
+----------
+ * **גופה** :: corpse (noun)
+ * המשטרה מצאה שתי גופות בזירת הפשע. 
+ * The police found two corpses at the scene of the crime. 
 ----------
  * **להציג** :: to introduce (verb)
  * אני רוצה להציג את הנואם הבא, מר ג'ורדן צ'ייס. 
  * I'd like to introduce our next speaker, Mr. Jordan Chase. 
 ----------
+ * **לבחור** :: to select (verb)
+ * בתפריט הראשי יש לבחור "אפשרויות". 
+ * From the main menu, select "options". 
+----------
  * **חסר כל** :: destitute (adjective)
  * רוב האוכלוסייה היא חסרת כל. 
  * The majority of the population is destitute. 
+----------
+ * **מזל רע** :: bad luck (expression)
+ * אם לא היה לי מזל רע, לא היה לי מזל בכלל! 
+ * If it weren't for bad luck, I'd have no luck at all! 
 ----------
  * **להתאים** :: to match (verb)
  * הגירסה שלה לאירועים אינה תואמת את האמת. 
  * Her version of the events does not match up with the truth. 
 ----------
+ * **כבד** :: liver (noun)
+ * אלכוהול עלול להזיק לכבד. 
+ * Alcohol can be harmful to the liver. 
+----------
  * **לצאת לקמפינג** :: to go camping (expression)
  * כילדה נהגתי לצאת לקמפינג. 
  * I used to go camping as a child. 
+----------
+ * **לחלוט** :: to brew (verb)
+ * צריך לחלוט את התה קצת יותר זמן. 
+ * The tea has to brew for a little bit longer. 
 ----------
  * **הגשם יפסיק** :: to stop raining (expression)
  * כשהגשם יפסיק נצא לטייל. 
  * When it stops raining we will go for a walk. 
 ----------
+ * **קצב** :: butcher (noun)
+ * לקצב המקומי יש תמיד את נתחי הבשר הטובים ביותר. 
+ * The local butcher always has the best cuts of meat. 
+----------
  * **לחלות** :: to get sick (expression)
  * אסור לי לחלות עכשיו, החופשה שלי מתחילה מחר! 
  * I can't get sick now, my vacation starts tomorrow! 
+----------
+ * **סרט** :: movie (noun)
+ * זה הצליח בסרט! 
+ * It worked in the movie! 
 ----------
  * **ברור** :: certainly (adverb)
  * ברור, אני מסכימה עם כל אלו שאומרים כך. 
  * Certainly, I agree with all those who say that. 
 ----------
+ * **לחרוט** :: to carve (verb)
+ * מישהו חרט את שמו על גזע העץ הזה. 
+ * Someone carved their name into the bark of that tree. 
+----------
  * **ארץ** :: country (noun)
  * זוהי ארץ יפה. 
  * This is a beautiful country. 
+----------
+ * **פירות יבשים** :: dried fruit (noun)
+ * פירות יבשים עשירים בחלבונים. 
+ * Dried fruit is rich in protein. 
 ----------
  * **לרמות** :: to cheat (verb)
  * אתה חושב שאתה יכול לרמות אותי? חשוב שוב! 
  * Do you think you can cheat me? Think again! 
 ----------
+ * **סופר** :: writer (noun)
+ * אני רוצה להיות סופרת כשאגדל. 
+ * I want to be a writer when I grow up. 
+----------
  * **גל** :: wave (noun)
  * אני אוהבת את הגלים בים השחור. 
  * I like the waves of the Black Sea. 
+----------
+ * **שח-מט** :: check-mate (noun)
+ * עוד שני מהלכים וזה שח-מט. 
+ * I'm two moves away from a check-mate. 
 ----------
  * **לבטוח במישהו** :: to trust somebody (expression)
  * הוא תמיד מרמה אותנו, אני לא בוטחת בו. 
  * He always deceives us; I don't trust him. 
 ----------
+ * **פריך** :: crispy (adjective)
+ * אני אוהבת דגנים כשהם עדיין פריכים. 
+ * I like cereal when it's still crispy. 
+----------
  * **כייס** :: pick-pocket (noun)
  * המשטרה עצרה אמש כייס. 
  * The police arrested a pick-pocket last night. 
+----------
+ * **תסריט** :: script (noun)
+ * את התסריט לסרטו האחרון הוא כתב בעצמו. 
+ * He wrote the script for his last movie himself. 
 ----------
  * **לשעמם** :: to be a bore (expression)
  * הוא מורה כל כך משעמם. 
  * He is such a bore of a teacher. 
 ----------
+ * **צונאמי** :: tsunami (noun)
+ * יש התרעת צונאמי באזור זה. 
+ * There is a tsunami alert in this area. 
+----------
  * **תפל** :: tasteless (adjective)
  * האוכל נדמה תפל כאשר מצוננים. 
  * Food seems tasteless when one has a cold. 
+----------
+ * **גולש אינטרנט** :: internet user (noun)
+ * רוב גולשי האינטרנט מצפים למהירויות חיבור גבוהות. 
+ * Most internet users expect fast connection speeds. 
 ----------
  * **מצב-רוח** :: mood (noun)
  * אין לי מצב-רוח לבדיחות. 
  * I'm not in the mood for jokes. 
 ----------
+ * **ראסטות** :: dreadlocks (noun)
+ * ראסטות לא מתאימות לך. 
+ * Dreadlocks don't look good on you. 
+----------
  * **להחזיק** :: to hold (verb)
  * תחזיק לרגע את החכה הזו. 
  * Hold this fishing pole a moment. 
+----------
+ * **מזעזע** :: shocking (adjective)
+ * הצילומים של התאונה היו מזעזעים. 
+ * The footage of the accident was shocking. 
 ----------
  * **להתראות** :: See you soon! (expression)
  * אני חייבת ללכת עכשיו, להתראות! 
  * I've got to go now, see you soon! 
 ----------
+ * **להזדעף** :: to pout (verb)
+ * מה אמרת לאחותך? היא שוב הזדעפה. 
+ * What did you say to your sister? She's pouting again. 
+----------
  * **לישון כמו בול-עץ** :: to sleep like a log (expression)
  * הלילה ישנתי כמו בול עץ ולא שמעתי כלום. 
  * That night I slept like a log and I didn't hear anything. 
+----------
+ * **לצידך** :: by your side (expression)
+ * אני רוצה לבלות את שארית חיי לצידך. 
+ * I want to spend the rest of my life by your side. 
 ----------
  * **שימושי** :: useful (adjective)
  * המאמר על כלכלה היה שימושי מאד עבור המחקר שלי. 
  * The article on economics was very useful for my research. 
 ----------
+ * **מטרה** :: target (noun)
+ * החץ פגע במרכז המטרה. 
+ * The arrow hit the center of the target. 
+----------
  * **שדון** :: goblin (noun)
  * האחיין שלי אוהב סיפורים עם שדים ופיות. 
  * My nephew likes stories with goblins and fairies. 
+----------
+ * **עוגיות** :: cookies (noun)
+ * אימא שלי תמיד שולחת לי קופסה עם עוגיות לחג המולד. 
+ * My mother always sends me a box of cookies for Christmas. 
 ----------
  * **בריא** :: healthy (adjective)
  * התעמלות יומית היא פעילות בריאה. 
