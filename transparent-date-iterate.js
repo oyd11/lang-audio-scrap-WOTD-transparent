@@ -36,7 +36,7 @@ let nowDate = moment()
 let endDate = nowDate
 //let startDate = moment("01-01-2017", dateFormat)
 //let startDate = moment("12-31-2017", dateFormat)
-let startDate = moment("02-10-2018", dateFormat)
+let startDate = moment("07-10-2018", dateFormat)
 
 const langHumanToUrl = {
  "arabic": "arabic",
@@ -71,7 +71,9 @@ const langHumanToUrl = {
 let langString = langHumanToUrl[lang]
 
 // let url = "https://wotd.transparent.com/rss/11-27-2017-swedish-widget.xml"
-for (let d = startDate ; !d.isAfter( endDate,  'day') ; d.add(1, 'days' )) {
+// for (let d = startDate ; !d.isAfter( endDate,  'day') ; d.add(1, 'days' )) {
+    // iterate backwards:
+for (let d = endDate ; d.isAfter( startDate,  'day') ; d.add(-1, 'days' )) {
     let dateString = d.format(dateFormat)
     let filename = `${dateString}-${langString}-widget.xml`
     let xmlUrl = `https://wotd.transparent.com/rss/${filename}`
