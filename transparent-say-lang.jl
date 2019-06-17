@@ -1,4 +1,4 @@
-#!/usr/bin/env julia
+#!/usr/bin/env julia06
 
 # Julia 0.6 syntax
 

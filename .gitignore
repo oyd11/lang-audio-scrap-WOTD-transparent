@@ -14,3 +14,5 @@ transparent-playlists/
 *.wav
 
 
+.DS_Store
+

@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 473 phrases 
+ 614 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -871,565 +871,1129 @@
  * Tienes que descongelar el pavo antes de meterlo en el horno. 
  * You have to defrost the turkey before putting it into the oven. 
 ----------
+ * **espeso** :: thick (adjective)
+ * La sopa está espesa. 
+ * The soup is thick. 
+----------
  * **el velero** :: sailboat (noun)
  * Los veleros son más interesantes que los barcos a motor. 
  * Sailboats are more interesting than engine boats. 
+----------
+ * **el mundo** :: world (noun)
+ * Ella viaja por todas partes del mundo. 
+ * She travels all around the world. 
 ----------
  * **estar de acuerdo** :: to agree (expression)
  * Estoy de acuerdo contigo en ese tema. 
  * I agree with you on that issue. 
 ----------
+ * **sembrar** :: to plant (verb)
+ * Él siembra sus plantas en la primavera. 
+ * He plants his plants in the spring. 
+----------
  * **adelantar** :: to pass (verb)
  * No se puede adelantar en este tramo de carretera. 
  * You can't pass in this stretch of road. 
+----------
+ * **seguro** :: sure (adjective)
+ * Ellos están seguros de su amor. 
+ * They are sure about their love. 
 ----------
  * **al tuntún** :: at random (expression)
  * Escogimos un asiento al tuntún. 
  * We chose a seat at random. 
 ----------
+ * **la abeja** :: bee (noun)
+ * La abeja puede picar. 
+ * The bee can sting. 
+----------
  * **ofender** :: to offend (verb)
  * No era mi intención ofenderte. 
  * I didn't mean to offend you. 
+----------
+ * **regar** :: to water (verb)
+ * A veces yo riego el jardín. 
+ * Sometimes I water the yard. 
 ----------
  * **el concesionario** :: car dealership (noun)
  * Mi concesionario local no tiene el modelo que estoy buscando. 
  * My local car dealership doesn't have the model I'm looking for. 
 ----------
+ * **limpio** :: clean (adjective)
+ * El cuarto de baño está limpio. 
+ * The bathroom is clean. 
+----------
  * **la perilla** :: goatee (noun)
  * No parece el mismo desde que se dejó perilla. 
  * He doesn't look the same since he grew a goatee. 
+----------
+ * **la miel** :: honey (noun)
+ * Las abejas producen la miel. 
+ * Bees produce honey. 
 ----------
  * **el cadáver** :: corpse (noun)
  * La policía encontró dos cadáveres en la escena del crimen. 
  * The police found two corpses at the scene of the crime. 
 ----------
+ * **recordar** :: to remember (verb)
+ * ¿Recuerdas tú cómo se llama ella? 
+ * Do you remember what her name is? 
+----------
  * **el timo** :: scam (noun)
  * Mi primo perdió cien euros con el timo de la lotería. 
  * My cousin lost 100 Euros in the lottery scam. 
+----------
+ * **sucio** :: dirty (adjective)
+ * Las sillas están sucias. 
+ * The chairs are dirty. 
 ----------
  * **seleccionar** :: to select (verb)
  * En el menú principal, selecciona "opciones". 
  * From the main menu, select "options". 
 ----------
+ * **la tierra** :: soil (noun)
+ * Hay mucha tierra buena en mi huerta. 
+ * There is a lot of good soil in my garden. 
+----------
  * **mala pata** :: bad luck (expression)
  * Qué mala pata, no conseguimos entradas para el concierto. 
  * Bad luck, we couldn't get tickets to the concert. 
+----------
+ * **terminar** :: to finish (verb)
+ * El buen empleado siempre termina el trabajo. 
+ * The good employee always finishes the job. 
 ----------
  * **el hígado** :: liver (noun)
  * El alcohol causa daños al hígado. 
  * Alcohol is harmful to the liver. 
 ----------
+ * **extraño** :: strange (adjective)
+ * Su comportamiento es extraño. 
+ * His behavior is strange. 
+----------
  * **ser el mismo demonio** :: to be the devil incarnate (expression)
  * Mi suegra es el mismo demonio. 
  * My mother-in-law is the devil incarnate. 
+----------
+ * **el equipaje** :: luggage (noun)
+ * Nosotros llevamos mucho equipaje en el avión. 
+ * We're carrying a lot of luggage on the plane. 
 ----------
  * **infusionar** :: to brew tea (verb)
  * El té tiene que infusionar un rato más. 
  * The tea has to brew for a little bit longer. 
 ----------
+ * **encontrar** :: to find (verb)
+ * El chico encuentra dinero en el sofá. 
+ * The boy finds money in the sofa. 
+----------
  * **el carnicero** :: butcher (noun)
  * El carnicero me ha regalado este filete. 
  * The butcher gave me this steak for free. 
+----------
+ * **frito** :: fried (adjective)
+ * Yo evito la comida frita. 
+ * I avoid fried food. 
 ----------
  * **la película** :: movie (noun)
  * ¡En la película sí funcionó! 
  * It worked in the movie! 
 ----------
+ * **la esposa** :: wife (noun)
+ * Esta es mi esposa. 
+ * This is my wife. 
+----------
  * **tallar** :: to carve (verb)
  * Un día tallamos nuestros nombres en la corteza de ese árbol. 
  * One day we carved our names into the bark of that tree. 
+----------
+ * **sacudir** :: to shake (verb)
+ * Un sismo sacude la costa. 
+ * An earthquake shakes the coast. 
 ----------
  * **los frutos secos** :: dried fruit (noun)
  * Los frutos secos son ricos en proteínas. 
  * Dried fruits are rich in protein. 
 ----------
+ * **fiel** :: loyal (adjective)
+ * El perro es un animal muy fiel. 
+ * The dog is a very loyal animal. 
+----------
  * **el escritor** :: writer (noun)
  * De mayor quiero ser escritor. 
  * I want to be a writer when I grow up. 
+----------
+ * **el enemigo** :: enemy (noun)
+ * Nuestro país tiene muchos enemigos. 
+ * Our country has many enemies. 
 ----------
  * **jaque mate** :: check-mate (expression)
  * Me faltan dos movimientos para el jaque mate. 
  * I'm two moves away from a check-mate. 
 ----------
+ * **salvar** :: to save (verb)
+ * La organización salva muchos animales en peligro. 
+ * The organization saves many endangered animals. 
+----------
  * **crujiente** :: crispy (adjective)
  * Me gustan los cereales cuando todavía están crujientes. 
  * I like cereal when it's still crispy. 
+----------
+ * **marino** :: navy (adjective)
+ * El suéter de ella es azul marino. 
+ * Her sweater is navy blue. 
 ----------
  * **el guión** :: script (noun)
  * Él mismo ha escrito el guión de su última película. 
  * He wrote the script for his last movie himself. 
 ----------
+ * **encender** :: to light (verb)
+ * La niña enciende la vela. 
+ * The girl lights the candle. 
+----------
  * **el maremoto** :: tsunami (noun)
  * Hay una alerta de maremotos en esta zona. 
  * There is a tsunami alert in this area. 
+----------
+ * **libre** :: free (adjective)
+ * ¿Estás libre el viernes por la noche? 
+ * Are you free Friday night? 
 ----------
  * **morder el polvo** :: to bite the dust (expression)
  * Al final de la película, el sheriff les hace morder el polvo. 
  * At the end of the film, the sheriff makes them bite the dust. 
 ----------
+ * **el arma** :: weapon (noun)
+ * Los terroristas llevan muchas armas. 
+ * The terrorists carry many weapons. 
+----------
  * **el internauta** :: internet user (noun)
  * La mayoría de los internautas demanda un aumento de la velocidad de conexión. 
  * Most internet users are demanding faster connection speeds. 
+----------
+ * **apagar** :: to turn off (verb)
+ * El hijo apaga el televisor por su madre. 
+ * The son turns off the television for his mother. 
 ----------
  * **las rastas** :: dreadlocks (noun)
  * Las rastas no te quedan bien. 
  * Dreadlocks don't look good on you. 
 ----------
+ * **solamente** :: only (adverb)
+ * El perro solamente quiere comer. 
+ * The dog only wants to eat. 
+----------
  * **impactante** :: shocking (adjective)
  * Las imágenes del accidente fueron impactantes. 
  * The footage of the accident was shocking. 
+----------
+ * **maduro** :: ripe (adjective)
+ * La manzana no está madura. 
+ * The apple is not ripe. 
 ----------
  * **hacer pucheros** :: to pout (verb)
  * ¿Qué le has hecho a tu hermana que está haciendo pucheros otra vez? 
  * What have you done to your sister? She's pouting again. 
 ----------
+ * **alegre** :: happy (adjective)
+ * Tu gato parece muy alegre. 
+ * Your cat seems very happy. 
+----------
  * **la telaraña** :: cobweb (noun)
  * Cuando me levanto de la siesta siento que tengo telarañas en la cabeza. 
  * When I wake up from napping I feel like I have cobwebs inside my head. 
+----------
+ * **el bolso** :: purse (noun)
+ * La mujer compra muchos bolsos caros. 
+ * The woman buys many expensive purses. 
 ----------
  * **a tu vera** :: by your side (expression)
  * Quiero pasar el resto de mi vida a tu vera. 
  * I want to spend the rest of my life by your side. 
 ----------
+ * **llevar** :: to carry (verb)
+ * Nosotros llevamos unas sillas a la playa. 
+ * We're carrying some chairs to the beach. 
+----------
  * **la diana** :: target (noun)
  * La flecha se clavó justo en el centro de la diana. 
  * The arrow hit the center of the target. 
+----------
+ * **zurdo** :: left-handed (adjective)
+ * El atleta es zurdo. 
+ * The athlete is left-handed. 
 ----------
  * **el turrón** :: nougat candy (noun)
  * Mi madre siempre me manda turrón en Navidad. 
  * My mother always sends me some nougat for Christmas. 
 ----------
+ * **la heladera** :: cooler (noun)
+ * Yo quiero comprar una heladera para las bebidas. 
+ * I want to buy a cooler for the drinks. 
+----------
  * **ni harto de vino** :: not in a million years (expression)
  * No vería esa película ni harto de vino. 
  * I wouldn't watch that movie in a million years. 
+----------
+ * **salpicar** :: to splash (verb)
+ * Los niños se salpican en la piscina. 
+ * The kids splash each other in the pool. 
 ----------
  * **el ambientador** :: air freshener (noun)
  * Deberías usar ambientador para eliminar el olor del perro. 
  * You should use an air freshener to eliminate the dog smell. 
 ----------
+ * **entretenido** :: entertaining (adjective)
+ * Para mis hijos el circo es entretenido, pero para mí no. 
+ * The circus is entertaining for my kids, but not for me. 
+----------
  * **deshacerse de** :: to get rid of (verb)
  * Tenemos que deshacernos de los muebles viejos. 
  * We have to get rid of our old furniture. 
+----------
+ * **el mar** :: sea (noun)
+ * Hay muchos peces en el mar. 
+ * There are a lot of fish in the sea. 
 ----------
  * **el dolor** :: pain (noun)
  * Sin dolor no hay recompensa. 
  * No pain, no gain. 
 ----------
+ * **zambullirse** :: to dive (verb)
+ * Los muchachos se zambullen en la piscina. 
+ * The boys dive in the pool. 
+----------
  * **polémico** :: controversial (adjective)
  * Su última película ha sido polémica por las escenas de sexo. 
  * His last movie has been controversial due to the sex scenes. 
+----------
+ * **el paraguas** :: umbrella (noun)
+ * Tú deberías llevar un paraguas al trabajo hoy. 
+ * You should carry an umbrella to work today. 
 ----------
  * **la pegatina** :: sticker (noun)
  * Me falta una pegatina para completar el álbum. 
  * I need one more sticker to finish my album. 
 ----------
+ * **botar** :: to throw out (verb)
+ * Nosotros tenemos que botar mucha basura. 
+ * We have to throw out a lot of trash. 
+----------
  * **el escudo** :: shield (noun)
  * El caballero paró el golpe con su escudo. 
  * The knight blocked the blow with his shield. 
+----------
+ * **sabroso** :: tasty (adjective)
+ * Esta pizza está muy sabrosa. 
+ * This pizza is very tasty. 
 ----------
  * **estrechar las manos** :: to shake hands (expression)
  * Estrechad las manos y haced las paces. 
  * Shake hands and make up. 
 ----------
+ * **la toalla** :: towel (noun)
+ * No hay toallas en mi cuarto de baño. 
+ * There are no towels in my bathroom. 
+----------
  * **el chicle** :: chewing gum (noun)
  * Puedo mascar chicle y caminar a la vez. 
  * I can walk and chew gum at the same time. 
+----------
+ * **quemar** :: to burn (verb)
+ * La chica quemó los panqueques. 
+ * The girl burned the pancakes. 
 ----------
  * **el teclado** :: keyboard (noun)
  * No sé cómo cambiar la configuración del teclado. 
  * I don't know how to change the keyboard layout. 
 ----------
+ * **quemado** :: burned (adjective)
+ * Las galletas están quemadas. 
+ * The cookies are burned. 
+----------
  * **la manzana** :: apple (noun)
  * A diario una manzana es cosa sana. 
  * An apple a day keeps the doctor away. 
+----------
+ * **morirse** :: to die (verb)
+ * Yo me muero de hambre. 
+ * I'm dying of hunger. 
 ----------
  * **advertir** :: to warn (verb)
  * Es la última vez que te lo advierto. 
  * That's the last time I'm going to warn you. 
 ----------
+ * **manejar** :: to manage (verb)
+ * Mi hija no maneja bien el dinero. 
+ * My daughter doesn't manage her money well. 
+----------
  * **la salud** :: health (noun)
  * La salud es la mayor riqueza. 
  * Health is better than wealth. 
+----------
+ * **trabajador** :: hard-working (adjective)
+ * Él es muy trabajador. 
+ * He is very hard-working. 
 ----------
  * **la risa** :: laughter (noun)
  * La risa es el mejor remedio. 
  * Laughter is the best medicine. 
 ----------
+ * **tomar** :: to take (verb)
+ * Mi hermana que vive en la ciudad siempre toma el metro. 
+ * My sister who lives in the city always takes the metro. 
+----------
  * **agudizar el ingenio** :: to rack one's brains (expression)
  * Tendrás que agudizar el ingenio para resolver ese problema. 
  * You'll have to rack your brains to solve that problem. 
+----------
+ * **exigente** :: demanding (adjective)
+ * Tu profesor es bastante exigente. 
+ * Your teacher is pretty demanding. 
 ----------
  * **la servilleta** :: napkin (noun)
  * ¿Me puede traer otra servilleta, por favor? 
  * Can you bring me another napkin, please? 
 ----------
+ * **la ciudad** :: city (noun)
+ * Nueva York es una ciudad grandísima. 
+ * New York is an extremely large city. 
+----------
  * **la ira** :: anger (noun)
  * No te dejes llevar por la ira. 
  * Don't get carried away by anger. 
+----------
+ * **la playa** :: beach (noun)
+ * La playa Waikiki en Hawai es hermosa. 
+ * Waikiki Beach in Hawaii is beautiful. 
 ----------
  * **perdonar** :: to forgive (verb)
  * El errar es humano, perdonar, divino. 
  * To err is human, to forgive divine. 
 ----------
+ * **hábil** :: skillful (adjective)
+ * El chico es muy hábil con la computadora. 
+ * The boy is very skillful with the computer. 
+----------
  * **la angustia** :: distress (noun)
  * La angustia no me deja dormir. 
  * I feel too much distress, so I can't sleep. 
+----------
+ * **la sopa** :: soup (noun)
+ * Hay una mosca en mi sopa. 
+ * There is a fly in my soup. 
 ----------
  * **las paredes** :: the walls (noun)
  * Las paredes oyen. 
  * The walls have ears. 
 ----------
+ * **desayunar** :: to have breakfast (verb)
+ * Yo desayuno cada mañana. 
+ * I have breakfast each morning. 
+----------
  * **hablar** :: to talk (verb)
  * Es como hablar a la pared. 
  * It's like talking to a wall. 
+----------
+ * **bondadoso** :: kind (adjective)
+ * Tus padres son demasiado bondadosos. 
+ * Your parents are too kind. 
 ----------
  * **el humo** :: smoke (noun)
  * Donde hay humo, hay fuego. 
  * Where there's smoke, there's fire. 
 ----------
+ * **la carne** :: meat (noun)
+ * Mi hermana no come carne porque ella es vegetariana. 
+ * My sister doesn't eat meat because she's a vegetarian. 
+----------
  * **loco** :: crazy (adjective)
  * De cuerdo y loco todos tenemos un poco. 
  * We're all a little crazy in one way or another. 
+----------
+ * **el castillo** :: castle (noun)
+ * ¿Quieres construir un castillo de arena? 
+ * Do you want to build a sand castle? 
 ----------
  * **no pegar ojo** :: to not sleep a wink (expression)
  * No he pegado ojo en toda la noche porque me desvelé. 
  * I didn't sleep a wink all night because I had insomnia. 
 ----------
+ * **llamativo** :: eye-catching (adjective)
+ * Ella lleva un vestido muy llamativo. 
+ * She is wearing an eye-catching dress. 
+----------
  * **el ojo a la virulé** :: black eye (expression)
  * Su hijo se peleó y le pusieron un ojo a la virulé. 
  * His son got into a fight and got a black eye. 
+----------
+ * **el incendio** :: fire (noun)
+ * En el verano hay muchos incendios en las montañas. 
+ * In the summer there are a lot of fires in the mountains. 
 ----------
  * **irse de rositas** :: to get away with (expression)
  * Después de la pelea su madre no le regañó, así que se fue de rositas. 
  * After the fight, his mother didn´t tell him off, so he got away with it. 
 ----------
+ * **bucear** :: to scuba dive (verb)
+ * Mi novia y yo buceamos más tarde. 
+ * My girlfriend and I are going to scuba dive later. 
+----------
  * **quedarse** :: to stay (verb)
  * ¿Por qué no te quitas el abrigo y te quedas un rato? 
  * Why don't you take off your coat and stay a while? 
+----------
+ * **tranquilo** :: calm (adjective)
+ * Nosotros tenemos un perro muy tranquilo. 
+ * We have a very calm dog. 
 ----------
  * **estar de rebajas** :: to be on sale (expression)
  * En realidad no lo necesito, pero está de rebajas! 
  * I don't really need this, but it's on sale! 
 ----------
+ * **las vacaciones** :: vacation (noun)
+ * Yo voy a hacer esquí acuático en mis vacaciones. 
+ * I'm going to water ski on my vacation. 
+----------
  * **grotesco** :: grotesque (adjective)
  * La escena de la pelea resultó bastante grotesca. 
  * The fight scene looked quite grotesque. 
+----------
+ * **disfrutar** :: enjoy (verb)
+ * María y José disfrutan los fines de semana juntos. 
+ * María and José enjoy their weekends together. 
 ----------
  * **musitar** :: to mumble (verb)
  * "Yo soy el que te puede ayudar", musitó John. 
  * "I am the one who can help you," mumbled John. 
 ----------
+ * **despejado** :: clear (adjective)
+ * El cielo está despejado hoy. 
+ * The sky is clear today. 
+----------
  * **llenar** :: to fill (verb)
  * No me llenes el vaso. 
  * Don't fill my glass up. 
+----------
+ * **el caballo** :: horse (noun)
+ * Los soldados montan a caballo. 
+ * The soldiers are riding horses. 
 ----------
  * **ser consciente de** :: to be aware of (expression)
  * ¿Eres consciente de las consecuencias de tus actos? 
  * Are you aware of the consequences of your actions? 
 ----------
+ * **trepar** :: to climb (verb)
+ * Los niños trepan a los árboles. 
+ * The children are climbing trees. 
+----------
  * **sobresaltar** :: to startle (verb)
  * Me sobresaltó el ruido de la explosión. 
  * The sound of the explosion startled me. 
+----------
+ * **mojado** :: wet (adjective)
+ * Mis pantalones están mojados. 
+ * My pants are wet. 
 ----------
  * **reñir** :: to quarrel (verb)
  * Se pasan la vida riñendo. 
  * They spend their whole time quarrelling. 
 ----------
+ * **el bosque** :: forest (noun)
+ * Los cazadores buscan animales en el bosque. 
+ * The hunters are looking for animals in the forest. 
+----------
  * **mimado** :: spoiled (adjective)
  * Es un niño mimado de mamá. 
  * He is a spoiled child. 
+----------
+ * **pescar** :: to fish (verb)
+ * Mis amigos y yo pescamos en el océano. 
+ * My friends and I fish in the ocean. 
 ----------
  * **el amo** :: master (noun)
  * Soy el amo de mi destino. 
  * I am the master of my destiny. 
 ----------
+ * **puro** :: clean (adjective)
+ * Yo disfruto el aire puro. 
+ * I enjoy the clean air. 
+----------
  * **la suerte** :: luck (noun)
  * ¡Qué mala suerte! 
  * What bad luck! 
+----------
+ * **el campo** :: countryside (noun)
+ * Nosotros vamos a hacer un picnic en el campo. 
+ * We're going to have a picnic in the countryside. 
 ----------
  * **por lo menos** :: at least (expression)
  * Por lo menos hizo algo. 
  * At least he did something. 
 ----------
+ * **maravilloso** :: wonderful (adjective)
+ * Ella es una maestra maravillosa. 
+ * She is a wonderful teacher. 
+----------
  * **la palabrota** :: swearword (noun)
  * No hay que decir palabrotas aquí. 
  * One shouldn't say swearwords here. 
+----------
+ * **la barbacoa** :: barbecue (noun)
+ * Mis tíos hacen una barbacoa este fin de semana. 
+ * My aunt and uncle are having a barbecue this weekend. 
 ----------
  * **la ausencia** :: absence (noun)
  * Puedes continuar con el proyecto en mi ausencia. 
  * You can keep the project going in my absence. 
 ----------
+ * **tomar el sol** :: to sunbathe (verb)
+ * Si tomas el sol mucho es malo para la piel. 
+ * If you sunbathe a lot it's bad for your skin. 
+----------
  * **bajo mano** :: in secret (expression)
  * Él negó haber recibido dinero bajo mano. 
  * He denied having received any money secretly. 
+----------
+ * **rocoso** :: rocky (adjective)
+ * La colina es rocosa. 
+ * The hill is rocky. 
 ----------
  * **la noria** :: Ferris wheel (noun)
  * ¡Mamá, quiero montarme en la noria! 
  * Mum, I want to get on the Ferris wheel! 
 ----------
+ * **el crucero** :: cruise (noun)
+ * Mi esposa y yo hacemos un crucero en mayo. 
+ * My wife and I are taking a cruise in May. 
+----------
  * **la semilla** :: seed (noun)
  * Plantaron las semillas de una hermosa relación. 
  * They sowed the seeds for a beautiful relationship. 
+----------
+ * **ahogarse** :: to drown (verb)
+ * Muchos marineros se ahogan cada año. 
+ * Many sailors drown each year. 
 ----------
  * **poner peros** :: to object (expression)
  * ¿Esta vez no te puso peros tu suegro? 
  * Didn't your father-in-law object this time? 
 ----------
+ * **jugoso** :: juicy (adjective)
+ * La papaya es una fruta jugosa. 
+ * The papaya is a juicy fruit. 
+----------
  * **la azafata** :: stewardess (noun)
  * Mi hija trabaja como azafata. 
  * My daughter works as a stewardess. 
+----------
+ * **el paseo** :: walk (noun)
+ * Mis amigos y yo damos muchos paseos por el pueblo. 
+ * My friends and I go for many walks around town. 
 ----------
  * **la albahaca** :: basil (noun)
  * La albahaca es una hierba culinaria. 
  * Basil is a culinary herb. 
 ----------
+ * **perderse** :: to get lost (verb)
+ * Los chicos se pierden a menudo. 
+ * The boys often get lost. 
+----------
  * **tan pronto como** :: as soon as (conjunction)
  * Estare allí tan pronto como pueda. 
  * I will be there as soon as I can. 
+----------
+ * **las olas** :: waves (noun)
+ * Las olas durante las tormentas están muy altas. 
+ * The waves during the storms are very high. 
 ----------
  * **corroer** :: to eat away (verb)
  * Le corroen los celos. 
  * He is eaten up with jealousy. 
 ----------
+ * **pasarlo bien** :: to have a good time (verb)
+ * Mi familia y yo siempre lo pasamos bien en el restaurante. 
+ * My family and I always have a good time at the restaurant. 
+----------
  * **frenético** :: frantic (adjective)
  * Se puso frenético. 
  * He became frantic. 
+----------
+ * **agobiado** :: overwhelmed (adjective)
+ * Juan está agobiado con todo el trabajo. 
+ * Juan is overwhelmed by all of his work. 
 ----------
  * **derrotar** :: to defeat (verb)
  * Derrotaron a los enemigos con la ayuda de sus amigos. 
  * They defeated the enemies with the help of their friends. 
 ----------
+ * **la vuelta** :: ride (noun)
+ * Nosotros vamos a dar una vuelta a caballo. 
+ * We're going on a horseback ride. 
+----------
  * **el tugurio** :: slum (noun)
  * Viven en un tugurio. 
  * They live in a slum. 
+----------
+ * **merendar** :: to snack (verb)
+ * Yo nunca meriendo nada. 
+ * I never snack on anything. 
 ----------
  * **echar de menos** :: to miss (expression)
  * Echo de menos tener un jardín. 
  * I miss having a garden. 
 ----------
+ * **pastoso** :: pasty (adjective)
+ * El arroz está pastoso. 
+ * The rice is pasty. 
+----------
  * **a menos que** :: unless (conjunction)
  * No irá a dormir a menos que le cuentes un cuento. 
  * He won't go to sleep unless you tell him a story. 
+----------
+ * **el cielo** :: sky (noun)
+ * Hoy el cielo está nublado. 
+ * The sky is cloudy today. 
 ----------
  * **la jauría** :: pack of hounds (noun)
  * Nuestro vecino tiene una jauría. 
  * Our neighbor has a pack of hounds. 
 ----------
+ * **ganar** :: to earn (verb)
+ * El abogado gana mucho dinero. 
+ * The lawyer earns a lot of money. 
+----------
  * **añoranza de** :: longing for (expression)
  * Siento añoranza de mi tierra por estar viviendo en el extranjero. 
  * I feel longing for my home because I'm living abroad. 
+----------
+ * **juguetón** :: playful (adjective)
+ * Tu hámster es muy juguetón. 
+ * Your hamster is very playful. 
 ----------
  * **el susurro** :: whisper (noun)
  * Todo el mundo ha oído el susurro del viento entre las copas de los árboles. 
  * Everyone has heard the whisper of the wind through the treetops. 
 ----------
+ * **el maíz** :: corn (noun)
+ * El granjero siembra su maíz cada mayo. 
+ * The farmer plants his corn each May. 
+----------
  * **a cielo descubierto** :: in the open (expression)
  * Dormimos a cielo descubierto. 
  * We slept in the open. 
+----------
+ * **salir** :: to date (verb)
+ * ¿Sale Manuel con Rosita? 
+ * Is Manuel dating Rosita? 
 ----------
  * **¡Ojalá!** :: I hope so! (interjection)
  * ¡Ojalá que todos mis amigos vengan! 
  * I hope all my friends will come! 
 ----------
+ * **embarazada** :: pregnant (adjective)
+ * Mi hermana está embarazada. 
+ * My sister is pregnant. 
+----------
  * **la cita a ciegas** :: blind date (noun)
  * ¿Qué tal una cita a ciegas por webcam? 
  * What do you think about a blind date by webcam? 
+----------
+ * **la maleta** :: suitcase (noun)
+ * Sólo puedes llevar dos maletas en el avión. 
+ * You can only carry two suitcases on the plane. 
 ----------
  * **sin medida** :: in excess (expression)
  * Uno puede beber siempre que no beba sin medida. 
  * Drinking is OK as long as you don't do it in excess. 
 ----------
+ * **contar** :: to count (verb)
+ * La vendedora cuenta su dinero. 
+ * The vendor counts her money. 
+----------
  * **el alcalde** :: mayor (noun)
  * El alcalde de mi pueblo es excelente. 
  * The mayor of my town is excellent. 
+----------
+ * **raro** :: strange (adjective)
+ * Esa es una canción rara. 
+ * That's a strange song. 
 ----------
  * **al pie de la letra** :: literally (expression)
  * No te lo tomes al pie de la letra. 
  * Do not take it literally. 
 ----------
+ * **el edificio** :: building (noun)
+ * Hay muchos edificios en la ciudad. 
+ * There are a lot of buildings in the city. 
+----------
  * **el lío** :: mess (noun)
  * Mi vida es un lío y no sé qué hacer. 
  * My life is a mess and I don't know what to do. 
+----------
+ * **cosechar** :: to harvest (verb)
+ * Los obreros cosechan las cerezas en el verano. 
+ * The workers harvest the cherries in the summer. 
 ----------
  * **a quemarropa** :: point-blank (expression)
  * Me lo preguntó a quemarropa. 
  * He asked me point-blank. 
 ----------
+ * **lentamente** :: slow (adverb)
+ * La tortuga camina lentamente. 
+ * The turtle walks slowly. 
+----------
  * **el rascacielos** :: skyscraper (noun)
  * Dubai inaugura el rascacielos más alto del mundo. 
  * Dubai inaugurates the tallest skyscraper in the world. 
+----------
+ * **el tanque** :: tank (noun)
+ * El tanque está vacío. 
+ * The tank is empty. 
 ----------
  * **el rompecabezas** :: jigsaw puzzle (noun)
  * Armar rompecabezas es buen ejercicio para la mente. 
  * Putting jigsaw puzzles together is a good mental exercise. 
 ----------
+ * **gatear** :: to crawl (verb)
+ * El bebé gatea por muchas partes de la casa. 
+ * The baby is crawling all around the house. 
+----------
  * **falta de** :: lack of (expression)
  * Los candidatos demostraron en el examen su absoluta falta de preparación. 
  * In the exam the candidates revealed their total lack of preparation. 
+----------
+ * **mandón** :: bossy (adjective)
+ * El novio es muy mandón hacia su novia. 
+ * The boyfriend is very bossy towards his girlfriend. 
 ----------
  * **presumir** :: to show off (verb)
  * Lo hizo para presumir ante sus amistades. 
  * He did it to show off in front of his friends. 
 ----------
+ * **la berenjena** :: eggplant (noun)
+ * A mí me gusta comer la berenjena frita. 
+ * I like to eat fried eggplant. 
+----------
  * **el aviso** :: notice (noun)
  * Aviso: cerrado el lunes 
  * Notice: Closed Mondays 
+----------
+ * **esperar** :: to hope (verb)
+ * Yo espero ir a España en el verano. 
+ * I hope to go to Spain in the summer. 
 ----------
  * **el modismo** :: idiom (noun)
  * Es muy útil saber modismos del español. 
  * It's very useful to know Spanish idioms. 
 ----------
+ * **torpe** :: clumsy (adjective)
+ * Mi amigo es un poco torpe. 
+ * My friend is a little clumsy. 
+----------
  * **la repugnancia** :: disgust (noun)
  * García aceptó la corona con repugnancia. 
  * García accepted the crown with disgust. 
+----------
+ * **la lechuga** :: lettuce (noun)
+ * Nosotros queremos más lechuga en la ensalada. 
+ * We want more lettuce in the salad. 
 ----------
  * **la maldición** :: curse (noun)
  * La verdadera maldición es la ignorancia. 
  * The real curse is the ignorance. 
 ----------
+ * **preocuparse** :: to be worried (verb)
+ * Margarita se preocupa por el examen. 
+ * Margarita is worried about the exam. 
+----------
  * **contento** :: happy (adjective)
  * ¿Estás contento? 
  * Are you happy? 
+----------
+ * **picante** :: spicy (adjective)
+ * La comida Mexicana es picante. 
+ * Mexican food is spicy. 
 ----------
  * **conservatorio** :: music academy (noun)
  * Empezó a estudiar en el conservatorio de Viena. 
  * He started to study at the music academy in Vienna. 
 ----------
+ * **la pala** :: shovel (noun)
+ * Mi hijo lleva su pala y cubo a la playa. 
+ * My son is carrying his shovel and bucket to the beach. 
+----------
  * **el invernadero** :: greenhouse (noun)
  * El efecto invernadero preocupa a los científicos. 
  * Scientists worry about the Greenhouse Effect. 
+----------
+ * **broncearse** :: to get a tan (verb)
+ * Muchas modelos de moda se broncean. 
+ * Many fashion models get a tan. 
 ----------
  * **el intento** :: attempt (noun)
  * Fracasó en su intento de batir el récord mundial. 
  * He failed in his attempt to beat the world record. 
 ----------
+ * **feroz** :: ferocious (adjective)
+ * El tigre es un animal feroz. 
+ * The tiger is a ferocious animal. 
+----------
  * **la noche toledana** :: sleepless night (expression)
  * Anoche pasé una noche toledana. 
  * Last night I had a sleepless night. 
+----------
+ * **la sombrilla** :: beach umbrella (noun)
+ * Llevamos una sombrilla a la playa. 
+ * We're bringing a beach umbrella to the beach. 
 ----------
  * **la discusión** :: argument (noun)
  * Tuvimos una discusión por razones de dinero. 
  * We had an argument about money. 
 ----------
+ * **tener prisa** :: to be in a rush (verb)
+ * ¡Tengo mucha prisa! 
+ * I'm in a big hurry! 
+----------
  * **la orden del día** :: agenda (expression)
  * El sexto punto del orden del día ha sido lo más interesante. 
  * The sixth item on the agenda has been the most interesting. 
+----------
+ * **cerrado** :: closed (adjective)
+ * La ferretería está cerrada. 
+ * The hardware store is closed. 
 ----------
  * **aconsejar** :: to advise (verb)
  * Le ha aconsejado cómo cuidar a su bebé. 
  * She advised her how to take care of her baby. 
 ----------
+ * **los juguetes** :: toys (noun)
+ * Papá Noel trae juguetes a los niños. 
+ * Santa Claus brings toys to children. 
+----------
  * **empezar** :: to start (verb)
  * Que empiece la fiesta. 
  * Let's get this party started. 
+----------
+ * **dejar** :: to permit (verb)
+ * Yo dejo a mi hijo manejar mi carro. 
+ * I permit my son to drive my car. 
 ----------
  * **el barbero** :: barber (noun)
  * Este libro se llama "El barbero de Sevilla" 
  * This book is called "The Barber of Seville." 
 ----------
+ * **exitoso** :: successful (adjective)
+ * Shakira es una cantante exitosa. 
+ * Shakira is a successful singer. 
+----------
  * **introducir** :: to introduce (verb)
  * Para introducir el tema, empezaré hablando de política exterior. 
  * To introduce the subject, I'll begin by discussing foreign policy. 
+----------
+ * **el tiempo** :: weather (noun)
+ * Los jugadores están preocupados por el tiempo. 
+ * The players are worried about the weather. 
 ----------
  * **indigente** :: destitute (adjective)
  * La mayoría de esta población es indigente. 
  * The majority of the population is destitute. 
 ----------
+ * **entusiasta** :: enthusiastic (adjective)
+ * Su hija es una estudiante entusiasta. 
+ * Your daughter is an enthusiastic student. 
+----------
  * **corresponder** :: to match (verb)
  * Su versión de los hechos no corresponde a la realidad. 
  * Her version of the events does not match up with the truth. 
+----------
+ * **la escuela** :: school (noun)
+ * Las clases en la escuela van a empezar pronto. 
+ * The classes at school are going to begin soon. 
 ----------
  * **ir de acampada** :: to go camping (expression)
  * De pequeño solía ir de acampada. 
  * I used to go camping as a child. 
 ----------
+ * **tardar** :: to take time (verb)
+ * ¿Cuánto tiempo vas a tardar? 
+ * How long are you going to take? 
+----------
  * **empeñarse en algo** :: to insist on something (expression)
  * Se empeñó en irse a trabajar al extranjero. 
  * He insisted on going to work abroad. 
+----------
+ * **tarde** :: late (adjective)
+ * El fue entregado está tarde. 
+ * The report is late. 
 ----------
  * **la pesadilla** :: nightmare (noun)
  * Que todas tus pesadillas sean dulces. 
  * May all your nightmares be sweet ones. 
 ----------
+ * **la cita** :: appointment (noun)
+ * Yo tengo una cita con el dentista. 
+ * I have an appointment with the dentist. 
+----------
  * **descampar** :: to stop raining (verb)
  * Cuando descampe iremos a dar un paseo. 
  * When it stops raining we will go for a walk. 
+----------
+ * **dibujar** :: to draw (verb)
+ * Los estudiantes dibujan al profesor en los cuadernos. 
+ * The students draw the teacher in their notebooks. 
 ----------
  * **la madrugada** :: dawn (noun)
  * "Solos en la madrugada" es la película dirigida por José Luis García. 
  * "Alone at dawn" is the movie directed by José Luis Garcia. 
 ----------
+ * **flojo** :: lazy (adjective)
+ * Él es un empleado flojo. 
+ * He is a lazy employee. 
+----------
  * **con tal de que** :: provided that (conjunction)
  * Me da igual el alojamiento con tal de que sea limpio. 
  * I don't care how the accommodation looks like provided it is clean. 
+----------
+ * **el colegio** :: high school (noun)
+ * ¿Es grande tu colegio? 
+ * Is your high school big? 
 ----------
  * **ponerse enfermo** :: to get sick (expression)
  * El mismo día Francisco se ha puesto enfermo también. 
  * The very same day Francisco got sick as well. 
 ----------
+ * **pasar** :: to pass (verb)
+ * El estudiante no pasa sus exámenes porque no estudia. 
+ * The student doesn't pass his exams because he doesn't study. 
+----------
  * **pues sí** :: certainly (expression)
  * Pues sí, estoy de acuerdo con todos los que dicen eso. 
  * Certainly, I agree with all those who say that. 
+----------
+ * **distraído** :: absent-minded (adjective)
+ * No quiero que un doctor distraído me opere. 
+ * I don't want an absent-minded doctor to operate on me. 
 ----------
  * **el país** :: country (noun)
  * España es un país muy bonito. 
  * Spain is a beautiful country. 
 ----------
+ * **el compañero de trabajo** :: co-worker (noun)
+ * Mi compañero de trabajo me ayuda mucho. 
+ * My co-worker helps me a lot. 
+----------
  * **la ola** :: wave (noun)
  * Me gustan las olas del Mar Negro. 
  * I like the waves of the Black Sea. 
+----------
+ * **sacar** :: to take out (verb)
+ * ¿Ya sacaste el dinero del banco? 
+ * Did you already take out the money from the bank? 
 ----------
  * **el carterista** :: pick-pocket (noun)
  * La policía detuvo a un carterista anoche. 
  * The police arrested a pick-pocket last night. 
 ----------
+ * **justo** :: fair (adjective)
+ * ¡La decisión no es justa! 
+ * The ruling isn't fair! 
+----------
  * **ser un plomo** :: to be a bore (expression)
  * Es un plomo de profesor. 
  * He is such a bore of a teacher. 
+----------
+ * **la nota** :: grade (noun)
+ * Mis hijos reciben buenas notas en la escuela. 
+ * My kids receive good grades in school. 
 ----------
  * **soso** :: tasteless (adjective)
  * La comida parece sosa cuando uno está resfriado. 
  * Food seems tasteless when one has a cold. 
 ----------
+ * **entregar** :: to turn in (verb)
+ * Tú tienes que entregar el informe al jefe. 
+ * You have to turn in the report to the boss. 
+----------
  * **el estado de ánimo** :: state of mind (expression)
  * La juventud no es más que un estado de ánimo. 
  * Youth is but a state of mind. 
+----------
+ * **tramposo** :: cheater (adjective)
+ * Él es tramposo porque copia mi trabajo. 
+ * He's a cheater because he copies my homework. 
 ----------
  * **sujetar** :: to hold (verb)
  * Sujeta esto un momento. 
  * Hold this a moment. 
 ----------
+ * **la tarea** :: homework (noun)
+ * Los mejores estudiantes hacen toda su tarea. 
+ * The best students do all of their homework. 
+----------
  * **¡Hasta pronto!** :: See you soon! (expression)
  * Tengo que marcharme ahora, ¡hasta pronto! 
  * I've got to go now, see you soon! 
+----------
+ * **prestar** :: to loan (verb)
+ * ¿Me prestas un lápiz por favor? 
+ * Can you loan me a pencil please? 
 ----------
  * **dormir a pierna suelta** :: to sleep like a log (expression)
  * Esa noche dormí a pierna suelta y no me enteré de nada. 
  * That night I slept like a log and I didn't hear anything. 
 ----------
+ * **grave** :: serious (adjective)
+ * Él tiene una herida grave. 
+ * He has a serious injury. 
+----------
  * **hablar** :: to speak (verb)
  * Baxter, sabes que no hablo español. 
  * Baxter, you know I don't speak Spanish. 
+----------
+ * **la asignatura** :: course (noun)
+ * Hay muchas asignaturas que puedes tomar en la universidad. 
+ * There are a lot of courses that you can take at college. 
 ----------
  * **útil** :: useful (adjective)
  * El artículo sobre economía resultó muy útil para mi investigación. 
  * The article on economics was very useful for my research. 
 ----------
+ * **conocer** :: to know (verb)
+ * Yo conozco Los Ángeles muy bien. 
+ * I know Los Angeles very well. 
+----------
  * **el duende** :: goblin (noun)
  * A mi sobrino le gustan los cuentos de hadas y duendes. 
  * My nephew likes tales with goblins and fairies. 
+----------
+ * **aplicado** :: studious (adjective)
+ * Samuel es bastante aplicado. 
+ * Samuel is pretty studious. 
 ----------
  * **saludable** :: healthy (adjective)
  * Hacer ejercicios diariamente es una actividad saludable. 
  * Doing daily exercise is a healthy activity. 
 ----------
+ * **los apuntes** :: notes (noun)
+ * Nosotros tomamos muchos apuntes en clase. 
+ * We take a lot of notes in class. 
+----------
  * **la agilidad** :: agility (noun)
  * No tengo agilidad suficiente para jugar de base. 
  * I don't have enough agility to play as a guard. 
 ----------
+ * **saber** :: to know (verb)
+ * Josefina siempre sabe todas las respuestas. 
+ * Josefina always knows all of the answers. 
+----------
  * **la manga** :: sleeve (noun)
  * Hace mucho frío; mejor ponte algo de manga larga. 
  * It's too cold; you'd better wear something with long sleeves. 
+----------
+ * **decepcionado** :: disappointed (adjective)
+ * Nosotros estamos decepcionados contigo. 
+ * We are disappointed with you. 
 ----------
  * **recibir** :: to receive (verb)
  * Prefiero recibir el premio en efectivo. 

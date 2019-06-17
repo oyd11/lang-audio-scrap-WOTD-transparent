@@ -1,6 +1,6 @@
 # urdu WOTD : 
 ----------
- 473 phrases 
+ 614 phrases 
 ----------
 ----------
  * **پنسل شارپنر** :: pencil sharpener (noun)
@@ -871,565 +871,1129 @@
  * کھودو یہاں تک کہ تم تیل سے ٹکرائو. 
  * Dig until you strike oil. 
 ----------
+ * **دہرانا** :: to repeat (verb)
+ * میں سمجھا نہیں. آپ وہ دہرا سکتے ہیں؟ 
+ * I don't understand. Can you repeat that? 
+----------
  * **تصویر لینا** :: to photograph (verb)
  * اس نے ایک نایاب پرندے کی تصاویر لی. 
  * She photographed a rare bird. 
+----------
+ * **زبان** :: language (noun)
+ * اس گھر میں ایسی زبان استعمال کرنے کی تمھاری ہمت کیسے ہوئ؟ 
+ * How dare you use such language in this house? 
 ----------
  * **سرد** :: chilly (adjective)
  * کیا ایک سرد دن ہے! 
  * What a chilly day! 
 ----------
+ * **فعل** :: verb (noun)
+ * فعل ایک عملی لفظ ہے. 
+ * A verb is an action word. 
+----------
  * **انتظار کرنا** :: to wait for (verb)
  * ہم بس کا انتظار کر رہے ہیں. 
  * We are waiting for the bus. 
+----------
+ * **پہننا** :: to wear (verb)
+ * یہ ایک مضحکہ خیز ہیٹ ہے، لیکن تم نے اسے اچھی طرح پہنا! 
+ * It's a ridiculous hat, but you wear it well! 
 ----------
  * **اسکیٹ کرنا** :: to skate (verb)
  * بچے تالاب پر اسکیٹ کرتے ہیں جب وہ ٹھوس منجمد ہو جائے. 
  * The children skate on the pond once it is frozen solid. 
 ----------
+ * **آکسیجن** :: oxygen (noun)
+ * اُونچائی پر ہوا میں کم آکسیجن ہوتی ہے. 
+ * At high elevations, there is less oxygen in the air. 
+----------
  * **سلیج** :: sled (noun)
  * اس کے دادا نے گزشتہ موسم سرما اسے ایک سلیج دی. 
  * His grandfather gave him a sled last winter. 
+----------
+ * **آمدنی** :: revenue (noun)
+ * اخراجات بُلند ہیں، آمدنی کم ہے. آپ کیا کر سکتے ہیں؟ 
+ * Costs are up, revenue is down. What can you do? 
 ----------
  * **گلا** :: throat (noun)
  * میرا گلا آج دکھ رہا ہے. 
  * My throat is hurting today. 
 ----------
+ * **دودھ پلانے والے جانور** :: mammal (noun)
+ * وہیل اور ڈالفن دودھ پلانے والے جانور ہیں. 
+ * Whales and dolphins are mammals. 
+----------
  * **گریجویشن کرنا** :: to graduate (verb)
  * میرا بھائی ایک ماہ میں گریجویٹ کرے گا. 
  * My brother will graduate in a month. 
+----------
+ * **پانی** :: water (noun)
+ * زمین زیادہ تر پانی سے ڈھکی ہوئ ہے. 
+ * The Earth is covered mostly by water. 
 ----------
  * **گھاس کاٹنے کی مشین** :: lawnmower (noun)
  * گھاس کاٹنے کی مشین کو پیٹرول کی ضرورت ہے. 
  * The lawnmower needs gasoline. 
 ----------
+ * **پَہيلی** :: riddle (noun)
+ * اگر ابوالہول آپ سے ایک پہیلی پوچھے، آپ کو جواب معلوم ہونا چاھیئے. 
+ * If the Sphinx asks you a riddle, you better know the answer. 
+----------
  * **گھاس کا میدان** :: meadow (noun)
  * ایک وسیع گھاس کا میدان چٹان کے نیچے سے باہر پھیلا ہوا ہے. 
  * A vast meadow spreads out below the cliff. 
+----------
+ * **بٹن بند کرنا** :: to button (verb)
+ * میں نے اتنا کھا لیا، میں اپنی پتلون کے بٹن بمشکل بند کر سکتا ہوں! 
+ * I ate so much I can barely button my pants! 
 ----------
  * **تاریخ** :: history (noun)
  * انہوں نے یونیورسٹی میں تاریخ کا مطالعہ کیا. 
  * They studied history at the university. 
 ----------
+ * **پوسٹر** :: poster (noun)
+ * وہ پرانی ڈراونی فلموں کے پوسٹر جمع کرتا ہے. 
+ * He collects posters of old horror movies. 
+----------
  * **گھڑی** :: clock (noun)
  * تیس سال قبل، بجلی اس گھڑی مینار سے ٹکرائ. 
  * Thirty years ago, lightning struck that clock tower. 
+----------
+ * **تال ملانا** :: to tune (verb)
+ * ایک ماہر کان سے وایلن کی تال میل کر سکتا ہے. 
+ * An expert can tune a violin by ear. 
 ----------
  * **ہسپتال** :: hospital (noun)
  * ہسپتال کس طرف ہے؟ 
  * Which way is the hospital? 
 ----------
+ * **سکول کا تعلیمی سال** :: school year (noun)
+ * ہر خزاں، ا سکول کا تعلیمی سال نئے سرے سے شروع ہوتا ہے. 
+ * Every fall, the school year begins anew. 
+----------
  * **لگان** :: tax (noun)
  * اپنا لگان ادا کرنا مت بھولنا! 
  * Do not forget to pay your taxes! 
+----------
+ * **ٹڈا** :: grasshopper (noun)
+ * تمہیں ابھی بہت کچھ سیکھنا ہے،ٹڈے. 
+ * You have much to learn, grasshopper. 
 ----------
  * **فی البدیہہ کہنا** :: to improvise (verb)
  * فنکاروں نے پورا منظر فی البدیہہ کہا. 
  * The actors improvised the entire scene. 
 ----------
+ * **چٹکلا** :: anecdote (noun)
+ * میرے دادا سینکڑوں چٹکلے جانتے ہیں. 
+ * My grandfather knows hundreds of anecdotes. 
+----------
  * **کرنے کی ضرورت** :: to need (verb)
  * تمہیں ایک بڑی کشتی کی ضرورت ہو گی. 
  * You're going to need a bigger boat. 
+----------
+ * **اعلان کرنا** :: to announce (verb)
+ * وہ کل فاتح کا اعلان کریں گے. 
+ * They will announce the winner tomorrow. 
 ----------
  * **جنک میل فولڈر** :: junk mail folder (expression)
  * ای میل غلطی سے آپ کے جنک میل کے فولڈر میں چلی گئ ہو گی. 
  * The email may have accidentally gone into your junk mail folder. 
 ----------
+ * **ہنس** :: goose (noun)
+ * دو شور کرنے والے ہنس تالاب کے قریب رہتے ہیں. 
+ * Two noisy geese live near the pond. 
+----------
  * **بلاک کرنا** :: to block (verb)
  * دوست آپ نے ٹویٹر پر مجھے کیوں بلاک کیا؟ 
  * Why'd you block me on Twitter, friend? 
+----------
+ * **چاندی** :: silver (noun)
+ * چاندی کے ساتھ مسئلہ یہ ہے کہ یہ بہت آسانی سے میلی ہو جاتی یے. 
+ * The problem with silver is that it tarnishes so easily. 
 ----------
  * **صبر** :: patience (noun)
  * صبر ایک خوبی ہے. 
  * Patience is a virtue. 
 ----------
+ * **آتشبازی** :: fireworks (noun)
+ * آتشبازی نے رات کا آسمان روشن کر دیا. 
+ * Fireworks lit the night sky. 
+----------
  * **جسارت کرنا** :: to venture (verb)
  * کوئی جسارت نہیں، کچھ حاصل نہیں. 
  * Nothing ventured, nothing gained. 
+----------
+ * **واقف ہونا** :: to be aware (verb)
+ * جی ہاں، آفیسر، میں حد رفتار سے واقف ہوں. 
+ * Yes, officer, I am aware of the speed limit. 
 ----------
  * **مطالعہ کرنا** :: to study (verb)
  * میں ساری رات جاگ کر امتہان کے لئےمطالعہ کرتا رہا. 
  * I've been up all night studying for this test. 
 ----------
+ * **گاڑی** :: car (noun)
+ * آپ نے گاڑی کہاں پارک کی تھی؟ 
+ * Where did you park the car? 
+----------
  * **سر درد** :: headache (noun)
  * میرے گھر جاتے ہوے ٹریفک ایک واقعی سر درد ہے. 
  * The traffic on my drive home is a real headache. 
+----------
+ * **کیلا** :: banana (noun)
+ * کیلے آپ کے لئے اچھے ہیں. 
+ * Bananas are good for you. 
 ----------
  * **پیاز** :: onion (noun)
  * اگر پیاز بہت بڑی ہے تو اس کا صرف آدھا حصہ استعمال کرنا. 
  * If the onion is too big, use only half of it. 
 ----------
+ * **دوربین** :: binoculars (noun)
+ * براہ مہربانی مجھے دوربین پاس کریں. 
+ * Please pass me the binoculars. 
+----------
  * **فرائز** :: fries (noun)
  * کیا تمہیں اس کے ساتھ فرائز چاہئیں؟ 
  * Do you want fries with that? 
+----------
+ * **نابینائی** :: blindness (noun)
+ * سورج کو گھورنے کا نتیجہ نابینائی ہے! 
+ * Staring at the sun causes blindness! 
 ----------
  * **ساحل سمندر** :: beach (noun)
  * وہ اور میں کل ساحل سمندر جائیں گے. 
  * She and I will go to the beach tomorrow. 
 ----------
+ * **کیتلی** :: kettle (noun)
+ * کیا کیتلی نے ابھی تک سیٹی بجائ؟ 
+ * Has the kettle whistled yet? 
+----------
  * **چلنا** :: to hike (verb)
  * تم بیچ جنگل میں کیوں چلنا چاہتے ہو؟ 
  * Why do you want to hike in the middle of the forest? 
+----------
+ * **جوتے** :: boot (noun)
+ * آپ کے جوتے کیچڑ والے کمرے میں ہیں. 
+ * Your boots are in the mudroom. 
 ----------
  * **ریاضی** :: mathematics (noun)
  * میں نے کبھی ریاضی میں اچھے گریڈ حاصل نہیں کیے. 
  * I never received good grades in mathematics. 
 ----------
+ * **اینٹ** :: brick (noun)
+ * دیوار میں اینٹیں گنو اگر تم بور ہو گئے ہو. 
+ * Count the bricks in the wall if you're bored. 
+----------
  * **آٹو میکینک** :: auto mechanic (noun)
  * ایک میکینک نے ہماری گاڑی ٹھیک کی. 
  * A mechanic fixed our car. 
+----------
+ * **برش** :: to brush (verb)
+ * اسے بالوں میں برش کرنے کی ضرورت ہے. 
+ * She needs to brush her hair. 
 ----------
  * **دماغ** :: mind (noun)
  * وہ اپنے دماغ میں اِنتہائی ذہین شخص ہے. 
  * He is a genius in his own mind. 
 ----------
+ * **جلانا** :: to burn (verb)
+ * ہم نے غلطی سے سٹیک کو جلا دیا. 
+ * We accidentally burned the steak. 
+----------
  * **سکہ** :: coin (noun)
  * میں فیصلہ نہیں کر سکتا. چلو ایک سکہ اچھالتے ہیں. 
  * I can't decide. Let's flip a coin. 
+----------
+ * **استبل** :: stable (noun)
+ * ان کے گھوڑے استبل میں رہتے ہیں. 
+ * Their horses live in the stable. 
 ----------
  * **رقم** :: money (noun)
  * لگتا ہے کسی کے پاس بھی کافی رقم نہیں ہے. 
  * Nobody seems to have enough money. 
 ----------
+ * **شیمپین** :: champagne (noun)
+ * شیمپین لے آؤ، ہم سٹرابیری فراہم کریں گے. 
+ * Bring champagne, we'll supply the strawberries. 
+----------
  * **کاٹنا** :: to bite (verb)
  * میرا کتا تمہیں نہیں کاٹے گا. 
  * My dog will not bite you. 
+----------
+ * **پرکشش** :: attractive (adjective)
+ * میں تسلیم کرتا ہوں، یہ ایک پرکشش پیشکش ہے. 
+ * I admit, it is an attractive offer. 
 ----------
  * **مچھر** :: mosquito (noun)
  * مچھر مجھے اکیلا نہیں چھوڑیں گے! 
  * The mosquitoes will not leave me alone! 
 ----------
+ * **مالک** :: boss (noun)
+ * ہمارا مالک ہم سے خوش اخلاقی سے برتاؤ کرتا ہے. 
+ * Our boss treats us courteously. 
+----------
  * **فلم سٹار** :: movie star (noun)
  * آپ کا پسندیدہ فلم سٹار کون ہے؟ 
  * Who's your favorite movie star? 
+----------
+ * **گھوڑا** :: horse (noun)
+ * میں نے دیکھا، اور میرے سامنے ایک کمزور گھوڑا تھا! 
+ * I looked, and before me was a pale horse! 
 ----------
  * **سمندری کھانا** :: seafood (noun)
  * مجہے سمندری کھانے سے محبت ہے، لیکن میرے دوست کو اس سے الرجی ہے. 
  * I love seafood, but my friend is allergic to it. 
 ----------
+ * **سیب کا عرق** :: apple juice (noun)
+ * وہ میٹھا سیب کا عرق بیچتے ہیں. 
+ * They sell sweet apple juice. 
+----------
  * **بیٹھنا** :: to sit down (verb)
  * کبھی کبھی مجھے ایک اچھی کتاب کے ساتھ بیٹھنا پسند ہے. 
  * Sometimes I just like to sit down with a good book. 
+----------
+ * **اسکریپبک** :: scrapbook (noun)
+ * میں نے اپنی گزشتہ چھٹی کا اسکریپبک بنایا. 
+ * I made a scrapbook of our last vacation. 
 ----------
  * **لان** :: lawn (noun)
  * میرے لان سے نکل جاو. 
  * Get off my lawn. 
 ----------
+ * **سگار** :: cigar (noun)
+ * سگار کیوبا کی سب سے بڑی برآمدات میں سے ایک ہیں. 
+ * Cigars are one of Cuba's largest exports. 
+----------
  * **اجازت** :: permission (noun)
  * اجازت لینے سے بخشش طلب کرنا آسان ہے. 
  * It's easier to ask forgiveness than permission. 
+----------
+ * **گلے لگانا** :: to hug (verb)
+ * چوٹی بچی نے اپنے بھالو کو گلے لگا لیا. 
+ * The young girl hugged her teddy bear. 
 ----------
  * **سیکنڈ کزن** :: second cousin (noun)
  * میری پڑوسی نے اپنے سیکنڈ کزن سے شادی کی. 
  * My neighbor married her second cousin. 
 ----------
+ * **کاٹنا** :: to carve (verb)
+ * اس نے ایک سرجن جیسی ہنر مند باضابطگی کے ساتھ روسٹ کاٹا. 
+ * He carved the roast with the skilled precision of a surgeon. 
+----------
  * **مکمل کرنا** :: to complete (verb)
  * تم نے مجھے مکمل کیا. 
  * You complete me. 
+----------
+ * **پڑھنا** :: to recite (verb)
+ * آپ پرانی نظم پڑھ سکتے ہیں؟ 
+ * Can you recite the old poem? 
 ----------
  * **مسافر** :: passenger (noun)
  * گاڑی کے مسافر کو کوءی نقصان نہ پہنچا. 
  * The passenger of the vehicle was unharmed. 
 ----------
+ * **سوال** :: question (noun)
+ * براہ مہربانی سوال کا جواب دیانت داری سے دیں. 
+ * Please answer the question honestly. 
+----------
  * **ڈھانچہ** :: structure (noun)
  * نمائش میں کئی مُتحَرَّک ڈھانچے بھی شامل تھے. 
  * The exhibit included several mobile structures. 
+----------
+ * **دندان ساز** :: dentist (noun)
+ * میں ایک ہزار دفعہ دندان ساز کے پاس جا چکا ہوں، تو میں ڈرل جانتا ہوں. 
+ * I've been to the dentist a thousand times, so I know the drill. 
 ----------
  * **آگ کی مشق** :: fire drill (noun)
  * گھبراو نہیں، یہ صرف ایک آگ کی مشق ہے. 
  * Don't panic, it's only a fire drill. 
 ----------
+ * **بنانا** :: to draw (verb)
+ * آرٹسٹ نے ایک بہترین شَکَل بنائ. 
+ * The artist drew an excellent figure. 
+----------
  * **رخسار** :: cheek (noun)
  * جب اس نے مجھے دیکھا، تو رخساروں پر مجھے دو بار چوما. 
  * When she saw me, she kissed me twice on the cheeks. 
+----------
+ * **نقصان پہنچانا** :: to damage (verb)
+ * پیکیج کو نقصان نہ پہنچانا. 
+ * Do not damage the package. 
 ----------
  * **بروکولی** :: broccoli (noun)
  * کیا آپ بروکولی کو ابالنا یا بھاپ دینا پسند کرتے ہیں؟ 
  * Do you prefer to boil broccoli or steam it? 
 ----------
+ * **فرق** :: difference (noun)
+ * ایک دن سے کتنا فرق پڑتا ہے! 
+ * What a difference a day makes! 
+----------
  * **اغوا کرنا** :: to abduct (verb)
  * کل رات میں نے خواب دیکھا کہ ایلین مجھے اغوا کر رہے ہیں . 
  * Last night I dreamt I was being abducted by aliens. 
+----------
+ * **تقسیم کرنا** :: to divide (verb)
+ * چلو کیک کو یکساں حصوں میں تقسیم کر لیں. 
+ * Let's divide the cake into equal parts. 
 ----------
  * **چھڑکنے والا فوارہ** :: sprinkler (noun)
  * آگ نہی پھیلی کیونکہ پانی چھڑکنے والے فوارے چالو کر دیے گیے تھے. 
  * The fire did not spread because the sprinklers were activated. 
 ----------
+ * **دینا** :: to give (verb)
+ * تم نے اس کی سالگرہ کے لیے اسے کیا دیا؟ 
+ * What did you give her for her birthday? 
+----------
  * **چٹان** :: cliff (noun)
  * انگلینڈ میں اپنے سفر کے دوران ہم نے ڈوور کی چٹٹانوں کا دورہ کیا. 
  * During our trip around England we visited the cliffs of Dover. 
+----------
+ * **شک کرنا** :: to doubt (verb)
+ * مجھے ناپ کی درستگی پر شک ہے. 
+ * I doubt the accuracy of the measurements. 
 ----------
  * **کال** :: call (verb)
  * مجھے آج رات کو کال کریں اور ہم منصوبے بنا دیں گے. 
  * Call me tonight and we'll make plans. 
 ----------
+ * **وضاحت کرنا** :: to explain (verb)
+ * مجھے ایک بار پھر اس حل کی وضاحت کریں. 
+ * Explain the solution to me one more time. 
+----------
  * **بورڈنگ پاس** :: boarding pass (noun)
  * براہ مہربانی اپنے بورڈنگ پاس کاونٹر پر تیار رکھیں. 
  * Please, have your boarding pass ready at the counter. 
+----------
+ * **غَلَط** :: mistaken (adjective)
+ * اس کی غلط شناخت کا معاملہ تھا. 
+ * His was a case of mistaken identity. 
 ----------
  * **اشارہ** :: hint (noun)
  * کچھ لوگ ایک اشارہ بھی نہیں سمجھ سکتے. 
  * Some people just can't take a hint. 
 ----------
+ * **مستثنی** :: exception (noun)
+ * ہر اصول کے مستثنی ہیں. 
+ * There are exceptions to every rule. 
+----------
  * **انٹرفیس** :: interface (noun)
  * اس پروگرام میں ایک بہت اچھا یوزر انٹرفیس ہے. 
  * The program has a very nice user interface. 
+----------
+ * **ختم کرنا** :: to finish (verb)
+ * کیا آپ نے کتاب ختم کر لی؟ 
+ * Have you finished the book? 
 ----------
  * **لیپ کا سال** :: leap year (noun)
  * اگلا سال ایک لیپ کا سال ہے. 
  * Next year is a leap year. 
 ----------
+ * **پھول نکلنا** :: to flower (verb)
+ * چند ہفتوں میں درختوں پر پھول نکل آئیں گے. 
+ * The trees will flower in a few weeks. 
+----------
  * **شہ سرخی** :: headline (noun)
  * کیا تم نے اس صبح کی شہ سرخیوں کو دیکھا؟ 
  * Did you see the headlines this morning? 
+----------
+ * **پھول** :: flower (noun)
+ * پھولوں کو میز پر گلدان میں رکھ دو. 
+ * Put the flowers in the vase on the table. 
 ----------
  * **پیر** :: Monday (noun)
  * لگتا ہے کہ کسی کو پیر کا معاملہ ہے! 
  * Looks like someone has a case of the Mondays! 
 ----------
+ * **ڈراونا** :: scary (adjective)
+ * کیا آپ کو ڈراونی فلمیں پسند ہیں؟ 
+ * Do you like scary movies? 
+----------
  * **پگھلنا** :: to melt (verb)
  * سردی کی برف پہلے ہی پگھل گئ ہے. 
  * The winter snow has already melted. 
+----------
+ * **واپسی** :: to withdraw (verb)
+ * میں اسے آتے ہوے سن رہا ہوں چلو واپس لے لیتے ہیں، میرے آقا. 
+ * I hear him coming: let's withdraw, my lord. 
 ----------
  * **مسودہ** :: draft (noun)
  * پہلا مسودہ کل تک تیار ہو جائے گا. 
  * The first draft will be ready by tomorrow. 
 ----------
+ * **کھودنا** :: to dig (verb)
+ * کھودو یہاں تک کہ تم تیل سے ٹکرائو. 
+ * Dig until you strike oil. 
+----------
  * **کنکھجورا** :: centipede (noun)
  * باتھ ٹب میں ایک کنکھجورا ہے! 
  * There is a centipede in the bathtub! 
+----------
+ * **تصویر لینا** :: to photograph (verb)
+ * اس نے ایک نایاب پرندے کی تصاویر لی. 
+ * She photographed a rare bird. 
 ----------
  * **غیر منجمد کرنا** :: to defrost (verb)
  * ٹَرکی کو تندور میں ڈالنے سے قبل غیر منجمد کرنا چاھئے. 
  * You have to defrost the turkey before putting it in the oven. 
 ----------
+ * **سرد** :: chilly (adjective)
+ * کیا ایک سرد دن ہے! 
+ * What a chilly day! 
+----------
  * **بادبانی کَشتی** :: sailboat (noun)
  * بادبانی کَشتیئاں پانی پر چلنے کے لئےہوا پر انحصار کرتی ہیں. 
  * Sailboats rely on wind to move on the water. 
+----------
+ * **انتظار کرنا** :: to wait for (verb)
+ * ہم بس کا انتظار کر رہے ہیں. 
+ * We are waiting for the bus. 
 ----------
  * **متفق ہونا** :: to agree (verb)
  * میں اس معاملے پر آپ سےمتفق ہوں. 
  * I agree with you on that issue. 
 ----------
+ * **اسکیٹ کرنا** :: to skate (verb)
+ * بچے تالاب پر اسکیٹ کرتے ہیں جب وہ ٹھوس منجمد ہو جائے. 
+ * The children skate on the pond once it is frozen solid. 
+----------
  * **گزرنا** :: to pass (verb)
  * آپ سڑک کے اس حصے پر سے نہیں گزر سکتے. 
  * You can't pass on this stretch of road. 
+----------
+ * **سلیج** :: sled (noun)
+ * اس کے دادا نے گزشتہ موسم سرما اسے ایک سلیج دی. 
+ * His grandfather gave him a sled last winter. 
 ----------
  * **اتفاقی** :: at random (expression)
  * ہم نے اتفاقی طور پر ایک نشست کا انتخاب کیا. 
  * We chose a seat at random. 
 ----------
+ * **گلا** :: throat (noun)
+ * میرا گلا آج دکھ رہا ہے. 
+ * My throat is hurting today. 
+----------
  * **توہین کرنا** :: to offend (verb)
  * میں آپ کی توہین نہیں کرنا چاہتا تھا. 
  * I didn't mean to offend you. 
+----------
+ * **گریجویشن کرنا** :: to graduate (verb)
+ * میرا بھائی ایک ماہ میں گریجویٹ کرے گا. 
+ * My brother will graduate in a month. 
 ----------
  * **گاڑی کی ڈیلرشپ** :: car dealership (noun)
  * میری مقامی کار ڈیلرشپ کے پاس وہ ماڈل نہیں ہے جس کی میں تلاش کر رہا ہوں. 
  * My local car dealership doesn't have the model I'm looking for. 
 ----------
+ * **گھاس کاٹنے کی مشین** :: lawnmower (noun)
+ * گھاس کاٹنے کی مشین کو پیٹرول کی ضرورت ہے. 
+ * The lawnmower needs gasoline. 
+----------
  * **چکی داڑھی** :: goatee (noun)
  * وہ چکی داڑھی کے ساتھ نامسعود سا لگ رہا ہے. 
  * He looks kind of sinister with a goatee. 
+----------
+ * **گھاس کا میدان** :: meadow (noun)
+ * ایک وسیع گھاس کا میدان چٹان کے نیچے سے باہر پھیلا ہوا ہے. 
+ * A vast meadow spreads out below the cliff. 
 ----------
  * **دکھانا** :: to show (verb)
  * مجھے پیسہ دکھاو! 
  * Show me the money! 
 ----------
+ * **تاریخ** :: history (noun)
+ * انہوں نے یونیورسٹی میں تاریخ کا مطالعہ کیا. 
+ * They studied history at the university. 
+----------
  * **لاش** :: corpse (noun)
  * پولیس نے جرم کے وقوعہ پر دو لاشوں کو پایا. 
  * The police found two corpses at the scene of the crime. 
+----------
+ * **گھڑی** :: clock (noun)
+ * تیس سال قبل، بجلی اس گھڑی مینار سے ٹکرائ. 
+ * Thirty years ago, lightning struck that clock tower. 
 ----------
  * **منتخب کرنا** :: to select (verb)
  * مین مینو سے،"آپشنس" منتخب کریں. 
  * From the main menu, select "options." 
 ----------
+ * **ہسپتال** :: hospital (noun)
+ * ہسپتال کس طرف ہے؟ 
+ * Which way is the hospital? 
+----------
  * **بدقسمتی** :: bad luck (expression)
  * اگر بد قسمتی نہیں ہوتی تو میری کوئی قسمت ہی نہیں ہوتی! 
  * If it weren't for bad luck, I'd have no luck at all! 
+----------
+ * **لگان** :: tax (noun)
+ * اپنا لگان ادا کرنا مت بھولنا! 
+ * Do not forget to pay your taxes! 
 ----------
  * **جگر** :: liver (noun)
  * شراب جگر کے لئے نقصان دہ ہو سکتی ہے. 
  * Alcohol can be harmful to the liver. 
 ----------
+ * **فی البدیہہ کہنا** :: to improvise (verb)
+ * فنکاروں نے پورا منظر فی البدیہہ کہا. 
+ * The actors improvised the entire scene. 
+----------
  * **(چائے) دم کرنا** :: to brew (tea) (verb)
  * چاۓ تھوڑی دیر اور دم ہو گی. 
  * The tea has to brew for a little bit longer. 
+----------
+ * **کرنے کی ضرورت** :: to need (verb)
+ * تمہیں ایک بڑی کشتی کی ضرورت ہو گی. 
+ * You're going to need a bigger boat. 
 ----------
  * **قصائی** :: butcher (noun)
  * قصائی نے مجھے یہ سٹیک مفت دی. 
  * The butcher gave me this steak for free. 
 ----------
+ * **جنک میل فولڈر** :: junk mail folder (expression)
+ * ای میل غلطی سے آپ کے جنک میل کے فولڈر میں چلی گئ ہو گی. 
+ * The email may have accidentally gone into your junk mail folder. 
+----------
  * **فلم** :: movie (noun)
  * فلم میں تو کام چل گیا! 
  * It worked in the movie! 
+----------
+ * **بلاک کرنا** :: to block (verb)
+ * دوست آپ نے ٹویٹر پر مجھے کیوں بلاک کیا؟ 
+ * Why'd you block me on Twitter, friend? 
 ----------
  * **تراشنا** :: to carve (verb)
  * کسی نے اس درخت کی چھال میں اپنا نام تراشا ہے. 
  * Someone carved their name into the bark of that tree. 
 ----------
+ * **صبر** :: patience (noun)
+ * صبر ایک خوبی ہے. 
+ * Patience is a virtue. 
+----------
  * **خشک پھل** :: dried fruit (noun)
  * خشک پھل پروٹین سے مالا مال ہیں. 
  * Dried fruits are rich in protein. 
+----------
+ * **جسارت کرنا** :: to venture (verb)
+ * کوئی جسارت نہیں، کچھ حاصل نہیں. 
+ * Nothing ventured, nothing gained. 
 ----------
  * **مصنف** :: writer (noun)
  * میں بڑا ہو کر ایک مصنف بننا چاہتا ہوں. 
  * I want to be a writer when I grow up. 
 ----------
+ * **مطالعہ کرنا** :: to study (verb)
+ * میں ساری رات جاگ کر امتہان کے لئےمطالعہ کرتا رہا. 
+ * I've been up all night studying for this test. 
+----------
  * **شہ مات** :: check-mate (expression)
  * میں شہ مات سے دو مراحل دور ہوں. 
  * I'm two moves away from a check-mate. 
+----------
+ * **سر درد** :: headache (noun)
+ * میرے گھر جاتے ہوے ٹریفک ایک واقعی سر درد ہے. 
+ * The traffic on my drive home is a real headache. 
 ----------
  * **خستہ** :: crispy (adjective)
  * مجھے سیریل پسند ہے جب وہ ابھی خستا ہو. 
  * I like cereal when it's still crispy. 
 ----------
+ * **پیاز** :: onion (noun)
+ * اگر پیاز بہت بڑی ہے تو اس کا صرف آدھا حصہ استعمال کرنا. 
+ * If the onion is too big, use only half of it. 
+----------
  * **سکرپٹ** :: script (noun)
  * انہوں نے اپنی آخری فلم کیلئے خود سکرپٹ لکھا تھا. 
  * He wrote the script for his last movie himself. 
+----------
+ * **فرائز** :: fries (noun)
+ * کیا تمہیں اس کے ساتھ فرائز چاہئیں؟ 
+ * Do you want fries with that? 
 ----------
  * **سونامی** :: tsunami (noun)
  * اس علاقے میں سونامی الرٹ ہے. 
  * There is a tsunami alert in this area. 
 ----------
+ * **ساحل سمندر** :: beach (noun)
+ * وہ اور میں کل ساحل سمندر جائیں گے. 
+ * She and I will go to the beach tomorrow. 
+----------
  * **انٹرنیٹ صارف** :: internet user (noun)
  * بیشتر انٹرنیٹ صارفین کو تیز کنکشن کی رفتار کی توقع ہوتی ہے. 
  * Most internet users expect fast connection speeds. 
+----------
+ * **چلنا** :: to hike (verb)
+ * تم بیچ جنگل میں کیوں چلنا چاہتے ہو؟ 
+ * Why do you want to hike in the middle of the forest? 
 ----------
  * **دہشت انگیز** :: shocking (adjective)
  * اس حادثے کی فلم دہشت انگیز تھی. 
  * The footage of the accident was shocking. 
 ----------
+ * **ریاضی** :: mathematics (noun)
+ * میں نے کبھی ریاضی میں اچھے گریڈ حاصل نہیں کیے. 
+ * I never received good grades in mathematics. 
+----------
  * **منہ پھلانا** :: to pout (verb)
  * تم نے اپنی بہن کو کیا کہا؟ وہ پھر منھ پھلا رھی ہے. 
  * What did you say to your sister? She's pouting again. 
+----------
+ * **آٹو میکینک** :: auto mechanic (noun)
+ * ایک میکینک نے ہماری گاڑی ٹھیک کی. 
+ * A mechanic fixed our car. 
 ----------
  * **تمہارے ساتھ** :: by your side (expression)
  * میں اپنی باقی زندگی آ پ کے ساتھ بسر کرنا چاہتا ہوں. 
  * I want to spend the rest of my life by your side. 
 ----------
+ * **دماغ** :: mind (noun)
+ * وہ اپنے دماغ میں اِنتہائی ذہین شخص ہے. 
+ * He is a genius in his own mind. 
+----------
  * **ہدف** :: target (noun)
  * تیر ہدف کے مرکز پر لگا. 
  * The arrow hit the center of the target. 
+----------
+ * **سکہ** :: coin (noun)
+ * میں فیصلہ نہیں کر سکتا. چلو ایک سکہ اچھالتے ہیں. 
+ * I can't decide. Let's flip a coin. 
 ----------
  * **بسکٹ** :: cookies (noun)
  * میری ماں ہمیشہ مجھے کرسمس کے لیے بسکٹ کا ایک ٹن بھیجتی ہے. 
  * My mother always sends me a tin of cookies for Christmas. 
 ----------
+ * **رقم** :: money (noun)
+ * لگتا ہے کسی کے پاس بھی کافی رقم نہیں ہے. 
+ * Nobody seems to have enough money. 
+----------
  * **دس لاکھ سال میں نہیں** :: not in a million years (expression)
  * میں دس لاکھ سالوں میں بھی یہ فلم نہیں دیکھوں گا. 
  * I wouldn't watch that movie in a million years. 
+----------
+ * **کاٹنا** :: to bite (verb)
+ * میرا کتا تمہیں نہیں کاٹے گا. 
+ * My dog will not bite you. 
 ----------
  * **ائر فریشنر** :: air freshener (noun)
  * ایک ائر فریشنر بدبو کو ختم کر سکتا ہے. 
  * An air freshener might eliminate the odor. 
 ----------
+ * **مچھر** :: mosquito (noun)
+ * مچھر مجھے اکیلا نہیں چھوڑیں گے! 
+ * The mosquitoes will not leave me alone! 
+----------
  * **چھٹکارا حاصل کرنا** :: to get rid of (verb)
  * ہمیں اپنے پرانے فرنیچر سے چھٹکارا حاصل کرنا ہے. 
  * We have to get rid of our old furniture. 
+----------
+ * **فلم سٹار** :: movie star (noun)
+ * آپ کا پسندیدہ فلم سٹار کون ہے؟ 
+ * Who's your favorite movie star? 
 ----------
  * **درد** :: pain (noun)
  * کوئی درد نہیں، کوئی فائدہ نہیں. 
  * No pain, no gain. 
 ----------
+ * **سمندری کھانا** :: seafood (noun)
+ * مجہے سمندری کھانے سے محبت ہے، لیکن میرے دوست کو اس سے الرجی ہے. 
+ * I love seafood, but my friend is allergic to it. 
+----------
  * **متنازع** :: controversial (adjective)
  * یہ ٹی وی شو تشدد دکھانے کے باعث متنازع ہے. 
  * This television show is controversial for the violence it shows. 
+----------
+ * **بیٹھنا** :: to sit down (verb)
+ * کبھی کبھی مجھے ایک اچھی کتاب کے ساتھ بیٹھنا پسند ہے. 
+ * Sometimes I just like to sit down with a good book. 
 ----------
  * **ڈھال** :: shield (noun)
  * رستم نے ڈھال کے ساتھ حملہ روک دیا. 
  * The knight blocked the blow with his shield. 
 ----------
+ * **لان** :: lawn (noun)
+ * میرے لان سے نکل جاو. 
+ * Get off my lawn. 
+----------
  * **مصافحہ کرنا** :: to shake hands (verb)
  * مصافحہ کرو اور دوستی کرو. 
  * Shake hands and make up. 
+----------
+ * **اجازت** :: permission (noun)
+ * اجازت لینے سے بخشش طلب کرنا آسان ہے. 
+ * It's easier to ask forgiveness than permission. 
 ----------
  * **گم** :: gum (noun)
  * میں چلتے ہوے ایک ہی وقت میں گم نہیں چبا سکتا. 
  * I can't walk and chew gum at the same time. 
 ----------
+ * **سیکنڈ کزن** :: second cousin (noun)
+ * میری پڑوسی نے اپنے سیکنڈ کزن سے شادی کی. 
+ * My neighbor married her second cousin. 
+----------
  * **کی بورڈ** :: keyboard (noun)
  * مجھے کی بورڈ کی ترتیب تبدیل کرنا نہیں آ تا. 
  * I don't know how to change the keyboard layout. 
+----------
+ * **مکمل کرنا** :: to complete (verb)
+ * تم نے مجھے مکمل کیا. 
+ * You complete me. 
 ----------
  * **سیب** :: apple (noun)
  * دن کا ایک سیب ڈاکٹر کو دور رکھتا ہے. 
  * An apple a day keeps the doctor away. 
 ----------
+ * **مسافر** :: passenger (noun)
+ * گاڑی کے مسافر کو کوءی نقصان نہ پہنچا. 
+ * The passenger of the vehicle was unharmed. 
+----------
  * **انتباہ کرنا** :: to warn (verb)
  * میں آخری مرتبہ آپ کو انتباہ کر رہا ہوں. 
  * That's the last time I'm going to warn you. 
+----------
+ * **ڈھانچہ** :: structure (noun)
+ * نمائش میں کئی مُتحَرَّک ڈھانچے بھی شامل تھے. 
+ * The exhibit included several mobile structures. 
 ----------
  * **صحت** :: health (noun)
  * صحت دولت سے بہتر ہے. 
  * Health is better than wealth. 
 ----------
+ * **آگ کی مشق** :: fire drill (noun)
+ * گھبراو نہیں، یہ صرف ایک آگ کی مشق ہے. 
+ * Don't panic, it's only a fire drill. 
+----------
  * **ہنسی** :: laughter (noun)
  * ہنسی بہترین دوا ہے. 
  * Laughter is the best medicine. 
+----------
+ * **رخسار** :: cheek (noun)
+ * جب اس نے مجھے دیکھا، تو رخساروں پر مجھے دو بار چوما. 
+ * When she saw me, she kissed me twice on the cheeks. 
 ----------
  * **دماغ کو تکلیف دینا** :: to rack one's brains (expression)
  * آپ کو یاد کرنے کے لیے اپنے دماغ کو تکلیف دینا ہوگی. 
  * You'll have to rack your brains to remember. 
 ----------
+ * **بروکولی** :: broccoli (noun)
+ * کیا آپ بروکولی کو ابالنا یا بھاپ دینا پسند کرتے ہیں؟ 
+ * Do you prefer to boil broccoli or steam it? 
+----------
  * **نیپکن** :: napkin (noun)
  * براہ مہربانی آپ مجھے ایک اور نیپکن لا کر دے سکتے ہیں؟ 
  * Can you bring me another napkin, please? 
+----------
+ * **اغوا کرنا** :: to abduct (verb)
+ * کل رات میں نے خواب دیکھا کہ ایلین مجھے اغوا کر رہے ہیں . 
+ * Last night I dreamt I was being abducted by aliens. 
 ----------
  * **غصہ** :: anger (noun)
  * غصے کی وجھہ سے جذبات میں بہہ نہ جانا. 
  * Don't get carried away by anger. 
 ----------
+ * **چھڑکنے والا فوارہ** :: sprinkler (noun)
+ * آگ نہی پھیلی کیونکہ پانی چھڑکنے والے فوارے چالو کر دیے گیے تھے. 
+ * The fire did not spread because the sprinklers were activated. 
+----------
  * **معاف کرنا** :: to forgive (verb)
  * غلطی کرنا انسانی فعل ہے، معاف کرنا خدائی فعل ہے. 
  * To err is human, to forgive divine. 
+----------
+ * **چٹان** :: cliff (noun)
+ * انگلینڈ میں اپنے سفر کے دوران ہم نے ڈوور کی چٹٹانوں کا دورہ کیا. 
+ * During our trip around England we visited the cliffs of Dover. 
 ----------
  * **زہنی دباو** :: stress (noun)
  * بہت زیادہ زہنی دباؤ کی وجہ سے میں سو نہیں سکتا. 
  * I'm under too much stress to sleep. 
 ----------
+ * **کال** :: call (verb)
+ * مجھے آج رات کو کال کریں اور ہم منصوبے بنا دیں گے. 
+ * Call me tonight and we'll make plans. 
+----------
  * **دیواریں** :: the walls (noun)
  * دیواروں کے کان ہوتے ہیں. 
  * The walls have ears. 
+----------
+ * **بورڈنگ پاس** :: boarding pass (noun)
+ * براہ مہربانی اپنے بورڈنگ پاس کاونٹر پر تیار رکھیں. 
+ * Please, have your boarding pass ready at the counter. 
 ----------
  * **بات کرنا** :: to talk (verb)
  * یہ ایک دیوار سے بات کرنے کے برابر ہے. 
  * It's like talking to a wall. 
 ----------
+ * **اشارہ** :: hint (noun)
+ * کچھ لوگ ایک اشارہ بھی نہیں سمجھ سکتے. 
+ * Some people just can't take a hint. 
+----------
  * **دھواں** :: smoke (noun)
  * جہاں دھواں ہے، وہاں آگ ہے. 
  * Where there's smoke, there's fire. 
+----------
+ * **انٹرفیس** :: interface (noun)
+ * اس پروگرام میں ایک بہت اچھا یوزر انٹرفیس ہے. 
+ * The program has a very nice user interface. 
 ----------
  * **پاگل** :: crazy (adjective)
  * ہم سب کسی نہ کسی طرح سے تھوڑا پاگل ہیں. 
  * We're all a little crazy in one way or another. 
 ----------
+ * **لیپ کا سال** :: leap year (noun)
+ * اگلا سال ایک لیپ کا سال ہے. 
+ * Next year is a leap year. 
+----------
  * **بالکل بھی نہیں سونا** :: to not sleep a wink (expression)
  * میں ساری رات بالکل بھی نہیں سویا کیونکہ مجھے نیند نہیں آ رہی تھی. 
  * I didn't sleep a wink all night because I had insomnia. 
+----------
+ * **شہ سرخی** :: headline (noun)
+ * کیا تم نے اس صبح کی شہ سرخیوں کو دیکھا؟ 
+ * Did you see the headlines this morning? 
 ----------
  * **رکنا** :: to stay (verb)
  * آپ ایسا کیوں نہیں کرتے کہ اپنا کوٹ اتار لیں اور کچھ دیر رک جائیے؟ 
  * Why don't you take off your coat and stay a while? 
 ----------
+ * **پیر** :: Monday (noun)
+ * لگتا ہے کہ کسی کو پیر کا معاملہ ہے! 
+ * Looks like someone has a case of the Mondays! 
+----------
  * **سیل پر ہونا** :: to be on sale (expression)
  * مجھے اس کی واقعی ضرورت نہیں ہے، لیکن یہ سیل پر ہے! 
  * I don't really need this, but it's on sale! 
+----------
+ * **پگھلنا** :: to melt (verb)
+ * سردی کی برف پہلے ہی پگھل گئ ہے. 
+ * The winter snow has already melted. 
 ----------
  * **مضحک** :: grotesque (adjective)
  * جنگ کا منظر بہت مضحک لگ رہا تھا. 
  * The fight scene looked quite grotesque. 
 ----------
+ * **مسودہ** :: draft (noun)
+ * پہلا مسودہ کل تک تیار ہو جائے گا. 
+ * The first draft will be ready by tomorrow. 
+----------
  * **بڑبڑانا** :: to mumble (verb)
  * ٹھیک ہے، میں یہ کروں گا. جان بڑبڑایا. 
  * "Fine, I'll do it," mumbled John. 
+----------
+ * **کنکھجورا** :: centipede (noun)
+ * باتھ ٹب میں ایک کنکھجورا ہے! 
+ * There is a centipede in the bathtub! 
 ----------
  * **بھرنا** :: to fill (verb)
  * اس کی ایک نظر ہی اسے خوشی سے بھر دیتی ہے. 
  * The very sight of him fills her with joy. 
 ----------
+ * **غیر منجمد کرنا** :: to defrost (verb)
+ * ٹَرکی کو تندور میں ڈالنے سے قبل غیر منجمد کرنا چاھئے. 
+ * You have to defrost the turkey before putting it in the oven. 
+----------
  * **آگاہ ہونا** :: to be aware of (expression)
  * کیا تم اپنے اعمال کے نتائج سے آگاہ ہو؟ 
  * Are you aware of the consequences of your actions? 
+----------
+ * **بادبانی کَشتی** :: sailboat (noun)
+ * بادبانی کَشتیئاں پانی پر چلنے کے لئےہوا پر انحصار کرتی ہیں. 
+ * Sailboats rely on wind to move on the water. 
 ----------
  * **چونکانا** :: to startle (verb)
  * دھماکے کی آواز نے مجھے چونکا دیا. 
  * The sound of the explosion startled me. 
 ----------
+ * **متفق ہونا** :: to agree (verb)
+ * میں اس معاملے پر آپ سےمتفق ہوں. 
+ * I agree with you on that issue. 
+----------
  * **جھگڑنا** :: to quarrel (verb)
  * وہ پورا وقت جھگڑتے رہے. 
  * They spent the whole time quarrelling. 
+----------
+ * **گزرنا** :: to pass (verb)
+ * آپ سڑک کے اس حصے پر سے نہیں گزر سکتے. 
+ * You can't pass on this stretch of road. 
 ----------
  * **بگڑ جانا** :: spoiled (adjective)
  * وہ ایک بگڑا ہوا بچہ ہے. 
  * He is a spoiled child. 
 ----------
+ * **اتفاقی** :: at random (expression)
+ * ہم نے اتفاقی طور پر ایک نشست کا انتخاب کیا. 
+ * We chose a seat at random. 
+----------
  * **مالک** :: master (noun)
  * میں اپنی قسمت کا مالک خود ہوں. 
  * I am the master of my own destiny. 
+----------
+ * **توہین کرنا** :: to offend (verb)
+ * میں آپ کی توہین نہیں کرنا چاہتا تھا. 
+ * I didn't mean to offend you. 
 ----------
  * **کم سے کم** :: at least (expression)
  * کم سےکم اس نے کچھ کیا، اور باقی تمام تو صرف دیکھتے رہے. 
  * At least he did something; everyone else just watched. 
 ----------
+ * **گاڑی کی ڈیلرشپ** :: car dealership (noun)
+ * میری مقامی کار ڈیلرشپ کے پاس وہ ماڈل نہیں ہے جس کی میں تلاش کر رہا ہوں. 
+ * My local car dealership doesn't have the model I'm looking for. 
+----------
  * **فحش زبان** :: profanity (noun)
  * یہاں فحش زبان کا استعمال نہیں کرنا چاہئے. 
  * One shouldn't use profanity here. 
+----------
+ * **چکی داڑھی** :: goatee (noun)
+ * وہ چکی داڑھی کے ساتھ نامسعود سا لگ رہا ہے. 
+ * He looks kind of sinister with a goatee. 
 ----------
  * **غیر موجودگی** :: absence (noun)
  * آپ میری غیر موجودگی میں منصوبہ جاری رکھ سکتے ہیں. 
  * You can keep the project going in my absence. 
 ----------
+ * **دکھانا** :: to show (verb)
+ * مجھے پیسہ دکھاو! 
+ * Show me the money! 
+----------
  * **خفیہ طور پے** :: in secret (expression)
  * ہم نے خفیہ طور پے ایک جشن کا منصوبہ بنایا. 
  * We planned a surprise party in secret. 
+----------
+ * **لاش** :: corpse (noun)
+ * پولیس نے جرم کے وقوعہ پر دو لاشوں کو پایا. 
+ * The police found two corpses at the scene of the crime. 
 ----------
  * **ہَنڈولا** :: Ferris wheel (noun)
  * ماں، میں ہنڈولے پر چڑھنا چاہتا ہوں! 
  * Mom, I want to get on the Ferris wheel! 
 ----------
+ * **منتخب کرنا** :: to select (verb)
+ * مین مینو سے،"آپشنس" منتخب کریں. 
+ * From the main menu, select "options." 
+----------
  * **جلنا** :: to burn (verb)
  * وہ کہتے ہیں کہ وقت ایک آگ ہے جس میں ہم جلتے ہیں. 
  * They say time is the fire in which we burn. 
+----------
+ * **بدقسمتی** :: bad luck (expression)
+ * اگر بد قسمتی نہیں ہوتی تو میری کوئی قسمت ہی نہیں ہوتی! 
+ * If it weren't for bad luck, I'd have no luck at all! 
 ----------
  * **بیج** :: seed (noun)
  * میں ہمیشہ بیج کے بغیر والا تربوز خریدتا ہوں. 
  * I always buy the kind of watermelon with no seeds. 
 ----------
+ * **جگر** :: liver (noun)
+ * شراب جگر کے لئے نقصان دہ ہو سکتی ہے. 
+ * Alcohol can be harmful to the liver. 
+----------
  * **اعتراض کرنا** :: to object (verb)
  * تمہارے والد صاحب نے اس مرتبہ اعتراض نہیں کیا؟ 
  * Didn't your father object this time? 
+----------
+ * **(چائے) دم کرنا** :: to brew (tea) (verb)
+ * چاۓ تھوڑی دیر اور دم ہو گی. 
+ * The tea has to brew for a little bit longer. 
 ----------
  * **ایئر ہوسٹیس** :: stewardess (noun)
  * میری بیٹی ایئرہوسٹیس کے طور پر کام کرتی ہے. 
  * My daughter works as a stewardess. 
 ----------
+ * **قصائی** :: butcher (noun)
+ * قصائی نے مجھے یہ سٹیک مفت دی. 
+ * The butcher gave me this steak for free. 
+----------
  * **جتنی جلدی** :: as soon as (adverb)
  * میں وہاں جتنی جلدی ہو سکا پہنچ جاؤں گا. 
  * I will be there as soon as I can. 
+----------
+ * **فلم** :: movie (noun)
+ * فلم میں تو کام چل گیا! 
+ * It worked in the movie! 
 ----------
  * **بسم ہونا** :: to be consumed (verb)
  * وہ حسد سے بسم ہے. 
  * He is consumed with jealousy. 
 ----------
+ * **تراشنا** :: to carve (verb)
+ * کسی نے اس درخت کی چھال میں اپنا نام تراشا ہے. 
+ * Someone carved their name into the bark of that tree. 
+----------
  * **بَد حَواص** :: frantic (adjective)
  * جیسے ہی گاڑی نے چلنا شروع کیا میری بلی بَد حَواص ہوگئ. 
  * My cat became frantic as soon as the car began to move. 
+----------
+ * **خشک پھل** :: dried fruit (noun)
+ * خشک پھل پروٹین سے مالا مال ہیں. 
+ * Dried fruits are rich in protein. 
 ----------
  * **شکست دينا** :: to defeat (verb)
  * ہم نے اپنے دوستوں کی مدد سے دشمنوں کو شکست دی. 
  * We defeated the enemies with the help of our friends. 
 ----------
+ * **مصنف** :: writer (noun)
+ * میں بڑا ہو کر ایک مصنف بننا چاہتا ہوں. 
+ * I want to be a writer when I grow up. 
+----------
  * **جھوںپڑی** :: slum (noun)
  * یہ ایک جھوںپڑی ہو گی، مگر یہ گھر ہے. 
  * It may be a slum, but it's home. 
+----------
+ * **شہ مات** :: check-mate (expression)
+ * میں شہ مات سے دو مراحل دور ہوں. 
+ * I'm two moves away from a check-mate. 
 ----------
  * **جب تک** :: unless (conjunction)
  * جب تک آپ اسے ایک کہانی نہیں پڑھیں گے وہ سونے کے لئے نہیں جائے گا. 
  * He won't go to sleep unless you read him a story. 
 ----------
+ * **خستہ** :: crispy (adjective)
+ * مجھے سیریل پسند ہے جب وہ ابھی خستا ہو. 
+ * I like cereal when it's still crispy. 
+----------
  * **ترسنا** :: longing for (expression)
  * میں اپنے گھر کو ترستا ہوں کیونکہ میں بیرون ملک میں رہتا ہوں. 
  * I feel longing for my home because I'm living abroad. 
+----------
+ * **سکرپٹ** :: script (noun)
+ * انہوں نے اپنی آخری فلم کیلئے خود سکرپٹ لکھا تھا. 
+ * He wrote the script for his last movie himself. 
 ----------
  * **مجھے امید ہے!** :: I hope so! (expression)
  * مجھے امید ہے کہ میرے سب دوست آئیں گے! 
  * I hope all my friends will come! 
 ----------
+ * **سونامی** :: tsunami (noun)
+ * اس علاقے میں سونامی الرٹ ہے. 
+ * There is a tsunami alert in this area. 
+----------
  * **نامعلوم شخص سے ملاقات** :: blind date (noun)
  * آپ ویب کیمرے کے ذریعے ایک نامعلوم شخص سے ملاقات کے بارے میں کیا سوچتے ہیں؟ 
  * What do you think about a blind date by webcam? 
+----------
+ * **انٹرنیٹ صارف** :: internet user (noun)
+ * بیشتر انٹرنیٹ صارفین کو تیز کنکشن کی رفتار کی توقع ہوتی ہے. 
+ * Most internet users expect fast connection speeds. 
 ----------
  * **حد سے زیادہ** :: in excess (expression)
  * پینا ٹھیک ہے جب تک کہ تم اسے حد سے زیادہ نہیں کرتے. 
  * Drinking is OK as long as you don't do it in excess. 
 ----------
+ * **دہشت انگیز** :: shocking (adjective)
+ * اس حادثے کی فلم دہشت انگیز تھی. 
+ * The footage of the accident was shocking. 
+----------
  * **بےترتیب** :: mess (noun)
  * میری زندگی بےترتیب ہے اور مجھے کیا کرنا ہے مجھے نہیں پتہ. 
  * My life is a mess and I don't know what to do. 
 ----------
+ * **منہ پھلانا** :: to pout (verb)
+ * تم نے اپنی بہن کو کیا کہا؟ وہ پھر منھ پھلا رھی ہے. 
+ * What did you say to your sister? She's pouting again. 
+----------
  * **کمی** :: lack of (expression)
  * امتحان میں طالب علموں نے اپنی تیاری کی کمی ظاہر کی. 
  * In the exam the students revealed their total lack of preparation. 
+----------
+ * **تمہارے ساتھ** :: by your side (expression)
+ * میں اپنی باقی زندگی آ پ کے ساتھ بسر کرنا چاہتا ہوں. 
+ * I want to spend the rest of my life by your side. 
 ----------
  * **دکھاوا کرنا** :: to show off (verb)
  * اس نے یہ صرف اپنے دوستوں کے سامنے دکھاوے کیلئے کیا. 

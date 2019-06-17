@@ -1,6 +1,6 @@
 # pashto WOTD : 
 ----------
- 473 phrases 
+ 614 phrases 
 ----------
 ----------
  * **مېز** :: table (noun)
@@ -875,9 +875,21 @@
  * په چت کې د جولاګي جالې ځوړندې دي. 
  * There are cobwebs hanging from the ceiling. 
 ----------
+ * **ځوړندول** :: to hang (verb)
+ * په چت کې د جولاګي جالې ځوړندې دي. 
+ * There are cobwebs hanging from the ceiling. 
+----------
  * **رطوبت** :: humidity (noun)
  * دا ګرمي نه ده رطوبت دې. 
  * It's not the heat, it's the humidity. 
+----------
+ * **رطوبت** :: humidity (noun)
+ * دا ګرمي نه ده رطوبت دې. 
+ * It's not the heat, it's the humidity. 
+----------
+ * **سینه** :: chest (noun)
+ * زما سینه درد کوي. 
+ * My chest hurts. 
 ----------
  * **سینه** :: chest (noun)
  * زما سینه درد کوي. 
@@ -887,9 +899,21 @@
  * هغه دروغجن دی. 
  * He's such a liar! 
 ----------
+ * **دروغجن** :: liar (adjective)
+ * هغه دروغجن دی. 
+ * He's such a liar! 
+----------
  * **بایلل** :: to lose (verb)
  * تاسره د بایللو هیڅ نشته. 
  * You have nothing to lose. 
+----------
+ * **بایلل** :: to lose (verb)
+ * تاسره د بایللو هیڅ نشته. 
+ * You have nothing to lose. 
+----------
+ * **دلته** :: here (adverb)
+ * دلته ډېره ګرمي ده. 
+ * It's very hot in here. 
 ----------
  * **دلته** :: here (adverb)
  * دلته ډېره ګرمي ده. 
@@ -899,9 +923,21 @@
  * دلته یو ځړوبی او کلیسا شته. 
  * Here there is a church and a waterfall. 
 ----------
+ * **ځړوبې** :: waterfall (noun)
+ * دلته یو ځړوبی او کلیسا شته. 
+ * Here there is a church and a waterfall. 
+----------
  * **کافی** :: enough (adjective)
  * زمونږ د ټولو مېلمنو دپاره د لیمو شربت لرئ؟ 
  * Do you have enough lemonade for all our guests? 
+----------
+ * **کافی** :: enough (adjective)
+ * زمونږ د ټولو مېلمنو دپاره د لیمو شربت لرئ؟ 
+ * Do you have enough lemonade for all our guests? 
+----------
+ * **کلي** :: key (noun)
+ * زما څخه بیا کلي ورکه ده. 
+ * I have lost my key again. 
 ----------
  * **کلي** :: key (noun)
  * زما څخه بیا کلي ورکه ده. 
@@ -911,9 +947,21 @@
  * دا هغه ژوي دي چې د نابودۍ په خطر کې دي. 
  * These are animals in danger of extinction. 
 ----------
+ * **خطر** :: danger (noun)
+ * دا هغه ژوي دي چې د نابودۍ په خطر کې دي. 
+ * These are animals in danger of extinction. 
+----------
  * **غوښتل** :: to require (verb)
  * بعضی ورځې د نورو ورځو په پرتله ډېره قهوه غواړي. 
  * Some days require more coffee than others. 
+----------
+ * **غوښتل** :: to require (verb)
+ * بعضی ورځې د نورو ورځو په پرتله ډېره قهوه غواړي. 
+ * Some days require more coffee than others. 
+----------
+ * **پخول** :: to cook (verb)
+ * زما د شرابو سره پخول خوښيږي. 
+ * I love to cook with wine. 
 ----------
  * **پخول** :: to cook (verb)
  * زما د شرابو سره پخول خوښيږي. 
@@ -923,9 +971,21 @@
  * زه به يې تاته وښایم چې چېرته واقع شوه. 
  * I'll show you where it happened. 
 ----------
+ * **ښودل** :: to show (verb)
+ * زه به يې تاته وښایم چې چېرته واقع شوه. 
+ * I'll show you where it happened. 
+----------
  * **قصور** :: fault (noun)
  * دا زما قصور نه دی. 
  * It is not my fault. 
+----------
+ * **قصور** :: fault (noun)
+ * دا زما قصور نه دی. 
+ * It is not my fault. 
+----------
+ * **دوزخ** :: Hell (noun)
+ * آیا ته فکر کوې چی دوزخ به دومره بد ځای وي؟ 
+ * Do you think that Hell will be such a bad place? 
 ----------
  * **دوزخ** :: Hell (noun)
  * آیا ته فکر کوې چی دوزخ به دومره بد ځای وي؟ 
@@ -935,9 +995,21 @@
  * د برج سر ته ختل ډېر وخت غواړي خو منظره يې پدې ارزي. 
  * It's a long climb to the top of the tower, but the view is worth it! 
 ----------
+ * **برج** :: tower (noun)
+ * د برج سر ته ختل ډېر وخت غواړي خو منظره يې پدې ارزي. 
+ * It's a long climb to the top of the tower, but the view is worth it! 
+----------
  * **کار** :: work (noun)
  * زما کار خلاص شو. 
  * My work here is done. 
+----------
+ * **کار** :: work (noun)
+ * زما کار خلاص شو. 
+ * My work here is done. 
+----------
+ * **هیڅکله** :: never (adverb)
+ * زه به تا هیڅکله تګ ته پرې نږدم. 
+ * I will never let you go. 
 ----------
  * **هیڅکله** :: never (adverb)
  * زه به تا هیڅکله تګ ته پرې نږدم. 
@@ -947,9 +1019,21 @@
  * موسکا د مننې ویلو تر ټولو ښه طریقه ده. 
  * A smile is the best way to say "thank you". 
 ----------
+ * **موسکا کول** :: smile (noun)
+ * موسکا د مننې ویلو تر ټولو ښه طریقه ده. 
+ * A smile is the best way to say "thank you". 
+----------
  * **دروازه** :: door (noun)
  * مهرباني وکړئ دروازه پورې کړئ، بیرون هوا سړه ده. 
  * Close the door please, it's cold outside. 
+----------
+ * **دروازه** :: door (noun)
+ * مهرباني وکړئ دروازه پورې کړئ، بیرون هوا سړه ده. 
+ * Close the door please, it's cold outside. 
+----------
+ * **غچ اخیستل** :: to get revenge (verb)
+ * قرباني د ظالم څخه غچ واخيست. 
+ * The victim got revenge on the wrong-doer. 
 ----------
  * **غچ اخیستل** :: to get revenge (verb)
  * قرباني د ظالم څخه غچ واخيست. 
@@ -959,9 +1043,21 @@
  * د ماتې نه ورسته ما و نه شو کولای چی خپله ناهیلي پټه کړم. 
  * I couldn't hide my disappointment after the defeat. 
 ----------
+ * **ناهیلي** :: disappointment (noun)
+ * د ماتې نه ورسته ما و نه شو کولای چی خپله ناهیلي پټه کړم. 
+ * I couldn't hide my disappointment after the defeat. 
+----------
  * **کیناستل** :: to land (verb)
  * د طیارې د کیناستلو په وخت کې باید سړی په خپله چوکې ناست وي. 
  * One should remain seated when the plane lands. 
+----------
+ * **کیناستل** :: to land (verb)
+ * د طیارې د کیناستلو په وخت کې باید سړی په خپله چوکې ناست وي. 
+ * One should remain seated when the plane lands. 
+----------
+ * **حادثه** :: mishap (noun)
+ * مونږ بې له کومې حادثې راورسیدلو. 
+ * We arrived without any mishap. 
 ----------
  * **حادثه** :: mishap (noun)
  * مونږ بې له کومې حادثې راورسیدلو. 
@@ -971,9 +1067,21 @@
  * پولیس د غلا صحنې ته ناوخته راورسېد. 
  * The police arrived late at the robbery scene. 
 ----------
+ * **غلا** :: robbery (noun)
+ * پولیس د غلا صحنې ته ناوخته راورسېد. 
+ * The police arrived late at the robbery scene. 
+----------
  * **پرنټر** :: printer (noun)
  * پرنټر خراب دی. 
  * The printer is out of order. 
+----------
+ * **پرنټر** :: printer (noun)
+ * پرنټر خراب دی. 
+ * The printer is out of order. 
+----------
+ * **شعبده باز** :: juggler (noun)
+ * حاضرینو شعبده باز ته لاسونه وپړکول. 
+ * The audience applauded the juggler. 
 ----------
  * **شعبده باز** :: juggler (noun)
  * حاضرینو شعبده باز ته لاسونه وپړکول. 
@@ -983,9 +1091,21 @@
  * بعضې وایي چې ژوند لویه لاره ده. 
  * Some say that life is a highway. 
 ----------
+ * **لویه لاره** :: highway (noun)
+ * بعضې وایي چې ژوند لویه لاره ده. 
+ * Some say that life is a highway. 
+----------
  * **عمري قید** :: life imprisonment (expression)
  * مجرم په عمري قید محکوم شو. 
  * The criminal was sentenced to life imprisonment. 
+----------
+ * **عمري قید** :: life imprisonment (expression)
+ * مجرم په عمري قید محکوم شو. 
+ * The criminal was sentenced to life imprisonment. 
+----------
+ * **ارږمی** :: to yawn (verb)
+ * د غرمي نه وروسته ارږي نه شم بسولای. 
+ * After lunch, I can't stop yawning. 
 ----------
  * **ارږمی** :: to yawn (verb)
  * د غرمي نه وروسته ارږي نه شم بسولای. 
@@ -995,9 +1115,21 @@
  * دې احمق ته وګوره، اخبار لولي خو سرچپه يې نیولی دی. 
  * Check this fool out. He's reading the paper but it's upside down. 
 ----------
+ * **احمق** :: fool (noun)
+ * دې احمق ته وګوره، اخبار لولي خو سرچپه يې نیولی دی. 
+ * Check this fool out. He's reading the paper but it's upside down. 
+----------
  * **زړه** :: heart (noun)
  * زما زړه ودرېده. 
  * My heart skipped a beat. 
+----------
+ * **زړه** :: heart (noun)
+ * زما زړه ودرېده. 
+ * My heart skipped a beat. 
+----------
+ * **خلک** :: people (noun)
+ * زه د دې خلکو سره کار نشم کولای. 
+ * I can't work with these people! 
 ----------
  * **خلک** :: people (noun)
  * زه د دې خلکو سره کار نشم کولای. 
@@ -1007,9 +1139,21 @@
  * د شیدو د خرابیدو نیټه څو دفعې تیره شوې. 
  * This milk's expiration date has come and gone! 
 ----------
+ * **د خرابیدو نيټه** :: expiration date (expression)
+ * د شیدو د خرابیدو نیټه څو دفعې تیره شوې. 
+ * This milk's expiration date has come and gone! 
+----------
  * **ناشتا** :: snack (noun)
  * د وقفې په جریان کې ناشتا ورکړل شوه. 
  * During the break, snacks were served. 
+----------
+ * **ناشتا** :: snack (noun)
+ * د وقفې په جریان کې ناشتا ورکړل شوه. 
+ * During the break, snacks were served. 
+----------
+ * **د پیل څخه تر پایه** :: from beginning to end (expression)
+ * ما باید دوه ځله د پيل څخه تر پایه لوستلی وای. 
+ * I had to read it from the beginning to the end twice. 
 ----------
  * **د پیل څخه تر پایه** :: from beginning to end (expression)
  * ما باید دوه ځله د پيل څخه تر پایه لوستلی وای. 
@@ -1019,9 +1163,21 @@
  * بېلېدل داسي وي لکه د صفر نه شروع کول. 
  * Moving out is like starting from scratch. 
 ----------
+ * **د صفر نه شروع کول** :: to start from scratch (expression)
+ * بېلېدل داسي وي لکه د صفر نه شروع کول. 
+ * Moving out is like starting from scratch. 
+----------
  * **خراب طبیعت اوسېدل** :: to be in a bad mood (expression)
  * هغه سره خبرې مکوه د هغې طبیعت خراب دی. 
  * Don't talk to him. He is in a bad mood. 
+----------
+ * **خراب طبیعت اوسېدل** :: to be in a bad mood (expression)
+ * هغه سره خبرې مکوه د هغې طبیعت خراب دی. 
+ * Don't talk to him. He is in a bad mood. 
+----------
+ * **لګ شان** :: a little bit (expression)
+ * لګه مالګه به د دې خوند ښه کړي. 
+ * A little bit of salt will make it taste good. 
 ----------
  * **لګ شان** :: a little bit (expression)
  * لګه مالګه به د دې خوند ښه کړي. 
@@ -1031,9 +1187,21 @@
  * د هغوي سره ځان مه شمېره، هغوي بایلونکي دي. 
  * Don't be identified with them. They are losers. 
 ----------
+ * **بایلونکی** :: loser (noun)
+ * د هغوي سره ځان مه شمېره، هغوي بایلونکي دي. 
+ * Don't be identified with them. They are losers. 
+----------
  * **سره سره** :: in spite of (conjunction)
  * د ستونزو سره سره، ننداره باید دوام ومومي. 
  * In spite of the problem, the show must go on. 
+----------
+ * **سره سره** :: in spite of (conjunction)
+ * د ستونزو سره سره، ننداره باید دوام ومومي. 
+ * In spite of the problem, the show must go on. 
+----------
+ * **کله کله** :: from time to time (expression)
+ * کله کله زه د سمندر غاړي ته ځم. 
+ * I go to the beach from time to time. 
 ----------
  * **کله کله** :: from time to time (expression)
  * کله کله زه د سمندر غاړي ته ځم. 
@@ -1043,9 +1211,21 @@
  * سرپناه د دریو اساسي ضرورتونو څخه یوه ده. 
  * Shelter is one of the three basic needs. 
 ----------
+ * **سرپناه** :: shelter (noun)
+ * سرپناه د دریو اساسي ضرورتونو څخه یوه ده. 
+ * Shelter is one of the three basic needs. 
+----------
  * **پاڅون** :: uprising (noun)
  * پاڅون د ضروري تغیراتو سبب شو. 
  * The uprising brought about the needed social changes. 
+----------
+ * **پاڅون** :: uprising (noun)
+ * پاڅون د ضروري تغیراتو سبب شو. 
+ * The uprising brought about the needed social changes. 
+----------
+ * **کمی** :: lack (noun)
+ * د پیسو کمي د فابریکې تړل چټک کړل. 
+ * The lack of funds hastened the closure of the factory. 
 ----------
  * **کمی** :: lack (noun)
  * د پیسو کمي د فابریکې تړل چټک کړل. 
@@ -1055,9 +1235,21 @@
  * انفجار خلک ووېرول. 
  * The explosion frightened the people away. 
 ----------
+ * **وېرول** :: to frighten (verb)
+ * انفجار خلک ووېرول. 
+ * The explosion frightened the people away. 
+----------
  * **خلاصی موندل** :: to get rid of somebody (expression)
  * سیاستمدار د خپل رقيب څخه خلاصې وموند. 
  * The politician got rid of his rival. 
+----------
+ * **خلاصی موندل** :: to get rid of somebody (expression)
+ * سیاستمدار د خپل رقيب څخه خلاصې وموند. 
+ * The politician got rid of his rival. 
+----------
+ * **ریشخند** :: ridiculous (adjective)
+ * د هغې ځوابونه ریشخند وو. 
+ * Her replies were ridiculous. 
 ----------
  * **ریشخند** :: ridiculous (adjective)
  * د هغې ځوابونه ریشخند وو. 
@@ -1067,9 +1259,21 @@
  * د دې بکس په داخل کې څه شیان دي؟ 
  * What is inside this box? 
 ----------
+ * **بکس** :: box (noun)
+ * د دې بکس په داخل کې څه شیان دي؟ 
+ * What is inside this box? 
+----------
  * **مېلمانه** :: guests (noun)
  * زمونږ د واده د مېلمنو رارسېدل شروع شول. 
  * Our wedding guests are starting to arrive! 
+----------
+ * **مېلمانه** :: guests (noun)
+ * زمونږ د واده د مېلمنو رارسېدل شروع شول. 
+ * Our wedding guests are starting to arrive! 
+----------
+ * **احتیاط کول** :: to be careful (expression)
+ * احتیاط کوه چی ځنګلي فیلانو ته ډېر نږدې نشې. 
+ * Be careful not to get too close to the wild elephants. 
 ----------
  * **احتیاط کول** :: to be careful (expression)
  * احتیاط کوه چی ځنګلي فیلانو ته ډېر نږدې نشې. 
@@ -1079,9 +1283,21 @@
  * زما د فیسبوک معلومات وګوره. 
  * Visit my Facebook profile. 
 ----------
+ * **معلومات** :: profile (noun)
+ * زما د فیسبوک معلومات وګوره. 
+ * Visit my Facebook profile. 
+----------
  * **ذهن** :: mind (noun)
  * هغه یو تحلیل ګر ‌ذهن لري. 
  * He's got an analytical mind. 
+----------
+ * **ذهن** :: mind (noun)
+ * هغه یو تحلیل ګر ‌ذهن لري. 
+ * He's got an analytical mind. 
+----------
+ * **خولۍ** :: top hat (noun)
+ * ښاغلي خپله خولۍ او دستکشې وویستې. 
+ * The gentleman took off his gloves and top hat. 
 ----------
  * **خولۍ** :: top hat (noun)
  * ښاغلي خپله خولۍ او دستکشې وویستې. 
@@ -1091,9 +1307,21 @@
  * کله چې زما ورځ خرابه وي نو زه خپل ټول د فیسبوک ملګري خبروم. 
  * When I have a bad day, I make sure all my Facebook friends know! 
 ----------
+ * **ملګری** :: friend (noun)
+ * کله چې زما ورځ خرابه وي نو زه خپل ټول د فیسبوک ملګري خبروم. 
+ * When I have a bad day, I make sure all my Facebook friends know! 
+----------
  * **ډالۍ** :: gift (noun)
  * د ماشومانو لیدل کله چی هغوی د کرسمس سوغاتونه خلاصوي ډېر خندونکي دي. 
  * It´s so funny to see children unwrapping their Christmas gifts. 
+----------
+ * **ډالۍ** :: gift (noun)
+ * د ماشومانو لیدل کله چی هغوی د کرسمس سوغاتونه خلاصوي ډېر خندونکي دي. 
+ * It´s so funny to see children unwrapping their Christmas gifts. 
+----------
+ * **په لغته وهل** :: to kick (expression)
+ * که غواړې چې دا دروازه خلاصه کړې نو باید په لغته یې ووهې. 
+ * To open that door, you need to give it a good kick. 
 ----------
  * **په لغته وهل** :: to kick (expression)
  * که غواړې چې دا دروازه خلاصه کړې نو باید په لغته یې ووهې. 
@@ -1103,9 +1331,21 @@
  * مونږ به بیا په دوهم ژوند کې سره وګورو. 
  * We'll meet again in the afterlife. 
 ----------
+ * **دوهم ژوند** :: afterlife (expression)
+ * مونږ به بیا په دوهم ژوند کې سره وګورو. 
+ * We'll meet again in the afterlife. 
+----------
  * **پنسل تراش** :: pencil sharpener (noun)
  * کولای شم ستا د پنسل تراش څخه کار واخلم؟ 
  * Can you lend me your pencil sharpener? 
+----------
+ * **پنسل تراش** :: pencil sharpener (noun)
+ * کولای شم ستا د پنسل تراش څخه کار واخلم؟ 
+ * Can you lend me your pencil sharpener? 
+----------
+ * **بشري حقونه** :: human rights (expression)
+ * مونږ باید د بشري حقونو دپاره مبارزه جاري وساتو. 
+ * We have to keep on fighting for human rights. 
 ----------
  * **بشري حقونه** :: human rights (expression)
  * مونږ باید د بشري حقونو دپاره مبارزه جاري وساتو. 
@@ -1115,9 +1355,21 @@
  * هغه کیناسته او خپله نیکټايي یې سسته کړله. 
  * He sat down and loosened his tie. 
 ----------
+ * **سستول** :: to loosen (verb)
+ * هغه کیناسته او خپله نیکټايي یې سسته کړله. 
+ * He sat down and loosened his tie. 
+----------
  * **سترګې بریخول** :: to dazzle (verb)
  * د لورا خایست د هغه سترګې وبریخولې. 
  * He was dazzled by Laura's beauty. 
+----------
+ * **سترګې بریخول** :: to dazzle (verb)
+ * د لورا خایست د هغه سترګې وبریخولې. 
+ * He was dazzled by Laura's beauty. 
+----------
+ * **کباب شوی** :: on the grill (expression)
+ * زما کباب شوی ماهی خوښیږي. 
+ * I like fish on the grill. 
 ----------
  * **کباب شوی** :: on the grill (expression)
  * زما کباب شوی ماهی خوښیږي. 
@@ -1127,9 +1379,21 @@
  * تختېدلی زنداني په جبه کې پټ شو. 
  * The escaped prisoner hid in the swamp. 
 ----------
+ * **جبه** :: swamp (noun)
+ * تختېدلی زنداني په جبه کې پټ شو. 
+ * The escaped prisoner hid in the swamp. 
+----------
  * **ماشومتوب** :: childhood (noun)
  * تاسو خپل ماشومتوب څنګه تېر کړ؟ 
  * How did you spend your childhood? 
+----------
+ * **ماشومتوب** :: childhood (noun)
+ * تاسو خپل ماشومتوب څنګه تېر کړ؟ 
+ * How did you spend your childhood? 
+----------
+ * **په فکر کې ډوبېدل** :: to be lost in thought (verb)
+ * وبخښئ تاسې څه وویل؟ زه په فکر کې ډوب وم. 
+ * What did you say? I'm sorry, I was lost in thought. 
 ----------
  * **په فکر کې ډوبېدل** :: to be lost in thought (verb)
  * وبخښئ تاسې څه وویل؟ زه په فکر کې ډوب وم. 
@@ -1139,9 +1403,21 @@
  * زه خپله آینده تصادف ته نه پرېږدم. 
  * I will not leave my future up to chance. 
 ----------
+ * **تصادف** :: chance (noun)
+ * زه خپله آینده تصادف ته نه پرېږدم. 
+ * I will not leave my future up to chance. 
+----------
  * **پسی لیونی اوسیدل** :: to be crazy about (verb)
  * زه دې سندرې پسې لیونی یم. 
  * I'm crazy about this song! 
+----------
+ * **پسی لیونی اوسیدل** :: to be crazy about (verb)
+ * زه دې سندرې پسې لیونی یم. 
+ * I'm crazy about this song! 
+----------
+ * **ودرول** :: to stand somebody up (expression)
+ * تا زه ودرولم. 
+ * You stood me up! 
 ----------
  * **ودرول** :: to stand somebody up (expression)
  * تا زه ودرولم. 
@@ -1151,9 +1427,21 @@
  * رښتیا نه پتيږي. 
  * The truth is out there. 
 ----------
+ * **رښتیا** :: truth (noun)
+ * رښتیا نه پتيږي. 
+ * The truth is out there. 
+----------
  * **احساس** :: feeling (noun)
  * مونږ باید د خپلو احساساتو به هکله خبرې وکړو. 
  * We need to talk about our feelings. 
+----------
+ * **احساس** :: feeling (noun)
+ * مونږ باید د خپلو احساساتو به هکله خبرې وکړو. 
+ * We need to talk about our feelings. 
+----------
+ * **ښه ښکاریدل** :: to look good (expression)
+ * دا خواړه ښه ښکاري. 
+ * This food looks good. 
 ----------
  * **ښه ښکاریدل** :: to look good (expression)
  * دا خواړه ښه ښکاري. 
@@ -1163,9 +1451,21 @@
  * زما سپین کالي اغوستل نه خوښیږي. 
  * I don't like to wear white clothes. 
 ----------
+ * **سپین** :: white (adjective)
+ * زما سپین کالي اغوستل نه خوښیږي. 
+ * I don't like to wear white clothes. 
+----------
  * **چپلکې** :: flip-flops, slippers (noun)
  * زه نوې چپلکې لرم. 
  * I have new flip-flops. 
+----------
+ * **چپلکې** :: flip-flops, slippers (noun)
+ * زه نوې چپلکې لرم. 
+ * I have new flip-flops. 
+----------
+ * **پراشوت** :: parachute (noun)
+ * که پراشوت خلاص نشي نو څه به وشي؟ 
+ * What would happen if the parachute doesn't open? 
 ----------
  * **پراشوت** :: parachute (noun)
  * که پراشوت خلاص نشي نو څه به وشي؟ 
@@ -1175,9 +1475,21 @@
  * آیا دا ستا زوی دی؟ څومره ښکلی! 
  * Is that your son? How cute! 
 ----------
+ * **څومره ښکلی!** :: How cute! (expression)
+ * آیا دا ستا زوی دی؟ څومره ښکلی! 
+ * Is that your son? How cute! 
+----------
  * **د هيلۍ بچې** :: duckling (noun)
  * د هیلۍ بدرنګه بچی چغې وهي. 
  * The ugly duckling is crying. 
+----------
+ * **د هيلۍ بچې** :: duckling (noun)
+ * د هیلۍ بدرنګه بچی چغې وهي. 
+ * The ugly duckling is crying. 
+----------
+ * **چالانېدل** :: to start (verb)
+ * موټر نه چالانیږي. 
+ * The car won't start. 
 ----------
  * **چالانېدل** :: to start (verb)
  * موټر نه چالانیږي. 
@@ -1187,9 +1499,21 @@
  * که زه د ویښتانو وچونکی استعمال نه کړم بیا زما ویښتان ښه نه ښکاري. 
  * If I don't use a hairdryer my hair won't look good. 
 ----------
+ * **د ویښتانو وچونکی** :: hairdryer (noun)
+ * که زه د ویښتانو وچونکی استعمال نه کړم بیا زما ویښتان ښه نه ښکاري. 
+ * If I don't use a hairdryer my hair won't look good. 
+----------
  * **په زوره خندل** :: to laugh out loud (verb)
  * مونږ چی کله عکسونه ولیدل په زوره مو وخندل. 
  * When we saw the picture, we laughed out loud. 
+----------
+ * **په زوره خندل** :: to laugh out loud (verb)
+ * مونږ چی کله عکسونه ولیدل په زوره مو وخندل. 
+ * When we saw the picture, we laughed out loud. 
+----------
+ * **قرض کول** :: borrowed (adjective)
+ * ما د خپل ملګري څخه پیسې قرض کړې. 
+ * I borrowed some money from my friend. 
 ----------
  * **قرض کول** :: borrowed (adjective)
  * ما د خپل ملګري څخه پیسې قرض کړې. 
@@ -1199,9 +1523,21 @@
  * ته په دی کمیس کې ښکلې ښکارې. 
  * You look beautiful in that dress. 
 ----------
+ * **ښکلې** :: beautiful (adjective)
+ * ته په دی کمیس کې ښکلې ښکارې. 
+ * You look beautiful in that dress. 
+----------
  * **وړیا** :: free (adverb)
  * د دوو په اخسیتو سره یو وړیا ترلاسه کړئ. 
  * Buy two, get one free. 
+----------
+ * **وړیا** :: free (adverb)
+ * د دوو په اخسیتو سره یو وړیا ترلاسه کړئ. 
+ * Buy two, get one free. 
+----------
+ * **وړاندیز** :: suggestion (noun)
+ * زه یو څو وړاندیزونه لرم. 
+ * I have some suggestions to make. 
 ----------
  * **وړاندیز** :: suggestion (noun)
  * زه یو څو وړاندیزونه لرم. 
@@ -1211,9 +1547,21 @@
  * ما ټوله ورځ کار کړې دی، زه ستړی یم. 
  * I've worked all day long; I'm exhausted. 
 ----------
+ * **ستړی** :: exhausted (adjective)
+ * ما ټوله ورځ کار کړې دی، زه ستړی یم. 
+ * I've worked all day long; I'm exhausted. 
+----------
  * **فرښته** :: angel (noun)
  * ستا د مرستې څخه مننه، ته یوه فرښته یې. 
  * Thank you for your help; you're an angel. 
+----------
+ * **فرښته** :: angel (noun)
+ * ستا د مرستې څخه مننه، ته یوه فرښته یې. 
+ * Thank you for your help; you're an angel. 
+----------
+ * **زار زار** :: bitterly (adverb)
+ * غریبې انجلۍ زار زار ژړل پېل کړل. 
+ * The poor girl started to cry bitterly. 
 ----------
  * **زار زار** :: bitterly (adverb)
  * غریبې انجلۍ زار زار ژړل پېل کړل. 
@@ -1223,9 +1571,21 @@
  * له بده مرغه زما خواښې له مونږ سره ژوند کوي. 
  * Unfortunately for me, my mother-in-law lives with us. 
 ----------
+ * **بد مرغي** :: misfortune (noun)
+ * له بده مرغه زما خواښې له مونږ سره ژوند کوي. 
+ * Unfortunately for me, my mother-in-law lives with us. 
+----------
  * **اکسیجن** :: oxygen (noun)
  * په جګه ارتفاع کې لږ اکسیجن وي. 
  * At high elevations, there is less oxygen in the air. 
+----------
+ * **اکسیجن** :: oxygen (noun)
+ * په جګه ارتفاع کې لږ اکسیجن وي. 
+ * At high elevations, there is less oxygen in the air. 
+----------
+ * **لیدل** :: to watch (verb)
+ * مونږ بیګا یو فلم ولید. 
+ * We watched a movie last night. 
 ----------
  * **لیدل** :: to watch (verb)
  * مونږ بیګا یو فلم ولید. 
@@ -1235,9 +1595,21 @@
  * لس بجې دي پوهېږې چې ستا ماشومان چېرته دي؟ 
  * It's 10 o'clock. Do you know where your kids are? 
 ----------
+ * **ماشومان** :: kids (noun)
+ * لس بجې دي پوهېږې چې ستا ماشومان چېرته دي؟ 
+ * It's 10 o'clock. Do you know where your kids are? 
+----------
  * **عاید** :: revenue (noun)
  * مصرف زیات دی او عاید کم. څه کولای شئ؟ 
  * Costs are up, revenue is down. What can you do? 
+----------
+ * **عاید** :: revenue (noun)
+ * مصرف زیات دی او عاید کم. څه کولای شئ؟ 
+ * Costs are up, revenue is down. What can you do? 
+----------
+ * **تي لرونکي** :: mammal (noun)
+ * نهنګ او ډولفین تي لرونکي ژوي دي. 
+ * Whales and dolphins are mammals. 
 ----------
  * **تي لرونکي** :: mammal (noun)
  * نهنګ او ډولفین تي لرونکي ژوي دي. 
@@ -1247,9 +1619,21 @@
  * د ځمکې اکثره برخه په اوبو پوښل شوې ده. 
  * The Earth is covered mostly by water. 
 ----------
+ * **اوبه** :: water (noun)
+ * د ځمکې اکثره برخه په اوبو پوښل شوې ده. 
+ * The Earth is covered mostly by water. 
+----------
  * **وېره** :: fear (noun)
  * د حرکت کولو یا بدلون راوستلو وېرې ته ټروپوفوبیا وایي. 
  * The fear of moving or making changes is called tropophobia. 
+----------
+ * **وېره** :: fear (noun)
+ * د حرکت کولو یا بدلون راوستلو وېرې ته ټروپوفوبیا وایي. 
+ * The fear of moving or making changes is called tropophobia. 
+----------
+ * **معما** :: riddle (noun)
+ * که چېرې سفینکس له تا څخه یوه معما وپوښتي نو ته يې باید په ځواب پوه شې. 
+ * If the Sphinx asks you a riddle, you better know the answer. 
 ----------
  * **معما** :: riddle (noun)
  * که چېرې سفینکس له تا څخه یوه معما وپوښتي نو ته يې باید په ځواب پوه شې. 
@@ -1259,9 +1643,21 @@
  * ښاغلی صافي په صنف کې دی. 
  * Mr. Safi is in class. 
 ----------
+ * **صنف** :: class (noun)
+ * ښاغلی صافي په صنف کې دی. 
+ * Mr. Safi is in class. 
+----------
  * **ډېر** :: very (expression)
  * امجد او صافی ډېر نږدې دوستان دي. 
  * Amjad and Safi are very close friends. 
+----------
+ * **ډېر** :: very (expression)
+ * امجد او صافی ډېر نږدې دوستان دي. 
+ * Amjad and Safi are very close friends. 
+----------
+ * **زېږېدنه** :: birth (verb)
+ * د زېږېدنې نېټه څه ده؟ 
+ * What is your date of birth? 
 ----------
  * **زېږېدنه** :: birth (verb)
  * د زېږېدنې نېټه څه ده؟ 
@@ -1271,9 +1667,21 @@
  * آیا تاسې شخصي شیان لرئ؟ 
  * Do you have personal belongings? 
 ----------
+ * **شخصي** :: personal (adverb)
+ * آیا تاسې شخصي شیان لرئ؟ 
+ * Do you have personal belongings? 
+----------
  * **ويده کېدل** :: sleep (verb)
  * زه ویده کېدلای نه شم. 
  * I can't sleep. 
+----------
+ * **ويده کېدل** :: sleep (verb)
+ * زه ویده کېدلای نه شم. 
+ * I can't sleep. 
+----------
+ * **کمود** :: toilet (noun)
+ * زه غواړم تشناب ته لاړ شم. 
+ * I need to go to the toilet. 
 ----------
  * **کمود** :: toilet (noun)
  * زه غواړم تشناب ته لاړ شم. 
@@ -1283,9 +1691,21 @@
  * زه وږی یم. 
  * I am hungry. 
 ----------
+ * **وږی** :: hungry (verb)
+ * زه وږی یم. 
+ * I am hungry. 
+----------
  * **زړوکی** :: scarf (noun)
  * ته یو زړوکي ته ضرورت لرې. 
  * You need a scarf. 
+----------
+ * **زړوکی** :: scarf (noun)
+ * ته یو زړوکي ته ضرورت لرې. 
+ * You need a scarf. 
+----------
+ * **پیچکاري** :: injection (noun)
+ * پیچکاري به درد آرام کړي. 
+ * The injection will relieve the pain. 
 ----------
  * **پیچکاري** :: injection (noun)
  * پیچکاري به درد آرام کړي. 
@@ -1295,9 +1715,21 @@
  * دا کمپیوټر ښکلی مانیتور لري. 
  * This computer has a beautiful monitor. 
 ----------
+ * **مانیتور** :: monitor (noun)
+ * دا کمپیوټر ښکلی مانیتور لري. 
+ * This computer has a beautiful monitor. 
+----------
  * **مخ** :: face (noun)
  * د حیدر مخ د خوشحالۍ نه پړقیده. 
  * Haider's face was bright due to extreme delightness. 
+----------
+ * **مخ** :: face (noun)
+ * د حیدر مخ د خوشحالۍ نه پړقیده. 
+ * Haider's face was bright due to extreme delightness. 
+----------
+ * **جامې** :: clothes (noun)
+ * آیا ماته به دې اختر ته نوې جامې اخلې که نه؟ 
+ * Are you going to purchase new clothes for me this Eid? 
 ----------
  * **جامې** :: clothes (noun)
  * آیا ماته به دې اختر ته نوې جامې اخلې که نه؟ 
@@ -1307,9 +1739,21 @@
  * ما د خپل زحمت میوه تر لاسه کړه. 
  * I got the fruit of my labor. 
 ----------
+ * **میوه** :: fruit (noun)
+ * ما د خپل زحمت میوه تر لاسه کړه. 
+ * I got the fruit of my labor. 
+----------
  * **بزګر** :: agriculturist (noun)
  * د خپلو قرضونو د ورکولو پخاطر بزګران مجبوره وو چی خپل حاصلات د مارکیټ د بیې څخه په ټيټه بیه خرڅ کړي. 
  * In order to repay their loans, agriculturists are helpless to sell their crops below the market price. 
+----------
+ * **بزګر** :: agriculturist (noun)
+ * د خپلو قرضونو د ورکولو پخاطر بزګران مجبوره وو چی خپل حاصلات د مارکیټ د بیې څخه په ټيټه بیه خرڅ کړي. 
+ * In order to repay their loans, agriculturists are helpless to sell their crops below the market price. 
+----------
+ * **سهار** :: morning (noun)
+ * سهار مو پخير. 
+ * Good morning. 
 ----------
  * **سهار** :: morning (noun)
  * سهار مو پخير. 
@@ -1319,9 +1763,21 @@
  * ډوډۍ خورئ؟ 
  * Would you take some food? 
 ----------
+ * **خواړه** :: food (noun)
+ * ډوډۍ خورئ؟ 
+ * Would you take some food? 
+----------
  * **لګه** :: little (verb)
  * لګه پښتو ویلی شم. 
  * I talk a little Pashto. 
+----------
+ * **لګه** :: little (verb)
+ * لګه پښتو ویلی شم. 
+ * I talk a little Pashto. 
+----------
+ * **غوښه** :: meat (noun)
+ * زما د سیرلي غوښه خوښیږي. 
+ * I like lamb meat. 
 ----------
  * **غوښه** :: meat (noun)
  * زما د سیرلي غوښه خوښیږي. 
@@ -1331,9 +1787,21 @@
  * ماښام مو پخیر. 
  * Good evening. 
 ----------
+ * **ماښام** :: evening (noun)
+ * ماښام مو پخیر. 
+ * Good evening. 
+----------
  * **ستړی** :: tired (verb)
  * ستړی مشې. 
  * May you not be tired. 
+----------
+ * **ستړی** :: tired (verb)
+ * ستړی مشې. 
+ * May you not be tired. 
+----------
+ * **څنګه** :: how (verb)
+ * څنګه یې؟ 
+ * How are you? 
 ----------
  * **څنګه** :: how (verb)
  * څنګه یې؟ 
@@ -1343,9 +1811,21 @@
  * زما د پسرلي موسم خوښیږي. 
  * I like spring season. 
 ----------
+ * **پسرلی** :: spring (noun)
+ * زما د پسرلي موسم خوښیږي. 
+ * I like spring season. 
+----------
  * **سابه** :: vegetables (noun)
  * سابه زیات ویټامنونه لري. 
  * Vegetables contain plenty of vitamins. 
+----------
+ * **سابه** :: vegetables (noun)
+ * سابه زیات ویټامنونه لري. 
+ * Vegetables contain plenty of vitamins. 
+----------
+ * **ښونځی** :: school (noun)
+ * حسن په ښونځي کې درس وایي. 
+ * Hasan studies in school. 
 ----------
  * **ښونځی** :: school (noun)
  * حسن په ښونځي کې درس وایي. 
@@ -1355,9 +1835,21 @@
  * یوولس بجې دي او ته اوس هم په کټ کې پروت یې. 
  * It's 11'o clock and you are still lying in bed. 
 ----------
+ * **کټ** :: bed (noun)
+ * یوولس بجې دي او ته اوس هم په کټ کې پروت یې. 
+ * It's 11'o clock and you are still lying in bed. 
+----------
  * **چای** :: tea (noun)
  * زما شین چای خوښیږي. 
  * I like green tea. 
+----------
+ * **چای** :: tea (noun)
+ * زما شین چای خوښیږي. 
+ * I like green tea. 
+----------
+ * **بالخت** :: pillow (noun)
+ * دا بالخت دې د سر لاندې کیږده. 
+ * Put this pillow under your head. 
 ----------
  * **بالخت** :: pillow (noun)
  * دا بالخت دې د سر لاندې کیږده. 
@@ -1367,9 +1859,21 @@
  * ستا نوم څه دی؟ 
  * What's your name? 
 ----------
+ * **نوم** :: name (noun)
+ * ستا نوم څه دی؟ 
+ * What's your name? 
+----------
  * **لیدل** :: to meet (verb)
  * ستا په لیدو ډیر خوشحال شوم. 
  * It is a pleasure to meet you. 
+----------
+ * **لیدل** :: to meet (verb)
+ * ستا په لیدو ډیر خوشحال شوم. 
+ * It is a pleasure to meet you. 
+----------
+ * **خوندور** :: delicious (adjective)
+ * هغه ډیر خوندور وو. 
+ * That was delicious. 
 ----------
  * **خوندور** :: delicious (adjective)
  * هغه ډیر خوندور وو. 
@@ -1379,9 +1883,21 @@
  * ته د کوم ځای یې؟ 
  * Where are you from? 
 ----------
+ * **ته** :: you (noun)
+ * ته د کوم ځای یې؟ 
+ * Where are you from? 
+----------
  * **خبرې کول** :: to speak (verb)
  * زه لږې پښتو خبرې کولای شم. 
  * I speak a little Pashto. 
+----------
+ * **خبرې کول** :: to speak (verb)
+ * زه لږې پښتو خبرې کولای شم. 
+ * I speak a little Pashto. 
+----------
+ * **لمړی** :: first (adjective)
+ * دا نه لمړی ځل دی او نه به وروستی وي. 
+ * It's not the first time, and won't be the last. 
 ----------
  * **لمړی** :: first (adjective)
  * دا نه لمړی ځل دی او نه به وروستی وي. 
@@ -1391,9 +1907,21 @@
  * زه بخښنه غواړم، نن زما ورځ خرابه ده. 
  * I apologize, I'm having a bad day. 
 ----------
+ * **بخښنه غوښتل** :: to apologize (verb)
+ * زه بخښنه غواړم، نن زما ورځ خرابه ده. 
+ * I apologize, I'm having a bad day. 
+----------
  * **دوکان** :: store (noun)
  * زه دوکان ته ځم، آیا ته غواړې له ماسره لاړ شې؟ 
  * I'm going to the store, want to go with me? 
+----------
+ * **دوکان** :: store (noun)
+ * زه دوکان ته ځم، آیا ته غواړې له ماسره لاړ شې؟ 
+ * I'm going to the store, want to go with me? 
+----------
+ * **ترجیح ورکول** :: to prefer (verb)
+ * خرما خوندوره ده خو زه اناناس ته ترجیح ورکوم. 
+ * The dates are delicious, but I prefer pineapple. 
 ----------
  * **ترجیح ورکول** :: to prefer (verb)
  * خرما خوندوره ده خو زه اناناس ته ترجیح ورکوم. 
@@ -1403,9 +1931,21 @@
  * زه ډېر خوشحال یم چی سبا جمعه ده. دا هفته ډیره اوږده وه. 
  * I'm so glad tomorrow is Friday; it's been a long week! 
 ----------
+ * **جمعه** :: Friday (noun)
+ * زه ډېر خوشحال یم چی سبا جمعه ده. دا هفته ډیره اوږده وه. 
+ * I'm so glad tomorrow is Friday; it's been a long week! 
+----------
  * **لرل** :: to have (verb)
  * ته د دې اونۍ دپاره څه پلان لرې؟ 
  * Do you have any plans for this weekend? 
+----------
+ * **لرل** :: to have (verb)
+ * ته د دې اونۍ دپاره څه پلان لرې؟ 
+ * Do you have any plans for this weekend? 
+----------
+ * **هوا** :: weather (noun)
+ * د سبا د هوا د حالاتو وړاندوینه څه ده؟ 
+ * What's the weather prediction for tomorrow? 
 ----------
  * **هوا** :: weather (noun)
  * د سبا د هوا د حالاتو وړاندوینه څه ده؟ 
@@ -1415,9 +1955,21 @@
  * باران راروان دی، چطرۍ راواخله. 
  * It's going to rain, bring an umbrella. 
 ----------
+ * **باران ورېدل** :: to rain (verb)
+ * باران راروان دی، چطرۍ راواخله. 
+ * It's going to rain, bring an umbrella. 
+----------
  * **لوبې کول** :: to play (verb)
  * ماشومان بهر لوبې کول خوښوي. 
  * The children like to play outside. 
+----------
+ * **لوبې کول** :: to play (verb)
+ * ماشومان بهر لوبې کول خوښوي. 
+ * The children like to play outside. 
+----------
+ * **دخوښې** :: favorite (adjective)
+ * دا زما یوه د خوښې سندره ده. 
+ * This is one of my favorite songs. 
 ----------
  * **دخوښې** :: favorite (adjective)
  * دا زما یوه د خوښې سندره ده. 
@@ -1427,9 +1979,21 @@
  * هغه هیڅکله د مننې او مهربانۍ ویل نه هیروي. 
  * He never forgets to say please and thank you. 
 ----------
+ * **هېرول** :: to forget (verb)
+ * هغه هیڅکله د مننې او مهربانۍ ویل نه هیروي. 
+ * He never forgets to say please and thank you. 
+----------
  * **لیدل** :: to see (verb)
  * تا په هوايي ډګر کې هغه لویه الوتکه ولیدله؟ 
  * Did you see the huge aeroplan in the airport? 
+----------
+ * **لیدل** :: to see (verb)
+ * تا په هوايي ډګر کې هغه لویه الوتکه ولیدله؟ 
+ * Did you see the huge aeroplan in the airport? 
+----------
+ * **چېرته** :: where (verb)
+ * تر ټولو نږدې مارکیټ چېرته دی؟ 
+ * Where is the nearest market? 
 ----------
  * **چېرته** :: where (verb)
  * تر ټولو نږدې مارکیټ چېرته دی؟ 

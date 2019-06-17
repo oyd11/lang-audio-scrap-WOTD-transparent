@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 473 phrases 
+ 614 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -871,565 +871,1129 @@
  * Mam na biurku taki bałagan, że nic nie mogę znaleźć. 
  * I have such a mess on my desk, I can't find anything. 
 ----------
- * **siostra** :: sister (noun)
- * Chciałabym mieć siostrę, zamiast tego mam 3 braci. 
- * I wish I had a sister, instead I have three brothers. 
-----------
- * **ząb** :: tooth (noun)
- * Musisz myć zęby przez co najmniej 2 minuty. 
- * You have to brush your teeth for at least two minutes. 
-----------
  * **zabawa** :: game (noun)
  * Ta zabawa już mi się znudziła. 
  * I got bored with this game. 
+----------
+ * **siostra** :: sister (noun)
+ * Chciałabym mieć siostrę, zamiast tego mam 3 braci. 
+ * I wish I had a sister, instead I have three brothers. 
 ----------
  * **potwór** :: monster (noun)
  * Na Halloween przebiorę się za potwora. 
  * I will dress up as a monster for Halloween. 
 ----------
+ * **ząb** :: tooth (noun)
+ * Musisz myć zęby przez co najmniej 2 minuty. 
+ * You have to brush your teeth for at least two minutes. 
+----------
  * **słowo** :: word (noun)
  * Nie chcę o tym słyszeć ani słowa. 
  * I don't want to hear a word about it. 
+----------
+ * **zabawa** :: game (noun)
+ * Ta zabawa już mi się znudziła. 
+ * I got bored with this game. 
 ----------
  * **twarz** :: face (noun)
  * Wina malowała się na jego twarzy. 
  * The guilt was written all over his face. 
 ----------
+ * **potwór** :: monster (noun)
+ * Na Halloween przebiorę się za potwora. 
+ * I will dress up as a monster for Halloween. 
+----------
  * **koniec** :: end (noun)
  * Dzwonek oznajmił koniec lekcji. 
  * The bell sounded for the end of the lesson. 
+----------
+ * **słowo** :: word (noun)
+ * Nie chcę o tym słyszeć ani słowa. 
+ * I don't want to hear a word about it. 
 ----------
  * **naklejka** :: sticker (noun)
  * Za skończenie zadania dzieci dostają naklejkę. 
  * Children get a sticker for finishing the task. 
 ----------
+ * **twarz** :: face (noun)
+ * Wina malowała się na jego twarzy. 
+ * The guilt was written all over his face. 
+----------
  * **tablica** :: board (noun)
  * Nauczyciel wypisał zdania na tablicy. 
  * The teacher wrote the sentences down on the board. 
+----------
+ * **koniec** :: end (noun)
+ * Dzwonek oznajmił koniec lekcji. 
+ * The bell sounded for the end of the lesson. 
 ----------
  * **dzień** :: day (noun)
  * Dziś jest przyjemny, jesienny dzień. 
  * It is a nice autumn day today. 
 ----------
+ * **naklejka** :: sticker (noun)
+ * Za skończenie zadania dzieci dostają naklejkę. 
+ * Children get a sticker for finishing the task. 
+----------
  * **krok** :: step (noun)
  * Gdy go zobaczyła, zrobiła dwa kroki do tyłu. 
  * When she saw him, she took two steps back. 
+----------
+ * **tablica** :: board (noun)
+ * Nauczyciel wypisał zdania na tablicy. 
+ * The teacher wrote the sentences down on the board. 
 ----------
  * **kałuża** :: puddle (noun)
  * Skoczył do kałuży i przemoczył spodnie. 
  * He jumped in the puddle and got his pants soaking wet. 
 ----------
+ * **dzień** :: day (noun)
+ * Dziś jest przyjemny, jesienny dzień. 
+ * It is a nice autumn day today. 
+----------
  * **zwierzę** :: animal (noun)
  * Ile gatunków zwierząt jest pod ochroną? 
  * How many species of animals are protected? 
+----------
+ * **krok** :: step (noun)
+ * Gdy go zobaczyła, zrobiła dwa kroki do tyłu. 
+ * When she saw him, she took two steps back. 
 ----------
  * **plakat** :: poster (noun)
  * Plakat reklamował najnowszy film Spielberga. 
  * The poster advertised Spielberg's newest film. 
 ----------
+ * **kałuża** :: puddle (noun)
+ * Skoczył do kałuży i przemoczył spodnie. 
+ * He jumped in the puddle and got his pants soaking wet. 
+----------
  * **fala** :: wave (noun)
  * Tratwa łagodnie kołysała się na falach. 
  * The raft was gently rocked by the waves. 
+----------
+ * **zwierzę** :: animal (noun)
+ * Ile gatunków zwierząt jest pod ochroną? 
+ * How many species of animals are protected? 
 ----------
  * **piosenka** :: song (noun)
  * Na konkurs muszę przygotować dwie piosenki. 
  * I have to prepare two songs for the contest. 
 ----------
+ * **plakat** :: poster (noun)
+ * Plakat reklamował najnowszy film Spielberga. 
+ * The poster advertised Spielberg's newest film. 
+----------
  * **wiersz** :: poem (noun)
  * Wiersze Eliota są szczególnie inspirujące. 
  * Eliot's poems are particularly inspiring. 
+----------
+ * **fala** :: wave (noun)
+ * Tratwa łagodnie kołysała się na falach. 
+ * The raft was gently rocked by the waves. 
 ----------
  * **rozdział** :: chapter (noun)
  * Wczoraj zdążyłam przeczytać tylko pierwszy rozdział tej książki. 
  * Yesterday I managed to read only the first chapter of this book. 
 ----------
+ * **piosenka** :: song (noun)
+ * Na konkurs muszę przygotować dwie piosenki. 
+ * I have to prepare two songs for the contest. 
+----------
  * **błąd** :: mistake (noun)
  * W twojej pracy jest zbyt wiele błędów. 
  * There are too many mistakes in your work. 
+----------
+ * **wiersz** :: poem (noun)
+ * Wiersze Eliota są szczególnie inspirujące. 
+ * Eliot's poems are particularly inspiring. 
 ----------
  * **kredka** :: crayon (noun)
  * Czy mogłabyś pożyczyć mi czerwoną kredkę? 
  * Could you lend me your red crayon? 
 ----------
+ * **rozdział** :: chapter (noun)
+ * Wczoraj zdążyłam przeczytać tylko pierwszy rozdział tej książki. 
+ * Yesterday I managed to read only the first chapter of this book. 
+----------
  * **odpowiedź** :: answer (noun)
  * Szukam odpowiedzi na dręczące mnie pytanie. 
  * I'm searching for an answer to the tormenting question. 
+----------
+ * **błąd** :: mistake (noun)
+ * W twojej pracy jest zbyt wiele błędów. 
+ * There are too many mistakes in your work. 
 ----------
  * **zapałka** :: match (noun)
  * Nie baw się zapałkami, możesz wywołać pożar. 
  * Don't play with matches, you can start a fire. 
 ----------
+ * **kredka** :: crayon (noun)
+ * Czy mogłabyś pożyczyć mi czerwoną kredkę? 
+ * Could you lend me your red crayon? 
+----------
  * **zagarek** :: watch (noun)
  * Mój zegarek stale się opóźnia. 
  * My watch is constantly slow. 
+----------
+ * **odpowiedź** :: answer (noun)
+ * Szukam odpowiedzi na dręczące mnie pytanie. 
+ * I'm searching for an answer to the tormenting question. 
 ----------
  * **bałwan** :: snowman (noun)
  * Obawiam się, że wiosną bałwan się roztopi. 
  * I'm afraid the snowman will melt down in spring. 
 ----------
+ * **zapałka** :: match (noun)
+ * Nie baw się zapałkami, możesz wywołać pożar. 
+ * Don't play with matches, you can start a fire. 
+----------
  * **latawiec** :: kite (noun)
  * Gdy jesteśmy na plaży, lubimy puszczać latawce. 
  * We like to fly kites while we are at the beach. 
+----------
+ * **zagarek** :: watch (noun)
+ * Mój zegarek stale się opóźnia. 
+ * My watch is constantly slow. 
 ----------
  * **basen** :: swimming pool (noun)
  * Teraz idę pograć w tenisa, potem idę na basen. 
  * I'm going to play tennis now, then I'll go to the swimming pool. 
 ----------
+ * **bałwan** :: snowman (noun)
+ * Obawiam się, że wiosną bałwan się roztopi. 
+ * I'm afraid the snowman will melt down in spring. 
+----------
  * **słońce** :: sun (noun)
  * Nie ma nic łatwiejszego pod słońcem. 
  * There is nothing easier under the sun. 
+----------
+ * **latawiec** :: kite (noun)
+ * Gdy jesteśmy na plaży, lubimy puszczać latawce. 
+ * We like to fly kites while we are at the beach. 
 ----------
  * **kropla** :: drop (noun)
  * Ta kawa jest dobra do ostatniej kropli. 
  * This coffee is good to the last drop. 
 ----------
+ * **basen** :: swimming pool (noun)
+ * Teraz idę pograć w tenisa, potem idę na basen. 
+ * I'm going to play tennis now, then I'll go to the swimming pool. 
+----------
  * **kropka** :: dot (noun)
  * Wyglądasz świetnie w tej bluzce w kropki. 
  * You look great in this polka dot blouse. 
+----------
+ * **słońce** :: sun (noun)
+ * Nie ma nic łatwiejszego pod słońcem. 
+ * There is nothing easier under the sun. 
 ----------
  * **strona** :: page (noun)
  * Ta książka liczy ponad 500 stron. 
  * This book has over 500 pages. 
 ----------
+ * **kropla** :: drop (noun)
+ * Ta kawa jest dobra do ostatniej kropli. 
+ * This coffee is good to the last drop. 
+----------
  * **pomysł** :: idea (noun)
  * Mam pomysł: napijmy się kawy zamiast herbaty. 
  * I've got an idea: let's have coffee instead of tea. 
+----------
+ * **kropka** :: dot (noun)
+ * Wyglądasz świetnie w tej bluzce w kropki. 
+ * You look great in this polka dot blouse. 
 ----------
  * **rodzina** :: family (noun)
  * Lubię spędzać czas z moją rodziną. 
  * I love spending time with my family. 
 ----------
+ * **strona** :: page (noun)
+ * Ta książka liczy ponad 500 stron. 
+ * This book has over 500 pages. 
+----------
  * **ochotnik** :: volunteer (noun)
  * Potrzebujemy 10 ochotników do udziału w tym wydarzeniu. 
  * We need ten volunteers to take part in this event. 
+----------
+ * **pomysł** :: idea (noun)
+ * Mam pomysł: napijmy się kawy zamiast herbaty. 
+ * I've got an idea: let's have coffee instead of tea. 
 ----------
  * **przyjaciel** :: male friend (noun)
  * Tomek jest moim przyjacielem od 10 lat. 
  * Tom has been my friend for ten years. 
 ----------
+ * **rodzina** :: family (noun)
+ * Lubię spędzać czas z moją rodziną. 
+ * I love spending time with my family. 
+----------
  * **lodówka** :: fridge (noun)
  * Jestem głodny, a moja lodówka jest pusta. 
  * I'm hungry and my fridge is empty. 
+----------
+ * **ochotnik** :: volunteer (noun)
+ * Potrzebujemy 10 ochotników do udziału w tym wydarzeniu. 
+ * We need ten volunteers to take part in this event. 
 ----------
  * **kanapa** :: sofa (noun)
  * Mój kot lubi spać na poręczy kanapy. 
  * My cat loves to sleep on the armrest of the sofa. 
 ----------
+ * **przyjaciel** :: male friend (noun)
+ * Tomek jest moim przyjacielem od 10 lat. 
+ * Tom has been my friend for ten years. 
+----------
  * **łóżko** :: bed (noun)
  * Znowu schowałeś brudne ubrania pod łóżko. 
  * You put your dirty clothes under your bed again. 
+----------
+ * **lodówka** :: fridge (noun)
+ * Jestem głodny, a moja lodówka jest pusta. 
+ * I'm hungry and my fridge is empty. 
 ----------
  * **kąpiel** :: bath (noun)
  * Muszę wziąć długą kąpiel, aby się zrelaksować. 
  * I need to take a long bath to relax. 
 ----------
+ * **kanapa** :: sofa (noun)
+ * Mój kot lubi spać na poręczy kanapy. 
+ * My cat loves to sleep on the armrest of the sofa. 
+----------
  * **część** :: part (noun)
  * Muszę wymienić kilka części w moim samochodzie. 
  * I have to change a couple of parts in my car. 
+----------
+ * **łóżko** :: bed (noun)
+ * Znowu schowałeś brudne ubrania pod łóżko. 
+ * You put your dirty clothes under your bed again. 
 ----------
  * **imię** :: name (noun)
  * Jak masz na imię? 
  * What's your name? 
 ----------
+ * **kąpiel** :: bath (noun)
+ * Muszę wziąć długą kąpiel, aby się zrelaksować. 
+ * I need to take a long bath to relax. 
+----------
  * **gwiazda** :: star (noun)
  * Wystawę odwiedziła prawdziwa plejada gwiazd. 
  * The exhibition was attended by a real multitude of stars. 
+----------
+ * **część** :: part (noun)
+ * Muszę wymienić kilka części w moim samochodzie. 
+ * I have to change a couple of parts in my car. 
 ----------
  * **stół** :: table (noun)
  * Po każdym posiłku sprzątamy ze stołu. 
  * We clear the table after every meal. 
 ----------
+ * **imię** :: name (noun)
+ * Jak masz na imię? 
+ * What's your name? 
+----------
  * **wracać** :: to return (verb)
  * Zawsze wraca z przyjemnością z pracy do domu. 
  * He is always glad to return home after work. 
+----------
+ * **gwiazda** :: star (noun)
+ * Wystawę odwiedziła prawdziwa plejada gwiazd. 
+ * The exhibition was attended by a real multitude of stars. 
 ----------
  * **chodzić** :: to go (verb)
  * Obie chodziłyśmy do szkoły średniej w Trójmieście. 
  * We both went to high school in Tri-City. 
 ----------
+ * **stół** :: table (noun)
+ * Po każdym posiłku sprzątamy ze stołu. 
+ * We clear the table after every meal. 
+----------
  * **wysyłać** :: to send (verb)
  * On zawsze wysyła mi kartki urodzinowe o miesiąc za późno. 
  * He always sends me birthday cards a month too late. 
+----------
+ * **wracać** :: to return (verb)
+ * Zawsze wraca z przyjemnością z pracy do domu. 
+ * He is always glad to return home after work. 
 ----------
  * **śpiewać** :: to sing (verb)
  * Tę piosenkę śpiewasz strasznie fałszywie. 
  * You sing this song horribly off key. 
 ----------
+ * **chodzić** :: to go (verb)
+ * Obie chodziłyśmy do szkoły średniej w Trójmieście. 
+ * We both went to high school in Tri-City. 
+----------
  * **pisać** :: to write (verb)
  * Przez wiele lat pisali do siebie długie miłosne listy. 
  * For many years they'd written long love letters to each other. 
+----------
+ * **wysyłać** :: to send (verb)
+ * On zawsze wysyła mi kartki urodzinowe o miesiąc za późno. 
+ * He always sends me birthday cards a month too late. 
 ----------
  * **przygotowywać** :: to prepare (verb)
  * Przygotowywała sie do egzaminu bardzo sumiennie, ale i tak oblała. 
  * She was preparing for the exam very conscientiously, but she flunked anyway. 
 ----------
+ * **śpiewać** :: to sing (verb)
+ * Tę piosenkę śpiewasz strasznie fałszywie. 
+ * You sing this song horribly off key. 
+----------
  * **ubierać się** :: to dress (verb)
  * Moja szefowa lubi ubierać się modnie. 
  * My boss likes to dress fashionably. 
+----------
+ * **pisać** :: to write (verb)
+ * Przez wiele lat pisali do siebie długie miłosne listy. 
+ * For many years they'd written long love letters to each other. 
 ----------
  * **spać** :: to sleep (verb)
  * Dziecko spało całą noc. 
  * The baby slept through the night. 
 ----------
+ * **przygotowywać** :: to prepare (verb)
+ * Przygotowywała sie do egzaminu bardzo sumiennie, ale i tak oblała. 
+ * She was preparing for the exam very conscientiously, but she flunked anyway. 
+----------
  * **pić** :: to drink (verb)
  * Wielbłądy znane są z tego, że rzadko piją. 
  * Camels are known to drink rarely. 
+----------
+ * **ubierać się** :: to dress (verb)
+ * Moja szefowa lubi ubierać się modnie. 
+ * My boss likes to dress fashionably. 
 ----------
  * **płacić** :: to pay (verb)
  * Płacisz kartą czy gotówką? 
  * Do you pay with a card or with cash? 
 ----------
+ * **spać** :: to sleep (verb)
+ * Dziecko spało całą noc. 
+ * The baby slept through the night. 
+----------
  * **sprzedawać** :: to sell (verb)
  * On sprzedaje akcje na giełdzie. 
  * He sells shares on the stock exchange. 
+----------
+ * **pić** :: to drink (verb)
+ * Wielbłądy znane są z tego, że rzadko piją. 
+ * Camels are known to drink rarely. 
 ----------
  * **denerwować się** :: to be nervous (verb)
  * Bardzo się denerwowała wynikami egzaminu. 
  * She was very nervous about the results of her exam. 
 ----------
+ * **płacić** :: to pay (verb)
+ * Płacisz kartą czy gotówką? 
+ * Do you pay with a card or with cash? 
+----------
  * **drukować** :: to print (verb)
  * Wkrótce będziemy drukować nasze zaproszenia ślubne. 
  * Soon we will print our wedding invitations. 
+----------
+ * **sprzedawać** :: to sell (verb)
+ * On sprzedaje akcje na giełdzie. 
+ * He sells shares on the stock exchange. 
 ----------
  * **postępować** :: to act (verb)
  * W kontaktach z nim musisz postępować bardzo ostrożnie. 
  * You have to act very carefully when dealing with him. 
 ----------
+ * **denerwować się** :: to be nervous (verb)
+ * Bardzo się denerwowała wynikami egzaminu. 
+ * She was very nervous about the results of her exam. 
+----------
  * **otrzymywać** :: to receive (verb)
  * Ona regularnie otrzymuje paczki zza granicy. 
  * She regularly receives packages from abroad. 
+----------
+ * **drukować** :: to print (verb)
+ * Wkrótce będziemy drukować nasze zaproszenia ślubne. 
+ * Soon we will print our wedding invitations. 
 ----------
  * **podejrzewać** :: to suspect (verb)
  * Nie podejrzewałam cię o kradzież mojego pierścionka. 
  * I didn't suspect you of stealing my ring. 
 ----------
+ * **postępować** :: to act (verb)
+ * W kontaktach z nim musisz postępować bardzo ostrożnie. 
+ * You have to act very carefully when dealing with him. 
+----------
  * **śmiać się** :: to laugh (verb)
  * Lubię, gdy się śmiejesz, masz piękny uśmiech. 
  * I like it when you laugh, you've got a beautiful smile. 
+----------
+ * **otrzymywać** :: to receive (verb)
+ * Ona regularnie otrzymuje paczki zza granicy. 
+ * She regularly receives packages from abroad. 
 ----------
  * **smucić się** :: to be sad (verb)
  * Smuciła się, ponieważ nie mogła znaleźć pracy. 
  * She was sad because she couldn't find a job. 
 ----------
+ * **podejrzewać** :: to suspect (verb)
+ * Nie podejrzewałam cię o kradzież mojego pierścionka. 
+ * I didn't suspect you of stealing my ring. 
+----------
  * **wyjaśniać** :: to explain (verb)
  * Ile razy mam ci to wyjaśniać? 
  * How many times do I have to explain it to you? 
+----------
+ * **śmiać się** :: to laugh (verb)
+ * Lubię, gdy się śmiejesz, masz piękny uśmiech. 
+ * I like it when you laugh, you've got a beautiful smile. 
 ----------
  * **niszczyć** :: to destroy (verb)
  * Musisz uważać, aby nie niszczyć swoich nowych zabawek. 
  * You have to be careful not to destroy your new toys. 
 ----------
+ * **smucić się** :: to be sad (verb)
+ * Smuciła się, ponieważ nie mogła znaleźć pracy. 
+ * She was sad because she couldn't find a job. 
+----------
  * **zajmować się** :: to be busy with something (verb)
  * Obecnie zajmujemy się remontem łazienki. 
  * Right now we're busy with renovating the bathroom. 
+----------
+ * **wyjaśniać** :: to explain (verb)
+ * Ile razy mam ci to wyjaśniać? 
+ * How many times do I have to explain it to you? 
 ----------
  * **sprzątać** :: to clean (verb)
  * Codziennie sprzątam w moim pokoju, ale zawsze jest w nim bałagan. 
  * I clean my room everyday, but there's always a mess in there. 
 ----------
+ * **niszczyć** :: to destroy (verb)
+ * Musisz uważać, aby nie niszczyć swoich nowych zabawek. 
+ * You have to be careful not to destroy your new toys. 
+----------
  * **wykonywać** :: to carry out (verb)
  * Mimo że jej praca była nudna, wykonywała ją z uśmiechem. 
  * Even though her task was boring, she carried it out with a smile. 
+----------
+ * **zajmować się** :: to be busy with something (verb)
+ * Obecnie zajmujemy się remontem łazienki. 
+ * Right now we're busy with renovating the bathroom. 
 ----------
  * **kąpać się** :: to bathe (verb)
  * Jak często kąpiesz się w wannie? 
  * How often do you bathe in a tub? 
 ----------
+ * **sprzątać** :: to clean (verb)
+ * Codziennie sprzątam w moim pokoju, ale zawsze jest w nim bałagan. 
+ * I clean my room everyday, but there's always a mess in there. 
+----------
  * **pływać** :: to swim (verb)
  * Nauczyłam się pływać, kiedy miałam 30 lat. 
  * I learned how to swim when I was 30. 
+----------
+ * **wykonywać** :: to carry out (verb)
+ * Mimo że jej praca była nudna, wykonywała ją z uśmiechem. 
+ * Even though her task was boring, she carried it out with a smile. 
 ----------
  * **myć** :: to wash (verb)
  * Dlaczego myjesz okna tak często? 
  * Why do you wash the windows so often? 
 ----------
+ * **kąpać się** :: to bathe (verb)
+ * Jak często kąpiesz się w wannie? 
+ * How often do you bathe in a tub? 
+----------
  * **prać** :: to launder (verb)
  * Nie lubię prać twoich śmierdzących skarpetek. 
  * I don't like to launder your stinky socks. 
+----------
+ * **pływać** :: to swim (verb)
+ * Nauczyłam się pływać, kiedy miałam 30 lat. 
+ * I learned how to swim when I was 30. 
 ----------
  * **nosić** :: to wear (verb)
  * Mimo, że jest dziewczynką, nigdy nie nosi sukienek. 
  * Although she is a girl, she never wears a dress. 
 ----------
+ * **myć** :: to wash (verb)
+ * Dlaczego myjesz okna tak często? 
+ * Why do you wash the windows so often? 
+----------
  * **jeździć** :: to drive (verb)
  * W tym mieście oni jeżdżą jak szaleńcy. 
  * They drive like maniacs in this city. 
+----------
+ * **prać** :: to launder (verb)
+ * Nie lubię prać twoich śmierdzących skarpetek. 
+ * I don't like to launder your stinky socks. 
 ----------
  * **ćwiczyć** :: to exercise (verb)
  * Jak długo zamierzasz jeszcze ćwiczyć? 
  * How much longer do you intend to exercise? 
 ----------
+ * **nosić** :: to wear (verb)
+ * Mimo, że jest dziewczynką, nigdy nie nosi sukienek. 
+ * Although she is a girl, she never wears a dress. 
+----------
  * **dodawać** :: to add (verb)
  * Zmartwienia dodawały jej twarzy lat. 
  * Worries were adding years to her face. 
+----------
+ * **jeździć** :: to drive (verb)
+ * W tym mieście oni jeżdżą jak szaleńcy. 
+ * They drive like maniacs in this city. 
 ----------
  * **malować** :: to paint (verb)
  * Malował panoramę Warszawy przez wiele godzin. 
  * He had been painting the panorama of Warsaw for many hours. 
 ----------
+ * **ćwiczyć** :: to exercise (verb)
+ * Jak długo zamierzasz jeszcze ćwiczyć? 
+ * How much longer do you intend to exercise? 
+----------
  * **kierować** :: to direct (verb)
  * Policjant kierował ruchem na skrzyżowaniu. 
  * A policeman was directing the traffic at the intersection. 
+----------
+ * **dodawać** :: to add (verb)
+ * Zmartwienia dodawały jej twarzy lat. 
+ * Worries were adding years to her face. 
 ----------
  * **drzwi** :: door (noun)
  * Wychodząc trzasnął drzwiami. 
  * He slammed the door as he was leaving. 
 ----------
+ * **malować** :: to paint (verb)
+ * Malował panoramę Warszawy przez wiele godzin. 
+ * He had been painting the panorama of Warsaw for many hours. 
+----------
  * **pielęgniarka** :: female nurse (noun)
  * Musisz być bardzo opiekuńcza, skoro chcesz być pielęgniarką. 
  * You have to be very caring if you want to be a nurse. 
+----------
+ * **kierować** :: to direct (verb)
+ * Policjant kierował ruchem na skrzyżowaniu. 
+ * A policeman was directing the traffic at the intersection. 
 ----------
  * **dźwięk** :: sound (noun)
  * Moje nowe stereo ma doskonały dźwięk. 
  * My new stereo has excellent sound. 
 ----------
+ * **drzwi** :: door (noun)
+ * Wychodząc trzasnął drzwiami. 
+ * He slammed the door as he was leaving. 
+----------
  * **pudełko** :: box (noun)
  * Co masz w tym pudełku? 
  * What do you have in this box? 
+----------
+ * **pielęgniarka** :: female nurse (noun)
+ * Musisz być bardzo opiekuńcza, skoro chcesz być pielęgniarką. 
+ * You have to be very caring if you want to be a nurse. 
 ----------
  * **głos** :: voice (noun)
  * Jego głos łamał się, gdy o tym opowiadał. 
  * His voice was cracking as he was talking about it. 
 ----------
+ * **dźwięk** :: sound (noun)
+ * Moje nowe stereo ma doskonały dźwięk. 
+ * My new stereo has excellent sound. 
+----------
  * **czasopismo** :: magazine (noun)
  * Najlepsze zdjęcia zamieścimy w naszym czasopiśmie. 
  * We will print the best photos in our magazine. 
+----------
+ * **pudełko** :: box (noun)
+ * Co masz w tym pudełku? 
+ * What do you have in this box? 
 ----------
  * **gazeta** :: newspaper (noun)
  * Przeczytałam o tym w dzisiejszej gazecie. 
  * I read about it in today's newspaper. 
 ----------
+ * **głos** :: voice (noun)
+ * Jego głos łamał się, gdy o tym opowiadał. 
+ * His voice was cracking as he was talking about it. 
+----------
  * **talerz** :: plate (noun)
  * Ona ma imponującą kolekcję starych talerzy. 
  * She has an impressive collection of old plates. 
+----------
+ * **czasopismo** :: magazine (noun)
+ * Najlepsze zdjęcia zamieścimy w naszym czasopiśmie. 
+ * We will print the best photos in our magazine. 
 ----------
  * **wełna** :: wool (noun)
  * Ten sweter jest zrobiony z czystej wełny. 
  * This sweater is made of a pure wool. 
 ----------
+ * **gazeta** :: newspaper (noun)
+ * Przeczytałam o tym w dzisiejszej gazecie. 
+ * I read about it in today's newspaper. 
+----------
  * **guzik** :: button (noun)
  * Patrz, oberwał ci się guzik. 
  * Look, you have lost a button. 
+----------
+ * **talerz** :: plate (noun)
+ * Ona ma imponującą kolekcję starych talerzy. 
+ * She has an impressive collection of old plates. 
 ----------
  * **słomka** :: straw (noun)
  * Napój był zimny, więc pił go powoli przez słomkę. 
  * His drink was cold, so he slowly sipped it through the straw. 
 ----------
+ * **wełna** :: wool (noun)
+ * Ten sweter jest zrobiony z czystej wełny. 
+ * This sweater is made of a pure wool. 
+----------
  * **ręka** :: hand (noun)
  * Machał rękami, żeby zwrócić moją uwagę. 
  * He waved his hands to draw my attention. 
+----------
+ * **guzik** :: button (noun)
+ * Patrz, oberwał ci się guzik. 
+ * Look, you have lost a button. 
 ----------
  * **butelka** :: bottle (noun)
  * Ile butelek wody mam kupić? 
  * How many bottles of water should I buy? 
 ----------
+ * **słomka** :: straw (noun)
+ * Napój był zimny, więc pił go powoli przez słomkę. 
+ * His drink was cold, so he slowly sipped it through the straw. 
+----------
  * **różnica** :: difference (noun)
  * Jaka jest różnica między tymi dwoma modelami? 
  * What's the difference between these two models? 
+----------
+ * **ręka** :: hand (noun)
+ * Machał rękami, żeby zwrócić moją uwagę. 
+ * He waved his hands to draw my attention. 
 ----------
  * **wyścig** :: race (noun)
  * W sobotę zobaczę po raz pierwszy wyścigi konne. 
  * On Saturday I'll watch a horse race for the first time. 
 ----------
+ * **butelka** :: bottle (noun)
+ * Ile butelek wody mam kupić? 
+ * How many bottles of water should I buy? 
+----------
  * **czarownica** :: witch (noun)
  * Każde dziecko zna historię czarownicy Baby Jagi. 
  * Every child knows the story about the witch Baba Jaga. 
+----------
+ * **różnica** :: difference (noun)
+ * Jaka jest różnica między tymi dwoma modelami? 
+ * What's the difference between these two models? 
 ----------
  * **łódź** :: boat (noun)
  * Mam nadzieję, że kiedyś kupię sobie dużą łódź motorową. 
  * I hope to buy myself a big motor boat one day. 
 ----------
+ * **wyścig** :: race (noun)
+ * W sobotę zobaczę po raz pierwszy wyścigi konne. 
+ * On Saturday I'll watch a horse race for the first time. 
+----------
  * **samolot** :: airplane (noun)
  * Wolisz podróżować samochodem czy samolotem? 
  * Do you prefer to travel by car or by airplane? 
+----------
+ * **czarownica** :: witch (noun)
+ * Każde dziecko zna historię czarownicy Baby Jagi. 
+ * Every child knows the story about the witch Baba Jaga. 
 ----------
  * **pokój** :: room (noun)
  * Mój pokój jest bardzo mały, ale lubię go. 
  * My room is very small, but I like it. 
 ----------
+ * **łódź** :: boat (noun)
+ * Mam nadzieję, że kiedyś kupię sobie dużą łódź motorową. 
+ * I hope to buy myself a big motor boat one day. 
+----------
  * **las** :: forest (noun)
  * W lecie zawsze idziemy do lasu zbierać jagody. 
  * In the summer we always go to the forest to pick berries. 
+----------
+ * **samolot** :: airplane (noun)
+ * Wolisz podróżować samochodem czy samolotem? 
+ * Do you prefer to travel by car or by airplane? 
 ----------
  * **kwiat** :: flower (noun)
  * Nie zapomnij kupić jej kwiatów na imieniny! 
  * Don’t forget to buy her flowers for her name day! 
 ----------
+ * **pokój** :: room (noun)
+ * Mój pokój jest bardzo mały, ale lubię go. 
+ * My room is very small, but I like it. 
+----------
  * **drzewo** :: tree (noun)
  * Chłopcy lubią wspinać się na drzewa. 
  * Boys like to climb trees. 
+----------
+ * **las** :: forest (noun)
+ * W lecie zawsze idziemy do lasu zbierać jagody. 
+ * In the summer we always go to the forest to pick berries. 
 ----------
  * **rada** :: advice (noun)
  * To była dobra rada, żeby pójść na studia. 
  * It was good advice to go to college. 
 ----------
+ * **kwiat** :: flower (noun)
+ * Nie zapomnij kupić jej kwiatów na imieniny! 
+ * Don’t forget to buy her flowers for her name day! 
+----------
  * **ręcznik** :: towel (noun)
  * Kupiłam ci nowy ręcznik kąpielowy. 
  * I bought you a new bath towel. 
+----------
+ * **drzewo** :: tree (noun)
+ * Chłopcy lubią wspinać się na drzewa. 
+ * Boys like to climb trees. 
 ----------
  * **prezes** :: chairman (noun)
  * Prezes mojej firmy zwołał nadzwyczajne posiedzenie rady. 
  * The chairman of my company called a special board meeting. 
 ----------
+ * **rada** :: advice (noun)
+ * To była dobra rada, żeby pójść na studia. 
+ * It was good advice to go to college. 
+----------
  * **ćwiczenie** :: exercise (noun)
  * To jest dobre ćwiczenie na mięśnie brzucha. 
  * This is a good exercise for the stomach muscles. 
+----------
+ * **ręcznik** :: towel (noun)
+ * Kupiłam ci nowy ręcznik kąpielowy. 
+ * I bought you a new bath towel. 
 ----------
  * **włos** :: hair (noun)
  * Obcięła włosy i teraz wygląda jak modelka. 
  * She cut her hair and now she looks like a model. 
 ----------
+ * **prezes** :: chairman (noun)
+ * Prezes mojej firmy zwołał nadzwyczajne posiedzenie rady. 
+ * The chairman of my company called a special board meeting. 
+----------
  * **piosenkarka** :: female singer (noun)
  * Kto jest twoją ulubioną polską piosenkarką? 
  * Who is your favorite Polish female singer? 
+----------
+ * **ćwiczenie** :: exercise (noun)
+ * To jest dobre ćwiczenie na mięśnie brzucha. 
+ * This is a good exercise for the stomach muscles. 
 ----------
  * **ulica** :: street (noun)
  * Lubię spacerować ulicami warszawskiej Starówki. 
  * I like to stroll along the streets of Warsaw's Old Town. 
 ----------
+ * **włos** :: hair (noun)
+ * Obcięła włosy i teraz wygląda jak modelka. 
+ * She cut her hair and now she looks like a model. 
+----------
  * **zebranie** :: meeting (noun)
  * Na zebranie przyszła większość członków klubu. 
  * Most of the club members attended the meeting. 
+----------
+ * **piosenkarka** :: female singer (noun)
+ * Kto jest twoją ulubioną polską piosenkarką? 
+ * Who is your favorite Polish female singer? 
 ----------
  * **nauczyciel** :: male teacher (noun)
  * Nasz nauczyciel matematyki jest bardzo surowy. 
  * Our math teacher is very strict. 
 ----------
+ * **ulica** :: street (noun)
+ * Lubię spacerować ulicami warszawskiej Starówki. 
+ * I like to stroll along the streets of Warsaw's Old Town. 
+----------
  * **wiadomość** :: message (noun)
  * Ta wiadomość jest przeznaczona tylko dla ciebie. 
  * This message is intended only for you. 
+----------
+ * **zebranie** :: meeting (noun)
+ * Na zebranie przyszła większość członków klubu. 
+ * Most of the club members attended the meeting. 
 ----------
  * **opowiadanie** :: story (noun)
  * Nie podoba mi się to opowiadanie, jest za długie. 
  * I don't like this story, it's too long. 
 ----------
+ * **nauczyciel** :: male teacher (noun)
+ * Nasz nauczyciel matematyki jest bardzo surowy. 
+ * Our math teacher is very strict. 
+----------
  * **choinka** :: Christmas tree (noun)
  * Czy chcesz wiedzieć,co znajdziesz pod choinką? 
  * Do you want to know what you'll find under the Christmas tree? 
+----------
+ * **wiadomość** :: message (noun)
+ * Ta wiadomość jest przeznaczona tylko dla ciebie. 
+ * This message is intended only for you. 
 ----------
  * **Sylwester** :: New Year's Eve (noun)
  * Gdzie się wybierasz na Sylwestra? 
  * Where are you going for New Year's Eve? 
 ----------
+ * **opowiadanie** :: story (noun)
+ * Nie podoba mi się to opowiadanie, jest za długie. 
+ * I don't like this story, it's too long. 
+----------
  * **kilka** :: several (adverb)
  * Kupiłam ci kilka nowych koszul. 
  * I bought you several new shirts. 
+----------
+ * **choinka** :: Christmas tree (noun)
+ * Czy chcesz wiedzieć,co znajdziesz pod choinką? 
+ * Do you want to know what you'll find under the Christmas tree? 
 ----------
  * **tutaj** :: here (adverb)
  * Dużo się tutaj wydarzyło w ciągu ostatnich lat. 
  * A lot has happened here during the last few years. 
 ----------
+ * **Sylwester** :: New Year's Eve (noun)
+ * Gdzie się wybierasz na Sylwestra? 
+ * Where are you going for New Year's Eve? 
+----------
  * **nigdy** :: never (adverb)
  * Nigdy nie próbowałam skoków ze spadochronem. 
  * I've never tried parachute jumping. 
+----------
+ * **kilka** :: several (adverb)
+ * Kupiłam ci kilka nowych koszul. 
+ * I bought you several new shirts. 
 ----------
  * **prawie** :: almost (adverb)
  * Mój nowy projekt jest już prawie skończony. 
  * My new project is almost finished. 
 ----------
+ * **tutaj** :: here (adverb)
+ * Dużo się tutaj wydarzyło w ciągu ostatnich lat. 
+ * A lot has happened here during the last few years. 
+----------
  * **aktualnie** :: currently (adverb)
  * Aktualnie nie mamy ich w twoim rozmiarze. 
  * Currently we don't have them in your size. 
+----------
+ * **nigdy** :: never (adverb)
+ * Nigdy nie próbowałam skoków ze spadochronem. 
+ * I've never tried parachute jumping. 
 ----------
  * **ewentualnie** :: possibly, alternately (adverb)
  * Jeśli pogoda będzie ładna, pójdziemy ewentualnie na miasto. 
  * Alternately, if the weather is nice, we'll go downtown. 
 ----------
+ * **prawie** :: almost (adverb)
+ * Mój nowy projekt jest już prawie skończony. 
+ * My new project is almost finished. 
+----------
  * **właściwie** :: actually (adverb)
  * Właściwie to nawet nie wiem, jak on ma na imię. 
  * Actually, I don't even know what his name is. 
+----------
+ * **aktualnie** :: currently (adverb)
+ * Aktualnie nie mamy ich w twoim rozmiarze. 
+ * Currently we don't have them in your size. 
 ----------
  * **nigdzie** :: nowhere (adverb)
  * Nigdzie indziej nie znajdziesz lepszego bigosu. 
  * Nowhere else will you find better bigos. 
 ----------
+ * **ewentualnie** :: possibly, alternately (adverb)
+ * Jeśli pogoda będzie ładna, pójdziemy ewentualnie na miasto. 
+ * Alternately, if the weather is nice, we'll go downtown. 
+----------
  * **pracować** :: to work (verb)
  * Pracował jako kierowca, gdy został zwolniony. 
  * He was working as a driver when he was fired. 
+----------
+ * **właściwie** :: actually (adverb)
+ * Właściwie to nawet nie wiem, jak on ma na imię. 
+ * Actually, I don't even know what his name is. 
 ----------
  * **uczyć się** :: to learn (verb)
  * Uczę się chińskiego od lat i wciąż go nie znam za dobrze. 
  * I've been learning Chinese for years and I still don't know it well. 
 ----------
+ * **nigdzie** :: nowhere (adverb)
+ * Nigdzie indziej nie znajdziesz lepszego bigosu. 
+ * Nowhere else will you find better bigos. 
+----------
  * **zapominać** :: to forget (verb)
  * Zapominała mój numer telefon, więc w końcu go dla niej zapisałam. 
  * She kept forgetting my phone number so I finally wrote it down for her. 
+----------
+ * **pracować** :: to work (verb)
+ * Pracował jako kierowca, gdy został zwolniony. 
+ * He was working as a driver when he was fired. 
 ----------
  * **pamiętać** :: to remember (verb)
  * Następnym razem będziemy pamiętać o twoich urodzinach. 
  * Next time, we will remember your birthday. 
 ----------
+ * **uczyć się** :: to learn (verb)
+ * Uczę się chińskiego od lat i wciąż go nie znam za dobrze. 
+ * I've been learning Chinese for years and I still don't know it well. 
+----------
  * **kochać** :: to love (verb)
  * Kochałam go, ale wyszłam za mąż za kogoś innego. 
  * I loved him, but I married someone else. 
+----------
+ * **zapominać** :: to forget (verb)
+ * Zapominała mój numer telefon, więc w końcu go dla niej zapisałam. 
+ * She kept forgetting my phone number so I finally wrote it down for her. 
 ----------
  * **lubić** :: to like (verb)
  * Dziecko lubiło dźwięk tykającego zagara. 
  * The baby liked the sound of the ticking clock. 
 ----------
+ * **pamiętać** :: to remember (verb)
+ * Następnym razem będziemy pamiętać o twoich urodzinach. 
+ * Next time, we will remember your birthday. 
+----------
  * **latać** :: to fly (verb)
  * Polskie linie lotnicze regularnie latają do Nowego Jorku i Chicago. 
  * Polish airlines fly regularly to New York and Chicago. 
+----------
+ * **kochać** :: to love (verb)
+ * Kochałam go, ale wyszłam za mąż za kogoś innego. 
+ * I loved him, but I married someone else. 
 ----------
  * **kopać** :: to dig (verb)
  * Kopali głęboko w poszukiwaniu skarbów. 
  * They were digging deep in search of a treasure. 
 ----------
+ * **lubić** :: to like (verb)
+ * Dziecko lubiło dźwięk tykającego zagara. 
+ * The baby liked the sound of the ticking clock. 
+----------
  * **suszyć** :: to dry (verb)
  * Suszyłam moje świeżo pomalowane paznokcie, kiedy zadzwonił telefon. 
  * I was drying my freshly painted nails when the phone rang. 
+----------
+ * **latać** :: to fly (verb)
+ * Polskie linie lotnicze regularnie latają do Nowego Jorku i Chicago. 
+ * Polish airlines fly regularly to New York and Chicago. 
 ----------
  * **karmić** :: to feed (verb)
  * Gdy byłam małą dziewczynką, często karmiłam kaczki. 
  * When I was a little girl, I often fed ducks. 
 ----------
+ * **kopać** :: to dig (verb)
+ * Kopali głęboko w poszukiwaniu skarbów. 
+ * They were digging deep in search of a treasure. 
+----------
  * **plotkować** :: to gossip (verb)
  * Zamiast pracować, ona ciągle plotkuje z przyjaciółkami. 
  * Instead of working, she is always gossiping with her friends. 
+----------
+ * **suszyć** :: to dry (verb)
+ * Suszyłam moje świeżo pomalowane paznokcie, kiedy zadzwonił telefon. 
+ * I was drying my freshly painted nails when the phone rang. 
 ----------
  * **poprawiać** :: to correct (verb)
  * Przez cały dzień poprawiałam testy moich uczniów. 
  * I was correcting my students' tests all day long. 
 ----------
+ * **karmić** :: to feed (verb)
+ * Gdy byłam małą dziewczynką, często karmiłam kaczki. 
+ * When I was a little girl, I often fed ducks. 
+----------
  * **opalać się** :: to sunbathe (verb)
  * Jedziemy na Jamajkę, będziemy opalać się codziennie od rana do wieczora. 
  * We're going to Jamaica; we'll be sunbathing from morning till night. 
+----------
+ * **plotkować** :: to gossip (verb)
+ * Zamiast pracować, ona ciągle plotkuje z przyjaciółkami. 
+ * Instead of working, she is always gossiping with her friends. 
 ----------
  * **pomagać** :: to help (verb)
  * Zgodziliśmy się, że będziemy sobie pomagać. 
  * We agreed we will be helping each other. 
 ----------
+ * **poprawiać** :: to correct (verb)
+ * Przez cały dzień poprawiałam testy moich uczniów. 
+ * I was correcting my students' tests all day long. 
+----------
  * **tańczyć** :: to dance (verb)
  * Tańczyli tak dobrze, że wygrali zawody. 
  * They danced so well, they won the contest. 
+----------
+ * **opalać się** :: to sunbathe (verb)
+ * Jedziemy na Jamajkę, będziemy opalać się codziennie od rana do wieczora. 
+ * We're going to Jamaica; we'll be sunbathing from morning till night. 
 ----------
  * **zbierać** :: to collect (verb)
  * Kiedy byłam mała zbierałam znaczki i pocztówki. 
  * When I was little, I used to collect stamps and postcards. 
 ----------
+ * **pomagać** :: to help (verb)
+ * Zgodziliśmy się, że będziemy sobie pomagać. 
+ * We agreed we will be helping each other. 
+----------
  * **odpowiadać** :: to answer (verb)
  * Po włamaniu przez ponad godzinę odpowiadałem na pytania policjanta. 
  * After the break-in I was answering the policeman's questions for over an hour. 
+----------
+ * **tańczyć** :: to dance (verb)
+ * Tańczyli tak dobrze, że wygrali zawody. 
+ * They danced so well, they won the contest. 
 ----------
  * **naprawiać** :: to fix (verb)
  * Mechanicy naprawiali mój samochód, więc nie mogłam odebrać cię z lotniska. 
  * The mechanics were fixing my car so I couldn't pick you up at the airport. 
 ----------
+ * **zbierać** :: to collect (verb)
+ * Kiedy byłam mała zbierałam znaczki i pocztówki. 
+ * When I was little, I used to collect stamps and postcards. 
+----------
  * **tęsknić** :: to miss (verb)
  * Tęskniła za nim bardzo, kiedy poszedł do wojska. 
  * She missed him a lot when he joined the army. 
+----------
+ * **odpowiadać** :: to answer (verb)
+ * Po włamaniu przez ponad godzinę odpowiadałem na pytania policjanta. 
+ * After the break-in I was answering the policeman's questions for over an hour. 
 ----------
  * **nienawidzić** :: to hate (verb)
  * Czego nienawidzisz najbardziej na świecie? 
  * What do you hate the most in the world? 
 ----------
+ * **naprawiać** :: to fix (verb)
+ * Mechanicy naprawiali mój samochód, więc nie mogłam odebrać cię z lotniska. 
+ * The mechanics were fixing my car so I couldn't pick you up at the airport. 
+----------
  * **pojawiać się** :: to appear (verb)
  * Za każdym razem, gdy mówił o słodyczach, na jego buzi pojawiał się uśmiech. 
  * Every time he was talking about sweets, a smile appeared on his face. 
 ----------
+ * **tęsknić** :: to miss (verb)
+ * Tęskniła za nim bardzo, kiedy poszedł do wojska. 
+ * She missed him a lot when he joined the army. 
+----------
  * **wisieć** :: to hang (verb)
  * Wszystkie jego rysunki wiszą na drzwiach lodówki. 
  * All of his drawings are hanging on the refrigerator door. 
+----------
+ * **nienawidzić** :: to hate (verb)
+ * Czego nienawidzisz najbardziej na świecie? 
+ * What do you hate the most in the world? 
+----------
+ * **walczyć** :: to fight (verb)
+ * Kiedyś mężczyźni walczyli na szable, teraz walczą na słowa. 
+ * Once, men used to fight with swords; now they fight with words. 
+----------
+ * **pojawiać się** :: to appear (verb)
+ * Za każdym razem, gdy mówił o słodyczach, na jego buzi pojawiał się uśmiech. 
+ * Every time he was talking about sweets, a smile appeared on his face. 
+----------
+ * **zamieniać** :: to exchange (verb)
+ * Właśnie zamieniam mój dom na wsi na mieszkanie w mieście. 
+ * Just now I am exchanging my country house for an apartment in the city. 
+----------
+ * **wisieć** :: to hang (verb)
+ * Wszystkie jego rysunki wiszą na drzwiach lodówki. 
+ * All of his drawings are hanging on the refrigerator door. 
+----------
+ * **szukać** :: to search (verb)
+ * Szukali idealnego domu, ale nie mogli takiego znaleźć. 
+ * They were searching for an ideal house, but they couldn't find it. 
 ----------
  * **walczyć** :: to fight (verb)
  * Kiedyś mężczyźni walczyli na szable, teraz walczą na słowa. 

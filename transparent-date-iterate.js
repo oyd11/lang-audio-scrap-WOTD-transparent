@@ -33,10 +33,11 @@ mkDirSync( soundDir )
 let isDownloadExistingXml = true
 const dateFormat = "MM-DD-YYYY"
 let nowDate = moment()
-let endDate = nowDate
+let endDate = nowDate // TODO : handle case of not existing yet
+
 //let startDate = moment("01-01-2017", dateFormat)
 //let startDate = moment("12-31-2017", dateFormat)
-let startDate = moment("07-10-2018", dateFormat)
+let startDate = moment("06-12-2018", dateFormat)
 
 const langHumanToUrl = {
  "arabic": "arabic",

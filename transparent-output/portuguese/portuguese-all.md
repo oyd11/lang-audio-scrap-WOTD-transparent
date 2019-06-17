@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 473 phrases 
+ 614 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -871,565 +871,1129 @@
  * Hoje é dia de Ações de Graça. 
  * Today is Thanksgiving. 
 ----------
+ * **contratempo** :: mishap (noun)
+ * Chegamos sem nenhum contratempo. 
+ * We arrived without any mishap. 
+----------
  * **cozinhar** :: to cook (expression)
  * Minha mãe vai cozinhar peru no jantar. 
  * My mom is going to cook turkey for dinner. 
+----------
+ * **azia** :: heartburn (noun)
+ * A ansiedade pode causar azia. 
+ * Anxiety can cause heartburn. 
 ----------
  * **outono** :: fall (noun)
  * Estamos no outono. 
  * We are in the fall. 
 ----------
+ * **dar descarga** :: to flush the toilet (expression)
+ * Não se esqueça de dar descarga. 
+ * Don't forget to flush the toilet. 
+----------
  * **folhas** :: leaves (noun)
  * As folhas são tão coloridas no outono. 
  * The leaves are so colorful in the fall. 
+----------
+ * **manipular** :: to rig (verb)
+ * A eleição foi manipulada. 
+ * The election was rigged. 
 ----------
  * **cair** :: to fall (expression)
  * No outono as folhas caem. 
  * In the fall, the leaves fall. 
 ----------
+ * **roubo** :: robbery (noun)
+ * A polícia chegou tarde na cena do roubo. 
+ * The police arrived late at the robbery scene. 
+----------
  * **variedade** :: variety (adjective)
  * Há uma variedade de cores nas árvores. 
  * There is a variety of colors in the trees. 
+----------
+ * **impressora** :: printer (noun)
+ * A impressora está sem papel. 
+ * The printer is out of paper. 
 ----------
  * **sábado** :: Saturday (noun)
  * Sábado é dia de dançar. 
  * Saturday is dancing day. 
 ----------
+ * **malabarista** :: juggler (noun)
+ * A plateia aplaudiu o malabarista. 
+ * The audience applauded the juggler. 
+----------
  * **feriado** :: holiday (noun)
  * Semana que vem é feriado. 
  * Next week is a holiday. 
+----------
+ * **revelar** :: to reveal (verb)
+ * A investigação revelou um escândalo. 
+ * The investigation revealed a scandal. 
 ----------
  * **dançar** :: to dance (expression)
  * Os brasileiros dançam muito no carnaval. 
  * The Brazilians dance a lot during carnival. 
 ----------
+ * **rodovia** :: highway (noun)
+ * O tráfego na rodovia estava intenso por causa do feriado. 
+ * Traffic on the highway was heavy due to the holidays. 
+----------
  * **final de semana** :: weekend (noun)
  * Nós vamos à praia no final de semana. 
  * We are going to the beach on the weekend. 
+----------
+ * **prisão perpétua** :: life imprisonment (expression)
+ * O criminoso foi condenado a prisão perpétua. 
+ * The criminal was sentenced to life imprisonment. 
 ----------
  * **carne** :: meat (noun)
  * Comemos carne todos os dias. 
  * We eat meat every day. 
 ----------
+ * **bocejar** :: to yawn (verb)
+ * Após o almoço, não consigo parar de bocejar. 
+ * After lunch, I can't stop yawning. 
+----------
  * **querer** :: to want (expression)
  * Você vai querer comer carne hoje? 
  * Do you want to eat meat today? 
+----------
+ * **tonto** :: fool (noun)
+ * Dá uma olhada nesse tonto. Ele está lendo o jornal mas está de ponta cabeça. 
+ * Check this fool out. He's reading the newspaper but it's upside down. 
 ----------
  * **amanhã** :: tomorrow (adverb)
  * Meu filho chega amanhã de sua viagem. 
  * My son arrives tomorrow from his trip. 
 ----------
+ * **urso de pelúcia** :: teddy bear (noun)
+ * Trazer ursos de pelúcia para a escola não é permitido. 
+ * Bringing teddy bears to school is not allowed. 
+----------
  * **carro** :: car (noun)
  * Quero comprar um carro novo. 
  * I want to buy a new car. 
+----------
+ * **elogio** :: praise (noun)
+ * Suas ações eram dignas de elogio. 
+ * Her deeds were praiseworthy. 
 ----------
  * **dirigir** :: to drive (expression)
  * Aprendi a dirigir quando tinha quinze anos. 
  * I learned how to drive when I was fifteen years old. 
 ----------
+ * **coração** :: heart (noun)
+ * Ele tem problema de coração. 
+ * He has a heart problem. 
+----------
  * **solteiro** :: single (adjective)
  * Você é solteiro ou casado? 
  * Are you single or married? 
+----------
+ * **pessoas** :: people (noun)
+ * Não consigo trabalhar com estas pessoas! 
+ * I can't work with these people! 
 ----------
  * **padaria** :: bakery (noun)
  * Vá a padaria comprar pão. 
  * Go to the bakery to buy bread. 
 ----------
+ * **pirar** :: to freak out (expression)
+ * Não pira, mas acabei de perder todas as nossas economias no pôquer. 
+ * Don't freak out, but I just lost our entire savings in a poker game. 
+----------
  * **comprar** :: to buy (expression)
  * Claudia gosta de comprar roupas novas. 
  * Claudia likes to buy new clothes. 
+----------
+ * **prazo de validade** :: expiration date (expression)
+ * O prazo de validade deste leite já venceu! 
+ * This milk's expiration date has come and gone! 
 ----------
  * **livros** :: books (noun)
  * Tenho muitos livros em casa. 
  * I have many books at home. 
 ----------
+ * **lanche** :: snack (noun)
+ * Durante o intervalo, foram servidos lanches. 
+ * During the break, snacks were served. 
+----------
  * **escola** :: school (noun)
  * A minha escola fica perto de casa. 
  * My school is close to my house. 
+----------
+ * **babá** :: nanny (noun)
+ * Precisa-se de babá para duas crianças. 
+ * Wanted: nanny for two kids. 
 ----------
  * **estudar** :: to study (expression)
  * Gosto muito de estudar português. 
  * I like to study Portuguese very much. 
 ----------
+ * **do começo ao fim** :: from beginning to end (expression)
+ * Li do começo ao fim duas vezes. 
+ * I read it from beginning to the end twice. 
+----------
  * **estudioso** :: studious (adjective)
  * Rafael é muito estudioso. 
  * Rafael is very studious. 
+----------
+ * **começar do nada** :: to start from scratch (expression)
+ * Mudar-se é como começar do nada. 
+ * Moving out is like starting from scratch. 
 ----------
  * **brincadeira** :: joke (noun)
  * O que eu falei era brincadeira. 
  * What I said was a joke. 
 ----------
+ * **bruxa** :: hag (noun)
+ * A avó dela é uma bruxa velha. Ela é muito malvada! 
+ * Her grandma is an old hag. She is so mean! 
+----------
  * **perigoso** :: dangerous (adjective)
  * Dirigir rápido é perigoso. 
  * Driving fast is dangerous. 
+----------
+ * **cartomante** :: fortune teller (noun)
+ * A cartomante previu seu sucesso. 
+ * The fortune teller predicted your success. 
 ----------
  * **lá** :: there (adverb)
  * Não olhe aqui, olhe lá. 
  * Don't look here, look there. 
 ----------
+ * **um breu** :: pitch black (expression)
+ * O céu estava um breu e não tinha estrelas. 
+ * The pitch black night sky had no stars. 
+----------
  * **igreja** :: church (noun)
  * Pedro vai à igreja todos os domingos. 
  * Pedro goes to church every Sunday. 
+----------
+ * **insulto** :: insult (noun)
+ * Não vou tolerar este insulto! 
+ * I will not tolerate this insult! 
 ----------
  * **domingo** :: Sunday (noun)
  * Domingo é dia de missa. 
  * Sunday is the day of mass. 
 ----------
+ * **interessar** :: to interest (verb)
+ * O estudo de línguas me interessa. 
+ * Language studies interest me. 
+----------
  * **empregada** :: maid (noun)
  * Minha empregada vive conosco. 
  * Our maid lives with us. 
+----------
+ * **todos os anos** :: every year (adverb)
+ * Vamos à praia todos os anos. 
+ * We go to the beach every year. 
 ----------
  * **visitar** :: to visit (expression)
  * Gostamos de visitar nossos parentes. 
  * We like to visit our relatives. 
 ----------
+ * **jogar** :: to throw (verb)
+ * Ele jogou um garfo em mim. 
+ * He threw a fork at me. 
+----------
  * **boca** :: mouth (noun)
  * Abra boca. 
  * Open your mouth. 
+----------
+ * **júri** :: jury (noun)
+ * O júri chegou a um veredicto? 
+ * Has the jury reached a verdict? 
 ----------
  * **azul** :: blue (adjective)
  * O céu está tão azul! 
  * The sky is so blue! 
 ----------
+ * **contar** :: to count (verb)
+ * Você consegue contar todas as jujubas naquele pote? 
+ * Can you count all the jellybeans in that jar? 
+----------
  * **trem** :: train (noun)
  * O trem passa perto da minha casa. 
  * The train passes close to my house. 
+----------
+ * **lareira** :: hearth (noun)
+ * Sentamos perto da lareira tomando chá. 
+ * We sat near the hearth sipping tea. 
 ----------
  * **terceiro** :: third (adjective)
  * Hoje é o terceiro dia de aula. 
  * Today is the third day of school. 
 ----------
+ * **capacete** :: helmet (noun)
+ * Use seu capacete quando andar de bicicleta. 
+ * Wear your helmet when you ride your bike. 
+----------
  * **longe** :: far (adverb)
  * A Gisele mora longe daqui? 
  * Does Gisele live far from here? 
+----------
+ * **adega** :: cellar (noun)
+ * Eles têm uma adega de vinho climatizada impressionante. 
+ * They have an impressive climate-controlled wine cellar. 
 ----------
  * **guarda-chuva** :: umbrella (noun)
  * Leve o guarda-chuva. Está chovendo. 
  * Take the umbrella. It's going to rain. 
 ----------
+ * **caixa** :: box (noun)
+ * Agora vamos ver o que tem na caixa. Nada! Absolutamente nada! 
+ * Now let's see what's in the box. Nothing! Absolutely nothing! 
+----------
  * **calor** :: heat (noun)
  * O calor no Brasil é muito forte. 
  * The heat in Brazil is very strong. 
+----------
+ * **palhaço** :: clown (noun)
+ * Nada é mais triste do que as lágrimas de um palhaço. 
+ * Nothing is sadder than the tears of a clown. 
 ----------
  * **queimar** :: to burn (expression)
  * A menina se queimou no sol. 
  * The girl burned in the sun. 
 ----------
+ * **ar-condicionado** :: air conditioner (noun)
+ * Ligue o ar-condicionado, por favor. 
+ * Turn on the air conditioner, please. 
+----------
  * **caloroso** :: warm (adjective)
  * O povo brasileiro é bem caloroso. 
  * The Brazilian people are very warm. 
+----------
+ * **carne moída** :: ground meat (expression)
+ * Preciso de meio quilo de carne moída. 
+ * I need half a kilo of ground meat. 
 ----------
  * **fazenda** :: farm (noun)
  * Meus avós moram numa fazenda. 
  * My grandparents live on a farm. 
 ----------
+ * **açucarado** :: sugar-coated (adjective)
+ * Meu pai nos trouxe guloseimas açucaradas. 
+ * My dad brought us sugar-coated treats. 
+----------
  * **legal** :: cool (adjective)
  * Que legal! Ganhei um aumento! 
  * Cool! I got a raise! 
+----------
+ * **estar de mau humor** :: to be in a bad mood (expression)
+ * Não fale com ele. Ele está de mau humor. 
+ * Don't talk to him. He's in a bad mood. 
 ----------
  * **frango** :: chicken (noun)
  * Você gosta de frango frito? 
  * Do you like fried chicken? 
 ----------
+ * **um pouquinho** :: a little bit (expression)
+ * Esta sopa poderia ter um pouquinho mais de sal. 
+ * This soup could use a little bit of salt. 
+----------
  * **bebida** :: beverage (noun)
  * Guaraná é a bebida favorita do brasileiro. 
  * Guaraná is the favorite Brazilian beverage. 
+----------
+ * **intrometido** :: meddler (noun)
+ * Não gosto da minha vizinha. Ela é uma intrometida. 
+ * I don't like my neighbor. She's a meddler. 
 ----------
  * **perto** :: close (adverb)
  * Posso sentar perto de você? 
  * Can I sit close to you? 
 ----------
+ * **perdedor** :: loser (noun)
+ * Não seja amigo deles. Eles são perdedores. 
+ * Don't be friends with them. They are losers. 
+----------
  * **dinheiro** :: money (noun)
  * Sandra gasta muito dinheiro. 
  * Sandra spends a lot of money. 
+----------
+ * **apesar de** :: in spite of (conjunction)
+ * Apesar do problema, o show deve continuar. 
+ * In spite of the problem, the show must go on. 
 ----------
  * **calças** :: pants (noun)
  * Vou comprar calças novas. 
  * I am going to buy new pants. 
 ----------
+ * **seguir** :: to follow (verb)
+ * Eu sigo o Adir Ferreira no Twitter, mas quem não segue? 
+ * I follow Adir Ferreira on Twitter, but who doesn't? 
+----------
  * **verde** :: green (adjective)
  * Verde é minha cor favorita. 
  * Green is my favorite color. 
+----------
+ * **Está brincando?** :: Are you kidding? (expression)
+ * Não consigo acreditar. Está brincando? 
+ * I can't believe it. Are you kidding? 
 ----------
  * **sapato** :: shoe (noun)
  * Meu número de sapato é 36. 
  * My shoe size is 36. 
 ----------
+ * **de vez em quando** :: from time to time (expression)
+ * Vou à praia de vez em quando. 
+ * I go to the beach from time to time. 
+----------
  * **apertado** :: tight (adjective)
  * Minhas calças estão apertadas. 
  * My pants are tight. 
+----------
+ * **abrigo** :: shelter (noun)
+ * Eles ficaram num abrigo depois do terremoto. 
+ * They stayed in a shelter after the earthquake. 
 ----------
  * **rapaz** :: young man (noun)
  * Aquele rapaz é tão educado. 
  * That young man is so polite. 
 ----------
+ * **revolta** :: uprising (noun)
+ * A revolta causou as mudanças sociais necessárias. 
+ * The uprising brought about the needed social changes. 
+----------
  * **olhar** :: to look (expression)
  * Não olhe para traz. 
  * Don't look back. 
+----------
+ * **estar em serviço** :: to be on duty (expression)
+ * Não posso ir este fim de semana, estou em serviço. 
+ * I can't go this weekend, I am on duty. 
 ----------
  * **chiclete** :: gum (noun)
  * Você quer chiclete? 
  * Do you want some gum? 
 ----------
+ * **falta** :: lack (noun)
+ * A falta de fundos acelerou o fechamento da fábrica. 
+ * The lack of funds hastened the closure of the factory. 
+----------
  * **ano que vem** :: next year (adverb)
  * Ano que vem vou fazer regime. 
  * Next year I will go on a diet. 
+----------
+ * **assustar** :: to frighten (verb)
+ * A explosão assustou as pessoas para longe. 
+ * The explosion frightened the people away. 
 ----------
  * **campo** :: countryside (noun)
  * Minha família mora no campo. 
  * My family lives in the countryside. 
 ----------
+ * **couro cabeludo** :: scalp (noun)
+ * O couro cabeludo do homem calvo fica visível. 
+ * The scalp of the bald man is visible. 
+----------
  * **vento** :: wind (noun)
  * Há muito vento hoje. 
  * There is a lot of wind today. 
+----------
+ * **político** :: politician (noun)
+ * O político se livrou de seu rival. 
+ * The politician got rid of his rival. 
 ----------
  * **trabalho** :: job (noun)
  * Qual o trabalho que seu esposo faz? 
  * What job does your husband do? 
 ----------
+ * **ridículo** :: ridiculous (adjective)
+ * Suas respostas foram ridículas. 
+ * Her replies were ridiculous. 
+----------
  * **nadar** :: to swim (expression)
  * Eu sei nadar muito bem. 
  * I know how to swim very well. 
+----------
+ * **ficar com o troco** :: to keep the change (expression)
+ * Fique com o troco, amigo. 
+ * Keep the change, friend. 
 ----------
  * **rio** :: river (noun)
  * Vamos pular no rio. 
  * Let's jump in the river. 
 ----------
+ * **explodir** :: to explode (verb)
+ * Sua nova invenção explodiu em minutos. 
+ * His new invention exploded within minutes. 
+----------
  * **pior** :: worse (adjective)
  * Minha gripe está pior. 
  * My cold is worse. 
+----------
+ * **pentear** :: to comb (verb)
+ * Penteie seu cabelo no chuveiro para ganhar tempo. 
+ * Comb your hair in the shower to save time. 
 ----------
  * **arroz** :: rice (noun)
  * Os brasileiros adoram comer arroz. 
  * Brazilians love to eat rice. 
 ----------
+ * **cômico** :: comical (adjective)
+ * Ela tem uma maneira cômica de dizer as coisas. 
+ * She has a comical way of saying things. 
+----------
  * **feijão** :: beans (noun)
  * Gosto de feijão com arroz. 
  * I like rice with beans. 
+----------
+ * **comum** :: common (adjective)
+ * A gripe é um problema muito comum no inverno. 
+ * The flu is a very common problem in the winter. 
 ----------
  * **dia** :: day (noun)
  * Leandro come arroz e feijão todos os dias. 
  * Leandro eats rice and beans every day. 
 ----------
+ * **conectar** :: to connect (verb)
+ * O técnico conectará os fios. 
+ * The technician will connect the wires. 
+----------
  * **palavras** :: words (noun)
  * Eu aprendi muitas palavras novas em português 
  * I learned many new words in Portuguese. 
+----------
+ * **manter** :: to maintain (verb)
+ * Precisamos manter nossos equipamentos frios. 
+ * We need to maintain our equipment cold. 
 ----------
  * **esquiar** :: ski (expression)
  * Meus amigos esquiam perfeitamente. 
  * My friends ski perfectly. 
 ----------
+ * **considerar** :: to consider (verb)
+ * Você já considerou mudar-se para o exterior? 
+ * Have you ever considered moving abroad? 
+----------
  * **neve** :: snow (noun)
  * Os meninos brincam na neve. 
  * The boys play in the snow. 
+----------
+ * **construir** :: to build (verb)
+ * Não construa sua casa na areia. 
+ * Don't build your house on sand. 
 ----------
  * **inverno** :: winter (noun)
  * O inverno em Boston é muito frio. 
  * Winter in Boston is very cold. 
 ----------
+ * **converter** :: to convert (verb)
+ * Os alquimistas nunca conseguiram converter o chumbo em ouro. 
+ * Alchemists never did manage to convert lead into gold. 
+----------
  * **branco** :: white (adjective)
  * A neve é tão branca. 
  * Snow is so white. 
+----------
+ * **namorada** :: girlfriend (noun)
+ * Ela é minha namorada há dois meses. 
+ * She has been my girlfriend for two months. 
 ----------
  * **depois** :: after (adverb)
  * Vamos sair depois do almoço. 
  * Let's go out after lunch. 
 ----------
+ * **correção** :: correction (noun)
+ * O jornal publicou uma pequena correção. 
+ * The newspaper issued a small correction. 
+----------
  * **nariz** :: nose (noun)
  * A menina quebrou o nariz. 
  * The girl broke her nose. 
+----------
+ * **levar** :: to lead (verb)
+ * Um coração saudável leva a uma vida saudável. 
+ * A healthy heart leads to a healthy life. 
 ----------
  * **relógio** :: watch (noun)
  * Ganhei um relógio novo do meu namorado. 
  * I got a new watch from my boyfriend. 
 ----------
+ * **cósmico** :: cosmic (adjective)
+ * Onde é nosso lugar no grande plano cósmico? 
+ * Where do we fit in the grand cosmic scheme? 
+----------
  * **velho** :: old (adjective)
  * Seu carro está velho. Precisa troca-lo. 
  * Your car is old. You need to trade it in. 
+----------
+ * **fantasia** :: costume (noun)
+ * Eles vestiram fantasias elaboradas na festa. 
+ * They wore elaborate costumes to the party. 
 ----------
  * **voar** :: to fly (expression)
  * O avião voa muito alto. 
  * The plane flies very high. 
 ----------
+ * **cristal** :: crystal (adjective)
+ * Um fino candelabro de cristal estava pendurado na sala. 
+ * A fine crystal chandelier hangs in the room. 
+----------
  * **vida** :: life (noun)
  * Aproveite sua vida ao máximo 
  * Enjoy your life to the fullest. 
+----------
+ * **conflito** :: conflict (noun)
+ * Às vezes os conflitos aparecem por causa de obrigações de trabalho confusas. 
+ * Sometimes conflicts arise from overlapping job duties. 
 ----------
  * **tosse** :: cough (noun)
  * Estou com tosse. 
  * I have a cough. 
 ----------
+ * **do lado de fora** :: outside (expression)
+ * Há algumas pessoas esperando por você do lado de fora 
+ * There are some people outside waiting for you. 
+----------
  * **febre** :: fever (noun)
  * Sua febre está alta. Vá ao médico. 
  * Your fever is high. Go to the doctor. 
+----------
+ * **convidados** :: guests (noun)
+ * Os convidados do casamento estão começando a chegar! 
+ * Our wedding guests are starting to arrive! 
 ----------
  * **nublado** :: cloudy (adjective)
  * O tempo está nublado. 
  * The weather is cloudy. 
 ----------
+ * **ter cuidado** :: to be careful (expression)
+ * Tenha cuidado para não provocar os elefantes selvagens. 
+ * Be careful not to anger the wild elephants. 
+----------
  * **torta** :: pie (noun)
  * Minha avó fez uma torta de maçã. 
  * My grandma made an apple pie. 
+----------
+ * **perfil** :: profile (noun)
+ * Visite o meu perfil no Facebook. 
+ * Visit my Facebook profile. 
 ----------
  * **ontem à noite** :: last night (adverb)
  * Choveu muito ontem a noite. 
  * It rained a lot last night. 
 ----------
+ * **mente** :: mind (noun)
+ * Ele tem uma mente analítica. 
+ * He's got an analytical mind. 
+----------
  * **feio** :: ugly (adjective)
  * Que cara feia é essa? 
  * What ugly face is this? 
+----------
+ * **bater papo** :: to chat (expression)
+ * Foi um prazer bater papo com você. 
+ * It's been a pleasure chatting with you. 
 ----------
  * **lutar** :: to fight (expression)
  * Os meninos gostam de lutar o tempo todo. 
  * The boys like to fight all the time. 
 ----------
+ * **notícia** :: news (noun)
+ * Você ouviu as últimas notícias sobre o terremoto? 
+ * Have you heard the latest news about the earthquake? 
+----------
  * **advogada** :: lawyer (noun)
  * Minha esposa é advogada. 
  * My wife is a lawyer. 
+----------
+ * **cartola** :: top hat (noun)
+ * O cavalheiro tirou suas luvas e cartola. 
+ * The gentleman took off his gloves and top hat. 
 ----------
  * **antes** :: before (adverb)
  * Chegue antes da loja fechar. 
  * Arrive before the store closes. 
 ----------
+ * **amigo** :: friend (noun)
+ * Quando tenho um dia ruim, me certifico que todos os meus amigos do Facebook saibam. 
+ * When I have a bad day, I make sure all my Facebook friends know! 
+----------
  * **passagem** :: ticket (noun)
  * Comprei as passagens de avião. 
  * I bought the plane tickets. 
+----------
+ * **presente** :: gift (noun)
+ * É muito engraçado ver as crianças desembrulhando seus presentes de Natal. 
+ * It´s so funny to see children unwrapping their Christmas gifts. 
 ----------
  * **perder** :: to lose (expression)
  * Não perca o dinheiro que te dei. 
  * Don't lose the money I gave to you. 
 ----------
+ * **chutar** :: to kick (verb)
+ * Para abrir aquela porta, você precisa chutá-la. 
+ * To open that door, you need to kick it. 
+----------
  * **curto** :: short (adjective)
  * O vôo para Brasília é bem curto. 
  * The flight to Brasilia is very short. 
+----------
+ * **outra vida** :: afterlife (expression)
+ * Nós nos encontraremos novamente na outra vida. 
+ * We'll meet again in the afterlife. 
 ----------
  * **mala** :: suitcase (noun)
  * A nossa mala não chegou. 
  * Our suitcase didn't arrive. 
 ----------
+ * **apontador** :: pencil sharpener (noun)
+ * Você pode me emprestar seu apontador? 
+ * Can you lend me your pencil sharpener? 
+----------
  * **falar** :: to speak (expression)
  * Quero falar com a professora 
  * I want to speak to the teacher. 
+----------
+ * **direitos humanos** :: human rights (expression)
+ * Temos que continuar lutando pelos direitos humanos. 
+ * We have to keep on fighting for human rights. 
 ----------
  * **negócios** :: business (noun)
  * Meus negócios estão indo muito bem. 
  * My businesses are doing very well. 
 ----------
+ * **afrouxar** :: to loosen (verb)
+ * Ele se sentou e afrouxou sua gravata. 
+ * He sat down and loosened his tie. 
+----------
  * **esportes** :: sports (noun)
  * Que esportes você pratica? 
  * What sports do you practice? 
+----------
+ * **encantar-se** :: to dazzle (verb)
+ * Ele se encantou pela beleza da mulher. 
+ * He was dazzled by the woman's beauty. 
 ----------
  * **contrária** :: opposite (adjective)
  * Você está indo na direção contrária. 
  * You are going in the opposite direction. 
 ----------
+ * **na grelha** :: on the grill (expression)
+ * Gosto de peixe feito na grelha. 
+ * I like fish cooked on the grill. 
+----------
  * **garrafa** :: bottle (noun)
  * Eu quero uma garrafa de água, por favor. 
  * I want a bottle of water, please. 
+----------
+ * **pântano** :: swamp (noun)
+ * Há muitos jacarés no pântano. 
+ * There are a lot of alligators in the swamp. 
 ----------
  * **pouco** :: little (adverb)
  * Meu filho come muito pouco. 
  * My son eats very little. 
 ----------
+ * **infância** :: childhood (noun)
+ * Sinto falta do tempo livre que eu tinha na infância. 
+ * I miss all the free time I had in childhood. 
+----------
  * **professora** :: teacher (noun)
  * Sou professora há dez anos. 
  * I have been a teacher for ten years. 
+----------
+ * **estar nas nuvens** :: to be on cloud nine (expression)
+ * Ele está nas nuvens por causa do seu novo emprego. 
+ * He's on cloud nine because of his job. 
 ----------
  * **saudável** :: healthy (adjective)
  * Você é muito saudável 
  * You are very healthy. 
 ----------
+ * **acaso** :: chance (noun)
+ * Não vou deixar meu futuro ao acaso. 
+ * I will not leave my future up to chance. 
+----------
  * **cabelo** :: hair (noun)
  * O seu cabelo está comprido e bonito. 
  * Your hair is long and beautiful. 
+----------
+ * **ser louco por** :: to be crazy about (expression)
+ * Sou louco por esta música! 
+ * I'm crazy about this song! 
 ----------
  * **ajudar** :: to help (expression)
  * O homem veio nos ajudar. 
  * The man came to help us. 
 ----------
+ * **dar um bolo em alguém** :: to stand somebody up (expression)
+ * Você me deu o bolo! 
+ * You stood me up! 
+----------
  * **falante** :: talkative (adjective)
  * Seu neto é falante. 
  * Your grandson is talkative. 
+----------
+ * **verdade** :: truth (noun)
+ * A verdade está lá fora. 
+ * The truth is out there. 
 ----------
  * **doença** :: illness (noun)
  * Que doença seu amigo tem? 
  * What illness does your friend have? 
 ----------
+ * **sentimento** :: feeling (noun)
+ * Precisamos falar sobre os nossos sentimentos. 
+ * We need to talk about our feelings. 
+----------
  * **pássaro** :: bird (noun)
  * Gosto mais de pássaros do que de gatos. 
  * I like birds more than cats. 
+----------
+ * **parecer bom** :: to look good (expression)
+ * Este buffet parece bom. 
+ * This buffet looks good. 
 ----------
  * **dizer** :: to say (expression)
  * Eu vou dizer para ele tudo o que ouvi. 
  * I am going to say to him everything I heard. 
 ----------
+ * **soltar os cachorros (em alguém)** :: to set the dogs (on someone) (expression)
+ * Saia do meu pomar ou vou soltar os cachorros em você! 
+ * Get out of my orchard or I´ll set the dogs on you! 
+----------
  * **triste** :: sad (adjective)
  * Por que você está triste? 
  * Why are you sad? 
+----------
+ * **apaixonado** :: passionate (adjective)
+ * Sou apaixonado por fotografia. 
+ * I am passionate about photography. 
 ----------
  * **gente** :: people (noun)
  * Há tanta gente nessa casa! 
  * There are so many people in this house! 
 ----------
+ * **branco** :: white (adjective)
+ * Não gosto de usar roupas brancas. 
+ * I don't like to wear white clothes. 
+----------
  * **doce** :: sweet (adjective)
  * Karina gosta muito de doce. 
  * Karina likes sweet things very much. 
+----------
+ * **chinelos** :: flip-flops, slippers (noun)
+ * Tenho chinelos novos. 
+ * I have new flip-flops. 
 ----------
  * **comida** :: food (noun)
  * Que tipo de comida brasileira você sugere? 
  * What kind of Brazilian food do you suggest? 
 ----------
+ * **pára-quedas** :: parachute (noun)
+ * O que aconteceria se o pára-quedas não abrisse? 
+ * What would happen if the parachute doesn't open? 
+----------
  * **delicioso** :: delicious (adjective)
  * Que bolo delicioso! Sua mãe quem fez? 
  * What a delicious cake! Did your mom make it? 
+----------
+ * **Que bonitinho!** :: How cute! (expression)
+ * É seu filho? Que bonitinho! 
+ * Is that your son? How cute! 
 ----------
  * **chaves** :: keys (noun)
  * Não sei onde coloquei minhas chaves do carro. 
  * I don't know where I put my car keys. 
 ----------
+ * **patinho** :: duckling (noun)
+ * O patinho feio cresceu e virou um lindo cisne. 
+ * The ugly duckling grew up to be a beautiful swan. 
+----------
  * **cheirar** :: to smell (expression)
  * Sua casa cheira bem. 
  * Your house smells good. 
+----------
+ * **pegar** :: to start (verb)
+ * O carro não quer pegar. 
+ * The car won't start. 
 ----------
  * **luvas** :: gloves (noun)
  * Que luvas lindas você tem. Onde as comprou? 
  * What beautiful gloves you have. Where did you buy them? 
 ----------
+ * **Que legal!** :: How cool! (expression)
+ * Que legal é este novo produto da Apple?! 
+ * How cool is Apple's new product?! 
+----------
  * **bolachas** :: crackers (noun)
  * Minha avó sempre tem bolachas na casa dela. 
  * My grandma always has crackers in her house. 
+----------
+ * **secador de cabelo** :: hairdryer (noun)
+ * Se eu não usar um secador de cabelo meu cabelo não fica bom. 
+ * If I don't use a hairdryer my hair won't look good. 
 ----------
  * **noiva** :: bride (noun)
  * Qual de vocês é a noiva? 
  * Which one of you is the bride? 
 ----------
+ * **rir alto** :: to laugh out loud (expression)
+ * Quando vimos a foto, rimos alto. 
+ * When we saw the picture, we laughed out loud. 
+----------
  * **árvores** :: trees (noun)
  * Quero uma casa com muitas árvores. 
  * I want a house with many trees. 
+----------
+ * **bonita** :: beautiful (adjective)
+ * Você está bonita nesse vestido. 
+ * You look beautiful in that dress. 
 ----------
  * **fruta** :: fruit (noun)
  * Esta árvore está cheia de frutas. 
  * This tree is full of fruits. 
 ----------
+ * **grátis** :: free (adverb)
+ * Compre duas, ganhe uma grátis. 
+ * Buy two, get one free. 
+----------
  * **aprender** :: to learn (expression)
  * Você quer aprender português? 
  * Do you want to learn Portuguese? 
+----------
+ * **sugestão** :: suggestion (noun)
+ * Tenho algumas sugestões a fazer. 
+ * I have some suggestions to make. 
 ----------
  * **precisar** :: to need (verb)
  * Você vai precisar de um barco maior. 
  * You're going to need a bigger boat. 
 ----------
+ * **exausto** :: exhausted (adjective)
+ * Trabalhei o dia todo; estou exausto. 
+ * I've worked all day long; I'm exhausted. 
+----------
  * **pasta de spam** :: junk mail folder (expression)
  * O e-mail pode ter ido parar acidentalmente na pasta de spam. 
  * The email may have accidentally gone into your junk mail folder. 
+----------
+ * **anjo** :: angel (noun)
+ * Obrigado pela sua ajuda: você é um anjo. 
+ * Thank you for your help; you're an angel. 
 ----------
  * **bloquear** :: to block (verb)
  * Por que você me bloqueou no Twitter, amigo? 
  * Why'd you block me on Twitter, friend? 
 ----------
+ * **amargamente** :: bitterly (adverb)
+ * A pobre menina começou a chorar amargamente. 
+ * The poor girl started to cry bitterly. 
+----------
  * **paciência** :: patience (noun)
  * A paciência é uma virtude. 
  * Patience is a virtue. 
+----------
+ * **infelizmente** :: unfortunately (adverb)
+ * Infelizmente para mim, minha sogra mora conosco. 
+ * Unfortunately for me, my mother-in-law lives with us. 
 ----------
  * **aventurar-se** :: to venture (verb)
  * Quem não se aventura, não ganha nada. 
  * Nothing ventured, nothing gained. 
 ----------
+ * **nome** :: name (noun)
+ * Qual é o seu nome? 
+ * What's your name? 
+----------
  * **estudar** :: to study (verb)
  * Fiquei a noite inteira estudando para esta prova. 
  * I've been up all night studying for this test. 
+----------
+ * **conhecer** :: to meet (verb)
+ * É um prazer conhecê-lo. 
+ * It is a pleasure to meet you. 
 ----------
  * **dor de cabeça** :: headache (expression)
  * O trânsito de volta para casa é uma dor de cabeça. 
  * The traffic on my drive home is a real headache. 
 ----------
+ * **delicioso** :: delicious (adjective)
+ * Isso estava delicioso. 
+ * That was delicious. 
+----------
  * **cebola** :: onion (noun)
  * Se a cebola for muito grande, use só metade dela. 
  * If the onion is too big, use only half of it. 
+----------
+ * **você** :: you (noun)
+ * De onde você é? 
+ * Where are you from? 
 ----------
  * **fritas** :: fries (noun)
  * Você quer fritas para acompanhar? 
  * Do you want fries with that? 
 ----------
+ * **falar** :: to speak (verb)
+ * Falo um pouco de alemão. 
+ * I speak a little German. 
+----------
  * **praia** :: beach (noun)
  * Ela e eu iremos à praia amanhã. 
  * She and I will go to the beach tomorrow. 
+----------
+ * **primeiro** :: first (adjective)
+ * Não é a primeira vez e não vai ser a última. 
+ * It's not the first time, and won't be the last. 
 ----------
  * **marmota** :: groundhog (noun)
  * A marmota viu sua sombra? 
  * Did the groundhog see his shadow? 
 ----------
+ * **pedir desculpas** :: to apologize (verb)
+ * Peço desculpas, estou tendo um dia ruim. 
+ * I apologize, I'm having a bad day. 
+----------
  * **fazer trilha** :: to hike (verb)
  * Você quer fazer trilha nas montanhas? 
  * Do you want to hike in the mountains? 
+----------
+ * **loja** :: store (noun)
+ * Estou indo para a loja, quer ir comigo? 
+ * I'm going to the store, want to go with me? 
 ----------
  * **matemática** :: mathematics (noun)
  * Nunca tirei boas notas em matemática. 
  * I never received good grades in mathematics. 
 ----------
+ * **preferir** :: to prefer (verb)
+ * As laranjas estão deliciosas, mas eu prefiro abacaxi. 
+ * The oranges are delicious, but I prefer pineapple. 
+----------
  * **mecânico de carro** :: auto mechanic (noun)
  * Um mecânico consertou nosso carro. 
  * A mechanic fixed our car. 
+----------
+ * **sexta-feira** :: Friday (noun)
+ * Ainda bem que amanhã é sexta-feira; foi uma longa semana! 
+ * I'm so glad tomorrow is Friday; it's been a long week! 
 ----------
  * **mente** :: mind (noun)
  * Ele é um gênio em sua própria mente. 
  * He is a genius in his own mind. 
 ----------
+ * **ter** :: to have (verb)
+ * Você tem planos para este fim de semana? 
+ * Do you have any plans for this weekend? 
+----------
  * **moeda** :: coin (noun)
  * Não consigo decidir. Vamos jogar uma moeda. 
  * I can't decide. Let's flip a coin. 
+----------
+ * **tempo** :: weather (noun)
+ * Qual é a previsão do tempo para amanhã. 
+ * What's the weather forecast for tomorrow? 
 ----------
  * **dinheiro** :: money (noun)
  * Ninguém parece ter dinheiro o suficiente. 
  * Nobody seems to have enough money. 
 ----------
+ * **chover** :: to rain (verb)
+ * Vai chover, traga um guarda-chuva. 
+ * It's going to rain, bring an umbrella. 
+----------
  * **morder** :: to bite (verb)
  * Meu cachorro não vai te morder. 
  * My dog is not going to bite you. 
+----------
+ * **brincar** :: to play (verb)
+ * As crianças gostam de brincar lá fora. 
+ * The children like to play outside. 
 ----------
  * **pernilongo** :: mosquito (noun)
  * Os pernilongos não me deixam em paz. 
  * The mosquitoes will not leave me alone! 
 ----------
+ * **favorito** :: favorite (adjective)
+ * Esta é uma das minhas canções favoritas. 
+ * This is one of my favorite songs. 
+----------
  * **astro de cinema** :: movie star (expression)
  * Quem é seu astro de cinema favorito? 
  * Who's your favorite movie star? 
+----------
+ * **esquecer-se** :: to forget (verb)
+ * Ele nunca se esquece de dizer por favor e obrigado. 
+ * He never forgets to say please and thank you. 
 ----------
  * **frutos do mar** :: seafood (noun)
  * Adoro frutos do mar, mas meu amigo é alérgico a eles. 
  * I love seafood, but my friend is allergic to it. 
 ----------
+ * **ver** :: to see (verb)
+ * Você viu a chuva de meteoros ontem à noite? Impressionante! 
+ * Did you see the meteor shower last night? Amazing! 
+----------
  * **sentar-se** :: to sit down (verb)
  * Às vezes gosto de me sentar com um bom livro. 
  * Sometimes I just like to sit down with a good book. 
+----------
+ * **onde** :: where (adverb)
+ * Onde fica o mercado mais próximo? 
+ * Where is the nearest market? 
 ----------
  * **grama** :: grass (noun)
  * Não pise na grama! 
  * Keep off the grass! 
 ----------
+ * **estar bravo** :: to be angry (expression)
+ * Se você está bravo, respire fundo e conte até dez. 
+ * If you're angry, take a deep breath and count to ten. 
+----------
  * **permissão** :: permission (noun)
  * É mais fácil pedir perdão do que permissão. 
  * It's easier to ask forgiveness than permission. 
+----------
+ * **truque** :: trick (noun)
+ * Deixa eu te ensinar um truque com cartas muito legal. 
+ * Let me teach you a very cool card trick. 
 ----------
  * **primo segundo** :: second cousin (expression)
  * Minha vizinha se casou com seu primo segundo. 
  * My neighbor married her second cousin. 
 ----------
+ * **segredo** :: secret (noun)
+ * Se eu te contar, não será mais um segredo! 
+ * If I tell you, it won't be a secret anymore! 
+----------
  * **tranças** :: braid (noun)
  * O cabelo dela fica muito bom quando ela faz tranças. 
  * Her hair looks really good when she braids it. 
+----------
+ * **mudar** :: to change (verb)
+ * A internet mudou nossas vidas, para bem ou para mal. 
+ * The internet has changed our lives, for good or bad. 
 ----------
  * **completar** :: to complete (verb)
  * Você me completa. 
  * You complete me. 
 ----------
+ * **problema** :: problem (noun)
+ * Sente-se reto! A postura incorreta pode te dar problemas mais tarde. 
+ * Sit up! Bad posture will lead to back problems later on. 
+----------
  * **passageiro** :: passenger (noun)
  * O passageiro do veículo ficou ileso. 
  * The passenger of the vehicle was unharmed. 
 ----------
+ * **ideia** :: idea (noun)
+ * Posso te dar doze razões porque esta é uma má ideia. 
+ * I can give you a dozen reasons why this is a bad idea. 
+----------
  * **estrutura** :: structure (noun)
  * A mostra incluiu várias estruturas móveis. 
  * The exhibit included several mobile structures. 
+----------
+ * **apressar-se** :: to hurry (verb)
+ * Se não nos apressarmos, perderemos o ônibus. 
+ * If we don't hurry, we'll miss the bus. 
 ----------
  * **treinamento de incêndio** :: fire drill (expression)
  * Não entre em pânico, é só um treinamento de incêndio. 

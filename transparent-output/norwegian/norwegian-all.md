@@ -1,6 +1,6 @@
 # norwegian WOTD : 
 ----------
- 473 phrases 
+ 614 phrases 
 ----------
 ----------
  * **effektiv** :: efficient (adjective)
@@ -871,9 +871,21 @@
  * Tre menn fra Polen omkom i en trafikkulykke på E6 i natt. 
  * The men from Poland perished in a traffic accident on E6 last night. 
 ----------
+ * **omkomme** :: perish (verb)
+ * Tre menn fra Polen omkom i en trafikkulykke på E6 i natt. 
+ * The men from Poland perished in a traffic accident on E6 last night. 
+----------
  * **klargjøre** :: clarify (verb)
  * Politiet klargjorde for drapet på Oslo S jernbanestasjon. 
  * The police explained the murder at Oslo-S station. 
+----------
+ * **klargjøre** :: clarify (verb)
+ * Politiet klargjorde for drapet på Oslo S jernbanestasjon. 
+ * The police explained the murder at Oslo-S station. 
+----------
+ * **benåde** :: pardon, reprieve (verb)
+ * Presidenten benådet 14 kriminelle den siste dagen. 
+ * The president pardoned 14 criminals on the last day. 
 ----------
  * **benåde** :: pardon, reprieve (verb)
  * Presidenten benådet 14 kriminelle den siste dagen. 
@@ -883,9 +895,21 @@
  * De har stått i kø i ti timer for å kjøpe en ny mobiltelefon. 
  * They have stood in a line for ten hours to buy a new cell phone. 
 ----------
+ * **stå** :: stand (verb)
+ * De har stått i kø i ti timer for å kjøpe en ny mobiltelefon. 
+ * They have stood in a line for ten hours to buy a new cell phone. 
+----------
  * **lykkes** :: succeed (verb)
  * De lyktes i deres andre forsøk. 
  * They succeeded in their second attempt. 
+----------
+ * **lykkes** :: succeed (verb)
+ * De lyktes i deres andre forsøk. 
+ * They succeeded in their second attempt. 
+----------
+ * **planlegge** :: plan (verb)
+ * Vi har et par feriealternativer for de som ennå ikke har planlagt sommerferien. 
+ * We have a few vacation alternatives for those of you who haven't yet planned your summer vacation. 
 ----------
  * **planlegge** :: plan (verb)
  * Vi har et par feriealternativer for de som ennå ikke har planlagt sommerferien. 
@@ -895,9 +919,21 @@
  * Vi nordmenn må lære oss å skryte litt mer av oss selv. 
  * We Norwegians need to learn to brag a little about ourselves. 
 ----------
+ * **skryte** :: brag (verb)
+ * Vi nordmenn må lære oss å skryte litt mer av oss selv. 
+ * We Norwegians need to learn to brag a little about ourselves. 
+----------
  * **eie** :: own (verb)
  * Vi eide en stor formue. 
  * We owned a large fortune. 
+----------
+ * **eie** :: own (verb)
+ * Vi eide en stor formue. 
+ * We owned a large fortune. 
+----------
+ * **laste ned** :: download (verb)
+ * Du kan laste ned den nye versjonen av programmet her. 
+ * You can download the new version of the program here. 
 ----------
  * **laste ned** :: download (verb)
  * Du kan laste ned den nye versjonen av programmet her. 
@@ -907,9 +943,21 @@
  * Jeg kjenner mange religiøse mennesker i Kina. 
  * I know many religious people in China. 
 ----------
+ * **kjenne** :: to know a person (verb)
+ * Jeg kjenner mange religiøse mennesker i Kina. 
+ * I know many religious people in China. 
+----------
  * **nyse** :: to sneeze (verb)
  * Det er umulig å nyse uten å blunke. 
  * It's impossible to sneeze without blinking. 
+----------
+ * **nyse** :: to sneeze (verb)
+ * Det er umulig å nyse uten å blunke. 
+ * It's impossible to sneeze without blinking. 
+----------
+ * **bo** :: live, dwell (verb)
+ * Jeg har bodd i Trondheim hele livet mitt med unntak av ett år i Tromsø. 
+ * I've lived my whole life in Trondheim, except for one year in Tromsø. 
 ----------
  * **bo** :: live, dwell (verb)
  * Jeg har bodd i Trondheim hele livet mitt med unntak av ett år i Tromsø. 
@@ -919,9 +967,21 @@
  * Ebenezer Scrooge var en gammel, grådig skikkelse i Dickens "En julefortelling". 
  * Ebenezer Scrooge was an old, greedy figure in Dickens' "A Christmas Carol". 
 ----------
+ * **grådig** :: greedy (adjective)
+ * Ebenezer Scrooge var en gammel, grådig skikkelse i Dickens "En julefortelling". 
+ * Ebenezer Scrooge was an old, greedy figure in Dickens' "A Christmas Carol". 
+----------
  * **nysgjerrig** :: curious (adjective)
  * Er du nysgjerrig på hvordan det er å bo i Norge? 
  * Are you curious about how it is to live in Norway? 
+----------
+ * **nysgjerrig** :: curious (adjective)
+ * Er du nysgjerrig på hvordan det er å bo i Norge? 
+ * Are you curious about how it is to live in Norway? 
+----------
+ * **bruktbil** :: used car (noun)
+ * Jeg ble nok lurt da jeg kjøpte den bruktbilen. 
+ * I'm afraid I was swindled when I bought that used car. 
 ----------
  * **bruktbil** :: used car (noun)
  * Jeg ble nok lurt da jeg kjøpte den bruktbilen. 
@@ -931,9 +991,21 @@
  * Leger mener at du blir mer opplagt når du spiser små måltider ofte. 
  * Doctors think that you are in a better mood when you eat small quantities and often. 
 ----------
+ * **opplagt** :: inclined, in the mood (adjective)
+ * Leger mener at du blir mer opplagt når du spiser små måltider ofte. 
+ * Doctors think that you are in a better mood when you eat small quantities and often. 
+----------
  * **skreddersy** :: customize (verb)
  * Du kan nå skreddersy din egen startside for å søke på nettet. 
  * You now can tailor your own start page for searching on the net. 
+----------
+ * **skreddersy** :: customize (verb)
+ * Du kan nå skreddersy din egen startside for å søke på nettet. 
+ * You now can tailor your own start page for searching on the net. 
+----------
+ * **gammel** :: old (adjective)
+ * Han er en gammel norsk venn av meg. 
+ * He is an old Norwegian friend of mine. 
 ----------
  * **gammel** :: old (adjective)
  * Han er en gammel norsk venn av meg. 
@@ -943,9 +1015,21 @@
  * Muslimene faster under ramadan. 
  * The Muslims fast during Ramadan. 
 ----------
+ * **faste** :: fast (verb)
+ * Muslimene faster under ramadan. 
+ * The Muslims fast during Ramadan. 
+----------
  * **påskefjell** :: Easter mountain (noun)
  * Påskefjell er fjellene hvor turister møtes i påske. 
  * The Easter mountains are the mountains where tourists meet at Easter. 
+----------
+ * **påskefjell** :: Easter mountain (noun)
+ * Påskefjell er fjellene hvor turister møtes i påske. 
+ * The Easter mountains are the mountains where tourists meet at Easter. 
+----------
+ * **påskekylling** :: Easter egg chicken (noun)
+ * Det blir ikke påske uten påskekylling, sjokolade, appelsin og ski. 
+ * It is not Easter without the Easter egg chicken, chocolate, orange, and skiing. 
 ----------
  * **påskekylling** :: Easter egg chicken (noun)
  * Det blir ikke påske uten påskekylling, sjokolade, appelsin og ski. 
@@ -955,9 +1039,21 @@
  * Alle barna har skoleferie i påska. 
  * All the children have school vacation during Easter. 
 ----------
+ * **skoleferie** :: school vacation (noun)
+ * Alle barna har skoleferie i påska. 
+ * All the children have school vacation during Easter. 
+----------
  * **hyttetur** :: trip to the cottage (noun)
  * Hyttetur er en populær ferie i påska. 
  * A trip to the cottage is a popular vacation during Easter. 
+----------
+ * **hyttetur** :: trip to the cottage (noun)
+ * Hyttetur er en populær ferie i påska. 
+ * A trip to the cottage is a popular vacation during Easter. 
+----------
+ * **påskekrim** :: Easter thriller (noun)
+ * Påskekrim er en detektivserie typisk vist i påska. 
+ * Easter thriller is a detective TV-series typically broadcasted during Easter. 
 ----------
  * **påskekrim** :: Easter thriller (noun)
  * Påskekrim er en detektivserie typisk vist i påska. 
@@ -967,9 +1063,21 @@
  * Det er vanlig å ønske hverandre en god påske. 
  * It is common to greet each other a happy Easter. 
 ----------
+ * **påske** :: Easter (noun)
+ * Det er vanlig å ønske hverandre en god påske. 
+ * It is common to greet each other a happy Easter. 
+----------
  * **oppstandelse** :: resurrection (noun)
  * I påska feirer vi Jesus oppstandelse. 
  * In the Easter we are celebrating the resurrection of Jesus. 
+----------
+ * **oppstandelse** :: resurrection (noun)
+ * I påska feirer vi Jesus oppstandelse. 
+ * In the Easter we are celebrating the resurrection of Jesus. 
+----------
+ * **korsfeste** :: crucify (verb)
+ * Jesus ble korsfestet og denne hendelsen er omdiskutert. 
+ * Jesus was crucified and this event is disputed. 
 ----------
  * **korsfeste** :: crucify (verb)
  * Jesus ble korsfestet og denne hendelsen er omdiskutert. 
@@ -979,9 +1087,21 @@
  * Raspeball er en tradisjonell norsk matrett. 
  * Potato dumpling is a traditional Norwegian dish. 
 ----------
+ * **raspeball** :: potato dumpling (noun)
+ * Raspeball er en tradisjonell norsk matrett. 
+ * Potato dumpling is a traditional Norwegian dish. 
+----------
  * **høytid** :: church holiday (noun)
  * Påska er høytid i Norge. 
  * Easter is church holiday in Norway. 
+----------
+ * **høytid** :: church holiday (noun)
+ * Påska er høytid i Norge. 
+ * Easter is church holiday in Norway. 
+----------
+ * **dåp** :: baptism (noun)
+ * Det skal holdes dåp om to uker. 
+ * The baptism will be held in two weeks. 
 ----------
  * **dåp** :: baptism (noun)
  * Det skal holdes dåp om to uker. 
@@ -991,9 +1111,21 @@
  * I norske skoler er det religionsfrihet. 
  * In Norwegian schools there is freedom of religion. 
 ----------
+ * **religionsfrihet** :: freedom of religion (noun)
+ * I norske skoler er det religionsfrihet. 
+ * In Norwegian schools there is freedom of religion. 
+----------
  * **ski** :: skis (noun)
  * Han var født med ski på bena. 
  * He was born with skis on. 
+----------
+ * **ski** :: skis (noun)
+ * Han var født med ski på bena. 
+ * He was born with skis on. 
+----------
+ * **gå langrenn** :: cross-country skiing (verb)
+ * I påska er det mange som går på langrenn. 
+ * During Easter, a lot of people go cross-country skiing. 
 ----------
  * **gå langrenn** :: cross-country skiing (verb)
  * I påska er det mange som går på langrenn. 
@@ -1003,9 +1135,21 @@
  * Fastelavn var opprinnelig en tid for faste. 
  * Shrovetide was originally a time for fast. 
 ----------
+ * **fastelavn** :: Shrovetide (noun)
+ * Fastelavn var opprinnelig en tid for faste. 
+ * Shrovetide was originally a time for fast. 
+----------
  * **sensur** :: censorship (noun)
  * Artikkelen unngikk ikke sensur. 
  * The article did not escape censorship. 
+----------
+ * **sensur** :: censorship (noun)
+ * Artikkelen unngikk ikke sensur. 
+ * The article did not escape censorship. 
+----------
+ * **tullekopp** :: goof (noun)
+ * Han er virkelig en tullekopp. 
+ * He is really a goof. 
 ----------
  * **tullekopp** :: goof (noun)
  * Han er virkelig en tullekopp. 
@@ -1015,9 +1159,21 @@
  * Det minner meg om noe. 
  * That reminds me of something. 
 ----------
+ * **minne** :: remind (verb)
+ * Det minner meg om noe. 
+ * That reminds me of something. 
+----------
  * **fest** :: festival (noun)
  * Påska er en av kirkens fester. 
  * Easter is a church festival. 
+----------
+ * **fest** :: festival (noun)
+ * Påska er en av kirkens fester. 
+ * Easter is a church festival. 
+----------
+ * **høytflygende** :: high-flying (adjective)
+ * Hun hadde en høytflygende personlighet. 
+ * She had a high-flying personality. 
 ----------
  * **høytflygende** :: high-flying (adjective)
  * Hun hadde en høytflygende personlighet. 
@@ -1027,9 +1183,21 @@
  * Det lille barnet gråt, men det var bare krokodilletårer. 
  * The little child cried, but it was only crocodile tears. 
 ----------
+ * **krokodilletåre** :: crocodile tears (noun)
+ * Det lille barnet gråt, men det var bare krokodilletårer. 
+ * The little child cried, but it was only crocodile tears. 
+----------
  * **himmelfallen** :: astonished (adjective)
  * Han var himmelfallen over at det var mulig. 
  * He was astonished that it was possible. 
+----------
+ * **himmelfallen** :: astonished (adjective)
+ * Han var himmelfallen over at det var mulig. 
+ * He was astonished that it was possible. 
+----------
+ * **galaktisk** :: galactic (adjective)
+ * Melkeveien er et galaktisk system. 
+ * The Milky Way is a galactic system. 
 ----------
  * **galaktisk** :: galactic (adjective)
  * Melkeveien er et galaktisk system. 
@@ -1039,9 +1207,21 @@
  * Påskelam er en tradisjonell matrett spist i påska. 
  * Easter lamb is a traditional dish eaten during Easter. 
 ----------
+ * **påskelam** :: Easter lamb (noun)
+ * Påskelam er en tradisjonell matrett spist i påska. 
+ * Easter lamb is a traditional dish eaten during Easter. 
+----------
  * **påskelilje** :: daffodil (noun)
  * Påskelilja er en nydelig blomst mye brukt for dekorasjon i april. 
  * The daffodil is a beautiful flower used a lot for decoration in April. 
+----------
+ * **påskelilje** :: daffodil (noun)
+ * Påskelilja er en nydelig blomst mye brukt for dekorasjon i april. 
+ * The daffodil is a beautiful flower used a lot for decoration in April. 
+----------
+ * **påskedag** :: Easter day (noun)
+ * Jeg blir borte 1. og 2. påskedag. 
+ * I'm away Easter Sunday and Easter Monday. 
 ----------
  * **påskedag** :: Easter day (noun)
  * Jeg blir borte 1. og 2. påskedag. 
@@ -1051,9 +1231,21 @@
  * Jesus hadde tolv disipler. 
  * Jesus had twelve disciples. 
 ----------
+ * **disippel** :: disciple (noun)
+ * Jesus hadde tolv disipler. 
+ * Jesus had twelve disciples. 
+----------
  * **fat** :: plate (noun)
  * På fatet lå det tre bananer og et eple. 
  * There were three bananas and an apple on the plate. 
+----------
+ * **fat** :: plate (noun)
+ * På fatet lå det tre bananer og et eple. 
+ * There were three bananas and an apple on the plate. 
+----------
+ * **vertinne** :: hostess (noun)
+ * Vertinnen for tv-programmet var veldig ung. 
+ * The hostess for the TV-show was very young. 
 ----------
  * **vertinne** :: hostess (noun)
  * Vertinnen for tv-programmet var veldig ung. 
@@ -1063,9 +1255,21 @@
  * Mange pastaretter blir gode med et ekstra hvitløksfedd. 
  * A lot of pasta dishes are very good with an extra clove of garlic. 
 ----------
+ * **hvitløksfedd** :: clove of garlic (noun)
+ * Mange pastaretter blir gode med et ekstra hvitløksfedd. 
+ * A lot of pasta dishes are very good with an extra clove of garlic. 
+----------
  * **presentere** :: present (verb)
  * Han presenterte mange gode ideer. 
  * He presented a lot of good ideas. 
+----------
+ * **presentere** :: present (verb)
+ * Han presenterte mange gode ideer. 
+ * He presented a lot of good ideas. 
+----------
+ * **gastronomisk** :: gastronomic (adjective)
+ * Det var en gastronomisk opplevelse. 
+ * It was a gastronomic experience. 
 ----------
  * **gastronomisk** :: gastronomic (adjective)
  * Det var en gastronomisk opplevelse. 
@@ -1075,9 +1279,21 @@
  * Beholderen var vanntett. 
  * The container was waterproof. 
 ----------
+ * **beholder** :: container (noun)
+ * Beholderen var vanntett. 
+ * The container was waterproof. 
+----------
  * **skål** :: bowl (noun)
  * Skålen var fylt med godsaker. 
  * The bowl was filled with snacks. 
+----------
+ * **skål** :: bowl (noun)
+ * Skålen var fylt med godsaker. 
+ * The bowl was filled with snacks. 
+----------
+ * **oppbevare** :: store (verb)
+ * Man bør oppbevare ost i kjøleskapet. 
+ * One should store cheese in the fridge. 
 ----------
  * **oppbevare** :: store (verb)
  * Man bør oppbevare ost i kjøleskapet. 
@@ -1087,9 +1303,21 @@
  * Det går en klassiker på tv'en i kveld. 
  * It is a classic on the TV tonight. 
 ----------
+ * **klassiker** :: classic (noun)
+ * Det går en klassiker på tv'en i kveld. 
+ * It is a classic on the TV tonight. 
+----------
  * **enkel** :: simple (adjective)
  * Det var en enkel oppgave. 
  * It was a simple task. 
+----------
+ * **enkel** :: simple (adjective)
+ * Det var en enkel oppgave. 
+ * It was a simple task. 
+----------
+ * **filter** :: filter (noun)
+ * Filteret var blokkert. 
+ * The filter was blocked. 
 ----------
  * **filter** :: filter (noun)
  * Filteret var blokkert. 
@@ -1099,9 +1327,21 @@
  * Mye av fuktigheten var kondensert. 
  * A lot of the moisture has been condensed. 
 ----------
+ * **kondensere** :: condense (verb)
+ * Mye av fuktigheten var kondensert. 
+ * A lot of the moisture has been condensed. 
+----------
  * **skiveskjære** :: cut in slices (verb)
  * Laksen ble presentert skiveskåret. 
  * The salmon was presented cut in slices. 
+----------
+ * **skiveskjære** :: cut in slices (verb)
+ * Laksen ble presentert skiveskåret. 
+ * The salmon was presented cut in slices. 
+----------
+ * **pålegg** :: sandwich meat (noun)
+ * Lunsj i Norge består av brød med pålegg. 
+ * Lunch in Norway consists of bread with sandwich meat. 
 ----------
  * **pålegg** :: sandwich meat (noun)
  * Lunsj i Norge består av brød med pålegg. 
@@ -1111,9 +1351,21 @@
  * Barneproduktet var ergonomisk utviklet. 
  * The children's product was ergonomically designed. 
 ----------
+ * **barneprodukt** :: children's product (noun)
+ * Barneproduktet var ergonomisk utviklet. 
+ * The children's product was ergonomically designed. 
+----------
  * **tåteflaske** :: baby bottle (noun)
  * Han var sinna og kastet tåteflaska på gulvet. 
  * He was angry and threw the baby bottle on the floor. 
+----------
+ * **tåteflaske** :: baby bottle (noun)
+ * Han var sinna og kastet tåteflaska på gulvet. 
+ * He was angry and threw the baby bottle on the floor. 
+----------
+ * **bleie** :: diaper (noun)
+ * Bleia var full av urin. 
+ * The diaper was full of urine. 
 ----------
  * **bleie** :: diaper (noun)
  * Bleia var full av urin. 
@@ -1123,9 +1375,21 @@
  * Treningsstudioet var skreddersydd for overvektige kvinner. 
  * The gym was customized for overweight women. 
 ----------
+ * **treningsstudio** :: gym (noun)
+ * Treningsstudioet var skreddersydd for overvektige kvinner. 
+ * The gym was customized for overweight women. 
+----------
  * **fakturere** :: invoice (verb)
  * Det ble fakturert for til sammen 12 000 kroner. 
  * It was invoiced for a total of 12 000 crowns. 
+----------
+ * **fakturere** :: invoice (verb)
+ * Det ble fakturert for til sammen 12 000 kroner. 
+ * It was invoiced for a total of 12 000 crowns. 
+----------
+ * **medlemskap** :: membership (noun)
+ * Det kreves medlemskap for å delta. 
+ * Membership is required in order to participate. 
 ----------
  * **medlemskap** :: membership (noun)
  * Det kreves medlemskap for å delta. 
@@ -1135,9 +1399,21 @@
  * Han trente hardt for å få muskler. 
  * He worked out hard in order to get muscles. 
 ----------
+ * **trene** :: work out (verb)
+ * Han trente hardt for å få muskler. 
+ * He worked out hard in order to get muscles. 
+----------
  * **retningslinje** :: guideline (noun)
  * Retningslinjene var veldig strenge. 
  * The guidelines were very strict. 
+----------
+ * **retningslinje** :: guideline (noun)
+ * Retningslinjene var veldig strenge. 
+ * The guidelines were very strict. 
+----------
+ * **telefonsamtale** :: phone conversation (noun)
+ * Telefonsamtalen varte lenge og kostet mye. 
+ * The phone conversation lasted a long time and was very expensive. 
 ----------
  * **telefonsamtale** :: phone conversation (noun)
  * Telefonsamtalen varte lenge og kostet mye. 
@@ -1147,9 +1423,21 @@
  * Datamaskinen var ødelagt. 
  * The computer was destroyed. 
 ----------
+ * **datamaskin** :: computer (noun)
+ * Datamaskinen var ødelagt. 
+ * The computer was destroyed. 
+----------
  * **kino** :: cinema (noun)
  * Vil du bli med på kino i kveld? 
  * Do you want to go to the cinema tonight? 
+----------
+ * **kino** :: cinema (noun)
+ * Vil du bli med på kino i kveld? 
+ * Do you want to go to the cinema tonight? 
+----------
+ * **kjøleskap** :: fridge (noun)
+ * Kjøleskapet var helt tomt. 
+ * The fridge was completely empty. 
 ----------
  * **kjøleskap** :: fridge (noun)
  * Kjøleskapet var helt tomt. 
@@ -1159,9 +1447,21 @@
  * Han lagret filen på datamaskinen. 
  * He saved the file on the computer. 
 ----------
+ * **lagre** :: save (verb)
+ * Han lagret filen på datamaskinen. 
+ * He saved the file on the computer. 
+----------
  * **spill** :: game (noun)
  * Mange spill kan bli lastet ned gratis. 
  * A lot of games can be downloaded for free. 
+----------
+ * **spill** :: game (noun)
+ * Mange spill kan bli lastet ned gratis. 
+ * A lot of games can be downloaded for free. 
+----------
+ * **oppdatere** :: update (verb)
+ * Virusprogram må bli oppdatert ofte. 
+ * Virus programs must often be updated. 
 ----------
  * **oppdatere** :: update (verb)
  * Virusprogram må bli oppdatert ofte. 
@@ -1171,9 +1471,21 @@
  * Han chatter med vennene fra Australia. 
  * He is chatting with the friends from Australia. 
 ----------
+ * **chatte** :: chat (verb)
+ * Han chatter med vennene fra Australia. 
+ * He is chatting with the friends from Australia. 
+----------
  * **hvithalehjort** :: white-tailed deer (noun)
  * Han hadde aldri sett en hvithalehjort. 
  * He had never seen a whitetail. 
+----------
+ * **hvithalehjort** :: white-tailed deer (noun)
+ * Han hadde aldri sett en hvithalehjort. 
+ * He had never seen a whitetail. 
+----------
+ * **hvitsnipp** :: white-collar worker (noun)
+ * Han er en skikkelig hvitsnipp, blir aldri skitten på hendene. 
+ * He's a true white-collar worker, and never gets his hands dirty. 
 ----------
  * **hvitsnipp** :: white-collar worker (noun)
  * Han er en skikkelig hvitsnipp, blir aldri skitten på hendene. 
@@ -1183,9 +1495,21 @@
  * De fleste studentleiligheter er fulle av hybelkaniner. 
  * Most student apartments are fully of dust bunnies. 
 ----------
+ * **hybelkanin** :: dust bunny, house moss (noun)
+ * De fleste studentleiligheter er fulle av hybelkaniner. 
+ * Most student apartments are fully of dust bunnies. 
+----------
  * **hykle** :: dissemble, play the hypocrite (verb)
  * Hun hyklet foreldrene 
  * she played the hypocrite to her parents 
+----------
+ * **hykle** :: dissemble, play the hypocrite (verb)
+ * Hun hyklet foreldrene 
+ * she played the hypocrite to her parents 
+----------
+ * **absorbere** :: absorb (verb)
+ * Den er i stand til å absorbere lys. 
+ * It has the power of absorbing light. 
 ----------
  * **absorbere** :: absorb (verb)
  * Den er i stand til å absorbere lys. 
@@ -1195,9 +1519,21 @@
  * Han var utrolig hyperaktiv. 
  * He was incredibly hyperactive. 
 ----------
+ * **hyperaktiv** :: hyperactive (adjective)
+ * Han var utrolig hyperaktiv. 
+ * He was incredibly hyperactive. 
+----------
  * **troll** :: vixen (noun)
  * Han har et troll til kjerring. 
  * He is married to a vixen. 
+----------
+ * **troll** :: vixen (noun)
+ * Han har et troll til kjerring. 
+ * He is married to a vixen. 
+----------
+ * **trolldomskunst** :: art of witchcraft (noun)
+ * Hun var veldig interessert i trolldomskunst 
+ * She was very interested in art of witchcraft 
 ----------
  * **trolldomskunst** :: art of witchcraft (noun)
  * Hun var veldig interessert i trolldomskunst 
@@ -1207,9 +1543,21 @@
  * Han var trollbundet av de vakre øynene. 
  * He was spellbound by the beautiful eyes. 
 ----------
+ * **trollbinde** :: cast a spell on, spellbind (verb)
+ * Han var trollbundet av de vakre øynene. 
+ * He was spellbound by the beautiful eyes. 
+----------
  * **sur** :: sour (adjective)
  * De grønne eplene er sure. 
  * The green apples are sour. 
+----------
+ * **sur** :: sour (adjective)
+ * De grønne eplene er sure. 
+ * The green apples are sour. 
+----------
+ * **sursøt** :: sweet-and-sour (adjective)
+ * Mange kinesiske retter er sursøte. 
+ * A lot of Chinese dishes are sweet-and-sour. 
 ----------
  * **sursøt** :: sweet-and-sour (adjective)
  * Mange kinesiske retter er sursøte. 
@@ -1219,9 +1567,21 @@
  * Det var ikke særlig sus over festen i går. 
  * There wasn't much life to the party last night. 
 ----------
+ * **sus** :: sparkle, dash, life (noun)
+ * Det var ikke særlig sus over festen i går. 
+ * There wasn't much life to the party last night. 
+----------
  * **suspendere** :: suspend (verb)
  * Hun ble suspendert fra stillingen i påvente av rettssaken. 
  * She was suspended from her position pending the trial. 
+----------
+ * **suspendere** :: suspend (verb)
+ * Hun ble suspendert fra stillingen i påvente av rettssaken. 
+ * She was suspended from her position pending the trial. 
+----------
+ * **sutteklut** :: security blanket (noun)
+ * Den lille jenta forlot aldri huset uten suttekluten. 
+ * The little girl never left the house without her security blanket. 
 ----------
  * **sutteklut** :: security blanket (noun)
  * Den lille jenta forlot aldri huset uten suttekluten. 
@@ -1231,9 +1591,21 @@
  * Suvenirforretninger er populære for de fleste turister. 
  * Souvenir shops are popular amongst most tourists. 
 ----------
+ * **suvenirforretning** :: souvenir shop (noun)
+ * Suvenirforretninger er populære for de fleste turister. 
+ * Souvenir shops are popular amongst most tourists. 
+----------
  * **svairygget** :: swaybacked (adjective)
  * Den gamle damen var svairygget. 
  * The old lady was swaybacked. 
+----------
+ * **svairygget** :: swaybacked (adjective)
+ * Den gamle damen var svairygget. 
+ * The old lady was swaybacked. 
+----------
+ * **svakhetstegn** :: sign of weakness (noun)
+ * Laget mente tapet var et svakhetstegn. 
+ * The team considered the loss as a sign of weakness. 
 ----------
  * **svakhetstegn** :: sign of weakness (noun)
  * Laget mente tapet var et svakhetstegn. 
@@ -1243,9 +1615,21 @@
  * Svanemerket er et merke for miljøvennlige produkter. 
  * The Swan is a label for an environmentally friendly product. 
 ----------
+ * **Svanemerket** :: The Swan (noun)
+ * Svanemerket er et merke for miljøvennlige produkter. 
+ * The Swan is a label for an environmentally friendly product. 
+----------
  * **svangerskap** :: pregnancy (noun)
  * Hun valgte å avbryte svangerskapet. 
  * She determined to terminate the pregnancy. 
+----------
+ * **svangerskap** :: pregnancy (noun)
+ * Hun valgte å avbryte svangerskapet. 
+ * She determined to terminate the pregnancy. 
+----------
+ * **tåtesmokk** :: pacifier (noun)
+ * Babyen mistet tåtesmokken og begynte å gråte. 
+ * The baby lost his pacifier and started crying. 
 ----------
  * **tåtesmokk** :: pacifier (noun)
  * Babyen mistet tåtesmokken og begynte å gråte. 
@@ -1255,9 +1639,21 @@
  * Fordringen er sendt til inkasso. 
  * The debt due has been sent for collection. 
 ----------
+ * **inkasso** :: debt recovery (noun)
+ * Fordringen er sendt til inkasso. 
+ * The debt due has been sent for collection. 
+----------
  * **vanskelig** :: difficult (adjective)
  * Det er vanskelig å dekke etterspørselen etter rent vann. 
  * It is difficult to meet the demand for clean water. 
+----------
+ * **vanskelig** :: difficult (adjective)
+ * Det er vanskelig å dekke etterspørselen etter rent vann. 
+ * It is difficult to meet the demand for clean water. 
+----------
+ * **Forbrukerrådet** :: Consumer Ombudsman (noun)
+ * Forbrukerrådet tar opp mange saker angående produkter i Norge. 
+ * The Consumer Ombudsman raises a lot of cases concerning products in Norway. 
 ----------
  * **Forbrukerrådet** :: Consumer Ombudsman (noun)
  * Forbrukerrådet tar opp mange saker angående produkter i Norge. 
@@ -1267,9 +1663,21 @@
  * Han hadde utført en kriminell handling hvor straffeloven er gjeldende. 
  * He carried out a criminal act where the penal code is applicable. 
 ----------
+ * **straffelov m** :: Penal code (noun)
+ * Han hadde utført en kriminell handling hvor straffeloven er gjeldende. 
+ * He carried out a criminal act where the penal code is applicable. 
+----------
  * **angrefrist** :: cooling-off rule (noun)
  * Angrefristen hadde utgått og produktet kunne ikke bli returnert. 
  * The cooling-off right had expired and the product could not be returned. 
+----------
+ * **angrefrist** :: cooling-off rule (noun)
+ * Angrefristen hadde utgått og produktet kunne ikke bli returnert. 
+ * The cooling-off right had expired and the product could not be returned. 
+----------
+ * **Vergemålslov** :: Guardianship Law (noun)
+ * Vergemålsloven sørger for at mindreårige ikke blir utnyttet. 
+ * The Guardianship Law ensures that minors are not taken advantage of. 
 ----------
  * **Vergemålslov** :: Guardianship Law (noun)
  * Vergemålsloven sørger for at mindreårige ikke blir utnyttet. 
@@ -1279,9 +1687,21 @@
  * Annonsen var villedende. 
  * The ad was misleading. 
 ----------
+ * **Villedende** :: misleading (adjective)
+ * Annonsen var villedende. 
+ * The ad was misleading. 
+----------
  * **skrifttype** :: font (noun)
  * Skrifttypen var altfor liten. 
  * The font was too small. 
+----------
+ * **skrifttype** :: font (noun)
+ * Skrifttypen var altfor liten. 
+ * The font was too small. 
+----------
+ * **bevisbyrde** :: burden of proof, onus of proof (noun)
+ * Bevisbyrden påhviler anklageren i saken. 
+ * The burden of proof is on the prosecution. 
 ----------
  * **bevisbyrde** :: burden of proof, onus of proof (noun)
  * Bevisbyrden påhviler anklageren i saken. 
@@ -1291,9 +1711,21 @@
  * Det kreves at varen er fyllestgjørende. 
  * It is required that the merchandise is satisfactory. 
 ----------
+ * **fyllestgjørende** :: adequate, satisfactory (adjective)
+ * Det kreves at varen er fyllestgjørende. 
+ * It is required that the merchandise is satisfactory. 
+----------
  * **fyllik** :: drunkard (noun)
  * Fylliken lå midt i gata. 
  * The drunkard laid in the middle of the street. 
+----------
+ * **fyllik** :: drunkard (noun)
+ * Fylliken lå midt i gata. 
+ * The drunkard laid in the middle of the street. 
+----------
+ * **etterspørsel** :: demand (noun)
+ * Prisene bestemmes av forholdet mellom tilbud og etterspørsel. 
+ * Prices are determined by the relationship between supply and demand. 
 ----------
  * **etterspørsel** :: demand (noun)
  * Prisene bestemmes av forholdet mellom tilbud og etterspørsel. 
@@ -1303,9 +1735,21 @@
  * En av forutsetningene for mitt bidrag er at jeg får si hva jeg vil. 
  * One of the conditions for my contribution is that I may say what I want. 
 ----------
+ * **forutsetning** :: condition (noun)
+ * En av forutsetningene for mitt bidrag er at jeg får si hva jeg vil. 
+ * One of the conditions for my contribution is that I may say what I want. 
+----------
  * **demokrati** :: democracy (noun)
  * Et sunt demokrati betinger en viss grad av folkeopplysning. 
  * A healthy democracy depends on a certain degree of enlightenment of the people. 
+----------
+ * **demokrati** :: democracy (noun)
+ * Et sunt demokrati betinger en viss grad av folkeopplysning. 
+ * A healthy democracy depends on a certain degree of enlightenment of the people. 
+----------
+ * **inngripen** :: intervention (noun)
+ * Det ble ingen inngripen fra statens side i årets lønnsoppgjør. 
+ * There was no state intervention in this year's wages settlement. 
 ----------
  * **inngripen** :: intervention (noun)
  * Det ble ingen inngripen fra statens side i årets lønnsoppgjør. 
@@ -1315,9 +1759,21 @@
  * Du belaster ryggen din når du bøyer deg galt. 
  * You strain your back when you bend the wrong way. 
 ----------
+ * **belaste** :: strain, load, exert (verb)
+ * Du belaster ryggen din når du bøyer deg galt. 
+ * You strain your back when you bend the wrong way. 
+----------
  * **pretendere** :: claim, pretend (verb)
  * Jeg pretenderer ikke å ha monopol på sannheten. 
  * I don't claim to have a monopoly on the truth. 
+----------
+ * **pretendere** :: claim, pretend (verb)
+ * Jeg pretenderer ikke å ha monopol på sannheten. 
+ * I don't claim to have a monopoly on the truth. 
+----------
+ * **gjennomføre** :: carry out (verb)
+ * Det kan være vanskelig å gjennomføre planen. 
+ * It may be difficult to carry out the plan. 
 ----------
  * **gjennomføre** :: carry out (verb)
  * Det kan være vanskelig å gjennomføre planen. 
@@ -1327,9 +1783,21 @@
  * Det forutsettes at du er kjent med reglene. 
  * It is assumed that you are acquainted with the rules. 
 ----------
+ * **forutsette** :: assume, presuppose, presume, suppose (verb)
+ * Det forutsettes at du er kjent med reglene. 
+ * It is assumed that you are acquainted with the rules. 
+----------
  * **sympati** :: sympathy (noun)
  * Han hyklet sympati for henne. 
  * He feigned sympathy for her. 
+----------
+ * **sympati** :: sympathy (noun)
+ * Han hyklet sympati for henne. 
+ * He feigned sympathy for her. 
+----------
+ * **konto** :: account (noun)
+ * Jeg ba banken belaste min konto hver måned. 
+ * I told the bank to debit my account every month. 
 ----------
  * **konto** :: account (noun)
  * Jeg ba banken belaste min konto hver måned. 
@@ -1339,9 +1807,21 @@
  * De gjør alt de kan for å gjennomføre reformen. 
  * They're doing all they can to bring about the reform. 
 ----------
+ * **reform** :: reform (noun)
+ * De gjør alt de kan for å gjennomføre reformen. 
+ * They're doing all they can to bring about the reform. 
+----------
  * **endelig** :: finally (adjective)
  * Endelig har hun gjennomført studiet. 
  * She has finally completed her studies. 
+----------
+ * **endelig** :: finally (adjective)
+ * Endelig har hun gjennomført studiet. 
+ * She has finally completed her studies. 
+----------
+ * **resultat** :: result (noun)
+ * Et godt resultat forutsetter en viss egeninnsats. 
+ * A good result presupposes a certain amount of personal effort. 
 ----------
  * **resultat** :: result (noun)
  * Et godt resultat forutsetter en viss egeninnsats. 
@@ -1351,9 +1831,21 @@
  * Hun synes det er vanskelig å skaffe seg venner. 
  * She finds it difficult to make friends. 
 ----------
+ * **venn** :: friend (noun)
+ * Hun synes det er vanskelig å skaffe seg venner. 
+ * She finds it difficult to make friends. 
+----------
  * **snilt** :: kind, sweet (adjective)
  * Det var snilt av deg, vennen min. 
  * That was sweet of you, my dear. 
+----------
+ * **snilt** :: kind, sweet (adjective)
+ * Det var snilt av deg, vennen min. 
+ * That was sweet of you, my dear. 
+----------
+ * **dør** :: door (noun)
+ * Hold døren, er du snill. 
+ * Hold the door, please. 
 ----------
  * **dør** :: door (noun)
  * Hold døren, er du snill. 
@@ -1363,9 +1855,21 @@
  * Han snobber hele tiden. 
  * He is snobbish all the time. 
 ----------
+ * **snobbe** :: be a snob, be snobbish (verb)
+ * Han snobber hele tiden. 
+ * He is snobbish all the time. 
+----------
  * **snurrevad** :: Danish seine (noun)
  * En snurrevad er et redskap for fisking. 
  * A Danish seine is a tool for fishing. 
+----------
+ * **snurrevad** :: Danish seine (noun)
+ * En snurrevad er et redskap for fisking. 
+ * A Danish seine is a tool for fishing. 
+----------
+ * **snutebille** :: weevil, snout beetle (noun)
+ * En snutebille er en bille i familien Curculionidae. 
+ * A snout beetle is a beetle in the family Curculionidae. 
 ----------
  * **snutebille** :: weevil, snout beetle (noun)
  * En snutebille er en bille i familien Curculionidae. 
@@ -1375,9 +1879,21 @@
  * Det var en snøfattig vinter i fjor. 
  * There was little snow last winter. 
 ----------
+ * **snøfattig** :: having little snow (adjective)
+ * Det var en snøfattig vinter i fjor. 
+ * There was little snow last winter. 
+----------
  * **sol** :: sunshine (noun)
  * Hun er mitt livs sol. 
  * She's the sunshine of my life. 
+----------
+ * **sol** :: sunshine (noun)
+ * Hun er mitt livs sol. 
+ * She's the sunshine of my life. 
+----------
+ * **snakke** :: speak (verb)
+ * Når man snakker om solen. 
+ * Speak of the devil. 
 ----------
  * **snakke** :: speak (verb)
  * Når man snakker om solen. 
@@ -1387,9 +1903,21 @@
  * Hun har en plass i solen. 
  * She has a place in the sun. 
 ----------
+ * **plass** :: place (noun)
+ * Hun har en plass i solen. 
+ * She has a place in the sun. 
+----------
  * **solbærsaft** :: blackcurrant juice (noun)
  * Solbærsaften var forfriskende. 
  * The blackcurrant juice was refreshing. 
+----------
+ * **solbærsaft** :: blackcurrant juice (noun)
+ * Solbærsaften var forfriskende. 
+ * The blackcurrant juice was refreshing. 
+----------
+ * **glans** :: glory (noun)
+ * Sole seg i glansen av noe. 
+ * Bask in the glory of something. 
 ----------
  * **glans** :: glory (noun)
  * Sole seg i glansen av noe. 
@@ -1399,9 +1927,21 @@
  * Føle seg solidarisk med noen. 
  * Feel united with someone. 
 ----------
+ * **solidarisk** :: united, mutual (adjective)
+ * Føle seg solidarisk med noen. 
+ * Feel united with someone. 
+----------
  * **jord** :: world (noun)
  * Hun fløy solo rundt jorda. 
  * She flew solo around the world. 
+----------
+ * **jord** :: world (noun)
+ * Hun fløy solo rundt jorda. 
+ * She flew solo around the world. 
+----------
+ * **rød** :: red (adjective)
+ * Peter har farget håret rødt. 
+ * Peter has dyed his hair red. 
 ----------
  * **rød** :: red (adjective)
  * Peter har farget håret rødt. 
@@ -1411,9 +1951,21 @@
  * Hun satte seg i sola i le for vinden. 
  * She sat in the sun in shelter from the wind. 
 ----------
+ * **vind** :: wind (noun)
+ * Hun satte seg i sola i le for vinden. 
+ * She sat in the sun in shelter from the wind. 
+----------
  * **starte** :: start (verb)
  * Hun begynte å le. 
  * She started to laugh. 
+----------
+ * **starte** :: start (verb)
+ * Hun begynte å le. 
+ * She started to laugh. 
+----------
+ * **leamus** :: twitch (noun)
+ * Det er fryktelig å ha leamus. 
+ * It is awful to have a twitch. 
 ----------
  * **leamus** :: twitch (noun)
  * Det er fryktelig å ha leamus. 
@@ -1423,9 +1975,21 @@
  * Det verket i alle ledd. 
  * All my joints were aching. 
 ----------
+ * **ledd** :: joint (noun)
+ * Det verket i alle ledd. 
+ * All my joints were aching. 
+----------
  * **lillefinger** :: little finger (noun)
  * Hun brakk det ytterste leddet på lillefingeren. 
  * She broke the outermost joint of her little finger. 
+----------
+ * **lillefinger** :: little finger (noun)
+ * Hun brakk det ytterste leddet på lillefingeren. 
+ * She broke the outermost joint of her little finger. 
+----------
+ * **praksisperiode** :: trainee period (noun)
+ * Praksisperioden er et viktig ledd i utdanningen. 
+ * The trainee period is an important part of the education. 
 ----------
  * **praksisperiode** :: trainee period (noun)
  * Praksisperioden er et viktig ledd i utdanningen. 

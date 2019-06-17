@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 473 phrases 
+ 614 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -1305,287 +1305,17 @@
  * Famiresu de ocha shinai? 
  * Why don't we have tea at a family restaurant? 
 ----------
- * **プロ** :: professional (noun)
- * **puro** 
- * プロになるのは難しい。 
- * Puro ni narunowa muzukashii. 
- * It is difficult to be a professional. 
-----------
- * **ぼったくり** :: rip-off (noun)
- * **bottakuri** 
- * その値段はぼったくりだ。 
- * Sono nedan wa bottakuri da. 
- * The price is a rip-off. 
-----------
- * **おごる** :: to treat someone (verb)
- * **ogoru** 
- * 友達におごってもらった。 
- * Tomodachi ni ogotte moratta. 
- * My friend treated me. 
-----------
- * **学ぶ** :: to study (verb)
- * **manabu** 
- * 音楽を学んでいます。 
- * Ongaku o manande imasu. 
- * I am studying music theory. 
-----------
- * **きく** :: to ask (verb)
- * **kiku** 
- * 先生にテストの事をききました。 
- * Sensei ni tesuto no koto o kiki mashita. 
- * I asked my teacher about the test. 
-----------
- * **通る** :: to go toward (verb)
- * **tooru** 
- * この道を通っていくと近いですよ。 
- * Kono michi o totte iku to chikai desuyo. 
- * If you go toward this road, you will be close. 
-----------
- * **助ける** :: to help (verb)
- * **tasukeru** 
- * だれか、助けて！ 
- * Dareka tasukete! 
- * Someone, please help me! 
-----------
- * **連れて行く** :: to take someone to somewhere (verb)
- * **tsureteiku** 
- * 弟を連れて公園へ行った。 
- * Otouto o tsurete kouen ni itta. 
- * I took my brother to a park. 
-----------
- * **連れて来る** :: to bring someone along (verb)
- * **tsuretekuru** 
- * 友達を家に連れて来るつもりです。 
- * Tomodachi o ie ni tsurete kuru tsumori desu. 
- * I will bring my friends back to my house. 
-----------
- * **持って行く** :: to take something to a place (verb)
- * **motteiku** 
- * 学校にゲームを持って行ってはいけません。 
- * Gakkou ni gêmu o motte ittewa ikemasen. 
- * You must not take your game to school. 
-----------
- * **持って来る** :: to bring something to a place (verb)
- * **mottekuru** 
- * うちに来る時、お土産を持ってこなくてもいいですよ。 
- * Uchi ni kurutoki, omiyage o motte konakutemo iidesuyo. 
- * You do not have to bring anything when you come to my house. 
-----------
- * **中古** :: used (noun)
- * **chuuko** 
- * 中古の車を買った。 
- * Chuuko no kuruma o katta. 
- * I bought a used car. 
-----------
- * **引っ越す** :: to move (verb)
- * **hikkosu** 
- * 来週フロリダに引越します。 
- * Konshuu furorida ni hikkosi shimasu. 
- * I will move to Florida next week. 
-----------
- * **探す** :: to look for (verb)
- * **sagasu** 
- * 鍵をなくしたので、探しています。 
- * Kagi o nakushita node sagashite imasu. 
- * I lost my key and I am looking for it. 
-----------
- * **見つける** :: to find (verb)
- * **mitsukeru** 
- * なくした鍵を見つけた。 
- * Nakushita kagi o mitsuketa. 
- * I found my lost key. 
-----------
- * **敷金** :: security deposit (noun)
- * **sikikin** 
- * 敷金がないから引っ越せません。 
- * Sikikin ga naikara hikkosemasen. 
- * Because I do not have enough money for a security deposit, I cannot move to a new place. 
-----------
- * **お手洗い** :: restroom (noun)
- * **otearai** 
- * お手洗いに行ってもいいですか。 
- * Otearai ni ittemo iidesuka. 
- * May I go to the restroom? 
-----------
- * **音痴** :: tone deaf (noun)
- * **onchi** 
- * 私は音痴だ。 
- * Watashi wa onchi da. 
- * I am tone deaf. 
-----------
- * **静か** :: quiet (adjective)
- * **shizuka** 
- * 静かにしてください。 
- * Shizuka ni site kudasai. 
- * Please be quiet. 
-----------
- * **おなかがいっぱいだ** :: I am full. (expression)
- * **onakaga ippai da** 
- * おなかがいっぱいで、動けない。 
- * Onaka ga ippai de ugokenai. 
- * I am too full to move. 
-----------
- * **病気** :: sickness (noun)
- * **byouki** 
- * 病気にならないように、気をつけてね。 
- * Byouki ni naranaiyou ni, kiotsuketene. 
- * Please take care of yourself so that you will not get sick. 
-----------
- * **湯** :: hot water (noun)
- * **yu** 
- * お風呂にお湯を入れてくれる？ 
- * Ofuro ni oyu o irete kureru? 
- * Could you put hot water in the bath tub? 
-----------
- * **遠回り** :: roundabout route (noun)
- * **toomawari** 
- * その道は遠回りだよ。 
- * Sono michi wa tômawari dayo. 
- * That way is the roundabout route. 
-----------
- * **ファン** :: fan (noun)
- * **fan** 
- * 最近サッカーファンが増えてきている。 
- * Saikin sakkâ fan ga fueteiru. 
- * Recently the number of soccer fans is increasing. 
-----------
- * **出来る** :: to be ready (verb)
- * **dekiru** 
- * ご飯が出来たよ。 
- * Gohan ga dekitayo. 
- * Dinner is ready. 
-----------
- * **うれしい** :: happy (adjective)
- * **ureshii** 
- * 優勝できてうれしいです。 
- * Yuushou dekite ureshii desu. 
- * I am very happy that I was able to win. 
-----------
- * **イケメン** :: handsome man (noun)
- * **ikemen** 
- * イケメンが好きです。 
- * Ikemen ga suki desu. 
- * I like handsome men. 
-----------
- * **いかす** :: to be attractive (verb)
- * **ikasu** 
- * あの子いかしているね。 
- * Anoko ikashiteirune. 
- * That girl is very attractive. 
-----------
- * **ガリガリ** :: very skinny (adjective)
- * **garigari** 
- * 彼女はがりがりにやせている。 
- * Kanojo wa garigari ni yasete iru. 
- * She is very skinny. 
-----------
- * **ガリ勉** :: nerd (noun)
- * **gariben** 
- * あいつはガリ勉だから勉強ができるんだ。 
- * Aitsu wa gariben dakara benkyou ga dekirunnda. 
- * He has good grades because he is a nerd. 
-----------
- * **人生** :: life (noun)
- * **jinsei** 
- * 人生山あり谷あり 
- * Jinsei yama ari tani ari. 
- * There are hard times and good times in life. 
-----------
- * **一生** :: lifetime (noun)
- * **isshou** 
- * 一生に一度のチャンスがやってきた。 
- * Isshou ni ichido no chansu ga yatte kita. 
- * A once in a lifetime chance came to me. 
-----------
- * **クロワッサン** :: croissant (noun)
- * **kurowassan** 
- * クロワッサンが食べたい。 
- * Kurowassan ga tabetai. 
- * I want to eat a croissant. 
-----------
- * **上手** :: good at (adjective)
- * **jouzu** 
- * 田中さんはテニスが上手です。 
- * Tanaka san wa tenisu ga jouzu desu. 
- * Mr. Tanaka is good at tennis. 
-----------
- * **下手** :: poor at (adjective)
- * **heta** 
- * 私は絵を描くのが下手です。 
- * Watashi wa e o kakunoga heta desu. 
- * I am poor at drawing. 
-----------
- * **命** :: life (noun)
- * **inochi** 
- * 命あってのものだね。 
- * Inochi atteno monodane. 
- * While there is life, there is hope. 
-----------
- * **ドジ** :: mistake (noun)
- * **doji** 
- * ドジをしてしまった。 
- * Doji o shite shimatta. 
- * I made a mistake. 
-----------
- * **矛盾** :: contradiction (noun)
- * **mujun** 
- * 彼の理論は矛盾だらけだ。 
- * Kare no riron wa mujun darake da. 
- * His theory is full of contradictions. 
-----------
- * **損** :: loss (noun)
- * **son** 
- * こんなことをしても、損なだけだよ。 
- * Konna koto o shitemo son na dake dayo. 
- * It is only your loss if you do this. 
-----------
- * **得な** :: lucky (adjective)
- * **tokuna** 
- * 田中さんはだれからも好かれる得な性格だ。 
- * Tanaka san wa darekara mo sukareru toku na seikaku da. 
- * Mr. Tanaka has a lucky nature and is loved by everybody. 
-----------
- * **アマチュア** :: amateur (noun)
- * **amachua** 
- * アマチュアにしては上手です。 
- * Amachua ni shitewa zyôzu desu. 
- * He is good for an amateur. 
-----------
- * **付き合う** :: to date (verb)
- * **tsukiau** 
- * 今、付き合っている人はいません。 
- * Ima, tsukiatteiru hito wa imasen. 
- * I am not dating anyone. 
-----------
- * **結婚している** :: married (adjective)
- * **kekkon shiteiru** 
- * 姉はまだ結婚していません。 
- * Ane wa mada kekkon shite imasen 
- * My older sister is not married yet. 
-----------
- * **嫌い** :: to dislike (verb)
- * **kirai** 
- * 勉強が嫌いです。 
- * Benkyou ga kirai desu. 
- * I dislike studying. 
-----------
- * **好き** :: to like (verb)
- * **suki** 
- * チョコレートが好きです。 
- * Chokorêto ga suki desu. 
- * I like chocolate. 
-----------
- * **年をとっている** :: old (adjective)
- * **toshi o totte iru** 
- * あのおじいさんは年をとっている。 
- * Ano ojiisan wa toshi o totteiru. 
- * That grandpa is old. 
-----------
  * **犬** :: dog (noun)
  * **inu** 
  * 犬を３匹飼っています。 
  * Inu o sanbiki katte imasu. 
  * I have three dogs. 
+----------
+ * **プロ** :: professional (noun)
+ * **puro** 
+ * プロになるのは難しい。 
+ * Puro ni narunowa muzukashii. 
+ * It is difficult to be a professional. 
 ----------
  * **リピーター** :: a regular customer (noun)
  * **ripîtâ** 
@@ -1593,11 +1323,23 @@
  * Kareno resutoran niwa isshuukan ni juunin no ripîtâ ga atta. 
  * He had ten regular customers to his restaurant in one week. 
 ----------
+ * **ぼったくり** :: rip-off (noun)
+ * **bottakuri** 
+ * その値段はぼったくりだ。 
+ * Sono nedan wa bottakuri da. 
+ * The price is a rip-off. 
+----------
  * **破局** :: breakup (noun)
  * **hakyoku** 
  * 有名なカップルの破局は世界中のすべての新聞で伝えられた。 
  * Yuumei na kappuru no hakyoku wa sekaijuu subeteno shinbun de tsutae rarete. 
  * The breakup of the famous couple was reported in every newspaper in the world. 
+----------
+ * **おごる** :: to treat someone (verb)
+ * **ogoru** 
+ * 友達におごってもらった。 
+ * Tomodachi ni ogotte moratta. 
+ * My friend treated me. 
 ----------
  * **セレブ** :: celebrity (noun)
  * **serebu** 
@@ -1605,11 +1347,23 @@
  * Kanojo wa serebu no youni kikazaru tameni, chokin o tsukai hatashita. 
  * She spent all her savings to dress up like a celebrity. 
 ----------
+ * **学ぶ** :: to study (verb)
+ * **manabu** 
+ * 音楽を学んでいます。 
+ * Ongaku o manande imasu. 
+ * I am studying music theory. 
+----------
  * **めっちゃ** :: super (adverb)
  * **mettya** 
  * あのバッグ、めっちゃかわいい！ 
  * Ano baggu mettya kawaii! 
  * That bag is super cute! 
+----------
+ * **きく** :: to ask (verb)
+ * **kiku** 
+ * 先生にテストの事をききました。 
+ * Sensei ni tesuto no koto o kiki mashita. 
+ * I asked my teacher about the test. 
 ----------
  * **オヤジギャグ** :: old joke (noun)
  * **oyajigyagu** 
@@ -1617,11 +1371,23 @@
  * Oyaji gyagu bakari iukara, karetowa issho ni itakunai. 
  * I don't want to be with him, as he only tells jokes that appeal to old people. 
 ----------
+ * **通る** :: to go toward (verb)
+ * **tooru** 
+ * この道を通っていくと近いですよ。 
+ * Kono michi o totte iku to chikai desuyo. 
+ * If you go toward this road, you will be close. 
+----------
  * **おめでとう** :: congratulations (expression)
  * **omedetou** 
  * ご婚約、おめでとう。 
  * Gokonyaku,omedetou. 
  * Congratulations on your engagement. 
+----------
+ * **助ける** :: to help (verb)
+ * **tasukeru** 
+ * だれか、助けて！ 
+ * Dareka tasukete! 
+ * Someone, please help me! 
 ----------
  * **スイーツ** :: sweets (noun)
  * **suîtsu** 
@@ -1629,11 +1395,23 @@
  * Oishii suîtsu ga tabetai. 
  * I want to eat delicious sweets. 
 ----------
+ * **連れて行く** :: to take someone to somewhere (verb)
+ * **tsureteiku** 
+ * 弟を連れて公園へ行った。 
+ * Otouto o tsurete kouen ni itta. 
+ * I took my brother to a park. 
+----------
  * **デパ地下** :: basement floors of a department store (noun)
  * **depachika** 
  * デパ地下はいつも混んでるね。 
  * Depachika wa itsumo konderune. 
  * The basement of the department store is always crowded. 
+----------
+ * **連れて来る** :: to bring someone along (verb)
+ * **tsuretekuru** 
+ * 友達を家に連れて来るつもりです。 
+ * Tomodachi o ie ni tsurete kuru tsumori desu. 
+ * I will bring my friends back to my house. 
 ----------
  * **メル友** :: e-mail friend (noun)
  * **merutomo** 
@@ -1641,11 +1419,23 @@
  * Tanaka san wa yamada san to merutomo nano? 
  * Is Ms. Tanaka Mr. Yamada's e-mailing friend? 
 ----------
+ * **持って行く** :: to take something to a place (verb)
+ * **motteiku** 
+ * 学校にゲームを持って行ってはいけません。 
+ * Gakkou ni gêmu o motte ittewa ikemasen. 
+ * You must not take your game to school. 
+----------
  * **旬** :: in season (noun)
  * **shun** 
  * 今は栗が旬だ。 
  * Ima wa kuri ga shun da. 
  * Chestnuts are in season now. 
+----------
+ * **持って来る** :: to bring something to a place (verb)
+ * **mottekuru** 
+ * うちに来る時、お土産を持ってこなくてもいいですよ。 
+ * Uchi ni kurutoki, omiyage o motte konakutemo iidesuyo. 
+ * You do not have to bring anything when you come to my house. 
 ----------
  * **紅葉** :: autumn foliage (noun)
  * **kouyou** 
@@ -1653,11 +1443,23 @@
  * Kyouto no kouyou wa totemo kirei da. 
  * The autumn foliage in Kyoto is beautiful. 
 ----------
+ * **中古** :: used (noun)
+ * **chuuko** 
+ * 中古の車を買った。 
+ * Chuuko no kuruma o katta. 
+ * I bought a used car. 
+----------
  * **省エネ** :: energy saving (noun)
  * **shouene** 
  * 省エネは大切だ。 
  * Shouene wa taisetsu da. 
  * Saving energy is important. 
+----------
+ * **引っ越す** :: to move (verb)
+ * **hikkosu** 
+ * 来週フロリダに引越します。 
+ * Konshuu furorida ni hikkosi shimasu. 
+ * I will move to Florida next week. 
 ----------
  * **節電する** :: to save electricity (verb)
  * **setsuden suru** 
@@ -1665,11 +1467,23 @@
  * Eakon o nijuurokudo ni settei shite setsuden ni tsutomete imasu. 
  * I am trying to save electricity by setting the air conditioner at 78 F. 
 ----------
+ * **探す** :: to look for (verb)
+ * **sagasu** 
+ * 鍵をなくしたので、探しています。 
+ * Kagi o nakushita node sagashite imasu. 
+ * I lost my key and I am looking for it. 
+----------
  * **有機野菜** :: organic vegetables (noun)
  * **yuukiyasai** 
  * 有機野菜を食べた方がいい。 
  * Yuukiyasai o tabeta houga ii. 
  * It is better to eat organic vegetables. 
+----------
+ * **見つける** :: to find (verb)
+ * **mitsukeru** 
+ * なくした鍵を見つけた。 
+ * Nakushita kagi o mitsuketa. 
+ * I found my lost key. 
 ----------
  * **流行** :: trend (noun)
  * **ryuukou** 
@@ -1677,11 +1491,23 @@
  * Kotoshi no ryuukou wa gurê rashii. 
  * Grey color is trend this year. 
 ----------
+ * **敷金** :: security deposit (noun)
+ * **sikikin** 
+ * 敷金がないから引っ越せません。 
+ * Sikikin ga naikara hikkosemasen. 
+ * Because I do not have enough money for a security deposit, I cannot move to a new place. 
+----------
  * **ゲーセン** :: arcade (noun)
  * **gêsen** 
  * ひまなのでゲーセンでも行こう 
  * Hima nanode gêsen demo ikou. 
  * Why don't we go to the arcade, since we have nothing to do? 
+----------
+ * **お手洗い** :: restroom (noun)
+ * **otearai** 
+ * お手洗いに行ってもいいですか。 
+ * Otearai ni ittemo iidesuka. 
+ * May I go to the restroom? 
 ----------
  * **流行る** :: to be popular (verb)
  * **hayaru** 
@@ -1689,11 +1515,23 @@
  * Kono uta ga ima hayatte iru. 
  * This song is popular now. 
 ----------
+ * **音痴** :: tone deaf (noun)
+ * **onchi** 
+ * 私は音痴だ。 
+ * Watashi wa onchi da. 
+ * I am tone deaf. 
+----------
  * **イケてる** :: to be cool (verb)
  * **iketeru** 
  * 大島君、最近イケてるね。 
  * Ooshima kun,saikin iketeru ne. 
  * Mr. Oshima has been acting cool lately. 
+----------
+ * **静か** :: quiet (adjective)
+ * **shizuka** 
+ * 静かにしてください。 
+ * Shizuka ni site kudasai. 
+ * Please be quiet. 
 ----------
  * **いける** :: to taste good (verb)
  * **ikeru** 
@@ -1701,11 +1539,23 @@
  * Kono osake wa nakanaka ikerune. 
  * This sake tastes good. 
 ----------
+ * **おなかがいっぱいだ** :: I am full. (expression)
+ * **onakaga ippai da** 
+ * おなかがいっぱいで、動けない。 
+ * Onaka ga ippai de ugokenai. 
+ * I am too full to move. 
+----------
  * **あせる** :: to rush (verb)
  * **aseru** 
  * あせらないで。 
  * Aseranaide. 
  * Do not rush. 
+----------
+ * **病気** :: sickness (noun)
+ * **byouki** 
+ * 病気にならないように、気をつけてね。 
+ * Byouki ni naranaiyou ni, kiotsuketene. 
+ * Please take care of yourself so that you will not get sick. 
 ----------
  * **ゆっくりする** :: to take one's time (verb)
  * **yukkuri suru** 
@@ -1713,11 +1563,23 @@
  * Kyou wa yukkuri siteitte kudasai. 
  * Please take your time today. 
 ----------
+ * **湯** :: hot water (noun)
+ * **yu** 
+ * お風呂にお湯を入れてくれる？ 
+ * Ofuro ni oyu o irete kureru? 
+ * Could you put hot water in the bath tub? 
+----------
  * **サークル** :: club activities (noun)
  * **sâkuru** 
  * サークルがあるから、おそくなるよ。 
  * Sâkuru ga arukara, osoku naru yo 
  * I have club activities, so I will come home late. 
+----------
+ * **遠回り** :: roundabout route (noun)
+ * **toomawari** 
+ * その道は遠回りだよ。 
+ * Sono michi wa tômawari dayo. 
+ * That way is the roundabout route. 
 ----------
  * **ペンション** :: bed and breakfast (noun)
  * **penshion** 
@@ -1725,11 +1587,23 @@
  * Penshon ni tomaru yotei desu. 
  * I plan to stay at a bed and breakfast. 
 ----------
+ * **ファン** :: fan (noun)
+ * **fan** 
+ * 最近サッカーファンが増えてきている。 
+ * Saikin sakkâ fan ga fueteiru. 
+ * Recently the number of soccer fans is increasing. 
+----------
  * **田舎** :: countryside (noun)
  * **inaka** 
  * 将来は田舎に暮らしたい。 
  * Shourai wa inaka ni kurasitai. 
  * I would like to live in the countryside in the future. 
+----------
+ * **出来る** :: to be ready (verb)
+ * **dekiru** 
+ * ご飯が出来たよ。 
+ * Gohan ga dekitayo. 
+ * Dinner is ready. 
 ----------
  * **ストーブ** :: space heater (noun)
  * **sutôbu** 
@@ -1737,11 +1611,23 @@
  * Samui kara sutôbu o tsukete. 
  * It is cold; please turn the heater on. 
 ----------
+ * **うれしい** :: happy (adjective)
+ * **ureshii** 
+ * 優勝できてうれしいです。 
+ * Yuushou dekite ureshii desu. 
+ * I am very happy that I was able to win. 
+----------
  * **こんろ** :: stove (noun)
  * **konro** 
  * コンロの火を消したか見てもらえますか？ 
  * Konro no hi o keshitaka mite morae masuka? 
  * Could you go and see if I turned off the stove? 
+----------
+ * **イケメン** :: handsome man (noun)
+ * **ikemen** 
+ * イケメンが好きです。 
+ * Ikemen ga suki desu. 
+ * I like handsome men. 
 ----------
  * **監督** :: movie director (noun)
  * **kantoku** 
@@ -1749,11 +1635,23 @@
  * Anohito wa yuumei na eiga kantoku dayo. 
  * That person is a famous movie director. 
 ----------
+ * **いかす** :: to be attractive (verb)
+ * **ikasu** 
+ * あの子いかしているね。 
+ * Anoko ikashiteirune. 
+ * That girl is very attractive. 
+----------
  * **入試** :: entrance exam (noun)
  * **nyuusi** 
  * 入試のために毎日勉強してます。 
  * Nyuushi no tameni mainichi benkyou shiteimasu. 
  * I study every day for the entrance exam. 
+----------
+ * **ガリガリ** :: very skinny (adjective)
+ * **garigari** 
+ * 彼女はがりがりにやせている。 
+ * Kanojo wa garigari ni yasete iru. 
+ * She is very skinny. 
 ----------
  * **合コン** :: group blind date (noun)
  * **goukon** 
@@ -1761,11 +1659,23 @@
  * Goukon no tameni atarashii fuku o kata. 
  * I bought a new dress for a group blind date. 
 ----------
+ * **ガリ勉** :: nerd (noun)
+ * **gariben** 
+ * あいつはガリ勉だから勉強ができるんだ。 
+ * Aitsu wa gariben dakara benkyou ga dekirunnda. 
+ * He has good grades because he is a nerd. 
+----------
  * **意地悪** :: mean (adjective)
  * **ijiwaru** 
  * 意地悪をしちゃだめだよ。 
  * Ijiwaru o shicha dame dayo. 
  * Don't be mean to others. 
+----------
+ * **人生** :: life (noun)
+ * **jinsei** 
+ * 人生山あり谷あり 
+ * Jinsei yama ari tani ari. 
+ * There are hard times and good times in life. 
 ----------
  * **けち** :: stingy (adjective)
  * **kechi** 
@@ -1773,11 +1683,23 @@
  * Ano obasan, hontou ni kechi da. 
  * That woman is really stingy. 
 ----------
+ * **一生** :: lifetime (noun)
+ * **isshou** 
+ * 一生に一度のチャンスがやってきた。 
+ * Isshou ni ichido no chansu ga yatte kita. 
+ * A once in a lifetime chance came to me. 
+----------
  * **おかしい** :: funny (adjective)
  * **okashii** 
  * 何がそんなにおかしいの？ 
  * Nani ga sonnani okashiino? 
  * What's so funny? 
+----------
+ * **クロワッサン** :: croissant (noun)
+ * **kurowassan** 
+ * クロワッサンが食べたい。 
+ * Kurowassan ga tabetai. 
+ * I want to eat a croissant. 
 ----------
  * **変** :: strange (adjective)
  * **hen** 
@@ -1785,11 +1707,23 @@
  * Hen na hito to hanashi o shitewa damedayo. 
  * Don't speak with any strange people. 
 ----------
+ * **上手** :: good at (adjective)
+ * **jouzu** 
+ * 田中さんはテニスが上手です。 
+ * Tanaka san wa tenisu ga jouzu desu. 
+ * Mr. Tanaka is good at tennis. 
+----------
  * **鬱陶しい** :: annoying (adjective)
  * **uttooshii** 
  * 鬱陶しい人だね。 
  * Uttooshii hito dane. 
  * You are annoying. 
+----------
+ * **下手** :: poor at (adjective)
+ * **heta** 
+ * 私は絵を描くのが下手です。 
+ * Watashi wa e o kakunoga heta desu. 
+ * I am poor at drawing. 
 ----------
  * **お洒落** :: fashionable (adjective)
  * **oshare** 
@@ -1797,11 +1731,23 @@
  * Oshare desune. 
  * You are fashionable. 
 ----------
+ * **命** :: life (noun)
+ * **inochi** 
+ * 命あってのものだね。 
+ * Inochi atteno monodane. 
+ * While there is life, there is hope. 
+----------
  * **渋い** :: tasteful (adjective)
  * **shibui** 
  * あのおじさん、渋いね。 
  * Ano ojisan, shibui ne. 
  * That man is tasteful. 
+----------
+ * **ドジ** :: mistake (noun)
+ * **doji** 
+ * ドジをしてしまった。 
+ * Doji o shite shimatta. 
+ * I made a mistake. 
 ----------
  * **きもい** :: creepy (adjective)
  * **kimoi** 
@@ -1809,11 +1755,23 @@
  * Ano sensei, kimoi ne. 
  * That teacher is creepy. 
 ----------
+ * **矛盾** :: contradiction (noun)
+ * **mujun** 
+ * 彼の理論は矛盾だらけだ。 
+ * Kare no riron wa mujun darake da. 
+ * His theory is full of contradictions. 
+----------
  * **涼しい** :: comfortably cool (adjective)
  * **suzushii** 
  * 今日は涼しくて気持ちがいいね。 
  * Kyou wa suzushikute kimochi ga iine. 
  * Today is comfortably cool. 
+----------
+ * **損** :: loss (noun)
+ * **son** 
+ * こんなことをしても、損なだけだよ。 
+ * Konna koto o shitemo son na dake dayo. 
+ * It is only your loss if you do this. 
 ----------
  * **暖かい** :: warm (adjective)
  * **atatakai** 
@@ -1821,11 +1779,23 @@
  * Atatakai tokoro ni hikkoshi shitai. 
  * I would like to move to a warm place. 
 ----------
+ * **得な** :: lucky (adjective)
+ * **tokuna** 
+ * 田中さんはだれからも好かれる得な性格だ。 
+ * Tanaka san wa darekara mo sukareru toku na seikaku da. 
+ * Mr. Tanaka has a lucky nature and is loved by everybody. 
+----------
  * **暑い** :: hot (adjective)
  * **atsui** 
  * 今日は、暑くてどこへもいけない。 
  * Kyou wa, atsukute dokoemo ikenai. 
  * It is too hot to go anywhere today. 
+----------
+ * **アマチュア** :: amateur (noun)
+ * **amachua** 
+ * アマチュアにしては上手です。 
+ * Amachua ni shitewa zyôzu desu. 
+ * He is good for an amateur. 
 ----------
  * **寒い** :: cold (adjective)
  * **samui** 
@@ -1833,11 +1803,23 @@
  * Fuyu wa samui kara kiraida. 
  * I do not like winter because it is cold. 
 ----------
+ * **付き合う** :: to date (verb)
+ * **tsukiau** 
+ * 今、付き合っている人はいません。 
+ * Ima, tsukiatteiru hito wa imasen. 
+ * I am not dating anyone. 
+----------
  * **蒸し暑い** :: hot and humid (adjective)
  * **mushiatsui** 
  * 日本の夏は蒸し暑い。 
  * Nihon no natsu wa mushiatsui. 
  * It is hot and humid in Japan during the summer. 
+----------
+ * **結婚している** :: married (adjective)
+ * **kekkon shiteiru** 
+ * 姉はまだ結婚していません。 
+ * Ane wa mada kekkon shite imasen 
+ * My older sister is not married yet. 
 ----------
  * **アイスコーヒー** :: iced coffee (noun)
  * **aisukôhî** 
@@ -1845,11 +1827,23 @@
  * Oishii aisukôhî ga nomitai. 
  * I want to have tasty iced coffee. 
 ----------
+ * **嫌い** :: to dislike (verb)
+ * **kirai** 
+ * 勉強が嫌いです。 
+ * Benkyou ga kirai desu. 
+ * I dislike studying. 
+----------
  * **自己中** :: self-centered (adjective)
  * **jikochuu** 
  * あの人は自己中だから、友達が誰もいない。 
  * Ano hito wa jikochuu dakara, tomodachiga daremo inai. 
  * That person has no friends because he is self-centered. 
+----------
+ * **好き** :: to like (verb)
+ * **suki** 
+ * チョコレートが好きです。 
+ * Chokorêto ga suki desu. 
+ * I like chocolate. 
 ----------
  * **むかつく** :: get on one's nerves (verb)
  * **mukatsuku** 
@@ -1857,11 +1851,23 @@
  * Anoko nihwa mukatsuku yo. 
  * She gets on my nerves. 
 ----------
+ * **年をとっている** :: old (adjective)
+ * **toshi o totte iru** 
+ * あのおじいさんは年をとっている。 
+ * Ano ojiisan wa toshi o totteiru. 
+ * That grandpa is old. 
+----------
  * **追っかけ** :: groupie (adjective)
  * **okkake** 
  * 人気バンドの追っかけが、全国ツアーについてきた。 
  * Ninki band no okkake ga, zenkoku tsuâ ni tsuite kita. 
  * The groupies of the popular band followed the band on nationwide tour. 
+----------
+ * **犬** :: dog (noun)
+ * **inu** 
+ * 犬を３匹飼っています。 
+ * Inu o sanbiki katte imasu. 
+ * I have three dogs. 
 ----------
  * **気障** :: snob (adjective)
  * **kiza** 
@@ -1869,11 +1875,23 @@
  * Kiza na serifu o iwanaide. 
  * Don't be snobby. 
 ----------
+ * **リピーター** :: a regular customer (noun)
+ * **ripîtâ** 
+ * 彼のレストランには一週間に10人のリピーターがあった。 
+ * Kareno resutoran niwa isshuukan ni juunin no ripîtâ ga atta. 
+ * He had ten regular customers to his restaurant in one week. 
+----------
  * **ナンプレ** :: Sudoku (noun)
  * **nanpure** 
  * ナンプレが大好きです。 
  * Nanpure ga daisuki desu. 
  * I love Sudoku very much. 
+----------
+ * **破局** :: breakup (noun)
+ * **hakyoku** 
+ * 有名なカップルの破局は世界中のすべての新聞で伝えられた。 
+ * Yuumei na kappuru no hakyoku wa sekaijuu subeteno shinbun de tsutae rarete. 
+ * The breakup of the famous couple was reported in every newspaper in the world. 
 ----------
  * **はまる** :: to be into something (verb)
  * **hamaru** 
@@ -1881,11 +1899,23 @@
  * Terebi gêmu ni hamatte imasu. 
  * I am into video games. 
 ----------
+ * **セレブ** :: celebrity (noun)
+ * **serebu** 
+ * 彼女はセレブのように着飾るために、貯金を使い果たした。 
+ * Kanojo wa serebu no youni kikazaru tameni, chokin o tsukai hatashita. 
+ * She spent all her savings to dress up like a celebrity. 
+----------
  * **オタク** :: geek (noun)
  * **otaku** 
  * 田中さんはアニメオタクですよ。 
  * Tamaka san wa anime otaku desuyo. 
  * He is an anime geek. 
+----------
+ * **めっちゃ** :: super (adverb)
+ * **mettya** 
+ * あのバッグ、めっちゃかわいい！ 
+ * Ano baggu mettya kawaii! 
+ * That bag is super cute! 
 ----------
  * **老ける** :: to get old (verb)
  * **fukeru** 
@@ -1893,11 +1923,23 @@
  * Haha wa saikin fukete kita. 
  * My mother is getting old. 
 ----------
+ * **オヤジギャグ** :: old joke (noun)
+ * **oyajigyagu** 
+ * オヤジギャグばかり言うから、彼とは一緒にいたくない。 
+ * Oyaji gyagu bakari iukara, karetowa issho ni itakunai. 
+ * I don't want to be with him, as he only tells jokes that appeal to old people. 
+----------
  * **フリーター** :: part-time worker (noun)
  * **furîtâ** 
  * フリーターは生活が安定しない。 
  * Furîtâ wa seikatsu ga antei shinai. 
  * The life of a part-time worker is unstable. 
+----------
+ * **おめでとう** :: congratulations (expression)
+ * **omedetou** 
+ * ご婚約、おめでとう。 
+ * Gokonyaku,omedetou. 
+ * Congratulations on your engagement. 
 ----------
  * **見合い** :: Japanese style formal blind date (noun)
  * **miai** 
@@ -1905,11 +1947,23 @@
  * Omiai ja nakute, renai shite kekkon shitai. 
  * I want to get married not using a formal blind date, but by falling in love. 
 ----------
+ * **スイーツ** :: sweets (noun)
+ * **suîtsu** 
+ * おいしいスイーツが食べたい。 
+ * Oishii suîtsu ga tabetai. 
+ * I want to eat delicious sweets. 
+----------
  * **赤点** :: failing score (noun)
  * **akaten** 
  * 今度赤点をとったら、落第かもしれない。 
  * Kondo akaten o tottara rakudai kamoshirenai. 
  * If I get a failing score again, I might have to repeat a year in school. 
+----------
+ * **デパ地下** :: basement floors of a department store (noun)
+ * **depachika** 
+ * デパ地下はいつも混んでるね。 
+ * Depachika wa itsumo konderune. 
+ * The basement of the department store is always crowded. 
 ----------
  * **カンニングする** :: to cheat on an exam (verb)
  * **kanningu suru** 
@@ -1917,11 +1971,23 @@
  * Kannningu shitara taigaku ni narimasu. 
  * If you cheat on an exam, you will be expelled. 
 ----------
+ * **メル友** :: e-mail friend (noun)
+ * **merutomo** 
+ * 田中さんは山田さんとメル友なの？ 
+ * Tanaka san wa yamada san to merutomo nano? 
+ * Is Ms. Tanaka Mr. Yamada's e-mailing friend? 
+----------
  * **ナンパする** :: to hit on (verb)
  * **nanpa suru** 
  * 渋谷でナンパされた。 
  * Shibuya de nanpa sareta. 
  * I was hit on at Shibuya. 
+----------
+ * **旬** :: in season (noun)
+ * **shun** 
+ * 今は栗が旬だ。 
+ * Ima wa kuri ga shun da. 
+ * Chestnuts are in season now. 
 ----------
  * **お笑い** :: comedy (noun)
  * **owarai** 
@@ -1929,11 +1995,23 @@
  * Owarai bangumi wa ninki ga aru. 
  * Comedy TV shows are popular. 
 ----------
+ * **紅葉** :: autumn foliage (noun)
+ * **kouyou** 
+ * 京都の紅葉はとてもきれいだ。 
+ * Kyouto no kouyou wa totemo kirei da. 
+ * The autumn foliage in Kyoto is beautiful. 
+----------
  * **怪しい** :: suspicious (adjective)
  * **ayashii** 
  * 怪しい人には気をつけて。 
  * Ayashii hito niwa kiotsukete. 
  * Be careful with suspicious people. 
+----------
+ * **省エネ** :: energy saving (noun)
+ * **shouene** 
+ * 省エネは大切だ。 
+ * Shouene wa taisetsu da. 
+ * Saving energy is important. 
 ----------
  * **OL** :: female office worker (noun)
  * **ôeru** 
@@ -1941,11 +2019,23 @@
  * ôeru no tokino fuku ga mou kirarenai. 
  * I can no longer wear the clothes that I used to wear when I was an office worker. 
 ----------
+ * **節電する** :: to save electricity (verb)
+ * **setsuden suru** 
+ * エアコンを26度に設定して節電につとめています。 
+ * Eakon o nijuurokudo ni settei shite setsuden ni tsutomete imasu. 
+ * I am trying to save electricity by setting the air conditioner at 78 F. 
+----------
  * **ちび** :: short person (noun)
  * **chibi** 
  * ちびだから、バレーボールができません。 
  * Chibi dakara, barê bôru ga dekimasen. 
  * I cannot play volleyball because I am short. 
+----------
+ * **有機野菜** :: organic vegetables (noun)
+ * **yuukiyasai** 
+ * 有機野菜を食べた方がいい。 
+ * Yuukiyasai o tabeta houga ii. 
+ * It is better to eat organic vegetables. 
 ----------
  * **首になる** :: to get fired (verb)
  * **kubi ni naru** 
@@ -1953,11 +2043,23 @@
  * Shigoto o sabotte kubi ni natta. 
  * I got fired because I slacked off. 
 ----------
+ * **流行** :: trend (noun)
+ * **ryuukou** 
+ * 今年の流行はグレーらしい。 
+ * Kotoshi no ryuukou wa gurê rashii. 
+ * Grey color is trend this year. 
+----------
  * **デジカメ** :: digital camera (noun)
  * **dejikame** 
  * デジカメは便利だ。 
  * Dezikame wa benri da. 
  * Digital cameras are convenient. 
+----------
+ * **ゲーセン** :: arcade (noun)
+ * **gêsen** 
+ * ひまなのでゲーセンでも行こう 
+ * Hima nanode gêsen demo ikou. 
+ * Why don't we go to the arcade, since we have nothing to do? 
 ----------
  * **ハイオク** :: premium gasoline (noun)
  * **haioku** 
@@ -1965,11 +2067,23 @@
  * Haioku o onegai shimasu. 
  * Fill up with premium gasoline, please. 
 ----------
+ * **流行る** :: to be popular (verb)
+ * **hayaru** 
+ * この歌が今はやっている 
+ * Kono uta ga ima hayatte iru. 
+ * This song is popular now. 
+----------
  * **さぼる** :: to skip (verb)
  * **saboru** 
  * 学校をさぼって遊園地へ行った。 
  * Gakkou o sabotte yuuenchi e itta. 
  * I skipped school and went to an amusement park. 
+----------
+ * **イケてる** :: to be cool (verb)
+ * **iketeru** 
+ * 大島君、最近イケてるね。 
+ * Ooshima kun,saikin iketeru ne. 
+ * Mr. Oshima has been acting cool lately. 
 ----------
  * **ばれる** :: to find out (verb)
  * **bareru** 
@@ -1977,11 +2091,23 @@
  * Zuruyasumi o shitakoto ga sensei ni bareta. 
  * My teacher found out that I skipped a class. 
 ----------
+ * **いける** :: to taste good (verb)
+ * **ikeru** 
+ * このお酒はなかなかいけるね。 
+ * Kono osake wa nakanaka ikerune. 
+ * This sake tastes good. 
+----------
  * **もてる** :: to be popular (verb)
  * **moteru** 
  * やさしい男の人はもてる。 
  * Yasashii otoko no hito wa moteru. 
  * Kind men are popular with women. 
+----------
+ * **あせる** :: to rush (verb)
+ * **aseru** 
+ * あせらないで。 
+ * Aseranaide. 
+ * Do not rush. 
 ----------
  * **ダイエットする** :: to go on a diet (verb)
  * **daietto suru** 
@@ -1989,11 +2115,23 @@
  * Mizugi o kiru tame ni daietto suru tsumori desu. 
  * I plan to go on a diet in order to wear a bathing suit. 
 ----------
+ * **ゆっくりする** :: to take one's time (verb)
+ * **yukkuri suru** 
+ * 今日はゆっくりしていってください。 
+ * Kyou wa yukkuri siteitte kudasai. 
+ * Please take your time today. 
+----------
  * **似合う** :: to look nice in (verb)
  * **niau** 
  * 姉は赤がよく似合う。 
  * Ane wa aka ga yoku niau. 
  * My sister looks nice in red. 
+----------
+ * **サークル** :: club activities (noun)
+ * **sâkuru** 
+ * サークルがあるから、おそくなるよ。 
+ * Sâkuru ga arukara, osoku naru yo 
+ * I have club activities, so I will come home late. 
 ----------
  * **うまい** :: delicious (adjective)
  * **umai** 
@@ -2001,11 +2139,23 @@
  * Haha no ryouri wa umai. 
  * The food that my mother cooks is delicious. 
 ----------
+ * **ペンション** :: bed and breakfast (noun)
+ * **penshion** 
+ * ペンションに泊まる予定です。 
+ * Penshon ni tomaru yotei desu. 
+ * I plan to stay at a bed and breakfast. 
+----------
  * **ネタ** :: story (noun)
  * **neta** 
  * いいネタがあったので、いい記事が書けそうだ。 
  * Ii neta ga atta node, iikiji ga kakesouda. 
  * I have a good story, so I feel that I can write a good article. 
+----------
+ * **田舎** :: countryside (noun)
+ * **inaka** 
+ * 将来は田舎に暮らしたい。 
+ * Shourai wa inaka ni kurasitai. 
+ * I would like to live in the countryside in the future. 
 ----------
  * **調子** :: in shape (noun)
  * **chousi** 
@@ -2013,11 +2163,23 @@
  * saikin chousi ga ii. 
  * I have been in good shape lately. 
 ----------
+ * **ストーブ** :: space heater (noun)
+ * **sutôbu** 
+ * 寒いからストーブをつけて。 
+ * Samui kara sutôbu o tsukete. 
+ * It is cold; please turn the heater on. 
+----------
  * **面食い** :: a sucker for a handsome face (noun)
  * **menkui** 
  * 彼女は面食いだ。 
  * Kanojo wa menkui da. 
  * She is a sucker for a handsome face. 
+----------
+ * **こんろ** :: stove (noun)
+ * **konro** 
+ * コンロの火を消したか見てもらえますか？ 
+ * Konro no hi o keshitaka mite morae masuka? 
+ * Could you go and see if I turned off the stove? 
 ----------
  * **今彼** :: current boyfriend (noun)
  * **imakare** 
@@ -2025,11 +2187,23 @@
  * Imakare ni mêru o sita tokoro desu. 
  * I have just sent mail to my boyfriend. 
 ----------
+ * **監督** :: movie director (noun)
+ * **kantoku** 
+ * あの人は有名な映画監督だよ。 
+ * Anohito wa yuumei na eiga kantoku dayo. 
+ * That person is a famous movie director. 
+----------
  * **今カノ** :: current girlfriend (noun)
  * **ikakano** 
  * これから今カノとデートです。 
  * Korekara ikamano to dêto desu. 
  * I am going on a date with my girlfriend now. 
+----------
+ * **入試** :: entrance exam (noun)
+ * **nyuusi** 
+ * 入試のために毎日勉強してます。 
+ * Nyuushi no tameni mainichi benkyou shiteimasu. 
+ * I study every day for the entrance exam. 
 ----------
  * **ギャル** :: young girl (noun)
  * **gyaru** 
@@ -2037,11 +2211,23 @@
  * Gyaru ni ninki no mise desu. 
  * That is a popular store among young girls. 
 ----------
+ * **合コン** :: group blind date (noun)
+ * **goukon** 
+ * 合コンのために新しい服を買った。 
+ * Goukon no tameni atarashii fuku o kata. 
+ * I bought a new dress for a group blind date. 
+----------
  * **ギャグ** :: joke (noun)
  * **gyagu** 
  * 田中さんのギャグはつまらない。 
  * Tanakasan no gyagu wa tsumaranai. 
  * Mr. Tanaka's joke is boring. 
+----------
+ * **意地悪** :: mean (adjective)
+ * **ijiwaru** 
+ * 意地悪をしちゃだめだよ。 
+ * Ijiwaru o shicha dame dayo. 
+ * Don't be mean to others. 
 ----------
  * **パソコン** :: personal computer (noun)
  * **pasokon** 
@@ -2049,11 +2235,23 @@
  * Atarashii pasokon ga hoshii. 
  * I want a new personal computer. 
 ----------
+ * **けち** :: stingy (adjective)
+ * **kechi** 
+ * あのおばさん、本当にけちだ。 
+ * Ano obasan, hontou ni kechi da. 
+ * That woman is really stingy. 
+----------
  * **モバイル** :: mobile device (noun)
  * **mobairu** 
  * モバイルを活用して仕事を探します。 
  * Mobairu o katsuyou shite shigoto o sagashimasu. 
  * I am looking for a job using a mobile device. 
+----------
+ * **おかしい** :: funny (adjective)
+ * **okashii** 
+ * 何がそんなにおかしいの？ 
+ * Nani ga sonnani okashiino? 
+ * What's so funny? 
 ----------
  * **ワンセグ** :: TV show that are mainly broadcast via mobile device(s) (noun)
  * **wansegu** 
@@ -2061,11 +2259,23 @@
  * Wansegu kinou tsuki no keitai ga hoshii. 
  * I want a new cell phone that shows TV. 
 ----------
+ * **変** :: strange (adjective)
+ * **hen** 
+ * 変な人と話をしてはだめだよ。 
+ * Hen na hito to hanashi o shitewa damedayo. 
+ * Don't speak with any strange people. 
+----------
  * **いた電** :: prank call (noun)
  * **itaden** 
  * いた電に起こされた。 
  * Itaden ni okosareta. 
  * I was woken up by a prank call. 
+----------
+ * **鬱陶しい** :: annoying (adjective)
+ * **uttooshii** 
+ * 鬱陶しい人だね。 
+ * Uttooshii hito dane. 
+ * You are annoying. 
 ----------
  * **デコ電** :: cell phone decorated with beads (noun)
  * **dekoden** 
@@ -2073,11 +2283,23 @@
  * Sono dekoden, kawaii ne. 
  * That is a cute decorated cell phone. 
 ----------
+ * **お洒落** :: fashionable (adjective)
+ * **oshare** 
+ * おしゃれですね。 
+ * Oshare desune. 
+ * You are fashionable. 
+----------
  * **二枚目** :: handsome man (noun)
  * **nimaime** 
  * 英語の先生は二枚目です。 
  * Eigo no sensei wa nimaime desu. 
  * My English teacher is a handsome man. 
+----------
+ * **渋い** :: tasteful (adjective)
+ * **shibui** 
+ * あのおじさん、渋いね。 
+ * Ano ojisan, shibui ne. 
+ * That man is tasteful. 
 ----------
  * **三枚目** :: comedy actor (noun)
  * **sanmaime** 
@@ -2085,11 +2307,23 @@
  * Kare wa sanmaime no yakusha da. 
  * He is a comedy actor. 
 ----------
+ * **きもい** :: creepy (adjective)
+ * **kimoi** 
+ * あの先生、きもいね。 
+ * Ano sensei, kimoi ne. 
+ * That teacher is creepy. 
+----------
  * **間抜け** :: foolish (adjective)
  * **manuke** 
  * そんな失敗をしてまぬけだな。 
  * Sonna shippai o shite manuke dana. 
  * You are foolish to make such a mistake. 
+----------
+ * **涼しい** :: comfortably cool (adjective)
+ * **suzushii** 
+ * 今日は涼しくて気持ちがいいね。 
+ * Kyou wa suzushikute kimochi ga iine. 
+ * Today is comfortably cool. 
 ----------
  * **セクハラ** :: sexual harassment (noun)
  * **sekuhara** 
@@ -2097,11 +2331,23 @@
  * Buchou ga sekuhara o shita souda 
  * I heard that the manager sexually harassed his co-worker. 
 ----------
+ * **暖かい** :: warm (adjective)
+ * **atatakai** 
+ * 暖かい所に引越ししたい。 
+ * Atatakai tokoro ni hikkoshi shitai. 
+ * I would like to move to a warm place. 
+----------
  * **ずぼら** :: sloppy (adjective)
  * **zubora** 
  * ずぼらな性格だね。 
  * Zubora na seikaku dane. 
  * You are so sloppy. 
+----------
+ * **暑い** :: hot (adjective)
+ * **atsui** 
+ * 今日は、暑くてどこへもいけない。 
+ * Kyou wa, atsukute dokoemo ikenai. 
+ * It is too hot to go anywhere today. 
 ----------
  * **贅沢** :: luxury (adjective)
  * **zeitaku** 
@@ -2109,11 +2355,23 @@
  * Mainichi resutoran ni ikuno wa zeitaku desu. 
  * It is luxury to go to restaurants every day. 
 ----------
+ * **寒い** :: cold (adjective)
+ * **samui** 
+ * 冬は寒いから嫌いだ。 
+ * Fuyu wa samui kara kiraida. 
+ * I do not like winter because it is cold. 
+----------
  * **一流** :: first-rate (noun)
  * **ichiryu** 
  * 一流レストランに行きたい。 
  * Ichiryuu resutoran ni ikitai. 
  * I want to go to a first-rate restaurant. 
+----------
+ * **蒸し暑い** :: hot and humid (adjective)
+ * **mushiatsui** 
+ * 日本の夏は蒸し暑い。 
+ * Nihon no natsu wa mushiatsui. 
+ * It is hot and humid in Japan during the summer. 
 ----------
  * **二流** :: second-rate (noun)
  * **niryuu** 
@@ -2121,11 +2379,23 @@
  * Niryuu hoteru to ittemo sâbisu wa yokatta. 
  * Even though it was a second-rate hotel, the service was good. 
 ----------
+ * **アイスコーヒー** :: iced coffee (noun)
+ * **aisukôhî** 
+ * おいしいアイスコーヒーが飲みたい。 
+ * Oishii aisukôhî ga nomitai. 
+ * I want to have tasty iced coffee. 
+----------
  * **三流** :: third-rate (noun)
  * **sanryuu** 
  * 値段は一流なのに、味は三流だった。 
  * Nedan wa ichiryuu nanoni aji wa sanryuu datta. 
  * The price was first-rate but the taste was third-rate. 
+----------
+ * **自己中** :: self-centered (adjective)
+ * **jikochuu** 
+ * あの人は自己中だから、友達が誰もいない。 
+ * Ano hito wa jikochuu dakara, tomodachiga daremo inai. 
+ * That person has no friends because he is self-centered. 
 ----------
  * **冷やす** :: to refrigerate (verb)
  * **hiyasu** 
@@ -2133,17 +2403,593 @@
  * Reizouko de hiyashita bîru wa saikou da. 
  * A refrigerated cold beer is the best. 
 ----------
+ * **むかつく** :: get on one's nerves (verb)
+ * **mukatsuku** 
+ * あの子にはむかつくよ。 
+ * Anoko nihwa mukatsuku yo. 
+ * She gets on my nerves. 
+----------
  * **冷ます** :: to cool down (verb)
  * **samasu** 
  * お茶を冷ましてから飲む。 
  * Ocha o samashite kara nomu. 
  * I drink hot tea after it cools down. 
 ----------
+ * **追っかけ** :: groupie (adjective)
+ * **okkake** 
+ * 人気バンドの追っかけが、全国ツアーについてきた。 
+ * Ninki band no okkake ga, zenkoku tsuâ ni tsuite kita. 
+ * The groupies of the popular band followed the band on nationwide tour. 
+----------
  * **運** :: luck (noun)
  * **un** 
  * 今日は運がいい。 
  * Kyou wa un ga ii. 
  * Today, I am lucky. 
+----------
+ * **気障** :: snob (adjective)
+ * **kiza** 
+ * 気障なセリフを言わないで。 
+ * Kiza na serifu o iwanaide. 
+ * Don't be snobby. 
+----------
+ * **リストラ** :: downsizing (noun)
+ * **risutora** 
+ * リストラされた。 
+ * Risutora sareta. 
+ * I was downsized from my job. 
+----------
+ * **ナンプレ** :: Sudoku (noun)
+ * **nanpure** 
+ * ナンプレが大好きです。 
+ * Nanpure ga daisuki desu. 
+ * I love Sudoku very much. 
+----------
+ * **選挙** :: election (noun)
+ * **senkyo** 
+ * 選挙が始まる。 
+ * Senkyo ga hajimaru. 
+ * The election is going to start. 
+----------
+ * **はまる** :: to be into something (verb)
+ * **hamaru** 
+ * テレビゲームにはまってます。 
+ * Terebi gêmu ni hamatte imasu. 
+ * I am into video games. 
+----------
+ * **投票** :: to vote (verb)
+ * **touhyou** 
+ * 日本では、18歳から投票できる。 
+ * Nihon dewa, juuhassai kara touhyou dekiru. 
+ * People can vote after they turn 18 years old in Japan. 
+----------
+ * **オタク** :: geek (noun)
+ * **otaku** 
+ * 田中さんはアニメオタクですよ。 
+ * Tamaka san wa anime otaku desuyo. 
+ * He is an anime geek. 
+----------
+ * **候補者** :: candidate (noun)
+ * **kouhosha** 
+ * 彼は有力な候補者だ。 
+ * Kare wa yuuryoku na kouhosha da. 
+ * He is a strong candidate. 
+----------
+ * **老ける** :: to get old (verb)
+ * **fukeru** 
+ * 母は最近老けてきた。 
+ * Haha wa saikin fukete kita. 
+ * My mother is getting old. 
+----------
+ * **一人っ子** :: only child (noun)
+ * **hitorikko** 
+ * 日本では一人っ子が増えている。 
+ * Nihon dewa hitorikko ga fuete iru. 
+ * The number of families having only one child is increasing in Japan. 
+----------
+ * **フリーター** :: part-time worker (noun)
+ * **furîtâ** 
+ * フリーターは生活が安定しない。 
+ * Furîtâ wa seikatsu ga antei shinai. 
+ * The life of a part-time worker is unstable. 
+----------
+ * **甘えん坊** :: spoiled child (noun)
+ * **amaenbou** 
+ * あの子供は甘えん坊です。 
+ * Ano kodomo wa amaenbou desu. 
+ * That child is spoiled. 
+----------
+ * **見合い** :: Japanese style formal blind date (noun)
+ * **miai** 
+ * お見合いじゃなくて、恋愛して結婚したい。 
+ * Omiai ja nakute, renai shite kekkon shitai. 
+ * I want to get married not using a formal blind date, but by falling in love. 
+----------
+ * **鍵っ子** :: latchkey kid (noun)
+ * **kagikko** 
+ * 鍵っ子が増えている。 
+ * Kagikko ga fueteiru. 
+ * The number of latchkey kids is increasing. 
+----------
+ * **赤点** :: failing score (noun)
+ * **akaten** 
+ * 今度赤点をとったら、落第かもしれない。 
+ * Kondo akaten o tottara rakudai kamoshirenai. 
+ * If I get a failing score again, I might have to repeat a year in school. 
+----------
+ * **もめる** :: to have a disagreement (verb)
+ * **momeru** 
+ * 母ともめている。 
+ * Haha to momete iru. 
+ * I am having a disagreement with my mother. 
+----------
+ * **カンニングする** :: to cheat on an exam (verb)
+ * **kanningu suru** 
+ * カンニングしたら退学になります。 
+ * Kannningu shitara taigaku ni narimasu. 
+ * If you cheat on an exam, you will be expelled. 
+----------
+ * **先進国** :: developed country (noun)
+ * **senshinkoku** 
+ * 先進国の代表が集まった。 
+ * Senshinkoku no daihyou ga atsumatta. 
+ * Representatives of the developed countries gathered. 
+----------
+ * **ナンパする** :: to hit on (verb)
+ * **nanpa suru** 
+ * 渋谷でナンパされた。 
+ * Shibuya de nanpa sareta. 
+ * I was hit on at Shibuya. 
+----------
+ * **発展途上国** :: developing country (noun)
+ * **hattentojoukoku** 
+ * 発展途上国は南に多い。 
+ * Hattentojoukoku wa minami ni ooi. 
+ * There are many developing countries in the south. 
+----------
+ * **お笑い** :: comedy (noun)
+ * **owarai** 
+ * お笑い番組は人気がある 
+ * Owarai bangumi wa ninki ga aru. 
+ * Comedy TV shows are popular. 
+----------
+ * **立候補する** :: to run for (verb)
+ * **rikkouho suru** 
+ * 大統領に立候補する。 
+ * Daitouryou ni rikkouho suru. 
+ * He is running for President. 
+----------
+ * **怪しい** :: suspicious (adjective)
+ * **ayashii** 
+ * 怪しい人には気をつけて。 
+ * Ayashii hito niwa kiotsukete. 
+ * Be careful with suspicious people. 
+----------
+ * **当選する** :: to be elected (verb)
+ * **tousen suru** 
+ * 誰が当選するかわからない。 
+ * Dare ga tousen suruka wakaranai. 
+ * We do not know who will be elected. 
+----------
+ * **OL** :: female office worker (noun)
+ * **ôeru** 
+ * OLの時の服がもう着られない。 
+ * ôeru no tokino fuku ga mou kirarenai. 
+ * I can no longer wear the clothes that I used to wear when I was an office worker. 
+----------
+ * **中年** :: middle age (noun)
+ * **chuunen** 
+ * 中年になってから太ってきた。 
+ * Chuunen ni nattekara futotte kita. 
+ * I started to gain weight after I became a middle aged person. 
+----------
+ * **ちび** :: short person (noun)
+ * **chibi** 
+ * ちびだから、バレーボールができません。 
+ * Chibi dakara, barê bôru ga dekimasen. 
+ * I cannot play volleyball because I am short. 
+----------
+ * **せこい** :: stingy (adjective)
+ * **sekoi** 
+ * そんなせこい人だとは知らなかった。 
+ * Sonna sekoi hito datowa shiranakatta. 
+ * I did not know that he was such a stingy man. 
+----------
+ * **首になる** :: to get fired (verb)
+ * **kubi ni naru** 
+ * 仕事をさぼって首になった。 
+ * Shigoto o sabotte kubi ni natta. 
+ * I got fired because I slacked off. 
+----------
+ * **勿論** :: of course (adverb)
+ * **mochiron** 
+ * もちろん、出席します。 
+ * Mochiron shusseki shimasu. 
+ * Of course, I will attend. 
+----------
+ * **デジカメ** :: digital camera (noun)
+ * **dejikame** 
+ * デジカメは便利だ。 
+ * Dezikame wa benri da. 
+ * Digital cameras are convenient. 
+----------
+ * **へそくり** :: secret money savings (noun)
+ * **hesokuri** 
+ * へそくりをしてることは、主人には秘密です。 
+ * Hesokuri o shiteirukoto wa shujin niwa himitsu desu. 
+ * I am keeping it a secret from my husband that I am saving money. 
+----------
+ * **ハイオク** :: premium gasoline (noun)
+ * **haioku** 
+ * ハイオクをお願いします。 
+ * Haioku o onegai shimasu. 
+ * Fill up with premium gasoline, please. 
+----------
+ * **本命** :: likely winner (noun)
+ * **honmei** 
+ * 彼が次期社長の本命です。 
+ * Kare ga jikishachou no honmei desu. 
+ * He is the most likely candidate to be the next president of the company. 
+----------
+ * **さぼる** :: to skip (verb)
+ * **saboru** 
+ * 学校をさぼって遊園地へ行った。 
+ * Gakkou o sabotte yuuenchi e itta. 
+ * I skipped school and went to an amusement park. 
+----------
+ * **シャギー** :: shaggy hairstyle (noun)
+ * **shagî** 
+ * シャギーに切ってください。 
+ * Shagî ni kitte kudasai. 
+ * I want a shaggy cut. 
+----------
+ * **ばれる** :: to find out (verb)
+ * **bareru** 
+ * ずる休みをしたことが先生にばれた。 
+ * Zuruyasumi o shitakoto ga sensei ni bareta. 
+ * My teacher found out that I skipped a class. 
+----------
+ * **ユダヤ人** :: Jewish people (noun)
+ * **yudayajin** 
+ * ユダヤ人の文化を知りたい。 
+ * Yudayajin no bunka o shiritai. 
+ * I would like to know Jewish culture. 
+----------
+ * **もてる** :: to be popular (verb)
+ * **moteru** 
+ * やさしい男の人はもてる。 
+ * Yasashii otoko no hito wa moteru. 
+ * Kind men are popular with women. 
+----------
+ * **サプリ** :: supplement (noun)
+ * **sapuri** 
+ * 毎朝サプリをとっています。 
+ * Maiasa sapuri o totte imasu. 
+ * I take supplements every morning. 
+----------
+ * **ダイエットする** :: to go on a diet (verb)
+ * **daietto suru** 
+ * 水着を着るためにダイエットするつもりです。 
+ * Mizugi o kiru tame ni daietto suru tsumori desu. 
+ * I plan to go on a diet in order to wear a bathing suit. 
+----------
+ * **ウケる** :: to crack someone up (verb)
+ * **ukeru** 
+ * ギャグがうけた。 
+ * Gyagu ga uketa. 
+ * The joke cracked everyone up. 
+----------
+ * **似合う** :: to look nice in (verb)
+ * **niau** 
+ * 姉は赤がよく似合う。 
+ * Ane wa aka ga yoku niau. 
+ * My sister looks nice in red. 
+----------
+ * **節約する** :: to save money (verb)
+ * **setsuyaku suru** 
+ * ハワイに行くために節約しています。 
+ * Hawai ni iku tame ni setsuyaku siteimasu. 
+ * I am saving money in order to go to Hawaii. 
+----------
+ * **うまい** :: delicious (adjective)
+ * **umai** 
+ * 母の料理はうまい。 
+ * Haha no ryouri wa umai. 
+ * The food that my mother cooks is delicious. 
+----------
+ * **おやすみなさい** :: Good night. (expression)
+ * **oyasuminasai** 
+ * 夜は「さようなら」じゃなくて「おやすみなさい」と言います。 
+ * Yoru wa sayounara janakute "oyasuminasai" to iimasu. 
+ * At night, we say "Oyasuminasai" instead of "Sayoonara" 
+----------
+ * **ネタ** :: story (noun)
+ * **neta** 
+ * いいネタがあったので、いい記事が書けそうだ。 
+ * Ii neta ga atta node, iikiji ga kakesouda. 
+ * I have a good story, so I feel that I can write a good article. 
+----------
+ * **ファザコン** :: father complex (noun)
+ * **fazakon** 
+ * ゆうこはファザコンだね。 
+ * Yuuko wa fazakon dane. 
+ * Yuko has a father complex. 
+----------
+ * **調子** :: in shape (noun)
+ * **chousi** 
+ * 最近、調子がいい。 
+ * saikin chousi ga ii. 
+ * I have been in good shape lately. 
+----------
+ * **素人** :: amateur (noun)
+ * **shirouto** 
+ * あの役者は素人だね。 
+ * Ano yakusha wa shirouto dane. 
+ * That actor is an amateur. 
+----------
+ * **面食い** :: a sucker for a handsome face (noun)
+ * **menkui** 
+ * 彼女は面食いだ。 
+ * Kanojo wa menkui da. 
+ * She is a sucker for a handsome face. 
+----------
+ * **磨く** :: to brush (verb)
+ * **migaku** 
+ * 歯を磨いた後でベッドに入った。 
+ * Ha o migaita atode beddo ni haitta. 
+ * After brushing my teeth, I went to bed. 
+----------
+ * **今彼** :: current boyfriend (noun)
+ * **imakare** 
+ * 今彼にメールしたところです。 
+ * Imakare ni mêru o sita tokoro desu. 
+ * I have just sent mail to my boyfriend. 
+----------
+ * **習う** :: to learn (verb)
+ * **narau** 
+ * ピアノを習っています。 
+ * Piano o naratte imasu. 
+ * I am learning to play piano. 
+----------
+ * **今カノ** :: current girlfriend (noun)
+ * **ikakano** 
+ * これから今カノとデートです。 
+ * Korekara ikamano to dêto desu. 
+ * I am going on a date with my girlfriend now. 
+----------
+ * **癒す** :: to feel better (verb)
+ * **iyasu** 
+ * 子供といると癒されます。 
+ * Kodomo to iruto iyasaremasu. 
+ * When I am with children, I feel better. 
+----------
+ * **ギャル** :: young girl (noun)
+ * **gyaru** 
+ * ギャルに人気の店です。 
+ * Gyaru ni ninki no mise desu. 
+ * That is a popular store among young girls. 
+----------
+ * **キレる** :: to flip out (verb)
+ * **kireru** 
+ * 最近の若者はきれやすい。 
+ * Saikin no wakamono wa kireyasui. 
+ * Young people today flip out easily. 
+----------
+ * **ギャグ** :: joke (noun)
+ * **gyagu** 
+ * 田中さんのギャグはつまらない。 
+ * Tanakasan no gyagu wa tsumaranai. 
+ * Mr. Tanaka's joke is boring. 
+----------
+ * **チャリ** :: bicycle (noun)
+ * **chari** 
+ * チャリで通勤しています。 
+ * Chari de tsuukin shiteimasu. 
+ * I go to work by bicycle. 
+----------
+ * **パソコン** :: personal computer (noun)
+ * **pasokon** 
+ * 新しいパソコンがほしい。 
+ * Atarashii pasokon ga hoshii. 
+ * I want a new personal computer. 
+----------
+ * **まじ** :: serious (adjective)
+ * **maji** 
+ * その映画はまじでおもしろい。 
+ * Sono eiga wa maji de omoshiroi. 
+ * That movie is seriously funny. 
+----------
+ * **モバイル** :: mobile device (noun)
+ * **mobairu** 
+ * モバイルを活用して仕事を探します。 
+ * Mobairu o katsuyou shite shigoto o sagashimasu. 
+ * I am looking for a job using a mobile device. 
+----------
+ * **マフラー** :: scarf (noun)
+ * **mafurâ** 
+ * 寒いから、マフラーをして行った方がいいよ。 
+ * Samui kara mafurâ o shiteitta houga iiyo. 
+ * Because it is cold, you had better wear a scarf. 
+----------
+ * **ワンセグ** :: TV show that are mainly broadcast via mobile device(s) (noun)
+ * **wansegu** 
+ * ワンセグ機能付きの携帯がほしい。 
+ * Wansegu kinou tsuki no keitai ga hoshii. 
+ * I want a new cell phone that shows TV. 
+----------
+ * **ドンマイ** :: don't mind (expression)
+ * **donmai** 
+ * 友達が、失敗をして落ち込んでいる私に「ドンマイ」と言ってくれた。 
+ * Tomodachi ga, sippai o site ochikondeiru watasini "donmai" to itte kureta. 
+ * My friend said "don't mind" to me when I was down after making a mistake. 
+----------
+ * **いた電** :: prank call (noun)
+ * **itaden** 
+ * いた電に起こされた。 
+ * Itaden ni okosareta. 
+ * I was woken up by a prank call. 
+----------
+ * **引きこもり** :: withdrawing from society (noun)
+ * **hikikomori** 
+ * 弟は中学の時から引きこもりです。 
+ * Otouto wa chuugaku no toki kara hikikomori desu. 
+ * My brother has withdrawn from scociety since middle school. 
+----------
+ * **デコ電** :: cell phone decorated with beads (noun)
+ * **dekoden** 
+ * そのデコ電、かわいいね。 
+ * Sono dekoden, kawaii ne. 
+ * That is a cute decorated cell phone. 
+----------
+ * **初心者** :: beginner (noun)
+ * **shoshinsha** 
+ * ゴルフの初心者なので、まだ下手です。 
+ * Gorufu no shoshinsha nanode mada heta desu. 
+ * I am a golf beginner, so I play poorly. 
+----------
+ * **二枚目** :: handsome man (noun)
+ * **nimaime** 
+ * 英語の先生は二枚目です。 
+ * Eigo no sensei wa nimaime desu. 
+ * My English teacher is a handsome man. 
+----------
+ * **トラウマ** :: trauma (noun)
+ * **torauma** 
+ * 子供の時にいじめられたことが、トラウマになっている。 
+ * Kodomo no toki ni ijimerareta koto ga, torauma ni natteiru. 
+ * He has a trauma from being bullied as a child. 
+----------
+ * **三枚目** :: comedy actor (noun)
+ * **sanmaime** 
+ * 彼は三枚目の役者だ。 
+ * Kare wa sanmaime no yakusha da. 
+ * He is a comedy actor. 
+----------
+ * **よいしょする** :: to flatter (verb)
+ * **yoisho suru** 
+ * 社長によいしょしておいたほうがいい。 
+ * Shachou ni yoisho shite oita houga ii. 
+ * You'd better flatter the president. 
+----------
+ * **間抜け** :: foolish (adjective)
+ * **manuke** 
+ * そんな失敗をしてまぬけだな。 
+ * Sonna shippai o shite manuke dana. 
+ * You are foolish to make such a mistake. 
+----------
+ * **天才** :: genius (noun)
+ * **tensai** 
+ * 母は料理の天才です。 
+ * Haha wa ryouri no tensai desu. 
+ * My mother is a genius at cooking. 
+----------
+ * **セクハラ** :: sexual harassment (noun)
+ * **sekuhara** 
+ * 部長がセクハラをしたそうだ。 
+ * Buchou ga sekuhara o shita souda 
+ * I heard that the manager sexually harassed his co-worker. 
+----------
+ * **メタボ** :: metabolic syndrome (noun)
+ * **metabo** 
+ * メタボだから、運動を始めることにした。 
+ * Metabo dakara undou o hajimeru kotoni shita. 
+ * I decided to exercise because I have metabolic syndrome. 
+----------
+ * **ずぼら** :: sloppy (adjective)
+ * **zubora** 
+ * ずぼらな性格だね。 
+ * Zubora na seikaku dane. 
+ * You are so sloppy. 
+----------
+ * **スーパー** :: supermarket (noun)
+ * **sûpâ** 
+ * スーパーでお菓子を買った。 
+ * Sûpâ de okashi o katta. 
+ * I bought sweets at the supermarket. 
+----------
+ * **贅沢** :: luxury (adjective)
+ * **zeitaku** 
+ * 毎日レストランに行くのは贅沢です。 
+ * Mainichi resutoran ni ikuno wa zeitaku desu. 
+ * It is luxury to go to restaurants every day. 
+----------
+ * **同じ** :: same (adjective)
+ * **onaji** 
+ * 先生と同じ服を持っています。 
+ * Sensei to onazi fuku o motte imasu. 
+ * I have the same clothes as my teacher. 
+----------
+ * **一流** :: first-rate (noun)
+ * **ichiryu** 
+ * 一流レストランに行きたい。 
+ * Ichiryuu resutoran ni ikitai. 
+ * I want to go to a first-rate restaurant. 
+----------
+ * **おじゃまします** :: Excuse me. (expression)
+ * **ojamashimasu** 
+ * 「おじゃまします。」と言いながら、友達が家に入ってきた。 
+ * "Ojamashimasu" to iinagara, tomodachi ga ie ni haitte kita. 
+ * My friend entered my house saying "Excuse me." 
+----------
+ * **二流** :: second-rate (noun)
+ * **niryuu** 
+ * 二流ホテルといっても、サービスはよかった。 
+ * Niryuu hoteru to ittemo sâbisu wa yokatta. 
+ * Even though it was a second-rate hotel, the service was good. 
+----------
+ * **やらせ** :: pre-arranged performance (noun)
+ * **yarase** 
+ * このテレビドキュメンタリーはやらせが多い。 
+ * Kono terebi dokyumentarî wa yarase ga ooi. 
+ * There are many pre-arranged performances in this TV documentary. 
+----------
+ * **三流** :: third-rate (noun)
+ * **sanryuu** 
+ * 値段は一流なのに、味は三流だった。 
+ * Nedan wa ichiryuu nanoni aji wa sanryuu datta. 
+ * The price was first-rate but the taste was third-rate. 
+----------
+ * **スカーフ** :: scarf (noun)
+ * **sukâfu** 
+ * そのスカーフはおしゃれですね。 
+ * Sono sukâfu wa oshare desune. 
+ * That scarf is very fashionable. 
+----------
+ * **冷やす** :: to refrigerate (verb)
+ * **hiyasu** 
+ * 冷蔵庫で冷やしたビールは最高だ。 
+ * Reizouko de hiyashita bîru wa saikou da. 
+ * A refrigerated cold beer is the best. 
+----------
+ * **思い出す** :: to recall (verb)
+ * **omoidasu** 
+ * 彼の名前が思い出せない。 
+ * Kareno namae ga omoi dasenai. 
+ * I cannot recall his name. 
+----------
+ * **冷ます** :: to cool down (verb)
+ * **samasu** 
+ * お茶を冷ましてから飲む。 
+ * Ocha o samashite kara nomu. 
+ * I drink hot tea after it cools down. 
+----------
+ * **いらっしゃいませ** :: welcome (expression)
+ * **irasshaimase** 
+ * いらっしゃいませ。何をお探しですか。 
+ * Irasshaimase nani o osagashi desuka. 
+ * Welcome. What are you looking for? 
+----------
+ * **運** :: luck (noun)
+ * **un** 
+ * 今日は運がいい。 
+ * Kyou wa un ga ii. 
+ * Today, I am lucky. 
+----------
+ * **セール** :: sale (noun)
+ * **sêru** 
+ * セールがもうすぐ始まるよ。 
+ * Sêru ga mousugu hajimaru yo. 
+ * The sale starts soon. 
 ----------
  * **リストラ** :: downsizing (noun)
  * **risutora** 

@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 473 phrases 
+ 614 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -871,565 +871,1129 @@
  * Снег уже растаял. 
  * The winter snow has already melted. 
 ----------
+ * **застёгивать на пуговицы** :: to button (verb)
+ * Я так объелась, что еле брюки застёгиваю! 
+ * I ate so much I can barely button my pants! 
+----------
  * **черновик** :: draft (noun)
  * Черновик будет готов к завтрашнему дню. 
  * The first draft will be ready by tomorrow. 
+----------
+ * **плакат** :: poster (noun)
+ * Он коллекционирует плакаты старых фильмов ужасов. 
+ * He collects posters of old horror movies. 
 ----------
  * **многоножка** :: centipede (noun)
  * В ванной - многоножка! 
  * There is a centipede in the bathtub! 
 ----------
+ * **играть** :: to perform (verb)
+ * Мы сыграли пьесу в нашем самодеятельном театре. 
+ * We performed in our community theater. 
+----------
  * **разморозить** :: to defrost, to thaw (verb)
  * Индейку следует разморозить перед запеканием. 
  * You have to thaw the turkey before putting it in the oven. 
+----------
+ * **настраивать** :: to tune (verb)
+ * Специалист может настроить скрипку на слух. 
+ * An expert can tune a violin by ear. 
 ----------
  * **парусная лодка** :: sailboat (noun)
  * Парусным лодкам нужен ветер, чтобы плыть по воде. 
  * Sailboats rely on wind to move on the water. 
 ----------
+ * **школьный год** :: school year (noun)
+ * Осенью начинается новый школьный год. 
+ * Every fall, the school year begins anew. 
+----------
  * **соглашаться** :: to agree (verb)
  * Я с тобой согласна по этому вопросу. 
  * I agree with you on that issue. 
+----------
+ * **кузнечик** :: grasshopper (noun)
+ * Тебе ещё многому надо научиться, кузнечик. 
+ * You have much to learn, grasshopper. 
 ----------
  * **обгонять** :: to pass (verb)
  * На этом участке дороги обгонять нельзя. 
  * You can't pass on this stretch of road. 
 ----------
+ * **байка** :: anecdote (noun)
+ * Мой дед знает сотни баек. 
+ * My grandfather knows hundreds of anecdotes. 
+----------
  * **наугад** :: at random (adverb)
  * Мы наугад выбрали место. 
  * We chose a seat at random. 
+----------
+ * **объявлять** :: to announce (verb)
+ * Завтра они объявят победителя. 
+ * They will announce the winner tomorrow. 
 ----------
  * **оскорбить** :: to offend (verb)
  * Я не намеревалась вас оскорбить. 
  * I didn't mean to offend you. 
 ----------
+ * **гусь** :: goose (noun)
+ * На пруду живут два крикливых гуся. 
+ * Two noisy geese live near the pond. 
+----------
  * **автосалон** :: car dealership (noun)
  * Местный автосалон не продаёт ту модель, которую я ищу. 
  * My local car dealership doesn't have the model I'm looking for. 
+----------
+ * **серебро** :: silver (noun)
+ * Плохо то, что серебро легко темнеет. 
+ * The problem with silver is that it tarnishes so easily. 
 ----------
  * **бородка клинышком** :: goatee (phrase)
  * С его бородкой клинышком он выглядит довольно зловеще. 
  * He looks kind of sinister with a goatee. 
 ----------
+ * **фейерверк** :: fireworks (noun)
+ * Фейерверки осветили ночное небо. 
+ * Fireworks lit the night sky. 
+----------
  * **показать** :: to show (verb)
  * Покажи мне деньги! 
  * Show me the money! 
+----------
+ * **знать** :: to be aware (verb)
+ * Да, товарищ инспектор, я знаю про ограничение скорости. 
+ * Yes, officer, I am aware of the speed limit. 
 ----------
  * **труп** :: corpse (noun)
  * На месте преступления полицейскими были обнаружены два трупа. 
  * The police found two corpses at the scene of the crime. 
 ----------
+ * **машина** :: car (noun)
+ * На какой стоянке ты оставил машину? 
+ * Where did you park the car? 
+----------
  * **выбрать** :: to select (verb)
  * Выберите "опции" из главного меню. 
  * From the main menu, select "options". 
+----------
+ * **банан** :: banana (noun)
+ * Бананы очень полезны. 
+ * Bananas are good for you. 
 ----------
  * **невезение** :: bad luck (noun)
  * Если бы не невезение, то у меня вообще везения не было бы! 
  * If it weren't for bad luck, I'd have no luck at all! 
 ----------
+ * **бинокль** :: binoculars (noun)
+ * Передай мне бинокль, пожалуйста. 
+ * Please pass me the binoculars. 
+----------
  * **печень** :: liver (noun)
  * Алкоголь может нанести вред печени. 
  * Alcohol can be harmful to the liver. 
+----------
+ * **ослепнуть** :: to go blind (verb)
+ * Если смотреть на солнце, то можно ослепнуть. 
+ * If you stare at the sun, you can go blind. 
 ----------
  * **заваривать (чай)** :: to brew (tea) (verb)
  * Чай должен завариваться чуть подольше. 
  * The tea has to brew for a little bit longer. 
 ----------
+ * **чайник** :: kettle (noun)
+ * Чайник уже засвистел? 
+ * Has the kettle whistled yet? 
+----------
  * **мясник** :: butcher (noun)
  * Мясник дал мне этот кусок мяса бесплатно. 
  * The butcher gave me this steak for free. 
+----------
+ * **ботинок** :: boot (noun)
+ * Твои ботинки - в прихожей. 
+ * Your boots are in the mudroom. 
 ----------
  * **кино** :: movie (noun)
  * В кино это сработало! 
  * It worked in the movie! 
 ----------
+ * **кирпич** :: brick (noun)
+ * Если скучно, пересчитай кирпичи в стене. 
+ * Count the bricks in the wall if you're bored. 
+----------
  * **вырезать** :: to carve (verb)
  * Кто-то вырезал своё имя на коре этого дерева. 
  * Someone carved their name into the bark of that tree. 
+----------
+ * **расчёсывать** :: to brush (verb)
+ * Ей нужно расчесать волосы. 
+ * She needs to brush her hair. 
 ----------
  * **сухофрукт** :: dried fruit (noun)
  * Сухофрукты богаты белками. 
  * Dried fruits are rich in protein. 
 ----------
+ * **пригорать** :: to burn (verb)
+ * Бифштекс случайно пригорел. 
+ * We accidentally burned the steak. 
+----------
  * **писатель** :: writer (noun)
  * Когда я вырасту, я хочу быть писателем. 
  * I want to be a writer when I grow up. 
+----------
+ * **конюшня** :: stable (noun)
+ * Их лошади живут на конюшне. 
+ * Their horses live in the stable. 
 ----------
  * **шах** :: check-mate (noun)
  * Ещё два хода и поставлю шах. 
  * I'm two moves away from a check-mate. 
 ----------
+ * **шампанское** :: champagne (noun)
+ * Несите шампанское, а мы принесём клубнику. 
+ * Bring champagne, we'll supply the strawberries. 
+----------
  * **хрустящий** :: crispy (adjective)
  * Мне нравятся хрустящие солёные огурцы. 
  * I like pickles when they are crispy. 
+----------
+ * **заманчивый** :: attractive (adjective)
+ * Признаюсь, это заманчивое предложение. 
+ * I admit, it is an attractive offer. 
 ----------
  * **сценарий** :: script (noun)
  * Он сам написал сценарий к своему последнему фильму. 
  * He wrote the script for his last movie himself. 
 ----------
+ * **начальник** :: boss (noun)
+ * Начальник обходится с нами вежливо. 
+ * Our boss treats us courteously. 
+----------
  * **цунами** :: tsunami (noun)
  * В этой местности повышенная опасность цунами. 
  * There is a tsunami alert in this area. 
+----------
+ * **лошадь** :: horse (noun)
+ * Я всмотрелась и увидела прямо передо собой лошадь. 
+ * I looked, and before me was a horse! 
 ----------
  * **пользователь Интернета** :: Internet user (noun)
  * Большинство пользователей Интернета рассчитывают на высокую скорость доступа к сети. 
  * Most Internet users expect fast connection speeds. 
 ----------
+ * **сидр** :: cider (noun)
+ * Они продают сладкий яблочный сидр. 
+ * They sell sweet apple cider. 
+----------
  * **дреды** :: dreadlocks (noun)
  * Тебе дреды не идут. 
  * Dreadlocks don't look good on you. 
+----------
+ * **альбом на память** :: scrapbook (noun)
+ * Я сделала альбом на память о нашем отпуске. 
+ * I made a scrapbook of our last vacation. 
 ----------
  * **шокирующий** :: shocking (adjective)
  * Кадры с места происшествия были шокирующими. 
  * The footage of the accident was shocking. 
 ----------
+ * **сигара** :: cigar (noun)
+ * Сигары являются одним из основных экспортных товаров Кубы. 
+ * Cigars are one of Cuba's largest exports. 
+----------
  * **надуть губы** :: to pout (verb)
  * Что ты сказал своей сестре? Она снова губы надула. 
  * What did you say to your sister? She's pouting again. 
+----------
+ * **обнять** :: to hug (verb)
+ * Девочка обняла плюшевого мишку. 
+ * The young girl hugged her teddy bear. 
 ----------
  * **с тобой** :: with you, by your side (phrase)
  * Я хочу провести остаток моей жизни с тобой. 
  * I want to spend the rest of my life by your side. 
 ----------
+ * **разделывать** :: to carve (verb)
+ * Он разделал жареное мясо с точностью и умением хирурга. 
+ * He carved the roast with the skilled precision of a surgeon. 
+----------
  * **мишень** :: target (noun)
  * Стрела попала в центр мишени. 
  * The arrow hit the center of the target. 
+----------
+ * **рассказать по памяти** :: to recite (verb)
+ * Ты можешь рассказать по памяти это старое стихотворение? 
+ * Can you recite the old poem? 
 ----------
  * **печенье** :: cookies (noun)
  * Моя мама всегда присылает мне коробку печенья на Рождество. 
  * My mother always sends me a tin of cookies for Christmas. 
 ----------
+ * **вопрос** :: question (noun)
+ * Пожалуйста, честно ответь на этот вопрос. 
+ * Please answer the question honestly. 
+----------
  * **ни за что** :: not in a million years (phrase)
  * Ни за что не буду смотреть это кино. 
  * I wouldn't watch that movie in a million years. 
+----------
+ * **зубной врач** :: dentist (phrase)
+ * Я была у зубного врача тысячу раз, так что я знаю всю процедуру. 
+ * I've been to the dentist a thousand times, so I know the drill. 
 ----------
  * **освежитель воздуха** :: air freshener (phrase)
  * Освежитель воздуха избавит от плохого запаха. 
  * An air freshener might eliminate the odor. 
 ----------
+ * **рисовать** :: to draw (verb)
+ * Художник нарисовал отличный эскиз. 
+ * The artist drew an excellent sketch. 
+----------
  * **избавить** :: to get rid of (verb)
  * Нам нужно избавиться от старой мебели. 
  * We have to get rid of our old furniture. 
+----------
+ * **повреждать** :: to damage (verb)
+ * Не повреди коробку. 
+ * Do not damage the package. 
 ----------
  * **боль** :: pain (noun)
  * Нет боли, нет и результата. 
  * No pain, no gain. 
 ----------
+ * **разница** :: difference (noun)
+ * Всего один день, а какая разница! 
+ * What a difference a day makes! 
+----------
  * **щит** :: shield (noun)
  * Рыцарь своим щитом преградил удар. 
  * The knight blocked the blow with his shield. 
+----------
+ * **делить** :: to divide (verb)
+ * Давайте поделим торт на равные части. 
+ * Let's divide the cake into equal parts. 
 ----------
  * **пожать руки** :: to shake hands (phrase)
  * Пожмите руки и помиритесь. 
  * Shake hands and make up. 
 ----------
+ * **дарить** :: to give (verb)
+ * Что ты ей подарил на день рождения? 
+ * What did you give her for her birthday? 
+----------
  * **жевательная резинка, жвачка** :: chewing gum (noun)
  * Я могу идти по дороге и одновременно жевать жвачку. 
  * I can walk and chew gum at the same time. 
+----------
+ * **сомневаться** :: to doubt (verb)
+ * Я сомневаюсь в точности этих измерений. 
+ * I doubt the accuracy of the measurements. 
 ----------
  * **очень дорогой** :: very expensive (phrase)
  * Я не стала покупать новейшую модель, так как она очень дорогая. 
  * I didn't buy the most recent model because it's very expensive. 
 ----------
+ * **принимать душ** :: to take a shower (expression)
+ * Ты можешь принять душ в ванной наверху. 
+ * You can take a shower in the bathroom upstairs. 
+----------
  * **клавиатура** :: keyboard (noun)
  * Я не знаю, как поменять раскладку клавиатуры. 
  * I don't know how to change the keyboard layout. 
+----------
+ * **объяснять** :: to explain (verb)
+ * Объясни мне решение ещё разок. 
+ * Explain the solution to me one more time. 
 ----------
  * **яблоко** :: apple (noun)
  * Яблоко от яблони недалеко падает. 
  * An apple doesn't fall far from the tree. 
 ----------
+ * **чуждый** :: alien (adjective)
+ * Наверное, наши обычаи для вас чуждые. 
+ * Our customs must seem alien to you. 
+----------
  * **предупредить** :: to warn (verb)
  * Я тебя в последний раз предупреждаю. 
  * That's the last time I'm going to warn you. 
+----------
+ * **пример** :: example (noun)
+ * Лучший пример тот, который подаёшь сам. 
+ * It's always best to lead by example. 
 ----------
  * **здоровье** :: health (noun)
  * Здоровье дороже денег. 
  * Health is better than wealth. 
 ----------
+ * **выбирать** :: to choose (verb)
+ * Выбери любую карту. 
+ * Choose a card, any card. 
+----------
  * **смех** :: laughter (noun)
  * Смех - лучшее лекарство. 
  * Laughter is the best medicine. 
+----------
+ * **энергичный** :: energetic (adjective)
+ * Моя бабушка - очень энергичный человек. 
+ * My grandmother is a very energetic person. 
 ----------
  * **ломать себе голову** :: to rack one's brains (expression)
  * Тебе придётся голову поломать, чтобы это запомнить. 
  * You'll have to rack your brains to remember. 
 ----------
+ * **ошибочный** :: mistaken (adjective)
+ * В его случае это было ошибочное опознание. 
+ * His was a case of mistaken identity. 
+----------
  * **салфетка** :: napkin (noun)
  * Вы бы не могли принести ещё одну салфетку, пожалуйста? 
  * Can you bring me another napkin, please? 
+----------
+ * **исключение** :: exception (noun)
+ * Нет правил без исключений. 
+ * There are exceptions to every rule. 
 ----------
  * **гнев** :: anger (noun)
  * Не позволяй гневу охватить тебя. 
  * Don't get carried away by anger. 
 ----------
+ * **привидение** :: ghost (noun)
+ * Говорят, что в этом доме привидения. 
+ * They say that ghosts haunt the old house. 
+----------
  * **простить** :: to forgive (verb)
  * Человеку свойственно ошибаться; богам свойственно прощать. 
  * To err is human, to forgive divine. 
+----------
+ * **закончить** :: to finish (verb)
+ * Ты закончил книгу? 
+ * Have you finished the book? 
 ----------
  * **стресс** :: stress (noun)
  * Я не могу спать из-за стресса. 
  * I'm under too much stress to sleep. 
 ----------
+ * **цвести** :: to flower (verb)
+ * Деревья зацветут через несколько недель. 
+ * The trees will flower in a few weeks. 
+----------
  * **стены** :: the walls (noun)
  * И у стен есть уши. 
  * The walls have ears. 
+----------
+ * **цветок** :: flower (noun)
+ * Поставь цветы в вазу на столе. 
+ * Put the flowers in the vase on the table. 
 ----------
  * **говорить** :: to talk (verb)
  * Как будто со стеной разговариваю. 
  * It's like talking to a wall. 
 ----------
+ * **фильм ужасов** :: scary movie (adjective)
+ * Тебе нравятся фильмы ужасов? 
+ * Do you like scary movies? 
+----------
  * **дым** :: smoke (noun)
  * Дыма без огня не бывает. 
  * Where there's smoke, there's fire. 
+----------
+ * **удаляться** :: to withdraw (verb)
+ * Я слышу его шаги. Давайте удалимся, милорд. 
+ * I hear him coming: let's withdraw, my lord. 
 ----------
  * **помешанный** :: crazy (adjective)
  * Мы все немного помешанные на чём-то. 
  * We're all a little crazy in one way or another. 
 ----------
+ * **копать** :: to dig (verb)
+ * Копайте, пока не найдёте нефть. 
+ * Dig until you strike oil. 
+----------
  * **глаз не сомкнуть** :: to not sleep a wink (expression)
  * У меня бессонница, и я всю ночь глаз не сомкнула. 
  * I didn't sleep a wink all night because I had insomnia. 
+----------
+ * **ископаемое** :: fossil (noun)
+ * Ископаемые в музее относятся к меловому периоду. 
+ * The fossils at the museum are from the Cretaceous period. 
 ----------
  * **оставаться** :: to stay (verb)
  * Почему бы тебе не остаться здесь ненадолго? 
  * Why don't you stay a while? 
 ----------
+ * **фотографировать** :: to photograph (verb)
+ * Она сфотографировала редкую птицу. 
+ * She photographed a rare bird. 
+----------
  * **распродажа** :: sale (noun)
  * Мне эта штука особо не нужна, но ведь она сейчас на распродаже! 
  * I don't really need this, but it's on sale! 
+----------
+ * **прохладный** :: chilly (adjective)
+ * Какой прохладный день! 
+ * What a chilly day! 
 ----------
  * **абсурдный** :: grotesque, absurd (adjective)
  * Сцена драки выглядела довольно абсурдно. 
  * The fight scene looked quite grotesque. 
 ----------
+ * **ждать** :: to wait for (verb)
+ * Мы ждём автобус. 
+ * We are waiting for the bus. 
+----------
  * **бурчать** :: to mumble (verb)
  * "Ладно, сделаю", - пробурчал Джон. 
  * "Fine, I'll do it," mumbled John. 
+----------
+ * **кататься на коньках** :: to skate (expression)
+ * Как только пруд замерзает, дети начинают кататься на коньках. 
+ * The children skate on the pond once it is frozen solid. 
 ----------
  * **наполнять** :: to fill (verb)
  * Один лишь его вид наполняет её сердце радостью. 
  * The very sight of him fills her with joy. 
 ----------
+ * **санки** :: sled (noun)
+ * Прошлой зимой дедушка подарил ему санки. 
+ * His grandfather gave him a sled last winter. 
+----------
  * **осознавать** :: to be aware of (verb)
  * Ты осознаёшь последствия своих действий? 
  * Are you aware of the consequences of your actions? 
+----------
+ * **горло** :: throat (noun)
+ * У меня горло болит сегодня. 
+ * My throat is hurting today. 
 ----------
  * **испугать** :: to startle (verb)
  * Звук взрыва испугал меня. 
  * The sound of the explosion startled me. 
 ----------
+ * **закончить учебное заведение** :: to graduate (phrase)
+ * В следующем месяце мой брат закончит школу. 
+ * My brother will graduate high school in a month. 
+----------
  * **пререкаться** :: to quarrel (verb)
  * Всё это время они пререкались. 
  * They spent the whole time quarrelling. 
+----------
+ * **газонокосилка** :: lawnmower (noun)
+ * Газонокосилка работает на бензине. 
+ * The lawnmower needs gasoline. 
 ----------
  * **избалованный** :: spoiled (adjective)
  * Он - избалованный ребёнок. 
  * He is a spoiled child. 
 ----------
+ * **луг** :: meadow (noun)
+ * Под обрывом простирается широкий луг. 
+ * A vast meadow spreads out below the cliff. 
+----------
  * **властелин** :: master (noun)
  * Я властелин своей судьбы. 
  * I am the master of my own destiny. 
+----------
+ * **история** :: history (noun)
+ * В университете они изучали историю. 
+ * They studied history at the university. 
 ----------
  * **по крайней мере** :: at least (phrase)
  * По крайней мере он что-то предпринял; остальные просто смотрели. 
  * At least he did something; everyone else just watched. 
 ----------
+ * **часы** :: clock (noun)
+ * Тридцать лет назад молния ударила в часы на башне. 
+ * Thirty years ago, lightning struck that clock tower. 
+----------
  * **сквернословие** :: profanity (noun)
  * Здесь не сквернословят. 
  * One shouldn't use profanity here. 
+----------
+ * **больница** :: hospital (noun)
+ * Где здесь больница? 
+ * Which way is the hospital? 
 ----------
  * **отсутствие** :: absence (noun)
  * Вы сможете вести проект в моё отсутствие. 
  * You can keep the project going in my absence. 
 ----------
+ * **не обращать внимания** :: to ignore (phrase)
+ * Не обращай внимание на последнюю часть. 
+ * Ignore that last part. 
+----------
  * **в тайне** :: in secret (phrase)
  * Втайне мы запланировали вечеринку-сюрприз. 
  * We planned a surprise party in secret. 
+----------
+ * **подразумевать** :: to imply (verb)
+ * Как вы думаете, что подразумевалось в этой речи? 
+ * What do you think the speech implied? 
 ----------
  * **колесо обозрения** :: Ferris wheel (noun)
  * Мама, я очень хочу покататься на колесе обозрения! 
  * Mom, I want to get on the Ferris wheel! 
 ----------
+ * **налог** :: tax (noun)
+ * Не забудьте заплатить налоги! 
+ * Do not forget to pay your taxes! 
+----------
  * **гореть** :: to burn (verb)
  * Как говорится, время - это огонь, в котором мы сгораем. 
  * They say time is the fire in which we burn. 
+----------
+ * **импровизировать** :: to improvise (verb)
+ * Актёры сымпровизировали всю сцену. 
+ * The actors improvised the entire scene. 
 ----------
  * **семечко** :: seed (noun)
  * Я всегда покупаю арбузы без семечек. 
  * I always buy the kind of watermelon with no seeds. 
 ----------
+ * **сотрудник** :: co-worker (noun)
+ * Его спокойная манера держать себя нервировала сотрудников. 
+ * His calm demeanor was unnerving to his co-workers. 
+----------
  * **быть против** :: to object (phrase)
  * Твой отец не был против в этот раз? 
  * Didn't your father object this time? 
+----------
+ * **дразнить** :: to tease (verb)
+ * Мама, Коля опять дразнит меня! 
+ * Mom, Kolya is teasing me again! 
 ----------
  * **стюардесса** :: stewardess (noun)
  * Моя дочь - стюардесса. 
  * My daughter works as a stewardess. 
 ----------
+ * **закон** :: law (noun)
+ * Он думает, что для него закон не писан. 
+ * He thinks he's above the law. 
+----------
  * **базилик** :: basil (noun)
  * Основной ингредиент в соусе "Песто" - базилик. 
  * Basil is the main ingredient in pesto. 
+----------
+ * **играть в дочки-матери** :: to play house (expression)
+ * Семейная жизнь это не в дочки-матери играть, тут работать надо. 
+ * Family life is not like playing house; one must work at it. 
 ----------
  * **как только** :: as soon as (conjunction)
  * Я приду, как только смогу. 
  * I will be there as soon as I can. 
 ----------
+ * **старинный** :: antique (adjective)
+ * Старинные часы достались ему от деда-офицера. 
+ * He inherited the antique watch from his grandfather, the officer. 
+----------
  * **поглощать** :: to consume (verb)
  * Он поглощён завистью. 
  * He is consumed with jealousy. 
+----------
+ * **жёлтая пресса** :: tabloids (phrase)
+ * Скандальная фотография сразу же появилась на страницах жёлтой прессы. 
+ * Shocking photograph immediately appeared in the tabloids. 
 ----------
  * **бешеный** :: frantic (adjective)
  * Как только машина поехала, мой кот пришёл в бешенство. 
  * My cat became frantic as soon as the car began to move. 
 ----------
+ * **загадочный** :: mysterious (adjective)
+ * Вам не надоело слушать про загадочную русскую душу? 
+ * Aren't you tired of hearing about the mysterious Russian soul? 
+----------
  * **побеждать** :: to defeat (verb)
  * Наши друзья помогли нам победить врагов. 
  * We defeated the enemies with the help of our friends. 
+----------
+ * **вдохновенье** :: inspiration (noun)
+ * Иногда даже гнилые яблоки могут быть источником вдохновения. 
+ * Sometimes even rotten apples can be a source of inspiration. 
 ----------
  * **трущоба** :: slum (noun)
  * Может быть это и трущоба, но это - мой дом. 
  * It may be a slum, but it's home. 
 ----------
+ * **скучно** :: feel bored (adverb)
+ * Евгению часто было скучно в шумных компаниях. 
+ * Eugine would often feel bored at noisy parties. 
+----------
  * **испытывать недостаток** :: to miss (phrase)
  * Мне недостаёт сада. 
  * I miss having a garden. 
+----------
+ * **сдержанная позиция** :: low profile (phrase)
+ * Настоящие шпионы непримечательны и занимают сдержанную позицию. 
+ * Real spies appear unremarkable and keep low profile. 
 ----------
  * **разве что** :: unless (conjunction)
  * Он не заснёт, разве что если прочитать ему книгу. 
  * He won't go to sleep unless you read him a book. 
 ----------
+ * **точка зрения** :: point of view (expression)
+ * Моя точка зрения по этому вопросу очень отличается от вашей. 
+ * My point of view on this issue is significantly different from yours. 
+----------
  * **тосковать** :: to long for (verb)
  * Живя за границей, я тоскую по дому. 
  * I long for my home because I'm living abroad. 
+----------
+ * **идти вразрез** :: run counter to something (phrase)
+ * Его финансовые советы шли вразрез с общепринятыми методами. 
+ * His financial advice ran counter to that of all conventions. 
 ----------
  * **шёпот** :: whisper (noun)
  * Я люблю слушать шёпот ветра в кронах деревьев. 
  * I love to hear the wind whisper through the trees. 
 ----------
+ * **овощ** :: vegetable (noun)
+ * Моя бабушка сама выращивает овощи. 
+ * My grandmother grows her own vegetables. 
+----------
  * **на открытом воздухе** :: in the open (phrase)
  * Мы спали на открытом воздухе, под звёздами. 
  * We slept in the open, under the stars. 
+----------
+ * **нуждаться** :: to need (verb)
+ * Тебе будет нужна лодка побольше. 
+ * You're going to need a bigger boat. 
 ----------
  * **Я надеюсь!** :: I hope so! (interjection)
  * Я надеюсь, что все мои друзья придут! 
  * I hope all my friends will come! 
 ----------
+ * **папка нежелательной почты** :: junk mail folder (phrase)
+ * Возможно, что сообщение случайно попало в папку нежелательной почты. 
+ * The email may have accidentally gone into your junk mail folder. 
+----------
  * **свидание вслепую** :: blind date (noun)
  * Что ты думаешь о свиданиях вслепую с использованием веб-камеры? 
  * What do you think about a blind date by webcam? 
+----------
+ * **блокировать** :: to block (verb)
+ * Почему ты заблокировал меня на Твиттере? 
+ * Why'd you block me on Twitter, friend? 
 ----------
  * **слишком много** :: in excess (phrase)
  * Нет ничего плохого в том, чтобы выпить, если только не пить слишком много. 
  * Drinking is OK as long as you don't do it in excess. 
 ----------
+ * **терпение** :: patience (noun)
+ * Терпение - добродетель. 
+ * Patience is a virtue. 
+----------
  * **мэр** :: mayor (noun)
  * Он даже не знает, кто мэр его родного города! 
  * He doesn't even know who the mayor of his hometown is! 
+----------
+ * **рисковать** :: to venture (verb)
+ * Кто не рискует, тот не пьёт шампанское. 
+ * Nothing ventured, nothing gained. 
 ----------
  * **неразбериха** :: mess (noun)
  * У меня не жизнь, а неразбериха, и я не знаю, что делать. 
  * My life is a mess and I don't know what to do. 
 ----------
+ * **готовиться** :: to study (verb)
+ * Я всю ночь спать не ложилась, готовилась к этому экзамену. 
+ * I've been up all night studying for this test. 
+----------
  * **отсутствие** :: lack of (noun)
  * Экзамен выявил полное отсутствие подготовки у студентов. 
  * In the exam the students revealed their total lack of preparation. 
+----------
+ * **головная боль** :: headache (phrase)
+ * Из-за головной боли я не могла сконцентрироваться на работе. 
+ * Because of the headache I couldn't concentrate on my work. 
 ----------
  * **щеголять** :: to show off (verb)
  * Он так сделал лишь бы щегальнуть перед друзьями. 
  * He did it just to show off in front of his friends. 
 ----------
+ * **луковица** :: onion (noun)
+ * Если луковица большая, то используйте лишь половину. 
+ * If the onion is too big, use only half of it. 
+----------
  * **заметить** :: to notice (verb)
  * Я не заметил приближавшуюся стаю волков. 
  * I failed to notice the approaching pack of wolves. 
+----------
+ * **картофель фри** :: fries (phrase)
+ * Вам картофель фри добавить? 
+ * Do you want fries with that? 
 ----------
  * **счастливый** :: happy (adjective)
  * Вы счастливы? 
  * Are you happy? 
 ----------
+ * **пляж** :: beach (noun)
+ * Завтра мы с ней пойдём на пляж. 
+ * She and I will go to the beach tomorrow. 
+----------
  * **музыкальная академия** :: music academy (phrase)
  * Он обучался в музыкальной академии в Вене. 
  * He studied at the music academy in Vienna. 
+----------
+ * **сурок** :: groundhog (noun)
+ * Увидел ли сурок свою тень? 
+ * Did the groundhog see his shadow? 
 ----------
  * **парниковый** :: greenhouse (adjective)
  * Учёные обеспокоены по поводу парникового эффекта. 
  * Scientists worry about the Greenhouse Effect. 
 ----------
+ * **прогулка** :: hike (noun)
+ * Как насчёт прогулки по лесу? 
+ * How about a walk in the woods? 
+----------
  * **попытка** :: attempt (noun)
  * Его попытка побить мировой рекорд не удалась. 
  * He failed in his attempt to beat the world record. 
+----------
+ * **автомеханик** :: auto mechanic (noun)
+ * Автомеханик починил нашу машину. 
+ * A mechanic fixed our car. 
 ----------
  * **спор** :: argument (noun)
  * У нас был спор из-за денег. 
  * We had an argument about money. 
 ----------
+ * **гений** :: genius (noun)
+ * Он думает, что он - гений. 
+ * He is a genius in his own mind. 
+----------
  * **повестка дня** :: agenda (phrase)
  * Шестой пункт повестки дня очень интересен. 
  * The sixth item on the agenda looks very interesting. 
+----------
+ * **монета** :: coin (noun)
+ * Я не могу принять решение. Давайте подбросим монету. 
+ * I can't decide. Let's flip a coin. 
 ----------
  * **инструктировать** :: to advise (verb)
  * Доктор проинструктировал её о том, как ухаживать за ребёнком. 
  * The doctor advised her how to take care of her baby. 
 ----------
+ * **деньги** :: money (noun)
+ * Денег никогда не бывает достаточно. 
+ * Nobody seems to have enough money. 
+----------
  * **начать** :: to start (verb)
  * Давайте начнём вечеринку. 
  * Let's get this party started. 
+----------
+ * **кусать** :: to bite (verb)
+ * Моя собака вас не укусит. 
+ * My dog will not bite you. 
 ----------
  * **книга** :: book (noun)
  * Название этой книги - "Собирающаяся гроза". 
  * This book is called "The Gathering Storm". 
 ----------
+ * **комар** :: mosquito (noun)
+ * Комары мне надоели! 
+ * The mosquitoes will not leave me alone! 
+----------
  * **представлять** :: to introduce (verb)
  * Я бы хотела представить нашего следующего докладчика, г-на Джордана Чейза. 
  * I'd like to introduce our next speaker, Mr. Jordan Chase. 
+----------
+ * **кинозвезда** :: movie star (noun)
+ * Кто твоя любимая кинозвезда? 
+ * Who's your favorite movie star? 
 ----------
  * **неимущий** :: destitute (adjective)
  * Большинство населения - неимущие. 
  * The majority of the population is destitute. 
 ----------
+ * **морепродукты** :: seafood (noun)
+ * Я люблю морепродукты, но у моего друга на них аллергия. 
+ * I love seafood, but my friend is allergic to it. 
+----------
  * **совпадать** :: to match (verb)
  * Её версия происходящего не совпадает с действительностью. 
  * Her version of the events does not match up with the truth. 
+----------
+ * **сесть** :: to sit down (verb)
+ * Иногда мне просто нравится сесть с книгой и почитать. 
+ * Sometimes I just like to sit down with a good book. 
 ----------
  * **ходить в поход** :: to go camping (phrase)
  * Когда я была ребёнком, мы ходили в походы. 
  * I used to go camping as a child. 
 ----------
+ * **газон** :: lawn (noun)
+ * Сойдите с моего газона. 
+ * Get off my lawn. 
+----------
  * **прекратиться** :: to stop (verb)
  * Когда дождь прекратится, мы пойдём на прогулку. 
  * When it stops raining we will go for a walk. 
+----------
+ * **разрешение** :: permission (noun)
+ * Проще просить прощения, чем добиваться разрешения. 
+ * It's easier to ask forgiveness than permission. 
 ----------
  * **лишь бы** :: as long as (conjunction)
  * Меня не волнует, как выглядит комната, лишь бы была чистой. 
  * I don't care how the room looks as long as it is clean. 
 ----------
+ * **троюродная сестра** :: second cousin (phrase)
+ * Мой сосед женился на своей троюродной сестре. 
+ * My neighbor married her second cousin. 
+----------
  * **заболевать** :: to get sick (verb)
  * Я сейчас не могу болеть, ведь мой отпуск начинается завтра! 
  * I can't get sick now, my vacation starts tomorrow! 
+----------
+ * **заплетать** :: to braid (verb)
+ * Ей особенно идёт, когда она заплетает волосы. 
+ * Her hair looks really good when she braids it. 
 ----------
  * **конечно** :: certainly (adverb)
  * Конечно, я согласна с теми, кто так говорит. 
  * Certainly, I agree with all those who say that. 
 ----------
+ * **завершать** :: to complete (verb)
+ * Наконец-то я завершила этот проект. 
+ * I finally completed this project. 
+----------
  * **страна** :: country (noun)
  * Это красивая страна. 
  * This is a beautiful country. 
+----------
+ * **пассажир** :: passenger (noun)
+ * Пассажир в машине не получил никаких травм. 
+ * The passenger of the vehicle was unharmed. 
 ----------
  * **обманывать** :: to cheat (verb)
  * Ты думаешь, ты можешь меня обмануть? Подумай хорошенько! 
  * Do you think you can cheat me? Think again! 
 ----------
+ * **сооружение** :: structure (noun)
+ * Выставка включала несколько мобильных сооружений. 
+ * The exhibit included several mobile structures. 
+----------
  * **волна** :: wave (noun)
  * Мне нравятся волны Чёрного моря. 
  * I like the waves of the Black Sea. 
+----------
+ * **учебная пожарная тревога** :: fire drill (phrase)
+ * Без паники! Это всего лишь учебная пожарная тревога. 
+ * Don't panic! It's only a fire drill. 
 ----------
  * **доверять** :: to trust somebody (verb)
  * Он меня всегда обманывает. Я ему не доверяю. 
  * He always deceives us; I don't trust him. 
 ----------
+ * **щека** :: cheek (noun)
+ * При встрече она меня поцеловала в обе щёки. 
+ * When she saw me, she kissed me twice on the cheeks. 
+----------
  * **карманный вор** :: pick-pocket (phrase)
  * Прошлой ночью полиция арестовала карманного вора. 
  * The police arrested a pick-pocket last night. 
+----------
+ * **страдать запорами** :: to be constipated (expression)
+ * Пейте больше воды, если страдаете запорами. 
+ * You have to drink a lot of water when you're constipated. 
 ----------
  * **зануда** :: bore (noun)
  * Этот учитель был таким занудой. 
  * He is such a bore of a teacher. 
 ----------
+ * **брокколи** :: broccoli (noun)
+ * Вы предпочитаете варить брокколи или готовить на пару? 
+ * Do you prefer to boil broccoli or steam it? 
+----------
  * **безвкусный** :: tasteless (adjective)
  * При простуде еда может показаться безвкусной. 
  * Food seems tasteless when one has a cold. 
+----------
+ * **похитить** :: to abduct (verb)
+ * Прошлой ночью мне приснилось, что меня похитили инопланетяне. 
+ * Last night I dreamt I was being abducted by aliens. 
 ----------
  * **настроение** :: mood (noun)
  * Я не в настроении для шуток. 
  * I'm not in the mood for jokes. 
 ----------
+ * **огнетушитель** :: fire extinguisher (noun)
+ * Огнетушитель должен быть в каждой кухне. 
+ * Every kitchen must be equipped with a fire extinguisher. 
+----------
  * **держать** :: to hold (verb)
  * Подержи-ка эту удочку. 
  * Hold this fishing pole a moment. 
+----------
+ * **скала** :: cliff (noun)
+ * Во время нашей поездки в Англию мы посетили скалы Довера. 
+ * During our trip around England we visited the cliffs of Dover. 
 ----------
  * **До встречи!** :: See you soon! (expression)
  * Мне пора идти, так что до встречи! 
  * I've got to go now, see you soon! 
 ----------
+ * **роща** :: copse (noun)
+ * Давайте передохнём вон в той роще. 
+ * Let's take a rest next to that copse over there. 
+----------
  * **спать как убитый** :: to sleep like a log (expression)
  * Той ночью я спала, как убитая, и ничего не слышала. 
  * That night I slept like a log and I didn't hear anything. 
+----------
+ * **звонить** :: to call (noun)
+ * Позвони мне вечером, и мы решим, что делать. 
+ * Call me tonight and we'll make plans. 
 ----------
  * **полезный** :: useful (adjective)
  * Эта статья по экономике была очень полезной в моём исследовании. 
  * The article on economics was very useful for my research. 
 ----------
+ * **пропуск на посадку** :: boarding pass (phrase)
+ * Пожалуйста, предъявите ваш пропуск на посадку у стойки. 
+ * Please, have your boarding pass ready at the counter. 
+----------
  * **гоблин** :: goblin (noun)
  * Моему племяннику нравятся истории про гоблинов и фей. 
  * My nephew likes stories with goblins and fairies. 
+----------
+ * **намёк** :: hint (noun)
+ * Некоторые люди намёков не понимают. 
+ * Some people just can't take a hint. 
 ----------
  * **полезный для здоровья** :: healthy (adjective)
  * Ежедневные физические упражнения полезны для здоровья. 
  * Doing daily exercise is a healthy activity. 
 ----------
+ * **интерфейс** :: interface (noun)
+ * У этой программы - отличный интерфейс пользователя. 
+ * The program has a very nice user interface. 
+----------
  * **проворство** :: agility (noun)
  * У меня нет достаточно проворства, чтобы играть в защите. 
  * I don't have enough agility to play as a guard. 
+----------
+ * **високосный год** :: leap year (phrase)
+ * Следующий год - високосный. 
+ * Next year is a leap year. 
 ----------
  * **рукав** :: sleeve (noun)
  * Холодно. Лучше одень что-нибудь с длинным рукавом. 
  * It's cold; you'd better wear something with long sleeves. 
 ----------
+ * **заголовок** :: headline (noun)
+ * Ты видела утренние заголовки? 
+ * Did you see the headlines this morning? 
+----------
  * **получать** :: to receive (verb)
  * Чем приз, я лучше получила бы наличные. 
  * I'd rather receive the prize in cash. 
+----------
+ * **понедельник** :: Monday (noun)
+ * Для меня понедельник всегда день тяжёлый. 
+ * Mondays are always tough for me. 
 ----------
  * **нотариус** :: notary (noun)
  * Контракт должен быть подписан в присутствии нотариуса. 
  * The contract has to be signed in front of a notary. 
 ----------
+ * **таять** :: to melt (verb)
+ * Снег уже растаял. 
+ * The winter snow has already melted. 
+----------
  * **серьёзный** :: serious (adjective)
  * Двадцать людей понесли серьёзные ранения. 
  * Twenty people were seriously injured. 
+----------
+ * **черновик** :: draft (noun)
+ * Черновик будет готов к завтрашнему дню. 
+ * The first draft will be ready by tomorrow. 
 ----------
  * **тапочки** :: slippers (noun)
  * Она сняла тапочки и снова обула туфли. 
  * She took off her slippers and put on her shoes again. 
 ----------
+ * **многоножка** :: centipede (noun)
+ * В ванной - многоножка! 
+ * There is a centipede in the bathtub! 
+----------
  * **вертолёт** :: helicopter (noun)
  * Пострадавшие от наводнения были спасены вертолётом. 
  * The flood victims were rescued in a helicopter. 
+----------
+ * **разморозить** :: to defrost, to thaw (verb)
+ * Индейку следует разморозить перед запеканием. 
+ * You have to thaw the turkey before putting it in the oven. 
 ----------
  * **цветной карандаш** :: crayon (phrase)
  * Мне нравится раскрашивать цветными карандашами. 
  * I like to color with crayons. 
 ----------
+ * **парусная лодка** :: sailboat (noun)
+ * Парусным лодкам нужен ветер, чтобы плыть по воде. 
+ * Sailboats rely on wind to move on the water. 
+----------
  * **шахматы** :: chess (noun)
  * Как насчёт партии в шахматы? 
  * How about a nice game of chess? 
+----------
+ * **соглашаться** :: to agree (verb)
+ * Я с тобой согласна по этому вопросу. 
+ * I agree with you on that issue. 
 ----------
  * **крыша** :: roof (noun)
  * Мне бы хотелось разбить сад на крыше. 
  * I would love to build a garden on the roof. 
 ----------
+ * **обгонять** :: to pass (verb)
+ * На этом участке дороги обгонять нельзя. 
+ * You can't pass on this stretch of road. 
+----------
  * **банкомат** :: ATM (noun)
  * Мне нужно заплатить наличными. Здесь есть банкомат? 
  * I need to pay in cash. Is there an ATM here? 
+----------
+ * **наугад** :: at random (adverb)
+ * Мы наугад выбрали место. 
+ * We chose a seat at random. 
 ----------
  * **колодец** :: well (noun)
  * Что такое артезианский колодец? 
  * What is an artesian well? 
 ----------
+ * **оскорбить** :: to offend (verb)
+ * Я не намеревалась вас оскорбить. 
+ * I didn't mean to offend you. 
+----------
  * **квартира** :: flat (noun)
  * Моя квартира - на первом этаже. 
  * My flat is on the first floor. 
+----------
+ * **автосалон** :: car dealership (noun)
+ * Местный автосалон не продаёт ту модель, которую я ищу. 
+ * My local car dealership doesn't have the model I'm looking for. 
 ----------
  * **тысяча** :: thousand (adjective)
  * Есть тысяча причин, чтобы так делать. 
  * There are a thousand reasons to do it. 
 ----------
+ * **бородка клинышком** :: goatee (phrase)
+ * С его бородкой клинышком он выглядит довольно зловеще. 
+ * He looks kind of sinister with a goatee. 
+----------
  * **пот** :: sweat (noun)
  * После пробежки я вся в поту. 
  * I am soaked in sweat after running. 
 ----------
+ * **показать** :: to show (verb)
+ * Покажи мне деньги! 
+ * Show me the money! 
+----------
  * **глава** :: chapter (noun)
  * Это очень интересная глава. 
  * This chapter is very interesting. 
+----------
+ * **труп** :: corpse (noun)
+ * На месте преступления полицейскими были обнаружены два трупа. 
+ * The police found two corpses at the scene of the crime. 
 ----------
  * **горький** :: bitter (adjective)
  * Мне не нравится горький кофе. Я предпочитаю добавить немного сахара. 
