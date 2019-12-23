@@ -1,6 +1,6 @@
 # indonesian WOTD : 
 ----------
- 898 phrases 
+ 1086 phrases 
 ----------
 ----------
  * **menyelesaikan** :: to finish (verb)
@@ -2027,6 +2027,10 @@
  * Aku suka sereal waktu masih renyah. 
  * I like cereal when it's still crispy. 
 ----------
+ * **energik** :: energetic (adjective)
+ * Setelah jalan-jalan cukup lama, anjing dia menjadi energik! 
+ * Even after a long walk, her dog is energetic! 
+----------
  * **membosankan** :: to be a bore (verb)
  * Dia adalah guru yang membosankan. 
  * He is such a bore of a teacher. 
@@ -2034,6 +2038,10 @@
  * **naskah** :: script (noun)
  * Dia menulis naskah untuk filem terakhir dia sendiri. 
  * He wrote the script for his last movie himself. 
+----------
+ * **keliru** :: mistaken (adjective)
+ * Dia memberikan presentasi tentang "pengharapan yang keliru". 
+ * He is giving a presentation on "mistaken expectations". 
 ----------
  * **hambar** :: tasteless (adjective)
  * Makanan rasanya hambar kalau kita sakit. 
@@ -2043,6 +2051,10 @@
  * Ada peringatan tsunami di daerah ini. 
  * There is a tsunami alert in this area. 
 ----------
+ * **pengecualian** :: exception (noun)
+ * Ada pengecualian untuk setiap peraturan. 
+ * There are exceptions to every rule. 
+----------
  * **suasana hati** :: mood (noun)
  * Suasana hatiku sedang tidak enak untuk bercanda. 
  * I'm not in the mood for jokes. 
@@ -2050,6 +2062,10 @@
  * **pengguna internet** :: internet user (noun)
  * Kebanyakan pengguna internet mengharapkan sambungan yang cepat. 
  * Most internet users expect fast connection speeds. 
+----------
+ * **hantu** :: ghost (noun)
+ * Menurut mereka ada hantu di rumah tua itu. 
+ * They say that ghosts haunt the old house. 
 ----------
  * **memegang** :: to hold (verb)
  * Tolong pegang kail ini sebentar. 
@@ -2059,6 +2075,10 @@
  * Rambut gimbal tidak cocok untuk kamu. 
  * Dreadlocks don't look good on you. 
 ----------
+ * **menyelesaikan** :: to finish (verb)
+ * Apa kamu sudah menyelesaikan pekerjaan rumah? 
+ * Have you finished the home work? 
+----------
  * **Sampai nanti!** :: See you soon! (expression)
  * Aku harus pergi sekarang, sampai nanti! 
  * I've got to go now, see you soon! 
@@ -2066,6 +2086,10 @@
  * **mengejutkan** :: shocking (adjective)
  * Rekaman kecelakaan itu sangat mengejutkan. 
  * The footage of the accident was shocking. 
+----------
+ * **berbunga** :: to flower (verb)
+ * Pohon-pohon itu akan berbunga dalam beberapa minggu. 
+ * The trees will flower in a few weeks. 
 ----------
  * **tidur pulas** :: to sleep like a log (expression)
  * Malam itu aku tidur pulas dan tidak dengar apa-apa. 
@@ -2075,6 +2099,10 @@
  * Apa kamu bilang kepada adik perempuanmu? Dia cemberut lagi. 
  * What did you say to your sister? She's pouting again. 
 ----------
+ * **menakutkan** :: scary (adjective)
+ * Apa kamu suka filem menakutkan? 
+ * Do you like scary movies? 
+----------
  * **berguna** :: useful (adjective)
  * Artikel ekonomi itu berguna sekali untuk penelitianku. 
  * The article on economics was very useful for my research. 
@@ -2082,6 +2110,10 @@
  * **di sampingmu** :: by your side (expression)
  * Aku mau menghabiskan seluruh hidupku di sampingmu. 
  * I want to spend the rest of my life by your side. 
+----------
+ * **mundur** :: to withdraw (verb)
+ * Hamba dengar dia datang: mari kita mundur, Tuanku. 
+ * I hear him coming: let's withdraw, my lord. 
 ----------
  * **jin** :: goblin (noun)
  * Keponakanku suka cerita-cerita tentang jin dan peri. 
@@ -2091,6 +2123,10 @@
  * Panah itu tepat mengenai sasaran. 
  * The arrow hit the center of the target. 
 ----------
+ * **menggali** :: to dig (verb)
+ * Gali sampai kamu temukan minyak. 
+ * Dig until you strike oil. 
+----------
  * **sehat** :: healthy (adjective)
  * Olah raga setiap hari adalah kegiatan yang sehat. 
  * Doing daily exercise is a healthy activity. 
@@ -2098,6 +2134,10 @@
  * **biskuit** :: cookies (noun)
  * Ibu saya selalu mengirim saya kotak biskuit untuk hari Natal. 
  * My mother always sends me a box of cookies for Christmas. 
+----------
+ * **fosil** :: fossil (noun)
+ * Fosil di museum itu dari periode Cretaceous. 
+ * The fossils at the museum are from the Cretaceous period. 
 ----------
  * **kelincahan** :: agility (noun)
  * Aku tidak punya cukup kelincahan untuk bermain sebagai guard. 
@@ -2107,6 +2147,10 @@
  * Aku tidak mau nonton filem itu biarpun dibayar. 
  * I wouldn't watch that movie in a million years. 
 ----------
+ * **memotret** :: to photograph (verb)
+ * Dia memotret seekor burung langka. 
+ * She photographed a rare bird. 
+----------
  * **lengan** :: sleeve (noun)
  * Dingin di luar, kamu sebaiknya pakai baju lengan panjang. 
  * It's cold outside; you'd better wear something with long sleeves. 
@@ -2114,6 +2158,10 @@
  * **pengharum ruangan** :: air freshener (noun)
  * Pengharum ruangan bisa mengatasi bau. 
  * An air freshener might eliminate the odor. 
+----------
+ * **dingin** :: chilly (adjective)
+ * Hari yang dingin! 
+ * What a chilly day! 
 ----------
  * **menerima** :: to receive (verb)
  * Saya lebih suka menerima hadiah uang tunai. 
@@ -2123,6 +2171,10 @@
  * Kita harus singkirkan perabot tua kita. 
  * We have to get rid of our old furniture. 
 ----------
+ * **menunggu** :: to wait for (verb)
+ * Kami sedang menunggu bis. 
+ * We are waiting for the bus. 
+----------
  * **notaris** :: notary (noun)
  * Kontrak ini harus ditandatangani di depan notaris. 
  * The contract has to be signed in front of a notary. 
@@ -2130,6 +2182,10 @@
  * **sakit** :: pain (noun)
  * Sakitnya tak tertahankan. 
  * The pain is unbearable. 
+----------
+ * **berseluncur** :: to skate (verb)
+ * Anak-anak berseluncur di danau ketika danau itu membeku. 
+ * The children skate on the pond once it is frozen solid. 
 ----------
  * **serius** :: seriously (adverb)
  * Dua puluh orang luka-luka parah. 
@@ -2139,6 +2195,10 @@
  * Acara televisi ini kontroversional karena unsur kekerasannya. 
  * This television show is controversial for being so violent. 
 ----------
+ * **kereta luncur** :: sled (noun)
+ * Kakeknya memberi dia kereta luncur musim dingin lalu. 
+ * His grandfather gave him a sled last winter. 
+----------
  * **sandal** :: slipper (noun)
  * Dia memakai sandalnya dan berjingkat ke lantai bawah. 
  * She put on her slippers and tip-toed quietly downstairs. 
@@ -2146,6 +2206,10 @@
  * **tameng** :: shield (noun)
  * Ksatria itu menangkis pukulan dengan tamengnya. 
  * The knight blocked the blow with his shield. 
+----------
+ * **tenggorokan** :: throat (noun)
+ * Tenggorokanku sakit hari ini. 
+ * My throat is hurting today. 
 ----------
  * **helicopter** :: helicopter (noun)
  * Korban-korban banjir diselamatkan oleh helikopter. 
@@ -2155,6 +2219,10 @@
  * Mari berjabat tangan dan berbaikan. 
  * Shake hands and make up. 
 ----------
+ * **lulus** :: to graduate (verb)
+ * Adikku akan lulus satu bulan lagi. 
+ * My brother will graduate in a month. 
+----------
  * **krayon** :: crayon (noun)
  * Seseorang sudah mewarnai buku ini dengan krayon! 
  * Someone has colored in this book with a crayon! 
@@ -2162,6 +2230,10 @@
  * **permen karet** :: bubble gum (noun)
  * Aku tidak bisa berjalan sambil makan permen karet. 
  * I can't walk and chew gum at the same time. 
+----------
+ * **mesin pemotong rumput** :: lawnmower (noun)
+ * Mesin pemotong rumput ini perlu bensin. 
+ * The lawnmower needs gasoline. 
 ----------
  * **catur** :: chess (noun)
  * Bagaimana kalau kita main catur? 
@@ -2171,6 +2243,10 @@
  * Aku tidak beli model terbaru karena sangat mahal. 
  * I didn't buy the most recent model because it's very expensive. 
 ----------
+ * **padang rumput** :: meadow (noun)
+ * Padang rumput yang luas membentang di bawah tebing. 
+ * A vast meadow spreads out below the cliff. 
+----------
  * **atap** :: roof (noun)
  * Aku ingin sekali membuat taman di atap. 
  * I would love to build a garden on the roof. 
@@ -2178,6 +2254,10 @@
  * **kibor** :: keyboard (noun)
  * Aku tidak tahu bagaimana mengganti tampilan kibor. 
  * I don't know how to change the keyboard layout. 
+----------
+ * **sejarah** :: history (noun)
+ * Mereka belajar sejarah di universitas. 
+ * They studied history at the university. 
 ----------
  * **ATM** :: ATM (noun)
  * Aku harus bayar uang tunai. Apa ada ATM di sini? 
@@ -2187,6 +2267,10 @@
  * Buah apel kaya vitamin A, B dan C. 
  * Apples are rich in vitamin A, B and C. 
 ----------
+ * **jam** :: clock (noun)
+ * Tiga puluh tahun yang lalu, petir menyambar menara jam itu. 
+ * Thirty years ago, lightning struck that clock tower. 
+----------
  * **sumur** :: well (noun)
  * Apa itu sumur artesis? 
  * What is an artesian well? 
@@ -2194,6 +2278,10 @@
  * **memperingkatkan** :: to warn (verb)
  * Ini terakhir kalinya saya memperingatkan kamu! 
  * That's the last time I'm going to warn you! 
+----------
+ * **rumah sakit** :: hospital (noun)
+ * Di mana rumah sakit? 
+ * Where is the hospital? 
 ----------
  * **apartemen** :: apartment (noun)
  * Apartemenku di lantai satu. 
@@ -2203,6 +2291,10 @@
  * Kesehatan lebih baik dari pada kekayaan. 
  * Health is better than wealth. 
 ----------
+ * **abaikan** :: to ignore (verb)
+ * Abaikan bagian terakhir. 
+ * Ignore that last part. 
+----------
  * **ribuan** :: thousand (noun)
  * Ada ribuan alasan untuk melakukan hal itu. 
  * There are thousands of reasons to do it. 
@@ -2210,6 +2302,10 @@
  * **tertawa** :: laughter (noun)
  * Tertawa adalah obat yang paling manjur. 
  * Laughter is the best medicine. 
+----------
+ * **menyampaikan secara tidak langsung** :: to imply (verb)
+ * Menurut kamu apa maksud pidato itu secara tidak langsung? 
+ * What do you think the speech implied? 
 ----------
  * **keringat** :: sweat (noun)
  * Keringatku bercucuran setelah lari. 
@@ -2219,6 +2315,10 @@
  * Bisa tolong ambilkan saya satu serbet lagi? 
  * Can you bring me another napkin, please? 
 ----------
+ * **pajak** :: tax (noun)
+ * Jangan lupa membayar pajakmu! 
+ * Do not forget to pay your taxes! 
+----------
  * **bab** :: chapter (noun)
  * Bab ini sangat menarik. 
  * This chapter is very interesting. 
@@ -2226,6 +2326,10 @@
  * **kemarahan** :: anger (noun)
  * Jangan biarkan kemarahan berlarut. 
  * Don't get carried away by anger. 
+----------
+ * **berimprovisasi** :: to improvise (verb)
+ * Aktor-aktor itu berimprovisasi di sepanjang adegan. 
+ * The actors improvised the entire scene. 
 ----------
  * **pahit** :: bitter (adjective)
  * Aku tidak suka kopi pahit, aku lebih suka kopi dengan sedikit gula. 
@@ -2235,6 +2339,10 @@
  * Memaafkan bukan hal yang mudah. 
  * To forgive is not an easy task. 
 ----------
+ * **musim dingin** :: winter (noun)
+ * Musim dingin akan datang. 
+ * Winter is coming. 
+----------
  * **membuang** :: to dispense with (verb)
  * Mari kita membuang rincian-rincian yang tidak penting. 
  * Let's dispense with the unnecessary details. 
@@ -2242,6 +2350,10 @@
  * **stress** :: stress (noun)
  * Aku terlalu stress untuk tidur. 
  * I'm under too much stress to sleep. 
+----------
+ * **dihiasi** :: to be decorated (verb)
+ * Rumahnya, seperti biasa, dihiasi sangat baik. 
+ * Her house is, as usual, very well decorated. 
 ----------
  * **ember** :: bucket (noun)
  * Embernya penuh dengan buah segar. 
@@ -2251,6 +2363,10 @@
  * Kalau saja dinding-dinding ini bisa bicara. 
  * If only these walls could talk. 
 ----------
+ * **membutuhkan** :: to need (verb)
+ * Kamu membutuhkan kapal yang lebih besar. 
+ * You're going to need a bigger boat. 
+----------
  * **anjing** :: dog (noun)
  * Anjing adalah sahabat manusia. 
  * A dog is a man's best friend. 
@@ -2258,6 +2374,10 @@
  * **berbicara** :: to talk (verb)
  * Jangan bicara dengan orang yang kamu tidak kenal! 
  * Don't talk to strangers! 
+----------
+ * **surat sampah** :: junk mail (noun)
+ * Emailnya mungkin tidak sengaja masuk ke tempat surat sampahmu. 
+ * The email may have accidentally gone into your junk mail folder. 
 ----------
  * **orang suci** :: saint (noun)
  * Aku bukan orang suci. 
@@ -2267,6 +2387,10 @@
  * Di mana ada asap, di situ ada api. 
  * Where there's smoke, there's fire. 
 ----------
+ * **blok** :: to block (verb)
+ * Kenapa kamu blok aku di twitter, bung? 
+ * Why'd you block me on Twitter, friend? 
+----------
  * **tidak diketahui** :: unknown (expression)
  * Keberadaannya tidak diketahui, tapi aku pikir dia sudah kabur ke luar negeri. 
  * His whereabouts are unknown, but I think he fled the country. 
@@ -2274,6 +2398,10 @@
  * **gila** :: crazy (adjective)
  * Kita semua sedikit gila. 
  * We're all a little crazy. 
+----------
+ * **kesabaran** :: patience (noun)
+ * Kesabaranku sudah habis! 
+ * I don't have the patience anymore! 
 ----------
  * **dukungan** :: support (noun)
  * Terima kasih atas dukungan anda. 
@@ -2283,6 +2411,10 @@
  * Aku tidak tidur sedikitpun semalaman karena aku kena insomnia. 
  * I didn't sleep a wink all night because I had insomnia. 
 ----------
+ * **mempertaruhkan** :: to risk (verb)
+ * Aku mempertaruhkan nyawaku setiap kali aku pergi bekerja. 
+ * I risk my life every time I go to work. 
+----------
  * **sepotong** :: piece (noun)
  * Aku mau sepotong kue. 
  * I want a piece of cake. 
@@ -2290,6 +2422,10 @@
  * **tinggal** :: to stay (verb)
  * Kenapa kamu tidak buka saja jaketmu dan tinggal di sini sebentar lagi. 
  * Why don't you take off your coat and stay a while? 
+----------
+ * **belajar** :: to study (verb)
+ * Saya belajar semalaman untuk ujian ini. 
+ * I've been up all night studying for this test. 
 ----------
  * **mula-mula** :: at first (expression)
  * Mula-mula aku tidak tahu mau bilang apa. 
@@ -2299,6 +2435,10 @@
  * Saya sebetulnya tidak perlu ini, tetapi ini diobral! 
  * I don't really need this, but it's on sale! 
 ----------
+ * **pusing** :: headache (noun)
+ * Aku pusing memikirkan masalah ini. 
+ * I have a headache thinking about this problem. 
+----------
  * **kekurangan** :: shortage (noun)
  * Ada krisis kekurangan rumah di Eropa. 
  * In Europe there is housing shortage. 
@@ -2306,6 +2446,10 @@
  * **fantastis** :: grotesque (adjective)
  * Adegan perkelahian itu kelihatan cukup fantastis. 
  * The fight scene looked quite grotesque. 
+----------
+ * **bawang bombay** :: onion (noun)
+ * Saya tidak suka bawang bombay di selada saya! 
+ * I hate raw onion in my salads! 
 ----------
  * **pada akhirnya** :: in the end (expression)
  * Pada akhirnya aku akui bahwa dia benar. 
@@ -2315,6 +2459,10 @@
  * "Baiklah, aku akan lakukan itu," gerutu John. 
  * "Fine, I'll do it," mumbled John. 
 ----------
+ * **kentang goreng** :: fries (noun)
+ * Apa Anda mau kentang goreng dengan itu? 
+ * Do you want fries with that? 
+----------
  * **malu** :: shy (adjective)
  * Berteman adalah hal yang sulit kalau kamu pemalu sekali. 
  * Making friends is hard when you are painfully shy. 
@@ -2322,6 +2470,10 @@
  * **mengisi** :: to fill (verb)
  * Aku harus mengisi bensin sebelum kembalikan mobilnya. 
  * I have to fill up the tank before I return his car. 
+----------
+ * **pantai** :: beach (noun)
+ * Saya dan dia akan pergi ke pantai besok. 
+ * She and I will go to the beach tomorrow. 
 ----------
  * **bunga** :: flower (noun)
  * Seorang pengagum rahasia mengirimi aku bunga! 
@@ -2331,6 +2483,10 @@
  * Apa kamu sadar konsekwensi dari perbuatanmu? 
  * Are you aware of the consequences of your actions? 
 ----------
+ * **kucing** :: cat (noun)
+ * Kucing itu melompat ke atas meja. 
+ * The cat jumped on the table. 
+----------
  * **belum** :: yet (adverb)
  * Dia belum pergi. 
  * She hasn't gone yet. 
@@ -2338,6 +2494,10 @@
  * **mengagetkan** :: to startle (verb)
  * Suara ledakan itu mengagetkan aku. 
  * The sound of the explosion startled me. 
+----------
+ * **hiking** :: to hike (verb)
+ * Apa kamu mau hiking lewat hutan? 
+ * Do you want to hike through the woods? 
 ----------
  * **pakaian** :: clothing (noun)
  * Buka pakaian-pakaian kotor itu! 
@@ -2347,6 +2507,10 @@
  * Mereka menghabiskan waktu dengan bertengkar. 
  * They spent the whole time quarrelling. 
 ----------
+ * **matematika** :: mathematics (noun)
+ * Aku tidak pernah menerima nilai matematika bagus. 
+ * I never received good grades in mathematics. 
+----------
  * **api** :: flame (noun)
  * Api menghancurkan pesan rahasia itu dalam hitungan detik. 
  * The flame destroyed the secret message in seconds. 
@@ -2354,6 +2518,10 @@
  * **manja** :: spoiled (adjective)
  * Dia anak manja. 
  * He is a spoiled child. 
+----------
+ * **uang receh** :: coin (noun)
+ * Ini, ambil uang receh ini. Aku tidak butuh. 
+ * Here, take these coins. I don't need them. 
 ----------
  * **melawan** :: against (preposition)
  * Kadang-kadang aku merasa sepertinya seluruh dunia melawan aku! 
@@ -2363,6 +2531,10 @@
  * Negara mana yang akan menjadi tuan rumah olimpiade berikutnya? 
  * Which country will host the next Olympics? 
 ----------
+ * **uang** :: money (noun)
+ * Tampaknya tidak seorangpun yang memiliki cukup uang. 
+ * Nobody seems to have enough money. 
+----------
  * **cahaya** :: light (noun)
  * Cahaya itu menyilaukan! 
  * The light is blinding! 
@@ -2370,6 +2542,10 @@
  * **paling tidak** :: at least (expression)
  * Paling tidak dia melakukan sesuatu; orang lain hanya melihat. 
  * At least he did something; everyone else just watched. 
+----------
+ * **menggigit** :: to bite (verb)
+ * Anjing saya tidak akan menggigit kamu. 
+ * My dog will not bite you. 
 ----------
  * **tawaran** :: offer (noun)
  * Aku akan buat tawaran yang dia tidak bisa tolak. 
@@ -2379,6 +2555,10 @@
  * Jangan gunakan kata-kata kotor di sini. 
  * One shouldn't use profanity here. 
 ----------
+ * **nyamuk** :: mosquito (noun)
+ * Nyamuk-nyamuk ini tidak mau pergi! 
+ * The mosquitoes will not leave me alone! 
+----------
  * **akhir** :: end (noun)
  * Inilah akhir perjalanan kita. 
  * This is the end of our journey. 
@@ -2386,6 +2566,10 @@
  * **tidak ada** :: absence (noun)
  * Kamu bisa teruskan proyek ini selama aku tidak ada. 
  * You can keep the project going in my absence. 
+----------
+ * **bintang filem** :: movie star (noun)
+ * Siapa bintang filem kesukaan kamu? 
+ * Who's your favorite movie star? 
 ----------
  * **menikah** :: to get married (verb)
  * Kapan kamu akan menikah? 
@@ -2395,6 +2579,10 @@
  * Kami merencanakan pesta kejutan secara rahasia. 
  * We planned a surprise party in secret. 
 ----------
+ * **makanan laut** :: seafood (noun)
+ * Saya suka makanan laut, tapi teman saya alergi. 
+ * I love seafood, but my friend is allergic to it. 
+----------
  * **mencintai** :: to love (verb)
  * Aku akan mencintai kamu selamanya. 
  * I will love you forever. 
@@ -2402,6 +2590,10 @@
  * **komidi putar** :: Ferris wheel (noun)
  * Bu, aku mau naik komidi putar! 
  * Mom, I want to get on the Ferris wheel! 
+----------
+ * **duduk** :: to sit down (verb)
+ * Kadang-kadang saya hanya mau duduk sambil ditemani buku bagus. 
+ * Sometimes I just like to sit down with a good book. 
 ----------
  * **labu kuning** :: pumpkin (noun)
  * Kamu mengukir labu kuning untuk diletakkan di depan tangga. 
@@ -2411,6 +2603,10 @@
  * Saya selalu beli semangka tanpa biji. 
  * I always buy the kind of watermelon with no seeds. 
 ----------
+ * **halaman berumput** :: lawn (noun)
+ * Sudah saatnya memotong rumput di halaman. 
+ * It's time to mow the lawn. 
+----------
  * **berangkat** :: to depart (verb)
  * Pesawat sudah berangkat sepuluh menit yang lalu. Apa yang harus kita lakukan? 
  * The plane departed ten minutes ago. What do we do? 
@@ -2418,6 +2614,10 @@
  * **keberatan** :: objection (noun)
  * Bukannya ayahmu keberatan kali ini? 
  * Didn't your father have an objection this time? 
+----------
+ * **ijin** :: permission (noun)
+ * Lebih mudah minta maaf dari pada minta ijin. 
+ * It's easier to ask forgiveness than permission. 
 ----------
  * **singa** :: lion (noun)
  * Singa-singa itu adalah binatang baru yang ditambahkan di kebun binatang. 
@@ -2427,6 +2627,10 @@
  * Anak perempuan saya bekerja sebagai pramugari. 
  * My daughter works as a stewardess. 
 ----------
+ * **isi** :: to fill out (a form) (verb)
+ * Tolong isi formulir ini sambil Anda menunggu. 
+ * Please fill out this form while you wait. 
+----------
  * **sekolah** :: school (noun)
  * Dia tidak mau pergi ke sekolah. 
  * He does not want to go to school. 
@@ -2434,6 +2638,10 @@
  * **kemangi** :: basil (noun)
  * Kemangi adalah bahan utama pesto. 
  * Basil is the main ingredient in pesto. 
+----------
+ * **penumpang** :: passenger (noun)
+ * Penumpang kendaraan itu tidak terluka. 
+ * The passenger of the vehicle was unharmed. 
 ----------
  * **belajar** :: to learn (verb)
  * Aku mau lebih banyak belajar bahasa Jerman. 
@@ -2443,6 +2651,10 @@
  * Saya akan datang secepat mungkin. 
  * I will be there as soon as I can. 
 ----------
+ * **latihan kebakaran** :: fire drill (noun)
+ * Jangan panik, ini hanya latihan kebakaran. 
+ * Don't panic, it's only a fire drill. 
+----------
  * **lift** :: elevator (noun)
  * Naik lift ke lantai sembilan. 
  * Take the elevator to the ninth floor. 
@@ -2450,6 +2662,10 @@
  * **kecemburuan** :: jealousy (noun)
  * Kecemburuan adalah akar masalahnya. 
  * Jealousy is the root of the problem. 
+----------
+ * **pipi** :: cheek (noun)
+ * Waktu dia melihat saya, dia cium saya di pipi dua kali. 
+ * When she saw me, she kissed me twice on the cheeks. 
 ----------
  * **bermain (instrumen)** :: to play (an instrument) (verb)
  * Dia bermain piano seperti seorang piawai. 
@@ -2459,6 +2675,10 @@
  * Kucingku menjadi kalut begitu mobil mulai bergerak. 
  * My cat became frantic as soon as the car began to move. 
 ----------
+ * **brokoli** :: broccoli (noun)
+ * Apakah Anda lebih suka makan brokoli rebus atau mentah? 
+ * Do you prefer to steam broccoli or to eat it raw? 
+----------
  * **dadu** :: dice (noun)
  * Sekarang giliranmu mengocok dadu. 
  * It's your turn to roll the dice. 
@@ -2466,6 +2686,10 @@
  * **mengalahkan** :: to defeat (verb)
  * Kita mengalahkan musuh dengan bantuan rekan-rekan kita. 
  * We defeated the enemies with the help of our friends. 
+----------
+ * **menculik** :: to abduct (verb)
+ * Semalam saya bermimpi saya diculik oleh mahluk angkasa luar. 
+ * Last night I dreamt I was being abducted by aliens. 
 ----------
  * **bulan** :: moon (noun)
  * Bulan terang malam ini. 
@@ -2475,6 +2699,10 @@
  * Aku rindu punya kebun. 
  * I miss having a garden. 
 ----------
+ * **petugas pemadam kebakaran** :: fire fighters (noun)
+ * Api tidak menjalar karena petugas pemadam kebakaran tiba pada waktunya. 
+ * The fire did not spread because the fire fighters arrived just in time. 
+----------
  * **menemukan** :: to uncover (verb)
  * Ekspedisi mereka menemukan reruntuhan kuno. 
  * Their expedition uncovered ancient ruins. 
@@ -2482,6 +2710,10 @@
  * **kecuali** :: unless (preposition)
  * Dia tidak akan tidur kecuali kamu bacakan dia cerita. 
  * He won't go to sleep unless you read him a story. 
+----------
+ * **tebing** :: cliff (noun)
+ * Selama perjalanan kami di sekitar Inggris, kami sudah mengunjungi tebing Dover. 
+ * During our trip around England we visited the cliffs of Dover. 
 ----------
  * **tidak sehat** :: unhealthy (adjective)
  * Merokok adalah kebiasaan tidak sehat. 
@@ -2491,6 +2723,10 @@
  * Dengan bertambahnya usia, muncullah nostalgia dan kerinduan akan hal-hal yang sederhana. 
  * With age comes nostalgia and a longing for simpler times. 
 ----------
+ * **telepon** :: to call (verb)
+ * Telepon saya nanti malam dan kita akan membuat rencana. 
+ * Call me tonight and we'll make plans. 
+----------
  * **menyejukkan** :: to cool (verb)
  * Kipas angin akan menyejukkan ruangan. 
  * The fan will cool the room. 
@@ -2498,6 +2734,10 @@
  * **berbisik** :: to whisper (verb)
  * Anak kecil itu berbisik kepada ibunya. 
  * That little girl is whispering to her mother. 
+----------
+ * **bording pas** :: boarding pass (noun)
+ * Tolong siapkan bording pas Anda di loket. 
+ * Please, have your boarding pass ready at the counter. 
 ----------
  * **sembrono** :: reckless (adjective)
  * Supir sembrono - dia nyetir sambil telepon! 
@@ -2507,6 +2747,10 @@
  * Kami tidur di luar, di bawah bintang-bintang. 
  * We slept in the open, under the stars. 
 ----------
+ * **sindiran** :: hint (noun)
+ * Beberapa orang memang tidak bisa menerima sindiran. 
+ * Some people just can't take a hint. 
+----------
  * **biru tua** :: navy (adjective)
  * Tidak sengaja aku memakai satu kaos kaki biru tua dan satu hitam. 
  * I accidentally put on one navy sock and one black. 
@@ -2514,6 +2758,10 @@
  * **berpacaran** :: to date (verb)
  * Apa pendapatmu tentang pacaran lewat webcam? 
  * What do you think about dating by webcam? 
+----------
+ * **interface** :: interface (noun)
+ * Program ini punya interface pengguna yang baik sekali. 
+ * The program has a very nice user interface. 
 ----------
  * **bergelantung** :: to hang (verb)
  * Ada sarang laba-laba bergelantungan di langit-langit. 
@@ -2523,6 +2771,10 @@
  * Hidupku kacau dan aku tidak tahu apa yang harus aku lakukan. 
  * My life is a mess and I don't know what to do. 
 ----------
+ * **tahun kabisat** :: leap year (noun)
+ * Tahun depan adalah tahun kabisat. 
+ * Next year is a leap year. 
+----------
  * **kelembaban** :: humidity (noun)
  * Ini bukan suhunya, tapi kelembabannya. 
  * It's not the heat, it's the humidity. 
@@ -2530,6 +2782,10 @@
  * **teka-teki** :: puzzle (noun)
  * Memecahkan teka-teki adalah latihan mental yang baik. 
  * Solving puzzles is a good mental exercise. 
+----------
+ * **berita utama** :: headline (noun)
+ * Apakah kamu sudah baca berita utama pagi ini? 
+ * Did you see the headlines this morning? 
 ----------
  * **dada** :: chest (noun)
  * Dadaku sakit. 
@@ -2539,6 +2795,10 @@
  * Dalam ujian terungkap kurangnya persiapan siswa. 
  * In the exam the students revealed their total lack of preparation. 
 ----------
+ * **Senin** :: Monday (noun)
+ * Aku punya janji dengan dokter hari Senin. 
+ * I have a doctor's appointment on Monday. 
+----------
  * **pembohong** :: liar (noun)
  * Kamu pembohong! 
  * You're such a liar! 
@@ -2546,6 +2806,10 @@
  * **pamer** :: to show off (verb)
  * Dia melakukan itu hanya untuk pamer di depan teman-temannya. 
  * He did it just to show off in front of his friends. 
+----------
+ * **mencair** :: to melt (verb)
+ * Salju musim dingin sudah mencair. 
+ * The winter snow has already melted. 
 ----------
  * **kehilangan** :: to lose (verb)
  * Aku tidak akan kehilangan apa-apa. 
@@ -2555,6 +2819,10 @@
  * Aku tidak melihat sekumpulan serigala yang mendekat. 
  * I failed to notice the approaching pack of wolves. 
 ----------
+ * **bagan** :: draft (noun)
+ * Bagan pertama akan selesai besok. 
+ * The first draft will be ready by tomorrow. 
+----------
  * **di sini** :: here (adverb)
  * Panas sekali di sini. 
  * It's very hot in here. 
@@ -2562,6 +2830,10 @@
  * **bahagia** :: happy (adjective)
  * Apa kamu bahagia? 
  * Are you happy? 
+----------
+ * **laba-laba** :: spider (noun)
+ * Banyak orang takut akan laba-laba. 
+ * A lot of people are scared of spiders. 
 ----------
  * **air terjun** :: waterfall (noun)
  * Semua yang kita dengar hanya gemuruh air terjun. 
@@ -2571,6 +2843,10 @@
  * Dia belajar di akademi musik di Wina. 
  * He studied at the music academy in Vienna. 
 ----------
+ * **membumbui** :: to marinade (verb)
+ * Kamu harus bumbui kalkunnya sebelum dimasukkan ke oven. 
+ * You have to marinade the turkey before putting it in the oven. 
+----------
  * **langit** :: sky (noun)
  * Langit mendung. 
  * The sky is overcast. 
@@ -2578,6 +2854,10 @@
  * **rumah kaca** :: greenhouse (noun)
  * Para ilmuwan kuatir akan efek rumah kaca. 
  * Scientists worry about the Greenhouse Effect. 
+----------
+ * **kapal layar** :: sailboat (noun)
+ * Kapal layar menggunakan angin untuk bergerak di air. 
+ * Sailboats use wind to move on the water. 
 ----------
  * **pohon** :: tree (noun)
  * Pohon natal mereka dihiasi dengan berbagai macam ornamen natal. 
@@ -2587,6 +2867,10 @@
  * Dia gagal mencoba memecahkan rekor dunia. 
  * He failed in his attempt to beat the world record. 
 ----------
+ * **setuju** :: to agree (verb)
+ * Saya setuju dengan Anda dalam hal itu. 
+ * I agree with you on that issue. 
+----------
  * **cukup** :: enough (adverb)
  * Sudah cukup! 
  * Enough already! 
@@ -2594,6 +2878,10 @@
  * **pertengkaran** :: argument (noun)
  * Kami bertengkar tentang uang. 
  * We had an argument about money. 
+----------
+ * **secara acak** :: at random (expression)
+ * Kami memilih tempat duduk secara acak. 
+ * We chose a seat at random. 
 ----------
  * **kunci-kunci** :: keys (noun)
  * Aku kehilangan kunci-kunciku lagi. 
@@ -2603,6 +2891,10 @@
  * Hal keenam dalam agenda tampaknya sangat menarik. 
  * The sixth item on the agenda looks very interesting. 
 ----------
+ * **menyinggung** :: to offend (verb)
+ * Saya tidak bermaksud menyinggung Anda. 
+ * I didn't mean to offend you. 
+----------
  * **bahaya** :: danger (noun)
  * Binatang-binatang ini terancam bahaya kepunahan. 
  * These are animals in danger of extinction. 
@@ -2610,6 +2902,10 @@
  * **menasihati** :: to advise (verb)
  * Dokter menasihati dia bagaimana cara merawat bayinya. 
  * The doctor advised her how to take care of her baby. 
+----------
+ * **penjual mobil** :: car dealership (noun)
+ * Penjual mobil lokal saya tidak punya model mobil yang saya mau. 
+ * My local car dealership doesn't have the model I'm looking for. 
 ----------
  * **memerlukan** :: to require (verb)
  * Mineral ini memerlukan perlakuan khusus. 
@@ -2619,6 +2915,10 @@
  * Buku ini berjudul "The Gathering Storm". 
  * This book is called "The Gathering Storm". 
 ----------
+ * **janggut** :: goatee (noun)
+ * Dia kelihatan seram pakai janggut. 
+ * He looks kind of sinister with a goatee. 
+----------
  * **memasak** :: to cook (verb)
  * Saya suka memasak dengan anggur. 
  * I love to cook with wine. 
@@ -2626,6 +2926,10 @@
  * **memperkenalkan** :: to introduce (verb)
  * Saya ingin memperkenalkan pembicara kita berikutnya, Pak Jordan Chase. 
  * I'd like to introduce our next speaker, Mr. Jordan Chase. 
+----------
+ * **mayat** :: corpse (noun)
+ * Polisi menemukan dua mayat di tempat terjadinya kejahatan. 
+ * The police found two corpses at the scene of the crime. 
 ----------
  * **berat** :: heavy (adjective)
  * Koper saya berat sekali sampai saya tidak bisa membawanya. 
@@ -2635,6 +2939,10 @@
  * Mayoritas penduduk adalah miskin. 
  * The majority of the population is destitute. 
 ----------
+ * **memilih** :: to select (verb)
+ * Dari menu utama, pilih "opsi". 
+ * From the main menu, select "options". 
+----------
  * **seseorang** :: somebody (noun)
  * Bisakah Anda beritahu saya kapan kita akan tiba di setasiun? 
  * Can somebody tell me when we will arrive at the station? 
@@ -2642,6 +2950,10 @@
  * **mencocokkan** :: to match (verb)
  * Aku suka mencocokkan warna sepatu dengan warna tasku. 
  * I like to match the color of my shoes with the color of my purse. 
+----------
+ * **sial** :: bad luck (noun)
+ * Aku sial terus sejak kemarin. 
+ * I have been having bad luck since yesterday. 
 ----------
  * **menunjukkan** :: to show (verb)
  * Aku akan tunjukkan di mana kejadian itu terjadi. 
@@ -2651,6 +2963,10 @@
  * Saya biasa berkemah ketika kecil. 
  * I used to go camping as a child. 
 ----------
+ * **hati** :: liver (noun)
+ * Alkohol bisa berbahaya untuk hati. 
+ * Alcohol can be harmful to the liver. 
+----------
  * **gipsi** :: gypsy (noun)
  * Esmeralda dalam filem "Si Bungkuk dari Notre Dame" adalah seorang gipsi. 
  * Esmeralda in "The Hunchback of Notre Dame" was a gypsy. 
@@ -2658,6 +2974,10 @@
  * **berhenti hujan** :: to stop raining (expression)
  * Waktu hujan berhenti, kita akan pergi jalan-jalan. 
  * When it stops raining we will go for a walk. 
+----------
+ * **menyeduh** :: to brew (verb)
+ * Tehnya harus diseduh sedikit lebih lama. 
+ * The tea has to brew for a little bit longer. 
 ----------
  * **kesalahan** :: fault (noun)
  * Ini bukan kesalahanku. 
@@ -2667,6 +2987,10 @@
  * Aku tidak boleh sakit sekarang, liburanku mulai besok! 
  * I can't get sick now, my vacation starts tomorrow! 
 ----------
+ * **tukang daging** :: butcher (noun)
+ * Tukang dagingku selalu punya daging yang paling baik. 
+ * My butcher always has the best cuts of meat. 
+----------
  * **neraka** :: hell (noun)
  * Apa kamu pikir neraka tempat yang buruk? 
  * Do you think that hell will be such a bad place? 
@@ -2674,6 +2998,10 @@
  * **tentu saja** :: certainly (adverb)
  * Tentu saja, saya setuju dengan semua orang yang mengatakan hal itu. 
  * Certainly, I agree with all those who say that. 
+----------
+ * **filem** :: movie (noun)
+ * Tapi itu bisa di filem-filem! 
+ * It worked in the movie! 
 ----------
  * **menara** :: tower (noun)
  * Gadis itu bisa melihat ksatrianya dari menara. 
@@ -2683,6 +3011,10 @@
  * Ini adalah negara yang indah. 
  * This is a beautiful country. 
 ----------
+ * **mengukir** :: to carve (verb)
+ * Seseorang mengukir nama mereka di batang pohon itu. 
+ * Someone carved their name into the bark of that tree. 
+----------
  * **pekerjaan** :: work (noun)
  * Tugasku di sini sudah selesai. 
  * My work here is done. 
@@ -2690,6 +3022,10 @@
  * **mencurangi** :: to cheat (verb)
  * Kamu pikir kamu bisa curangi aku? Pikir lagi! 
  * Do you think you can cheat me? Think again! 
+----------
+ * **buah kering** :: dried fruit (noun)
+ * Buah kering kaya protein. 
+ * Dried fruit is rich in protein. 
 ----------
  * **tidak akan pernah** :: never (adverb)
  * Aku tidak akan pernah melepaskanmu. 
@@ -2699,6 +3035,10 @@
  * Aku suka ombak Laut Hitam. 
  * I like the waves of the Black Sea. 
 ----------
+ * **penulis** :: writer (noun)
+ * Saya mau menjadi seorang penulis kalau sudah besar. 
+ * I want to be a writer when I grow up. 
+----------
  * **senyuman** :: smile (noun)
  * Senyuman adalah cara terbaik untuk mengatakan "terima kasih". 
  * A smile is the best way to say "thank you". 
@@ -2706,6 +3046,10 @@
  * **mempercayai** :: to trust somebody (verb)
  * Dia selalu membohongi kita; aku tidak percaya dia. 
  * He always deceives us; I don't trust him. 
+----------
+ * **skak-mat** :: check-mate (noun)
+ * Aku hanya dua langkah dari skak-mat. 
+ * I'm two moves away from a check-mate. 
 ----------
  * **pintu** :: door (noun)
  * Tolong tutup pintunya, dingin di luar. 
@@ -2715,6 +3059,10 @@
  * Polisi menangkap seorang pencopet kemarin malam. 
  * The police arrested a pick-pocket last night. 
 ----------
+ * **renyah** :: crispy (adjective)
+ * Aku suka sereal waktu masih renyah. 
+ * I like cereal when it's still crispy. 
+----------
  * **membalas dendam** :: to get revenge (verb)
  * Korban itu berhasil membalas dendam terhadap pelaku kejahatan. 
  * The victim got revenge on the wrongdoer. 
@@ -2722,6 +3070,10 @@
  * **membosankan** :: to be a bore (verb)
  * Dia adalah guru yang membosankan. 
  * He is such a bore of a teacher. 
+----------
+ * **naskah** :: script (noun)
+ * Dia menulis naskah untuk filem terakhir dia sendiri. 
+ * He wrote the script for his last movie himself. 
 ----------
  * **kekecewaan** :: disappointment (noun)
  * Aku tidak bisa menyembunyikan kekecewaanku atas kekalahan itu. 
@@ -2731,6 +3083,10 @@
  * Makanan rasanya hambar kalau kita sakit. 
  * Food seems tasteless when one has a cold. 
 ----------
+ * **tsunami** :: tsunami (noun)
+ * Ada peringatan tsunami di daerah ini. 
+ * There is a tsunami alert in this area. 
+----------
  * **mendarat** :: to land (verb)
  * Anda harus tetap duduk ketika pesawat mendarat. 
  * One should remain seated when the plane lands. 
@@ -2738,6 +3094,10 @@
  * **suasana hati** :: mood (noun)
  * Suasana hatiku sedang tidak enak untuk bercanda. 
  * I'm not in the mood for jokes. 
+----------
+ * **pengguna internet** :: internet user (noun)
+ * Kebanyakan pengguna internet mengharapkan sambungan yang cepat. 
+ * Most internet users expect fast connection speeds. 
 ----------
  * **kecelakaan** :: mishap (noun)
  * Kami tiba tanpa celaka. 
@@ -2747,6 +3107,10 @@
  * Tolong pegang kail ini sebentar. 
  * Hold this fishing pole a moment. 
 ----------
+ * **rambut gimbal** :: dreadlocks (noun)
+ * Rambut gimbal tidak cocok untuk kamu. 
+ * Dreadlocks don't look good on you. 
+----------
  * **nyeri lambung** :: heartburn (noun)
  * Kegelisahan bisa menyebabkan nyeri lambung. 
  * Anxiety can cause heartburn. 
@@ -2754,6 +3118,10 @@
  * **Sampai nanti!** :: See you soon! (expression)
  * Aku harus pergi sekarang, sampai nanti! 
  * I've got to go now, see you soon! 
+----------
+ * **mengejutkan** :: shocking (adjective)
+ * Rekaman kecelakaan itu sangat mengejutkan. 
+ * The footage of the accident was shocking. 
 ----------
  * **menyiram toilet** :: to flush the toilet (expression)
  * Jangan lupa menyiram toilet. 
@@ -2763,6 +3131,10 @@
  * Malam itu aku tidur pulas dan tidak dengar apa-apa. 
  * That night I slept like a log and I didn't hear anything. 
 ----------
+ * **cemberut** :: to pout (verb)
+ * Apa kamu bilang kepada adik perempuanmu? Dia cemberut lagi. 
+ * What did you say to your sister? She's pouting again. 
+----------
  * **dicurangi** :: rigged (verb)
  * Aku pikir hasil pemilu ini dicurangi. 
  * I think the result of this general election was rigged. 
@@ -2770,6 +3142,10 @@
  * **berguna** :: useful (adjective)
  * Artikel ekonomi itu berguna sekali untuk penelitianku. 
  * The article on economics was very useful for my research. 
+----------
+ * **di sampingmu** :: by your side (expression)
+ * Aku mau menghabiskan seluruh hidupku di sampingmu. 
+ * I want to spend the rest of my life by your side. 
 ----------
  * **perampokan** :: robbery (noun)
  * Polisi datang terlambat ke tempat kejadian perampokan. 
@@ -2779,6 +3155,10 @@
  * Keponakanku suka cerita-cerita tentang jin dan peri. 
  * My nephew likes stories with goblins and fairies. 
 ----------
+ * **sasaran** :: target (noun)
+ * Panah itu tepat mengenai sasaran. 
+ * The arrow hit the center of the target. 
+----------
  * **printer** :: printer (noun)
  * Printer ini kehabisan kertas. 
  * The printer is out of paper. 
@@ -2786,6 +3166,10 @@
  * **sehat** :: healthy (adjective)
  * Olah raga setiap hari adalah kegiatan yang sehat. 
  * Doing daily exercise is a healthy activity. 
+----------
+ * **biskuit** :: cookies (noun)
+ * Ibu saya selalu mengirim saya kotak biskuit untuk hari Natal. 
+ * My mother always sends me a box of cookies for Christmas. 
 ----------
  * **tukang sulap** :: magician (noun)
  * Para penonton menepuktangani tukang sulap itu. 
@@ -2795,6 +3179,10 @@
  * Aku tidak punya cukup kelincahan untuk bermain sebagai guard. 
  * I don't have enough agility to play as a guard. 
 ----------
+ * **...biarpun dibayar** :: not in a million years (expression)
+ * Aku tidak mau nonton filem itu biarpun dibayar. 
+ * I wouldn't watch that movie in a million years. 
+----------
  * **mengungkap** :: to reveal (verb)
  * Penyelidikan itu mengungkap sebuah skandal. 
  * The investigation revealed a scandal. 
@@ -2802,6 +3190,10 @@
  * **lengan** :: sleeve (noun)
  * Dingin di luar, kamu sebaiknya pakai baju lengan panjang. 
  * It's cold outside; you'd better wear something with long sleeves. 
+----------
+ * **pengharum ruangan** :: air freshener (noun)
+ * Pengharum ruangan bisa mengatasi bau. 
+ * An air freshener might eliminate the odor. 
 ----------
  * **jalan raya** :: highway (noun)
  * Beberapa orang mengatakan bahwa kehidupan seperti jalan raya. 
@@ -2811,6 +3203,10 @@
  * Saya lebih suka menerima hadiah uang tunai. 
  * I'd rather receive the prize in cash. 
 ----------
+ * **menyingkirkan** :: to get rid of (verb)
+ * Kita harus singkirkan perabot tua kita. 
+ * We have to get rid of our old furniture. 
+----------
  * **penjara seumur hidup** :: life imprisonment (expression)
  * Narapidana itu menerima hukuman penjara seumur hidup. 
  * The criminal was sentenced to life imprisonment. 
@@ -2818,6 +3214,10 @@
  * **notaris** :: notary (noun)
  * Kontrak ini harus ditandatangani di depan notaris. 
  * The contract has to be signed in front of a notary. 
+----------
+ * **sakit** :: pain (noun)
+ * Sakitnya tak tertahankan. 
+ * The pain is unbearable. 
 ----------
  * **menguap** :: to yawn (verb)
  * Setelah makan siang, saya tidak bisa berhenti menguap. 
@@ -2827,6 +3227,10 @@
  * Dua puluh orang luka-luka parah. 
  * Twenty people were seriously injured. 
 ----------
+ * **kontroversional** :: controversial (adjective)
+ * Acara televisi ini kontroversional karena unsur kekerasannya. 
+ * This television show is controversial for being so violent. 
+----------
  * **tolol** :: fool (noun)
  * Lihat si tolol ini. Dia baca koran tapi terbalik. 
  * Check this fool out. He's reading the newspaper but it's upside down. 
@@ -2834,6 +3238,10 @@
  * **sandal** :: slipper (noun)
  * Dia memakai sandalnya dan berjingkat ke lantai bawah. 
  * She put on her slippers and tip-toed quietly downstairs. 
+----------
+ * **tameng** :: shield (noun)
+ * Ksatria itu menangkis pukulan dengan tamengnya. 
+ * The knight blocked the blow with his shield. 
 ----------
  * **boneka tedi** :: teddy bear (noun)
  * Tidak diijinkan membawa boneka tedi ke sekolah. 
@@ -2843,6 +3251,10 @@
  * Korban-korban banjir diselamatkan oleh helikopter. 
  * The flood victims were rescued in a helicopter. 
 ----------
+ * **berjabat tangan** :: to shake hands (verb)
+ * Mari berjabat tangan dan berbaikan. 
+ * Shake hands and make up. 
+----------
  * **pujian** :: praise (noun)
  * Perbuatan dia patut dipuji. 
  * Her deeds were praiseworthy. 
@@ -2850,6 +3262,10 @@
  * **krayon** :: crayon (noun)
  * Seseorang sudah mewarnai buku ini dengan krayon! 
  * Someone has colored in this book with a crayon! 
+----------
+ * **permen karet** :: bubble gum (noun)
+ * Aku tidak bisa berjalan sambil makan permen karet. 
+ * I can't walk and chew gum at the same time. 
 ----------
  * **jantung** :: heart (noun)
  * Jantungku berdebar-debar. 
@@ -2859,6 +3275,10 @@
  * Bagaimana kalau kita main catur? 
  * How about a game of chess? 
 ----------
+ * **sangat mahal** :: very expensive (expression)
+ * Aku tidak beli model terbaru karena sangat mahal. 
+ * I didn't buy the most recent model because it's very expensive. 
+----------
  * **orang-orang** :: people (noun)
  * Aku tidak bisa bekerja dengan orang-orang ini! 
  * I can't work with these people! 
@@ -2866,6 +3286,10 @@
  * **atap** :: roof (noun)
  * Aku ingin sekali membuat taman di atap. 
  * I would love to build a garden on the roof. 
+----------
+ * **kibor** :: keyboard (noun)
+ * Aku tidak tahu bagaimana mengganti tampilan kibor. 
+ * I don't know how to change the keyboard layout. 
 ----------
  * **panik** :: to freak out (expression)
  * Jangan panik, aku baru saja menghabiskan semua tabungan kita dalam permainan poker. 
@@ -2875,6 +3299,10 @@
  * Aku harus bayar uang tunai. Apa ada ATM di sini? 
  * I need to pay in cash. Is there an ATM here? 
 ----------
+ * **apel** :: apple (noun)
+ * Buah apel kaya vitamin A, B dan C. 
+ * Apples are rich in vitamin A, B and C. 
+----------
  * **tanggal kadaluarsa** :: expiration date (noun)
  * Jangan lupa perhatikan tanggal kadaluarsanya! 
  * Don't forget to pay attention to the expiration date! 
@@ -2882,6 +3310,10 @@
  * **sumur** :: well (noun)
  * Apa itu sumur artesis? 
  * What is an artesian well? 
+----------
+ * **memperingkatkan** :: to warn (verb)
+ * Ini terakhir kalinya saya memperingatkan kamu! 
+ * That's the last time I'm going to warn you! 
 ----------
  * **makanan kecil** :: snack (noun)
  * Waktu istirahat, makanan kecil dihidangkan. 
@@ -2891,6 +3323,10 @@
  * Apartemenku di lantai satu. 
  * My apartment is on the first floor. 
 ----------
+ * **kesehatan** :: health (noun)
+ * Kesehatan lebih baik dari pada kekayaan. 
+ * Health is better than wealth. 
+----------
  * **pengasuh anak** :: nanny (noun)
  * Dicari: pengasuh untuk dua anak. 
  * Wanted: nanny for two kids. 
@@ -2898,6 +3334,10 @@
  * **ribuan** :: thousand (noun)
  * Ada ribuan alasan untuk melakukan hal itu. 
  * There are thousands of reasons to do it. 
+----------
+ * **tertawa** :: laughter (noun)
+ * Tertawa adalah obat yang paling manjur. 
+ * Laughter is the best medicine. 
 ----------
  * **dari awal hingga akhir** :: from beginning to end (expression)
  * Aku baca dari awal hingga akhir dua kali. 
@@ -2907,6 +3347,10 @@
  * Keringatku bercucuran setelah lari. 
  * I am dripping with sweat after jogging. 
 ----------
+ * **serbet** :: napkin (noun)
+ * Bisa tolong ambilkan saya satu serbet lagi? 
+ * Can you bring me another napkin, please? 
+----------
  * **mulai dari awal** :: to start from scratch (expression)
  * Pindahan seperti mulai dari awal. 
  * Moving out is like starting from scratch. 
@@ -2914,6 +3358,10 @@
  * **bab** :: chapter (noun)
  * Bab ini sangat menarik. 
  * This chapter is very interesting. 
+----------
+ * **kemarahan** :: anger (noun)
+ * Jangan biarkan kemarahan berlarut. 
+ * Don't get carried away by anger. 
 ----------
  * **peramal** :: fortune teller (noun)
  * Peramal itu meramalkan kesuksesanmu. 
@@ -2923,6 +3371,10 @@
  * Aku tidak suka kopi pahit, aku lebih suka kopi dengan sedikit gula. 
  * I don't like bitter coffee, I prefer it with a bit of sugar. 
 ----------
+ * **memaafkan** :: to forgive (verb)
+ * Memaafkan bukan hal yang mudah. 
+ * To forgive is not an easy task. 
+----------
  * **bertinta** :: inky (adjective)
  * Cumi-cumi ini masih bertinta! 
  * This calamari is still inky! 
@@ -2930,6 +3382,10 @@
  * **membuang** :: to dispense with (verb)
  * Mari kita membuang rincian-rincian yang tidak penting. 
  * Let's dispense with the unnecessary details. 
+----------
+ * **stress** :: stress (noun)
+ * Aku terlalu stress untuk tidur. 
+ * I'm under too much stress to sleep. 
 ----------
  * **penghinaan** :: insult (noun)
  * Aku tidak akan mentolerir penghinaan ini! 
@@ -2939,6 +3395,10 @@
  * Embernya penuh dengan buah segar. 
  * Her bucket was filled with fresh fruit. 
 ----------
+ * **dinding** :: walls (noun)
+ * Kalau saja dinding-dinding ini bisa bicara. 
+ * If only these walls could talk. 
+----------
  * **menarik** :: to interest (verb)
  * Pelajaran bahasa menarik untuk saya. 
  * Language studies interest me. 
@@ -2946,6 +3406,10 @@
  * **anjing** :: dog (noun)
  * Anjing adalah sahabat manusia. 
  * A dog is a man's best friend. 
+----------
+ * **berbicara** :: to talk (verb)
+ * Jangan bicara dengan orang yang kamu tidak kenal! 
+ * Don't talk to strangers! 
 ----------
  * **setiap tahun** :: every year (expression)
  * Kami mengunjungi pantai setiap tahun. 
@@ -2955,6 +3419,10 @@
  * Aku bukan orang suci. 
  * I'm not a saint. 
 ----------
+ * **asap** :: smoke (noun)
+ * Di mana ada asap, di situ ada api. 
+ * Where there's smoke, there's fire. 
+----------
  * **melempar** :: to throw (verb)
  * Dia melempar bola salju kearahku. 
  * He threw a snowball at me. 
@@ -2962,6 +3430,10 @@
  * **tidak diketahui** :: unknown (expression)
  * Keberadaannya tidak diketahui, tapi aku pikir dia sudah kabur ke luar negeri. 
  * His whereabouts are unknown, but I think he fled the country. 
+----------
+ * **gila** :: crazy (adjective)
+ * Kita semua sedikit gila. 
+ * We're all a little crazy. 
 ----------
  * **hakim** :: judge (noun)
  * Hakim akan masuk ke ruangan, kita harus berdiri. 
@@ -2971,6 +3443,10 @@
  * Terima kasih atas dukungan anda. 
  * Thanks for your support. 
 ----------
+ * **tidak tidur sedikitpun** :: to not sleep a wink (expression)
+ * Aku tidak tidur sedikitpun semalaman karena aku kena insomnia. 
+ * I didn't sleep a wink all night because I had insomnia. 
+----------
  * **menghitung** :: to count (verb)
  * Bisa kamu hitung semua permen di dalam botol itu? 
  * Can you count all the jellybeans in that jar? 
@@ -2978,6 +3454,10 @@
  * **sepotong** :: piece (noun)
  * Aku mau sepotong kue. 
  * I want a piece of cake. 
+----------
+ * **tinggal** :: to stay (verb)
+ * Kenapa kamu tidak buka saja jaketmu dan tinggal di sini sebentar lagi. 
+ * Why don't you take off your coat and stay a while? 
 ----------
  * **perapian** :: hearth (noun)
  * Kami duduk dekat perapian itu sambil minum teh. 
@@ -2987,6 +3467,10 @@
  * Mula-mula aku tidak tahu mau bilang apa. 
  * At first I didn't know what to say. 
 ----------
+ * **diobral** :: on sale (expression)
+ * Saya sebetulnya tidak perlu ini, tetapi ini diobral! 
+ * I don't really need this, but it's on sale! 
+----------
  * **helm** :: helmet (noun)
  * Pakai helemmu waktu kamu naik sepeda motor. 
  * Wear your helmet when you ride your bike. 
@@ -2994,6 +3478,10 @@
  * **kekurangan** :: shortage (noun)
  * Ada krisis kekurangan rumah di Eropa. 
  * In Europe there is housing shortage. 
+----------
+ * **fantastis** :: grotesque (adjective)
+ * Adegan perkelahian itu kelihatan cukup fantastis. 
+ * The fight scene looked quite grotesque. 
 ----------
  * **gudang** :: cellar (noun)
  * Mereka punya gudang anggur dengan suhu terkontrol yang mengesankan. 
@@ -3003,6 +3491,10 @@
  * Pada akhirnya aku akui bahwa dia benar. 
  * In the end I had to admit that he was right. 
 ----------
+ * **menggerutu** :: to mumble (verb)
+ * "Baiklah, aku akan lakukan itu," gerutu John. 
+ * "Fine, I'll do it," mumbled John. 
+----------
  * **kotak** :: box (noun)
  * Mari kita lihat apa isi kotak ini. Kosong! Sama sekali kosong! 
  * Now let's see what's in the box. Nothing! Absolutely nothing! 
@@ -3010,6 +3502,10 @@
  * **malu** :: shy (adjective)
  * Berteman adalah hal yang sulit kalau kamu pemalu sekali. 
  * Making friends is hard when you are painfully shy. 
+----------
+ * **mengisi** :: to fill (verb)
+ * Aku harus mengisi bensin sebelum kembalikan mobilnya. 
+ * I have to fill up the tank before I return his car. 
 ----------
  * **badut** :: clown (noun)
  * Aku takut badut. 
@@ -3019,6 +3515,10 @@
  * Seorang pengagum rahasia mengirimi aku bunga! 
  * A mysterious admirer sent me flowers! 
 ----------
+ * **menyadari** :: to be aware of (expression)
+ * Apa kamu sadar konsekwensi dari perbuatanmu? 
+ * Are you aware of the consequences of your actions? 
+----------
  * **AC** :: air conditioner (noun)
  * Tolong nyalakan AC-nya. 
  * Turn on the air conditioner, please. 
@@ -3026,6 +3526,10 @@
  * **belum** :: yet (adverb)
  * Dia belum pergi. 
  * She hasn't gone yet. 
+----------
+ * **mengagetkan** :: to startle (verb)
+ * Suara ledakan itu mengagetkan aku. 
+ * The sound of the explosion startled me. 
 ----------
  * **daging giling** :: ground meat (noun)
  * Saya mau daging giling satu kilo. 
@@ -3035,6 +3539,10 @@
  * Buka pakaian-pakaian kotor itu! 
  * Take those dirty clothes off! 
 ----------
+ * **bertengkar** :: to quarrel (verb)
+ * Mereka menghabiskan waktu dengan bertengkar. 
+ * They spent the whole time quarrelling. 
+----------
  * **sedang kesal** :: to be in a bad mood (expression)
  * Jangan bicara dengan dia. Dia sedang kesal. 
  * Don't talk to him. He's in a bad mood. 
@@ -3042,6 +3550,10 @@
  * **api** :: flame (noun)
  * Api menghancurkan pesan rahasia itu dalam hitungan detik. 
  * The flame destroyed the secret message in seconds. 
+----------
+ * **manja** :: spoiled (adjective)
+ * Dia anak manja. 
+ * He is a spoiled child. 
 ----------
  * **sedikit** :: a little bit (expression)
  * Soup ini perlu sedikit garam. 
@@ -3051,6 +3563,10 @@
  * Kadang-kadang aku merasa sepertinya seluruh dunia melawan aku! 
  * Sometimes it feels like the whole world is against me! 
 ----------
+ * **tuan rumah** :: host (noun)
+ * Negara mana yang akan menjadi tuan rumah olimpiade berikutnya? 
+ * Which country will host the next Olympics? 
+----------
  * **orang usil** :: meddler (noun)
  * Aku tidak suka tetanggaku. Dia orang usil. 
  * I don't like my neighbor. She's a meddler. 
@@ -3058,6 +3574,10 @@
  * **cahaya** :: light (noun)
  * Cahaya itu menyilaukan! 
  * The light is blinding! 
+----------
+ * **paling tidak** :: at least (expression)
+ * Paling tidak dia melakukan sesuatu; orang lain hanya melihat. 
+ * At least he did something; everyone else just watched. 
 ----------
  * **pecundang** :: loser (noun)
  * Jangan berteman dengan mereka. Mereka pecundang. 
@@ -3067,6 +3587,10 @@
  * Aku akan buat tawaran yang dia tidak bisa tolak. 
  * I'm going to make him an offer he can't refuse. 
 ----------
+ * **kata-kata kotor** :: profanity (noun)
+ * Jangan gunakan kata-kata kotor di sini. 
+ * One shouldn't use profanity here. 
+----------
  * **meskipun** :: in spite of (conjunction)
  * Meskipun ada masalah, semuanya harus terus kita lanjutkan. 
  * In spite of the problem, the show must go on. 
@@ -3074,6 +3598,10 @@
  * **akhir** :: end (noun)
  * Inilah akhir perjalanan kita. 
  * This is the end of our journey. 
+----------
+ * **tidak ada** :: absence (noun)
+ * Kamu bisa teruskan proyek ini selama aku tidak ada. 
+ * You can keep the project going in my absence. 
 ----------
  * **mengikuti** :: to follow (verb)
  * Aku mengikuti Wil Wheaton di Twitter. Siapa yang tidak? 
@@ -3083,6 +3611,10 @@
  * Kapan kamu akan menikah? 
  * When are you getting married? 
 ----------
+ * **secara rahasia** :: in secret (adverb)
+ * Kami merencanakan pesta kejutan secara rahasia. 
+ * We planned a surprise party in secret. 
+----------
  * **Apa kamu bercanda?** :: Are you kidding? (expression)
  * Aku tidak percaya. Apa kamu bercanda? 
  * I can't believe it. Are you kidding? 
@@ -3090,6 +3622,10 @@
  * **mencintai** :: to love (verb)
  * Aku akan mencintai kamu selamanya. 
  * I will love you forever. 
+----------
+ * **komidi putar** :: Ferris wheel (noun)
+ * Bu, aku mau naik komidi putar! 
+ * Mom, I want to get on the Ferris wheel! 
 ----------
  * **kadang-kadang** :: from time to time (adverb)
  * Kadang-kadang aku pergi ke pantai. 
@@ -3099,6 +3635,10 @@
  * Kamu mengukir labu kuning untuk diletakkan di depan tangga. 
  * We carved pumpkins to put on the front steps. 
 ----------
+ * **biji** :: seed (noun)
+ * Saya selalu beli semangka tanpa biji. 
+ * I always buy the kind of watermelon with no seeds. 
+----------
  * **tempat hunian** :: shelter (noun)
  * Tempat hunian adalah salah satu dari tiga kebutuhan pokok. 
  * Shelter is one of the three basic needs. 
@@ -3106,6 +3646,10 @@
  * **berangkat** :: to depart (verb)
  * Pesawat sudah berangkat sepuluh menit yang lalu. Apa yang harus kita lakukan? 
  * The plane departed ten minutes ago. What do we do? 
+----------
+ * **keberatan** :: objection (noun)
+ * Bukannya ayahmu keberatan kali ini? 
+ * Didn't your father have an objection this time? 
 ----------
  * **pemberontakan** :: uprising (noun)
  * Pemberontakan itu mengemukakan perlunya ada perubahan sosial. 
@@ -3115,6 +3659,10 @@
  * Singa-singa itu adalah binatang baru yang ditambahkan di kebun binatang. 
  * The lions are the newest addition to the zoo. 
 ----------
+ * **pramugari** :: stewardess (noun)
+ * Anak perempuan saya bekerja sebagai pramugari. 
+ * My daughter works as a stewardess. 
+----------
  * **bertugas** :: to be on duty (verb)
  * Aku tidak bisa pergi akhir minggu ini, aku ada tugas. 
  * I can't go this weekend, I am on duty. 
@@ -3122,6 +3670,10 @@
  * **sekolah** :: school (noun)
  * Dia tidak mau pergi ke sekolah. 
  * He does not want to go to school. 
+----------
+ * **kemangi** :: basil (noun)
+ * Kemangi adalah bahan utama pesto. 
+ * Basil is the main ingredient in pesto. 
 ----------
  * **menakutkan** :: to frighten (verb)
  * Ledakan itu menakutkan orang-orang. 
@@ -3131,6 +3683,10 @@
  * Aku mau lebih banyak belajar bahasa Jerman. 
  * I want to learn more German. 
 ----------
+ * **secepat mungkin** :: as soon as (possible) (adverb)
+ * Saya akan datang secepat mungkin. 
+ * I will be there as soon as I can. 
+----------
  * **kulit kepala** :: scalp (noun)
  * Kulit kepala laki-laki botak itu kelihatan. 
  * The scalp of the bald man is visible. 
@@ -3138,6 +3694,10 @@
  * **lift** :: elevator (noun)
  * Naik lift ke lantai sembilan. 
  * Take the elevator to the ninth floor. 
+----------
+ * **kecemburuan** :: jealousy (noun)
+ * Kecemburuan adalah akar masalahnya. 
+ * Jealousy is the root of the problem. 
 ----------
  * **konyol** :: ridiculous (adjective)
  * Jawaban-jawaban dia konyol. 
@@ -3147,6 +3707,10 @@
  * Dia bermain piano seperti seorang piawai. 
  * He plays the piano like a master. 
 ----------
+ * **kalut** :: frantic (adjective)
+ * Kucingku menjadi kalut begitu mobil mulai bergerak. 
+ * My cat became frantic as soon as the car began to move. 
+----------
  * **ambil kembaliannya** :: to keep the change (expression)
  * Ambil kembaliannya, $lang=ENGLISH{b}ung. 
  * Keep the change, friend. 
@@ -3154,6 +3718,10 @@
  * **dadu** :: dice (noun)
  * Sekarang giliranmu mengocok dadu. 
  * It's your turn to roll the dice. 
+----------
+ * **mengalahkan** :: to defeat (verb)
+ * Kita mengalahkan musuh dengan bantuan rekan-rekan kita. 
+ * We defeated the enemies with the help of our friends. 
 ----------
  * **meledak** :: to explode (verb)
  * Penemuan barunya meledak dalam waktu beberapa menit. 
@@ -3163,6 +3731,10 @@
  * Bulan terang malam ini. 
  * The moon is bright tonight. 
 ----------
+ * **rindu** :: to miss (verb)
+ * Aku rindu punya kebun. 
+ * I miss having a garden. 
+----------
  * **menyisir** :: to comb (verb)
  * Sisir rambut sambil mandi untuk menghemat waktu. 
  * Comb your hair in the shower to save time. 
@@ -3170,6 +3742,10 @@
  * **menemukan** :: to uncover (verb)
  * Ekspedisi mereka menemukan reruntuhan kuno. 
  * Their expedition uncovered ancient ruins. 
+----------
+ * **kecuali** :: unless (preposition)
+ * Dia tidak akan tidur kecuali kamu bacakan dia cerita. 
+ * He won't go to sleep unless you read him a story. 
 ----------
  * **lucu** :: comical (adjective)
  * Dia punya cara yang lucu dalam mengungkapkan sesuatu. 
@@ -3179,6 +3755,10 @@
  * Merokok adalah kebiasaan tidak sehat. 
  * Smoking is an unhealthy habit. 
 ----------
+ * **kerinduan** :: longing (noun)
+ * Dengan bertambahnya usia, muncullah nostalgia dan kerinduan akan hal-hal yang sederhana. 
+ * With age comes nostalgia and a longing for simpler times. 
+----------
  * **biasa** :: common (adjective)
  * Melihat mereka berdua bertengkar adalah hal yang biasa. 
  * It is common to see the two of them quarrel. 
@@ -3186,6 +3766,10 @@
  * **menyejukkan** :: to cool (verb)
  * Kipas angin akan menyejukkan ruangan. 
  * The fan will cool the room. 
+----------
+ * **berbisik** :: to whisper (verb)
+ * Anak kecil itu berbisik kepada ibunya. 
+ * That little girl is whispering to her mother. 
 ----------
  * **menyambung** :: to connect (verb)
  * Tukangnya akan datang untuk menyambung kabel. 
@@ -3195,6 +3779,10 @@
  * Supir sembrono - dia nyetir sambil telepon! 
  * What a reckless driver - he's on the phone! 
 ----------
+ * **di luar** :: in the open (adverb)
+ * Kami tidur di luar, di bawah bintang-bintang. 
+ * We slept in the open, under the stars. 
+----------
  * **merawat** :: to maintain (verb)
  * Penjaga hutan merawat jalan-jalan setapak di hutan. 
  * The rangers maintain hiking trails in the forest. 
@@ -3202,6 +3790,10 @@
  * **biru tua** :: navy (adjective)
  * Tidak sengaja aku memakai satu kaos kaki biru tua dan satu hitam. 
  * I accidentally put on one navy sock and one black. 
+----------
+ * **berpacaran** :: to date (verb)
+ * Apa pendapatmu tentang pacaran lewat webcam? 
+ * What do you think about dating by webcam? 
 ----------
  * **mempertimbangkan** :: to consider (verb)
  * Kamu harus mempertimbangkan semua pihak sebelum mengambil keputusan. 
@@ -3211,6 +3803,10 @@
  * Ada sarang laba-laba bergelantungan di langit-langit. 
  * There are cobwebs hanging from the ceiling. 
 ----------
+ * **kacau** :: mess (noun)
+ * Hidupku kacau dan aku tidak tahu apa yang harus aku lakukan. 
+ * My life is a mess and I don't know what to do. 
+----------
  * **membangun** :: to build (verb)
  * Jangan bangun rumah di atas pasir. 
  * Don't build your house on sand. 
@@ -3218,6 +3814,10 @@
  * **kelembaban** :: humidity (noun)
  * Ini bukan suhunya, tapi kelembabannya. 
  * It's not the heat, it's the humidity. 
+----------
+ * **teka-teki** :: puzzle (noun)
+ * Memecahkan teka-teki adalah latihan mental yang baik. 
+ * Solving puzzles is a good mental exercise. 
 ----------
  * **mengubah** :: to convert (verb)
  * Ahli kimia tidak pernah berhasil mengubah timah menjadi emas. 
@@ -3227,6 +3827,10 @@
  * Dadaku sakit. 
  * My chest hurts. 
 ----------
+ * **kurangnya...** :: lack of... (expression)
+ * Dalam ujian terungkap kurangnya persiapan siswa. 
+ * In the exam the students revealed their total lack of preparation. 
+----------
  * **pacar** :: girlfriend (noun)
  * Dia sudah jadi pacarku selama dua bulan. 
  * She has been my girlfriend for two months. 
@@ -3234,6 +3838,10 @@
  * **pembohong** :: liar (noun)
  * Kamu pembohong! 
  * You're such a liar! 
+----------
+ * **pamer** :: to show off (verb)
+ * Dia melakukan itu hanya untuk pamer di depan teman-temannya. 
+ * He did it just to show off in front of his friends. 
 ----------
  * **ralat** :: correction (noun)
  * Surat kabar itu mengeluarkan ralat singkat. 
@@ -3243,6 +3851,10 @@
  * Aku tidak akan kehilangan apa-apa. 
  * I have nothing to lose. 
 ----------
+ * **melihat** :: to notice (verb)
+ * Aku tidak melihat sekumpulan serigala yang mendekat. 
+ * I failed to notice the approaching pack of wolves. 
+----------
  * **menyapa** :: to greet (verb)
  * Setiap pagi dia menyapaku dengan hangat. 
  * She greets me with warmth every morning. 
@@ -3250,6 +3862,10 @@
  * **di sini** :: here (adverb)
  * Panas sekali di sini. 
  * It's very hot in here. 
+----------
+ * **bahagia** :: happy (adjective)
+ * Apa kamu bahagia? 
+ * Are you happy? 
 ----------
  * **kostum** :: costume (noun)
  * Mereka memakai kostum yang menarik ke pesta itu. 
@@ -3259,6 +3875,10 @@
  * Semua yang kita dengar hanya gemuruh air terjun. 
  * All we could hear was the roar of the waterfall. 
 ----------
+ * **akademi musik** :: music academy (noun)
+ * Dia belajar di akademi musik di Wina. 
+ * He studied at the music academy in Vienna. 
+----------
  * **kristal** :: crystal (noun)
  * Sebuah lampu kristal yang bagus tergantung di ruangan. 
  * A fine crystal chandelier hangs in the room. 
@@ -3266,6 +3886,10 @@
  * **langit** :: sky (noun)
  * Langit mendung. 
  * The sky is overcast. 
+----------
+ * **rumah kaca** :: greenhouse (noun)
+ * Para ilmuwan kuatir akan efek rumah kaca. 
+ * Scientists worry about the Greenhouse Effect. 
 ----------
  * **tumpang tindih** :: overlapping (adjective)
  * Kadang-kadang konflik muncul karena tugas pekerjaan yang tumpang tindih. 
@@ -3275,6 +3899,10 @@
  * Pohon natal mereka dihiasi dengan berbagai macam ornamen natal. 
  * Their Christmas tree is decorated with many Christmas ornaments. 
 ----------
+ * **percobaan** :: attempt (noun)
+ * Dia gagal mencoba memecahkan rekor dunia. 
+ * He failed in his attempt to beat the world record. 
+----------
  * **kotak** :: box (noun)
  * Kotak ini sangat mencurigakan. 
  * This box is very suspicious. 
@@ -3282,6 +3910,10 @@
  * **cukup** :: enough (adverb)
  * Sudah cukup! 
  * Enough already! 
+----------
+ * **pertengkaran** :: argument (noun)
+ * Kami bertengkar tentang uang. 
+ * We had an argument about money. 
 ----------
  * **tamu-tamu** :: guests (noun)
  * Tamu-tamu pesta pernikahan kita mulai berdatangan! 
@@ -3291,6 +3923,10 @@
  * Aku kehilangan kunci-kunciku lagi. 
  * I have lost my keys again. 
 ----------
+ * **agenda** :: agenda (noun)
+ * Hal keenam dalam agenda tampaknya sangat menarik. 
+ * The sixth item on the agenda looks very interesting. 
+----------
  * **hati-hati** :: to be careful (verb)
  * Hati-hati, jangan membuat gajah-gajah liar marah. 
  * Be careful not to anger the wild elephants. 
@@ -3298,6 +3934,10 @@
  * **bahaya** :: danger (noun)
  * Binatang-binatang ini terancam bahaya kepunahan. 
  * These are animals in danger of extinction. 
+----------
+ * **menasihati** :: to advise (verb)
+ * Dokter menasihati dia bagaimana cara merawat bayinya. 
+ * The doctor advised her how to take care of her baby. 
 ----------
  * **profil** :: profile (noun)
  * Lihat profil Facebookku. 
@@ -3307,6 +3947,10 @@
  * Mineral ini memerlukan perlakuan khusus. 
  * This mineral requires special treatment. 
 ----------
+ * **buku** :: book (noun)
+ * Buku ini berjudul "The Gathering Storm". 
+ * This book is called "The Gathering Storm". 
+----------
  * **pikiran** :: mind (noun)
  * Dia punya pikiran yang analitis. 
  * He's got an analytical mind. 
@@ -3314,6 +3958,10 @@
  * **memasak** :: to cook (verb)
  * Saya suka memasak dengan anggur. 
  * I love to cook with wine. 
+----------
+ * **memperkenalkan** :: to introduce (verb)
+ * Saya ingin memperkenalkan pembicara kita berikutnya, Pak Jordan Chase. 
+ * I'd like to introduce our next speaker, Mr. Jordan Chase. 
 ----------
  * **ngobrol** :: to chat (verb)
  * Senang sekali ngobrol dengan kamu. 
@@ -3323,6 +3971,10 @@
  * Koper saya berat sekali sampai saya tidak bisa membawanya. 
  * My suitcase is so heavy I can´t carry it. 
 ----------
+ * **miskin** :: destitute (adjective)
+ * Mayoritas penduduk adalah miskin. 
+ * The majority of the population is destitute. 
+----------
  * **berita** :: news (noun)
  * Jadi ada berita apa hari ini? 
  * So what's the news today? 
@@ -3330,6 +3982,10 @@
  * **seseorang** :: somebody (noun)
  * Bisakah Anda beritahu saya kapan kita akan tiba di setasiun? 
  * Can somebody tell me when we will arrive at the station? 
+----------
+ * **mencocokkan** :: to match (verb)
+ * Aku suka mencocokkan warna sepatu dengan warna tasku. 
+ * I like to match the color of my shoes with the color of my purse. 
 ----------
  * **topi** :: hat (noun)
  * Laki-laki itu melepas sarung tangan dan topinya. 
@@ -3339,6 +3995,10 @@
  * Aku akan tunjukkan di mana kejadian itu terjadi. 
  * I'll show you where it happened. 
 ----------
+ * **berkemah** :: to go camping (verb)
+ * Saya biasa berkemah ketika kecil. 
+ * I used to go camping as a child. 
+----------
  * **teman** :: friend (noun)
  * Waktu aku sedih, aku pastikan semua temanku di Facebook tahu! 
  * When I am sad, I make sure all my Facebook friends know! 
@@ -3346,6 +4006,10 @@
  * **gipsi** :: gypsy (noun)
  * Esmeralda dalam filem "Si Bungkuk dari Notre Dame" adalah seorang gipsi. 
  * Esmeralda in "The Hunchback of Notre Dame" was a gypsy. 
+----------
+ * **berhenti hujan** :: to stop raining (expression)
+ * Waktu hujan berhenti, kita akan pergi jalan-jalan. 
+ * When it stops raining we will go for a walk. 
 ----------
  * **hadiah** :: gift (noun)
  * Lucu sekali lihat anak-anak membuka hadiah Natal mereka. 
@@ -3355,6 +4019,10 @@
  * Ini bukan kesalahanku. 
  * It is not my fault. 
 ----------
+ * **sakit** :: to get sick (verb)
+ * Aku tidak boleh sakit sekarang, liburanku mulai besok! 
+ * I can't get sick now, my vacation starts tomorrow! 
+----------
  * **menendang** :: to kick (verb)
  * Untuk buka pintu itu, kamu harus tendang. 
  * To open that door, you need to kick it. 
@@ -3362,6 +4030,10 @@
  * **neraka** :: hell (noun)
  * Apa kamu pikir neraka tempat yang buruk? 
  * Do you think that hell will be such a bad place? 
+----------
+ * **tentu saja** :: certainly (adverb)
+ * Tentu saja, saya setuju dengan semua orang yang mengatakan hal itu. 
+ * Certainly, I agree with all those who say that. 
 ----------
  * **rautan pensil** :: pencil sharpener (noun)
  * Boleh aku pinjam rautan pensilmu? 
@@ -3371,6 +4043,10 @@
  * Gadis itu bisa melihat ksatrianya dari menara. 
  * The maiden could see her knight from the tower. 
 ----------
+ * **negara** :: country (noun)
+ * Ini adalah negara yang indah. 
+ * This is a beautiful country. 
+----------
  * **hak asasi manusia** :: human rights (noun)
  * Kita harus terus memperjuangkan hak asasi manusia. 
  * We have to keep on fighting for human rights. 
@@ -3378,6 +4054,10 @@
  * **pekerjaan** :: work (noun)
  * Tugasku di sini sudah selesai. 
  * My work here is done. 
+----------
+ * **mencurangi** :: to cheat (verb)
+ * Kamu pikir kamu bisa curangi aku? Pikir lagi! 
+ * Do you think you can cheat me? Think again! 
 ----------
  * **melonggarkan** :: to loosen (verb)
  * Dia duduk dan melonggarkan dasinya. 
@@ -3387,6 +4067,10 @@
  * Aku tidak akan pernah melepaskanmu. 
  * I will never let you go. 
 ----------
+ * **ombak** :: wave (noun)
+ * Aku suka ombak Laut Hitam. 
+ * I like the waves of the Black Sea. 
+----------
  * **panggangan** :: grill (noun)
  * Aku suka ikan yang dipanggang. 
  * I like fish cooked on the grill. 
@@ -3394,6 +4078,10 @@
  * **senyuman** :: smile (noun)
  * Senyuman adalah cara terbaik untuk mengatakan "terima kasih". 
  * A smile is the best way to say "thank you". 
+----------
+ * **mempercayai** :: to trust somebody (verb)
+ * Dia selalu membohongi kita; aku tidak percaya dia. 
+ * He always deceives us; I don't trust him. 
 ----------
  * **rawa** :: swamp (noun)
  * Polisi tidak berhasil menemukan narapidana itu di rawa-rawa, tapi serangga yang berhasil. 
@@ -3403,6 +4091,10 @@
  * Tolong tutup pintunya, dingin di luar. 
  * Close the door please, it's cold outside. 
 ----------
+ * **pencopet** :: pick-pocket (noun)
+ * Polisi menangkap seorang pencopet kemarin malam. 
+ * The police arrested a pick-pocket last night. 
+----------
  * **masa kecil** :: childhood (noun)
  * Aku rindu semua waktu luang di masa kecilku. 
  * I miss all the free time I had in childhood. 
@@ -3410,6 +4102,10 @@
  * **membalas dendam** :: to get revenge (verb)
  * Korban itu berhasil membalas dendam terhadap pelaku kejahatan. 
  * The victim got revenge on the wrongdoer. 
+----------
+ * **membosankan** :: to be a bore (verb)
+ * Dia adalah guru yang membosankan. 
+ * He is such a bore of a teacher. 
 ----------
  * **merenung** :: to be lost in thought (verb)
  * Kamu bilang apa? Maaf, aku tadi merenung. 
@@ -3419,6 +4115,10 @@
  * Aku tidak bisa menyembunyikan kekecewaanku atas kekalahan itu. 
  * I couldn't hide my disappointment over the defeat. 
 ----------
+ * **hambar** :: tasteless (adjective)
+ * Makanan rasanya hambar kalau kita sakit. 
+ * Food seems tasteless when one has a cold. 
+----------
  * **kesempatan** :: chance (noun)
  * Kamu seharusnya beri dia satu kesempatan lagi. 
  * You should give him one more change. 
@@ -3426,6 +4126,10 @@
  * **mendarat** :: to land (verb)
  * Anda harus tetap duduk ketika pesawat mendarat. 
  * One should remain seated when the plane lands. 
+----------
+ * **suasana hati** :: mood (noun)
+ * Suasana hatiku sedang tidak enak untuk bercanda. 
+ * I'm not in the mood for jokes. 
 ----------
  * **suka sekali** :: to be crazy about (expression)
  * Aku suka sekali lagu ini! 
@@ -3435,6 +4139,10 @@
  * Kami tiba tanpa celaka. 
  * We arrived without any mishap. 
 ----------
+ * **memegang** :: to hold (verb)
+ * Tolong pegang kail ini sebentar. 
+ * Hold this fishing pole a moment. 
+----------
  * **(aku) tidak tahan** :: (I) can't stand (expression)
  * Aku tidak tahan mendengar keluhan dia. 
  * I can't stand to hear her complaint. 
@@ -3442,6 +4150,10 @@
  * **nyeri lambung** :: heartburn (noun)
  * Kegelisahan bisa menyebabkan nyeri lambung. 
  * Anxiety can cause heartburn. 
+----------
+ * **Sampai nanti!** :: See you soon! (expression)
+ * Aku harus pergi sekarang, sampai nanti! 
+ * I've got to go now, see you soon! 
 ----------
  * **kebenaran** :: truth (noun)
  * Yang aku mau dengar dari kamu adalah kebenaran. 
@@ -3451,6 +4163,10 @@
  * Jangan lupa menyiram toilet. 
  * Don't forget to flush the toilet. 
 ----------
+ * **tidur pulas** :: to sleep like a log (expression)
+ * Malam itu aku tidur pulas dan tidak dengar apa-apa. 
+ * That night I slept like a log and I didn't hear anything. 
+----------
  * **perasaan** :: feeling (noun)
  * Kita perlu membicarakan perasaan kita. 
  * We need to talk about our feelings. 
@@ -3458,6 +4174,10 @@
  * **dicurangi** :: rigged (verb)
  * Aku pikir hasil pemilu ini dicurangi. 
  * I think the result of this general election was rigged. 
+----------
+ * **berguna** :: useful (adjective)
+ * Artikel ekonomi itu berguna sekali untuk penelitianku. 
+ * The article on economics was very useful for my research. 
 ----------
  * **kelihatan bagus** :: to look good (expression)
  * Rumah dia kelihatan bagus. 
@@ -3467,6 +4187,10 @@
  * Polisi datang terlambat ke tempat kejadian perampokan. 
  * The police arrived late at the robbery scene. 
 ----------
+ * **jin** :: goblin (noun)
+ * Keponakanku suka cerita-cerita tentang jin dan peri. 
+ * My nephew likes stories with goblins and fairies. 
+----------
  * **menyuruh anjing mengejar (seseorang)** :: to set the dogs (on someone) (expression)
  * Keluar dari kebunku atau aku akan menyuruh anjing-anjingku mengejar kamu! 
  * Get out of my orchard or I´ll set the dogs on you! 
@@ -3474,6 +4198,10 @@
  * **printer** :: printer (noun)
  * Printer ini kehabisan kertas. 
  * The printer is out of paper. 
+----------
+ * **sehat** :: healthy (adjective)
+ * Olah raga setiap hari adalah kegiatan yang sehat. 
+ * Doing daily exercise is a healthy activity. 
 ----------
  * **suka sekali** :: passionate (adjective)
  * Aku suka sekali fotografi. 
@@ -3483,6 +4211,10 @@
  * Para penonton menepuktangani tukang sulap itu. 
  * The audience applauded the magician. 
 ----------
+ * **kelincahan** :: agility (noun)
+ * Aku tidak punya cukup kelincahan untuk bermain sebagai guard. 
+ * I don't have enough agility to play as a guard. 
+----------
  * **putih** :: white (adjective)
  * Aku tidak suka pakai baju putih. 
  * I don't like to wear white clothes. 
@@ -3490,6 +4222,10 @@
  * **mengungkap** :: to reveal (verb)
  * Penyelidikan itu mengungkap sebuah skandal. 
  * The investigation revealed a scandal. 
+----------
+ * **lengan** :: sleeve (noun)
+ * Dingin di luar, kamu sebaiknya pakai baju lengan panjang. 
+ * It's cold outside; you'd better wear something with long sleeves. 
 ----------
  * **parasut** :: parachute (noun)
  * Apa yang akan terjadi kalau parasutnya tidak terbuka? 
@@ -3499,6 +4235,10 @@
  * Beberapa orang mengatakan bahwa kehidupan seperti jalan raya. 
  * Some say that life is a highway. 
 ----------
+ * **menerima** :: to receive (verb)
+ * Saya lebih suka menerima hadiah uang tunai. 
+ * I'd rather receive the prize in cash. 
+----------
  * **Lucu sekali!** :: How cute! (expression)
  * Apa ini anakmu? Lucu sekali! 
  * Is that your son? How cute! 
@@ -3506,6 +4246,10 @@
  * **penjara seumur hidup** :: life imprisonment (expression)
  * Narapidana itu menerima hukuman penjara seumur hidup. 
  * The criminal was sentenced to life imprisonment. 
+----------
+ * **notaris** :: notary (noun)
+ * Kontrak ini harus ditandatangani di depan notaris. 
+ * The contract has to be signed in front of a notary. 
 ----------
  * **itik** :: duckling (noun)
  * Itik buruk rupa itu tumbuh menjadi angsa yang cantik. 
@@ -3515,6 +4259,10 @@
  * Setelah makan siang, saya tidak bisa berhenti menguap. 
  * After lunch, I can't stop yawning. 
 ----------
+ * **serius** :: seriously (adverb)
+ * Dua puluh orang luka-luka parah. 
+ * Twenty people were seriously injured. 
+----------
  * **mulai** :: to start (verb)
  * Maraton akan mulai pada jam 8 tepat. 
  * The marathon will start at 8 o'clock sharp. 
@@ -3522,6 +4270,10 @@
  * **tolol** :: fool (noun)
  * Lihat si tolol ini. Dia baca koran tapi terbalik. 
  * Check this fool out. He's reading the newspaper but it's upside down. 
+----------
+ * **sandal** :: slipper (noun)
+ * Dia memakai sandalnya dan berjingkat ke lantai bawah. 
+ * She put on her slippers and tip-toed quietly downstairs. 
 ----------
  * **Keren sekali!** :: How cool! (expression)
  * Keren sekali produk Apple yang baru?! 

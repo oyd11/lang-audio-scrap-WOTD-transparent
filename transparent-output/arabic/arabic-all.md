@@ -1,6 +1,6 @@
 # arabic WOTD : 
 ----------
- 898 phrases 
+ 1086 phrases 
 ----------
 ----------
  * **بنطال** :: pants (noun)
@@ -2027,6 +2027,10 @@
  * عمي غير متزوج. 
  * My uncle is not married. 
 ----------
+ * **مظاهرة** :: demonstration (noun)
+ * المظاهرات في أنحاء الشرق الأوسط وشمال أفريقيا أدت إلى الربيع العربي. 
+ * Demonstrations across the Middle East and North Africa lead to the Arab Spring. 
+----------
  * **تسبّب** :: to cause (verb)
  * تسببت العاصفة في خسائر كبيرة. 
  * The storm caused many losses. 
@@ -2034,6 +2038,10 @@
  * **مشهور** :: famous (adjective)
  * هذا الممثل مشهور. 
  * This actor is famous. 
+----------
+ * **متظاهر** :: protestor (noun)
+ * وفقاً لقناة الجزيرة، أصيب متظاهر فلسطيني في ساقه خلال المظاهرة. 
+ * According to Aljazeera, a Palestinian protester was wounded in the leg during a demonstration. 
 ----------
  * **مكسور** :: broken (adjective)
  * ذراعي مكسورة. 
@@ -2043,6 +2051,10 @@
  * هذا القميص قبيح. 
  * This shirt is ugly. 
 ----------
+ * **مثير للجدل** :: controversial (adjective)
+ * السماح للنساء بالقيادة في السعودية ما زال أمر مثير للجدل في المجتمع السعودي. 
+ * Allowing women to drive in Saudi Arabia is still a controversial topic in Saudi society. 
+----------
  * **مرّ** :: bitter (adjective)
  * هذا الدواء مرّ. 
  * This medicine is bitter. 
@@ -2050,6 +2062,10 @@
  * **فيما بعد** :: later (adverb)
  * أراك فيما بعد. 
  * See you later! 
+----------
+ * **مؤقت** :: temporary (adjective)
+ * هذا حل مؤقت للمشكلة حتى نجد حلاً أفضل. 
+ * This is a temporary solution to the problem until we can find a better one. 
 ----------
  * **تنفس** :: to breathe (verb)
  * هذا الطفل يتنفسُ بصعوبة. 
@@ -2059,6 +2075,10 @@
  * أختي دائماً تبتسم. 
  * My sister always smiles. 
 ----------
+ * **علق** :: to comment (verb)
+ * أفضل أن لا أعلق على الأمر حتى يصبح أكثر تأكيداً. 
+ * I prefer not to comment on the matter until things are more certain. 
+----------
  * **بكى** :: to cry (verb)
  * البنت الصغيرة تبكي. 
  * The little girl is crying. 
@@ -2066,6 +2086,10 @@
  * **كتاب** :: book (noun)
  * هل قرأت هذا الكتاب؟ 
  * Did you read this book? 
+----------
+ * **أنصار** :: supporters (noun)
+ * أنصار الأسد يتظاهرون في شوارع دمشق. 
+ * Assad supporters protest in the streets of Damascus. 
 ----------
  * **لغة** :: language (noun)
  * مايك يتكلم اللغة العربية. 
@@ -2075,6 +2099,10 @@
  * هناك أريكة في هذه الغرفة. 
  * There is an armchair in this room. 
 ----------
+ * **مفاعل نووي** :: nuclear plant (collocation)
+ * ولي العهد محمد بن سلمان أطلق أول مشروع مفاعل نووي في السعودية. 
+ * Crown Prince Bin Salman launches Saudi Arabia's first nuclear plant project. 
+----------
  * **الخميس** :: Thursday (noun)
  * الخميس هو آخر أيام العمل الأسبوعى في السعودية. 
  * Thursday is the last business day of the week in Saudi Arabia. 
@@ -2082,6 +2110,10 @@
  * **عمة** :: aunt (noun)
  * عمتها تعيش في بوسطن. 
  * Her aunt lives in Boston. 
+----------
+ * **مشروع** :: project (noun)
+ * شركتنا ستبدأ بالعمل على المشروع الجديد هذا الأسبوع. 
+ * Our company will begin working on the new project this week. 
 ----------
  * **ضدّ** :: against (adverb)
  * لا للعنف ضدّ المرأة! 
@@ -2091,6 +2123,10 @@
  * زوجته أنجبت طفلة جميلة. 
  * His wife gave birth to a beautiful baby. 
 ----------
+ * **صوت** :: to vote (verb)
+ * حصلت المرأة الأردنية على حق التصويت عام ١٩٧٤. 
+ * Jordanian women gained the right to vote in 1974. 
+----------
  * **أزرق** :: blue (adjective)
  * أختي اشترت قميصاً أزرق. 
  * My sister bought a blue shirt. 
@@ -2098,6 +2134,10 @@
  * **مايوه** :: bathing suit (noun)
  * أنت في حاجة لشراء مايوه جديد. 
  * You need to buy a new bathing suit. 
+----------
+ * **مواقع التواصل الإجتماعي** :: social media sites (collocation)
+ * الملك عبدالله يتحدث عن سوء استعمال مواقع التواصل الإجتماعي. 
+ * King Abdullah talks about Jordanian’s misuse of social media. 
 ----------
  * **نظّف** :: to clean (verb)
  * هل يمكنكم أن تنظفوا غرفتي؟ 
@@ -2107,6 +2147,10 @@
  * أود غرفة بها سرير كبير ، من فضلك. 
  * I would like a room with a large bed, please. 
 ----------
+ * **تغير المناخ** :: climate change (collocation)
+ * العلماء يحاولون تحذير القادة بالكوارث المحتملة الناتجة عن تغير المناخ. 
+ * Scientists are warning leaders of the potential disasters of climate change. 
+----------
  * **عنوان** :: address (noun)
  * ما هو عنوان الفندق؟ 
  * What's the hotel's address? 
@@ -2114,6 +2158,10 @@
  * **غرفة النوم** :: bedroom (noun)
  * غرفة النوم هذه فيها حمام كبير. 
  * This bedroom has a big bathroom. 
+----------
+ * **موثوق به** :: reliable (adjective)
+ * هل هذا الموقع الإلكتروني مصدر موثوق به؟ 
+ * Is this website a reliable news source? 
 ----------
  * **مستشفى** :: hospital (noun)
  * ما هو رقم المستشفى؟ 
@@ -2123,6 +2171,10 @@
  * أنا طلبت لحم البقر للعشاء. 
  * I ordered beef for dinner. 
 ----------
+ * **حقيقة** :: fact (noun)
+ * يجب أن تعرف الحقائق قبل أن تحكم. 
+ * You should know the facts before you judge. 
+----------
  * **غاضب** :: angry (adjective)
  * لماذا أنت غاضب؟ 
  * Why are you angry? 
@@ -2130,6 +2182,10 @@
  * **أخ** :: brother (noun)
  * أخي جندي في الجيش الأمريكي. 
  * My brother is a soldier in the U.S. Army. 
+----------
+ * **اختر أهون الشرين.** :: Go with the lesser of two evils. (expression)
+ * لم يعجبني أي من السياسيين، لذلك صوت لأهون الشرين. 
+ * I didn't like either politician, so I voted for the lesser of two evils. 
 ----------
  * **اعترف** :: to admit (verb)
  * اعترف بخطئه. 
@@ -2139,6 +2195,10 @@
  * كم عمر ابن عمها؟ 
  * How old is her cousin? 
 ----------
+ * **الأفعال أبلغ من الأقوال.** :: Actions speak louder than words. (expression)
+ * وعدتني أن تساعدني، ولكن أنت تعرف القول: الأفعال أبلغ من الأقوال. 
+ * You promised to help me, but you know the saying: actions speak louder than words! 
+----------
  * **مصر** :: Egypt (noun)
  * مصر دولة عربية. 
  * Egypt is an Arab country. 
@@ -2146,6 +2206,10 @@
  * **كوب** :: cup (noun)
  * هل طلبت كوباً من الشاي؟ 
  * Did you order a cup of tea? 
+----------
+ * **القومية العربية** :: Arab nationalism (collocation)
+ * القومية العربية هي إديولوجية أن العرب أمة واحدة. 
+ * Arab nationalism is an ideology that Arabs are one nation. 
 ----------
  * **غالٍ** :: expensive (adjective)
  * هذا غالٍ! 
@@ -2155,6 +2219,10 @@
  * العشاء سوف يقدم في غرفة الطعام. 
  * Dinner will be served in the dining room. 
 ----------
+ * **منظمة** :: organization (noun)
+ * المنظمة العربية لحقوق الإنسان تعزز احترام حقوق الإنسان في العالم العربي. 
+ * The Arab Organization for Human Rights promotes respect for human rights in the Arab world. 
+----------
  * **صديق** :: friend (noun)
  * عندي صديق من المغرب. 
  * I have a friend from Morocco. 
@@ -2162,6 +2230,10 @@
  * **جد** :: grandfather (noun)
  * جدته ولدت في عام 1912. 
  * His grandmother was born in 1912. 
+----------
+ * **مناظرة** :: debate (noun)
+ * خلال مشاركتي في المناظرة، تعلمت عن وجهات نظر الآخرين. 
+ * By participating in the debate, I learned about other peoples’ points of view. 
 ----------
  * **اعتذر** :: to apologize (verb)
  * أعتذر عن التأخير! 
@@ -2171,6 +2243,10 @@
  * هل يمكن أن تحضر لي شوكة أخرى ، من فضلك؟ 
  * Could you bring me another fork, please? 
 ----------
+ * **ضد** :: against (preposition)
+ * كان نائب الرئيس ضد قرار خفض الضرائب. 
+ * The vice president was against the decision of lowering taxes. 
+----------
  * **وصل** :: to arrive (verb)
  * متى سيصل القطار إلى المحطة؟ 
  * When will the train arrive at the station? 
@@ -2178,6 +2254,10 @@
  * **مكتب** :: desk (noun)
  * الكتب على المكتب. 
  * The books are on the desk. 
+----------
+ * **فساد** :: corruption (noun)
+ * يتحدث هذا البحث عن كيف أدت سنين من الفساد في سوريا إلى الحرب الأهلية. 
+ * This research talks about how years of corruption in Syria has led to its civil war. 
 ----------
  * **أسود** :: black (adjective)
  * لوني المفضل هو الأسود. 
@@ -2187,6 +2267,10 @@
  * أنا لا أحب أكل الحلوى بعد العشاء. 
  * I don't like to eat dessert after dinner. 
 ----------
+ * **حرية الصحافة** :: freedom of the press (collocation)
+ * في الشرق الأوسط أدنى المراتب في العالم فيما يتعلق بحرية الصحافة. 
+ * The Middle East has had the lowest rankings in terms of freedom of the press. 
+----------
  * **وراء** :: behind (adverb)
  * رشيد و أسرته يسكنون وراء محطة البنزين. 
  * Rashid and his family live behind the gas station. 
@@ -2194,6 +2278,10 @@
  * **معطف** :: coat (noun)
  * المعطف في الخزانة. 
  * The coat is in the closet. 
+----------
+ * **دعم** :: to support (verb)
+ * أنا لا أستطيع أن أدعم مرشح ليس مع حقوق المرأة. 
+ * I am unable to support any candidate who is not for women’s rights. 
 ----------
  * **سأل** :: to ask (verb)
  * هل سألتهم عن عنوان البيت؟ 
@@ -2203,6 +2291,10 @@
  * السلطة جيدة جداً في هذا المطعم. 
  * The salad is very good at this restaurant. 
 ----------
+ * **لحظة** :: moment (noun)
+ * شاهدت فلم وثائقي عن إعادة بناء البيوت وعرفت في تلك اللحظة أنني أريد أن أصبح متطوعاً. 
+ * I saw a documentary about re-building houses and at that moment, I knew I wanted to be a volunteer. 
+----------
  * **ممتاز** :: excellent (adjective)
  * الأكل ممتاز في هذا المطعم. 
  * The food is excellent at this restaurant. 
@@ -2210,6 +2302,10 @@
  * **فواكه** :: fruit (noun)
  * أحب أكل الفواكه في الصباح. 
  * I like to eat fruit in the morning. 
+----------
+ * **تلوث** :: pollution (noun)
+ * إعادة التدوير يساعد على الحد من تلوث المياه. 
+ * Recycling helps reduce water pollution. 
 ----------
  * **رئيس** :: president (noun)
  * الرئيس الأمريكي هو باراك أوباما. 
@@ -2219,6 +2315,10 @@
  * نحن نعيش في منزل صغير في باريس. 
  * We live in a small house in Paris. 
 ----------
+ * **أخبار عاجلة** :: breaking news (noun)
+ * نقاطع هذا البرنامج لنذيع لكم الأخبار العاجلة عن الفيضان في البحر الميت. 
+ * We interrupt this program to bring you breaking news about the flood in the Dead Sea. 
+----------
  * **منذ** :: since (adverb)
  * راضية و سامية تعيشان في أمريكا منذ 2001. 
  * Radia and Samia have lived in the United States since 2001. 
@@ -2226,6 +2326,10 @@
  * **بنطال** :: pants (noun)
  * سارتدي بنطالاً أسوداً وقميصاً أبيضاً. 
  * I will wear black pants and a white shirt. 
+----------
+ * **على الهواء** :: on the air (phrasal verb)
+ * لدي جلالة الملكة رانيا على الهواء لتتحدث عن التعليم في العالم العربي. 
+ * I have her majesty Queen Rania of Jordan on the air to talk about education in the Arab region. 
 ----------
  * **أجاب** :: to answer (verb)
  * أجابوا على السؤال. 
@@ -2235,6 +2339,10 @@
  * هل تستطيع أن تأخذ صورة لهذا التمثال؟ 
  * Can you take a picture of this statue? 
 ----------
+ * **بعد الفاصل** :: after the break (phrasal verb)
+ * بعد الفاصل سنكمل في مقابلتنا مع السيد سمير الحداد عن المشاكل الإقتصادية في الدولة. 
+ * After the break, we will continue our interview with Mr. Sameer Al-hadad about the country's economic problems. 
+----------
  * **غرفة** :: room (noun)
  * يريد تناول وجبة الغداء في غرفته. 
  * He would like to have his lunch in his room. 
@@ -2242,6 +2350,10 @@
  * **ثلاجة** :: refrigerator (noun)
  * يجبُ أن تضع الحليب في الثلاجة. 
  * You should put the milk in the refrigerator. 
+----------
+ * **بكى** :: to cry (verb)
+ * حاولت أن لا أبكي وأنا أشاهد ذلك الفيلم الحزين. 
+ * I tried not to cry while watching that sad movie. 
 ----------
  * **سيئ** :: bad (adjective)
  * هذا الطريق سيئ جداً. 
@@ -2251,6 +2363,10 @@
  * هذا المطعم يقدم دجاجاً مشوياً لذيذاً. 
  * This restaurant serves delicious grilled chicken. 
 ----------
+ * **جادل** :: to argue (verb)
+ * استمر الرجلان في المجادلة عن آرائهم السياسية المختلفة. 
+ * Both men continued to argue about their different political views. 
+----------
  * **أضاف** :: to add (verb)
  * أضاف السكر إلى القهوة. 
  * He added sugar to the coffee. 
@@ -2258,6 +2374,10 @@
  * **بوظة** :: ice cream (noun)
  * هل تفضل بوظة الفراولة أو الفانيليا؟ 
  * Do you prefer vanilla or strawberry ice cream? 
+----------
+ * **فرنسيّ** :: French (adjective)
+ * منطقة بوردو تنتج أفضل نبيذ فرنسيّ. 
+ * The region of Bordeaux produces the best French wine. 
 ----------
  * **صحّح** :: to correct (verb)
  * كيف يمكنني أن أصحّح نطقي. 
@@ -2267,6 +2387,10 @@
  * هذا الحذاء الرياضي مريح. 
  * Those sneakers are comfortable. 
 ----------
+ * **سعودية** :: Saudi (adjective)
+ * الحكومة السعودية صوتت على القانون الجديد. 
+ * The Saudi government voted on the new law. 
+----------
  * **صغير** :: small (adjective)
  * عندي سيارة يابانية صغيرة. 
  * I have a small Japanese car. 
@@ -2274,6 +2398,10 @@
  * **أردني** :: Jordanian (adjective)
  * أمس ، شاهدتُ فيلماً أردنياً. 
  * Yesterday, I watched a Jordanian movie. 
+----------
+ * **مغربية** :: Moroccan (adjective)
+ * هي حضّرتْ وجبة مغربية. 
+ * She prepared a Moroccan meal. 
 ----------
  * **مدينة** :: city (noun)
  * تود زيارة مدينة عربية. 
@@ -2283,6 +2411,10 @@
  * العلمُ الاميركيّ أزرق وأحمر وأبيض. 
  * The American flag is blue, red, and white. 
 ----------
+ * **ألمانيّ** :: German (adjective)
+ * أخي يَدرسُ التاريخ الألمانيّ. 
+ * My brother is studying German history. 
+----------
  * **بطاقة** :: card (noun)
  * هل يمكن أن أدفع ببطاقة الائتمان؟ 
  * Can I pay with a credit card? 
@@ -2290,6 +2422,10 @@
  * **فرنسيّ** :: French (adjective)
  * منطقة بوردو تنتج أفضل نبيذ فرنسيّ. 
  * The region of Bordeaux produces the best French wine. 
+----------
+ * **لام** :: to blame (verb)
+ * هو يلوم الحكومة وليس الشعب لإندلاع الحرب . 
+ * He blames the government not the people for the war. 
 ----------
  * **صعب** :: hard (adjective)
  * من الصعب عليّ أن أتكلم هذه اللغة. 
@@ -2299,6 +2435,10 @@
  * الحكومة السعودية صوتت على القانون الجديد. 
  * The Saudi government voted on the new law. 
 ----------
+ * **شكى** :: to complain (verb)
+ * اذا أردت ان تشتكي على الطعام، عليك أنت القيام بالطبخ. 
+ * If you’re going to complain about the food, then you should do the cooking. 
+----------
  * **بارك** :: to bless (verb)
  * بارك الله فيك! 
  * God bless you! 
@@ -2306,6 +2446,10 @@
  * **مغربية** :: Moroccan (adjective)
  * هي حضّرتْ وجبة مغربية. 
  * She prepared a Moroccan meal. 
+----------
+ * **شخصية** :: personality (noun)
+ * يجب أن يكون لديك شخصية قوية لتكون مدير في هذه الشركة. 
+ * You have to have a strong personality to be a manager in this company. 
 ----------
  * **سيارة** :: car (noun)
  * هذا هو مكتب تأجير السيارات. 
@@ -2315,6 +2459,10 @@
  * أخي يَدرسُ التاريخ الألمانيّ. 
  * My brother is studying German history. 
 ----------
+ * **مكتئب** :: depressed (adjective)
+ * أحياناً أشعر بالإكتئاب بعد مشاهدة الكثير من الأخبار. 
+ * I sometimes feel depressed after watching too much news. 
+----------
  * **وافق** :: to agree (verb)
  * وافقت فاطمة على أن تبيع بيتها. 
  * Fatima agreed to sell her house. 
@@ -2322,6 +2470,10 @@
  * **صينية** :: Chinese (adjective)
  * الثقافة الصينية متنوعة. 
  * The Chinese culture is diverse. 
+----------
+ * **أزعج** :: to annoy (verb)
+ * أجد هذه الأغنية مزعجة جداً، ممكن أن تغير المحطة من فضلك. 
+ * I find this song very annoying, could you turn the station please. 
 ----------
  * **شركة** :: company (noun)
  * الشركة بحاجة إلى موظفين. 
@@ -2331,6 +2483,10 @@
  * اليورو هو العملة الأوروبية. 
  * The Euro is the European currency. 
 ----------
+ * **مصمم** :: determined (adjective)
+ * هي مصممة أن تقوم بتغيير ولن تسمح لأي شخص بالوقوف في طريقها. 
+ * She is determined to make a change and won’t let anyone stand in her way. 
+----------
  * **سهل** :: easy (adjective)
  * العمل هنا سهل. 
  * The work here is easy. 
@@ -2338,6 +2494,10 @@
  * **آسيويّ** :: Asian (adjective)
  * ثمة معرض للفنون الآسيوية في المدينة. 
  * There is an Asian arts exhibit in town. 
+----------
+ * **شجاع** :: brave (adjective)
+ * أعتقد أنه شجاع جداً للإلتحاق بالجيش. 
+ * I think he’s very brave to join the army. 
 ----------
  * **حار** :: hot (adjective)
  * الطقس سيكون حاراً في الصباح. 
@@ -2347,6 +2507,10 @@
  * الرئيسُ المكسيكيّ سيقوم بزيارة للولايات المتحدة في العام المقبل. 
  * The Mexican president will visit the USA next year. 
 ----------
+ * **بنطال** :: pants (noun)
+ * سأرتدي بنطالاً أسوداً وقميصاً أبيضاً. 
+ * I will wear black pants and a white shirt. 
+----------
  * **نزف** :: to bleed (verb)
  * جرحه ينزف كثيراً. 
  * His wound is bleeding a lot. 
@@ -2354,6 +2518,10 @@
  * **إسبانية** :: Spanish (adjective)
  * اِعتقلتْ الشرطة الإسبانية إرهابياً. 
  * The Spanish police arrested a terrorist. 
+----------
+ * **صورة** :: picture (noun)
+ * هل تستطيع أن تأخذ صورة لهذا التمثال؟ 
+ * Can you take a picture of this statue? 
 ----------
  * **حمل** :: to carry (verb)
  * السياح يحملون جوازات سفر أمريكية. 
@@ -2363,6 +2531,10 @@
  * هذا الأستاذ يُدرّسُ الفلسفة اليونانية. 
  * This professor teaches Greek philosophy. 
 ----------
+ * **عظيم!** :: Great! (interjection)
+ * عظيم، سأراك غداً! 
+ * Great, I’ll see you tomorrow! 
+----------
  * **أغلق** :: to close (verb)
  * البنك سيغلق في الساعة الخامسة. 
  * The bank will close at five. 
@@ -2370,6 +2542,10 @@
  * **فلسطينيّ** :: Palestinian (adjective)
  * من هو رئيس السلطة الفلسطينية الجديد؟ 
  * Who is the new Palestinian President? 
+----------
+ * **ثلاجة** :: refrigerator (noun)
+ * يجبُ أن تضع الحليب في الثلاجة. 
+ * You should put the milk in the refrigerator. 
 ----------
  * **ناقش** :: to discuss (verb)
  * حنان لم تناقش الموضوع مع والديها من قبل. 
@@ -2379,6 +2555,10 @@
  * لا يمكنك السفر إلى إيران إذا كان لديك جواز سفر إسرائيلي. 
  * You can not travel to Iran if you have an Israeli passport. 
 ----------
+ * **مطعم** :: restaurant (noun)
+ * هذا المطعم يقدم دجاجاً مشوياً لذيذاً. 
+ * This restaurant serves delicious grilled chicken. 
+----------
  * **رتّب** :: to arrange (verb)
  * سترتب السكرتيرة المكتب الجديد. 
  * The secretary will arrange the new office. 
@@ -2386,6 +2566,10 @@
  * **حكوميّ** :: governmental (adjective)
  * الرئيس يستخدم السلطة الحكومية. 
  * The president uses governmental power. 
+----------
+ * **بوظة** :: ice cream (noun)
+ * هل تفضل بوظة الفراولة أو الفانيليا؟ 
+ * Do you prefer vanilla or strawberry ice cream? 
 ----------
  * **أحضر** :: to bring (verb)
  * سيحضرون بيتزا للعشاء. 
@@ -2395,6 +2579,10 @@
  * ستكون هناك مناقشة برلمانية حول الإجهاض. 
  * There will be parliamentary debate about abortion. 
 ----------
+ * **حذاء رياضي** :: sneakers (noun)
+ * هذا الحذاء الرياضي مريح. 
+ * Those sneakers are comfortable. 
+----------
  * **حسب** :: to calculate (verb)
  * كيف يمكنني أنْ أحسب سعر الصرف؟ 
  * How can I calculate the exchange rate? 
@@ -2402,6 +2590,10 @@
  * **شعبية** :: popular (adjective)
  * فاز في الانتخابات عن طريق التصويت الشعبيّ 
  * He won the elections by popular vote. 
+----------
+ * **أردني** :: Jordanian (adjective)
+ * أمس ، شاهدتُ فيلماً أردنياً. 
+ * Yesterday, I watched a Jordanian movie. 
 ----------
  * **صفّق** :: to applaud (verb)
  * الجماهير تصفق للرئيس الجديد. 
@@ -2411,6 +2603,10 @@
  * هؤلاء اللاعبون محترفون. 
  * Those players are professionals. 
 ----------
+ * **أمريكيّ** :: American (adjective)
+ * العلمُ الاميركيّ أزرق وأحمر وأبيض. 
+ * The American flag is blue, red, and white. 
+----------
  * **جمع** :: to collect (verb)
  * هم يجمعون طوابع البريد. 
  * They collect stamps. 
@@ -2418,6 +2614,10 @@
  * **أيّد** :: to support (verb)
  * نحن لا نؤيّد هذا الاقتراح. 
  * We don't support this proposal. 
+----------
+ * **برلمانية** :: parliamentary (adjective)
+ * ستكون هناك مناقشة برلمانية حول الإجهاض. 
+ * There will be parliamentary debate about abortion. 
 ----------
  * **تنافس** :: to compete (verb)
  * شركتكم تنافس شركات أخرى في العالم. 
@@ -2427,6 +2627,10 @@
  * يعتقد اليهود والمسيحيون والمسلمون أنَّ الله بعث الأنبياء و الرسل. 
  * Jews, Christians, and Muslims believe that God sent prophets and apostles. 
 ----------
+ * **شعبية** :: popular (adjective)
+ * فاز في الانتخابات عن طريق التصويت الشعبيّ. 
+ * He won the elections by popular vote. 
+----------
  * **ركّز** :: to concentrate (verb)
  * يجب أن تركزي على عملك. 
  * You have to concentrate on your work. 
@@ -2434,6 +2638,10 @@
  * **وصلَ إلى** :: to reach (verb)
  * وصلتْ درجة الحرارة إلى خمسة تحت الصفر. 
  * The temperature reached 5 below zero. 
+----------
+ * **محترف** :: professional (adjective)
+ * هؤلاء اللاعبون محترفون. 
+ * Those players are professionals. 
 ----------
  * **عرف** :: to know (verb)
  * هل تعرف هذا الرجل؟ 
@@ -2443,6 +2651,10 @@
  * عفوا لقد تأخّرتُ بسب اِزدحام الطريق. 
  * Sorry, I am late because of the traffic jam. 
 ----------
+ * **أيّد** :: to support (verb)
+ * نحن لا نؤيّد هذا الاقتراح. 
+ * We don't support this proposal. 
+----------
  * **اعتبر** :: to consider (verb)
  * أعتبرك صديقي. 
  * I consider you my friend. 
@@ -2450,6 +2662,10 @@
  * **تحدث ، تكلم** :: to talk (verb)
  * هل يمكن أنْ أتحدّث مع المدير؟ 
  * Can I talk to the manager? 
+----------
+ * **بعث** :: to send (verb)
+ * يعتقد اليهود والمسيحيون والمسلمون أنَّ الله بعث الأنبياء و الرسل. 
+ * Jews, Christians, and Muslims believe that God sent prophets and apostles. 
 ----------
  * **نسخ** :: to copy (verb)
  * هل نسخت بطاقتك؟ 
@@ -2459,6 +2675,10 @@
  * هل من الممكن أن تتركيني وحدي من فضلك؟ 
  * Can you leave me alone, please? 
 ----------
+ * **وصلَ إلى** :: to reach (verb)
+ * وصلتْ درجة الحرارة إلى خمسة تحت الصفر. 
+ * The temperature reached 5 below zero. 
+----------
  * **تدرّب** :: to practice (verb)
  * أحتاج أنْ أتدرب على العربية 
  * I need to practice Arabic. 
@@ -2466,6 +2686,10 @@
  * **ترجم** :: to translate (verb)
  * هي ترجمتْ هذا المقال من اللغة الإنجليزية إلى العربية. 
  * She translated this article from English to Arabic. 
+----------
+ * **إسرائيليّ** :: Israeli (adjective)
+ * لا يمكنك السفر إلى إيران إذا كان لديك جواز سفر إسرائيلي. 
+ * You can not travel to Iran if you have an Israeli passport. 
 ----------
  * **عيد ميلاد** :: birthday (noun)
  * عيد ميلاد سعيد! 
@@ -2475,6 +2699,10 @@
  * التدخين يؤثر على صحتك. 
  * Smoking affects your health. 
 ----------
+ * **حكوميّ** :: governmental (adjective)
+ * الرئيس يستخدم السلطة الحكومية. 
+ * The president uses governmental power. 
+----------
  * **فتاة** :: girl (noun)
  * رقصت الفتاة في الحفل. 
  * The girl danced at the party. 
@@ -2482,6 +2710,10 @@
  * **باع** :: to sell (verb)
  * هل بعتم بيتكم في نيويورك؟ 
  * Have you sold your house in New York? 
+----------
+ * **تأخّر** :: to be late (verb)
+ * عفوا لقد تأخّرتُ بسبب اِزدحام الطريق. 
+ * Sorry, I am late because of the traffic jam. 
 ----------
  * **فكرة** :: idea (noun)
  * عندي فكرة جديدة. 
@@ -2491,6 +2723,10 @@
  * هل من الممكن أن أجلس هنا؟ 
  * Can I sit here? 
 ----------
+ * **تحدث ، تكلم** :: to talk (verb)
+ * هل يمكن أنْ أتحدّث مع المدير؟ 
+ * Can I talk to the manager? 
+----------
  * **حقيقة** :: truth (noun)
  * الأطفال دائماً يقولون الحقيقة. 
  * Children always say the truth. 
@@ -2498,6 +2734,10 @@
  * **محامي** :: lawyer (noun)
  * جمع المحاميُّ كل الوثائق. 
  * The lawyer gathered all the documentation. 
+----------
+ * **ترك** :: to leave (verb)
+ * هل من الممكن أن تتركيني وحدي من فضلك؟ 
+ * Can you leave me alone, please? 
 ----------
  * **سينما** :: movie theater (noun)
  * أصدقائي يعملون في السينما. 
@@ -2507,6 +2747,10 @@
  * يجب أنْ تجتهد لتنجح. 
  * You have to work hard to succeed. 
 ----------
+ * **ترجم** :: to translate (verb)
+ * هي ترجمتْ هذا المقال من اللغة الإنجليزية إلى العربية. 
+ * She translated this article from English to Arabic. 
+----------
  * **ساعة** :: watch (noun)
  * ما ثمن هذه الساعة؟ 
  * How much is the watch? 
@@ -2514,6 +2758,10 @@
  * **فعل** :: to do (verb)
  * ماذا يجب أنْ أفعل في حالة طوارىء؟ 
  * What should I do in case of an emergency? 
+----------
+ * **أثّرعلى** :: to affect (verb)
+ * التدخين يؤثر على صحتك. 
+ * Smoking affects your health. 
 ----------
  * **نصف** :: half (noun)
  * أريد نصف كيلو سمك. 
@@ -2523,6 +2771,10 @@
  * ذكرتْ أنها تحتاج إلى بعض المال. 
  * She mentioned that she needs some money. 
 ----------
+ * **باع** :: to sell (verb)
+ * هل بعتم بيتكم في نيويورك؟ 
+ * Have you sold your house in New York? 
+----------
  * **دولار** :: dollar (noun)
  * لتر الحليب بخمسة دولارات. 
  * The liter of milk is five dollars. 
@@ -2530,6 +2782,10 @@
  * **زار** :: to visit (verb)
  * زرنا المتحف بالأمس. 
  * We visited the museum yesterday. 
+----------
+ * **جلس** :: to sit (verb)
+ * هل من الممكن أن أجلس هنا؟ 
+ * Can I sit here? 
 ----------
  * **رخصة** :: license (noun)
  * هل عندك رخصة قيادة؟ 
@@ -2539,6 +2795,10 @@
  * بعض الناس يتصرفون بطريقة غريبة. 
  * Some people behave in a strange manner. 
 ----------
+ * **محامي** :: lawyer (noun)
+ * جمع المحاميُّ كل الوثائق. 
+ * The lawyer gathered all the documentation. 
+----------
  * **تاريخ** :: history (noun)
  * درستْ تاريخ العالم في الجامعة. 
  * She studied World History at the university. 
@@ -2546,6 +2806,10 @@
  * **تذكّر** :: to remember (verb)
  * عفواَ، أنا لا أتذكر اِسمَك. 
  * I am sorry, I don't remember your name. 
+----------
+ * **إجتهد** :: to work hard (verb)
+ * يجب أنْ تجتهد لتنجح. 
+ * You have to work hard to succeed. 
 ----------
  * **يناير** :: January (noun)
  * سأزور مدريد في يناير القادم. 
@@ -2555,6 +2819,10 @@
  * هل يضايقك الدّخان؟ 
  * Does the smoke bother you? 
 ----------
+ * **فعل** :: to do (verb)
+ * ماذا يجب أنْ أفعل في حالة طوارىء؟ 
+ * What should I do in case of an emergency? 
+----------
  * **الأردن** :: Jordan (noun)
  * نحن من الأردن. 
  * We are from Jordan. 
@@ -2562,6 +2830,10 @@
  * **أحبّ** :: to like (verb)
  * الأطفال يحبون الرسوم المتحركة كثيراً. 
  * Children like cartoons a lot. 
+----------
+ * **آسيويّ** :: Asian (adjective)
+ * ثمة معرض للفنون الآسيوية في المدينة. 
+ * There is an Asian arts exhibit in town. 
 ----------
  * **مترجم** :: translator (noun)
  * أبحث عن مترجم. 
@@ -2571,6 +2843,10 @@
  * أعطتني صديقتي هدية يوم عيد ميلادي. 
  * My girlfriend gave me a gift for my birthday. 
 ----------
+ * **مكسيكية** :: Mexican (adjective)
+ * الرئيسُ المكسيكيّ سيقوم بزيارة للولايات المتحدة في العام المقبل. 
+ * The Mexican president will visit the USA next year. 
+----------
  * **ممرضة** :: nurse (noun)
  * أمي ممرضة. 
  * My mother is a nurse. 
@@ -2578,6 +2854,10 @@
  * **علّمَ** :: to teach (verb)
  * صيد السمك يعلّمُ الصبر. 
  * Fishing teaches patience. 
+----------
+ * **إسبانية** :: Spanish (adjective)
+ * اِعتقلتْ الشرطة الإسبانية إرهابياً. 
+ * The Spanish police arrested a terrorist. 
 ----------
  * **درس** :: lesson (noun)
  * يريدون أخذ درس في اللغة العربية. 
@@ -2587,6 +2867,10 @@
  * سنحاول الوصول في الموعد. 
  * We will try to arrive on time. 
 ----------
+ * **يونانيّ** :: Greek (adjective)
+ * هذا الأستاذ يُدرّسُ الفلسفة اليونانية. 
+ * This professor teaches Greek philosophy. 
+----------
  * **حقيبة** :: bag (noun)
  * معي حقيبة واحدة فقط. 
  * I have only one bag. 
@@ -2594,6 +2878,10 @@
  * **ردّ** :: to reply (verb)
  * لم يرد على رسالتي الأخيرة بعد. 
  * He didn't reply to my last letter yet. 
+----------
+ * **ذكر** :: to mention (verb)
+ * ذكرتْ أنها تحتاج إلى بعض المال. 
+ * She mentioned that she needs some money. 
 ----------
  * **اجتماع** :: meeting (noun)
  * الرئيس في اجتماع الآن. 
@@ -2603,6 +2891,10 @@
  * نسيتْ أن توقّع جواز سفرها. 
  * She forgot to sign her passport. 
 ----------
+ * **زار** :: to visit (verb)
+ * زرنا المتحف بالأمس. 
+ * We visited the museum yesterday. 
+----------
  * **شارع** :: avenue (noun)
  * كان يسكن في هذا الشارع. 
  * He used to live on this avenue. 
@@ -2610,6 +2902,10 @@
  * **وجد** :: to find (verb)
  * من وجد المفتاح؟ 
  * Who found the key? 
+----------
+ * **صينية** :: Chinese (adjective)
+ * الثقافة الصينية متنوعة. 
+ * The Chinese culture is diverse. 
 ----------
  * **مفتاح** :: key (noun)
  * أين مفتاح السيارة؟ 
@@ -2619,6 +2915,10 @@
  * ماذا تريد أن تشرب؟ 
  * What would you like to drink? 
 ----------
+ * **أوروبية** :: European (adjective)
+ * اليورو هو العملة الأوروبية. 
+ * The Euro is the European currency. 
+----------
  * **كمبيوتر** :: computer (noun)
  * إدريس يعمل على الكمبيوتر. 
  * Driss works on the computer. 
@@ -2626,6 +2926,10 @@
  * **ذهب** :: to go (verb)
  * والدي ووالدتي سيذهبان لحفل موسيقي غداً. 
  * My father and mother will go to a concert tomorrow. 
+----------
+ * **فلسطينيّ** :: Palestinian (adjective)
+ * من هو رئيس السلطة الفلسطينية الجديد؟ 
+ * Who is the new Palestinian President? 
 ----------
  * **فيلم** :: film (noun)
  * سنشاهد الفيلم يوم السبت. 
@@ -2635,6 +2939,10 @@
  * أحمد دائماً يشكو أنه مفلس. 
  * Ahmed always complains that he is broke. 
 ----------
+ * **تصرّف** :: to behave (verb)
+ * بعض الناس يتصرفون بطريقة غريبة. 
+ * Some people behave in a strange manner. 
+----------
  * **موعد** :: appointment (noun)
  * عندها موعد مع طبيب الأسنان. 
  * She has an appointment with the dentist. 
@@ -2642,6 +2950,10 @@
  * **فتح** :: to open (verb)
  * هذا المطعم يفتح في الساعة الرابعة. 
  * This restaurant opens at 4 o'clock. 
+----------
+ * **تذكّر** :: to remember (verb)
+ * عفواَ، أنا لا أتذكر اِسمَك. 
+ * I am sorry, I don't remember your name. 
 ----------
  * **زوجة** :: wife (noun)
  * زوجتي يابانية. 
@@ -2651,6 +2963,10 @@
  * هل ستحضرين الاجتماع غداً؟ 
  * Will you attend the meeting tomorrow? 
 ----------
+ * **ضايق** :: to bother (verb)
+ * هل يضايقك الدّخان؟ 
+ * Does the smoke bother you? 
+----------
  * **مدير** :: manager (noun)
  * المدير في عطلة. 
  * The manager is on vacation. 
@@ -2658,6 +2974,10 @@
  * **سمع** :: to hear (verb)
  * سمعنا هذا الخبر في الراديو. 
  * We heard this news on the radio. 
+----------
+ * **أحبّ** :: to like (verb)
+ * الأطفال يحبون الرسوم المتحركة كثيراً. 
+ * Children like cartoons a lot. 
 ----------
  * **إدارة** :: administration (noun)
  * الإدارة في الطابق الثاني. 
@@ -2667,6 +2987,10 @@
  * هل ستخرجون للعشاء الليلة؟ 
  * Are you going out to dinner tonight? 
 ----------
+ * **أعطى** :: to give (verb)
+ * أعطتني صديقتي هدية يوم عيد ميلادي. 
+ * My girlfriend gave me a gift for my birthday. 
+----------
  * **قويّ** :: strong (adjective)
  * الرياح ستكون قوية. 
  * The wind will be strong. 
@@ -2674,6 +2998,10 @@
  * **غسل** :: to wash (verb)
  * يجب أن تغسل يديك قبل الأكل. 
  * You have to wash your hands before eating. 
+----------
+ * **علّمَ** :: to teach (verb)
+ * صيد السمك يعلّمُ الصبر. 
+ * Fishing teaches patience. 
 ----------
  * **مشغول** :: busy (adjective)
  * الموظف الجديد مشغول. 
@@ -2683,6 +3011,10 @@
  * رجع إلى بلده بعد أن قضى سنتين في العراق. 
  * He returned to his country after spending 2 years in Iraq. 
 ----------
+ * **حاول** :: to try (verb)
+ * سنحاول الوصول في الموعد. 
+ * We will try to arrive on time. 
+----------
  * **شقيّ** :: naughty (adjective)
  * علي ولد شقي. 
  * Ali is a naughty boy. 
@@ -2690,6 +3022,10 @@
  * **وصف** :: to describe (verb)
  * وصفتْ ليلى رحلتها إلى طوكيو. 
  * Leila described her trip to Tokyo. 
+----------
+ * **فارغ** :: empty (adjective)
+ * المحل فارغ، لا يوجد زبائن في هذا الوقت. 
+ * The shop is empty, there are no customers at this time. 
 ----------
  * **مفيد** :: useful (adjective)
  * الكتاب الذي قرأته مفيد جداً. 
@@ -2699,6 +3035,10 @@
  * فاز الفريق الأخضر بالمباراة. 
  * The green team won the game. 
 ----------
+ * **حزين** :: sad (adjective)
+ * لِمَ أنت حزين؟ 
+ * Why are you sad? 
+----------
  * **ثقيل** :: heavy (adjective)
  * هذا الصندوق ثقيل جداً. 
  * This box is very heavy. 
@@ -2706,6 +3046,10 @@
  * **طار** :: to fly (verb)
  * سنطير إلى لندن الأسبوع المقبل. 
  * We will fly to London next week. 
+----------
+ * **مظلم** :: dark (adjective)
+ * تجنب المشي في هذا الشارع لأنه مظلم. 
+ * Avoid walking in the street because it is dark. 
 ----------
  * **متزوج** :: married (adjective)
  * عمي غير متزوج. 
@@ -2715,6 +3059,10 @@
  * كيف تكتب هذه الكلمة بالعربية؟ 
  * How do you write this word in Arabic? 
 ----------
+ * **ردّ** :: to reply (verb)
+ * لم يرد على رسالتي الأخيرة بعد. 
+ * He didn't reply to my last letter yet. 
+----------
  * **مشهور** :: famous (adjective)
  * هذا الممثل مشهور. 
  * This actor is famous. 
@@ -2722,6 +3070,10 @@
  * **دعا** :: to invite (verb)
  * دعاني عثمان لحضور حفل زواجه. 
  * Othman invited me to attend his wedding party. 
+----------
+ * **نسى** :: to forget (verb)
+ * نسيتْ أن توقّع جواز سفرها. 
+ * She forgot to sign her passport. 
 ----------
  * **قبيح** :: ugly (adjective)
  * هذا القميص قبيح. 
@@ -2731,6 +3083,10 @@
  * هل يمكن أن أدفع ببطاقة الائتمان؟ 
  * Can I pay with a credit card? 
 ----------
+ * **وجد** :: to find (verb)
+ * من وجد المفتاح؟ 
+ * Who found the key? 
+----------
  * **فيما بعد** :: later (adverb)
  * أراك فيما بعد. 
  * See you later! 
@@ -2738,6 +3094,10 @@
  * **طلب** :: to order (verb)
  * طلبتُ ساندوتش جبن وعصير برتقال. 
  * I ordered a cheese sandwich and an orange juice. 
+----------
+ * **شرب** :: to drink (verb)
+ * ماذا تريد أن تشرب؟ 
+ * What would you like to drink? 
 ----------
  * **دائماً** :: always (adverb)
  * أختي دائماً تبتسم. 
@@ -2747,6 +3107,10 @@
  * نحن نؤمن بالصداقة. 
  * We believe in friendship. 
 ----------
+ * **ذهب** :: to go (verb)
+ * والدي ووالدتي سيذهبان لحفل موسيقي غداً. 
+ * My father and mother will go to a concert tomorrow. 
+----------
  * **كتاب** :: book (noun)
  * هل قرأت هذا الكتاب؟ 
  * Did you read this book? 
@@ -2754,6 +3118,10 @@
  * **دافع عن** :: to defend (verb)
  * وافق المحامي أن يدافع عن المتهم. 
  * The lawyer agreed to defend the accused. 
+----------
+ * **شكا** :: to complain (verb)
+ * أحمد دائماً يشكو أنه مفلس. 
+ * Ahmed always complains that he is broke. 
 ----------
  * **أريكة** :: armchair (noun)
  * هناك أريكة في هذه الغرفة. 
@@ -2763,6 +3131,10 @@
  * المجتمع المدني يُدينُ العنفَ ضد الأطفال. 
  * Civil society condemns violence against children. 
 ----------
+ * **فتح** :: to open (verb)
+ * هذا المطعم يفتح في الساعة الرابعة. 
+ * This restaurant opens at 4 o'clock. 
+----------
  * **عمة** :: aunt (noun)
  * عمتها تعيش في بوسطن. 
  * Her aunt lives in Boston. 
@@ -2770,6 +3142,10 @@
  * **دخل** :: to enter (verb)
  * دخل اللصُّ من الباب الخلفي للبيت. 
  * The thief entered through the back door of the house. 
+----------
+ * **حضر** :: to attend (verb)
+ * هل ستحضرين الاجتماع غداً؟ 
+ * Will you attend the meeting tomorrow? 
 ----------
  * **طفل** :: baby (noun)
  * زوجته أنجبت طفلة جميلة. 
@@ -2779,6 +3155,10 @@
  * سأذهب إلى المكتبة لأبحث في موضوع علمي. 
  * I'm going to the library to research a scientific topic. 
 ----------
+ * **سمع** :: to hear (verb)
+ * سمعنا هذا الخبر في الراديو. 
+ * We heard this news on the radio. 
+----------
  * **مايوه** :: bathing suit (noun)
  * أنت في حاجة لشراء مايوه جديد. 
  * You need to buy a new bathing suit. 
@@ -2786,6 +3166,10 @@
  * **أكد** :: to assure (verb)
  * أكد الطبيب للمريض أن صحته في تحسن. 
  * The doctor assured the patient that his health was improving. 
+----------
+ * **خرج** :: to go out (verb)
+ * هل ستخرجون للعشاء الليلة؟ 
+ * Are you going out to dinner tonight? 
 ----------
  * **سرير** :: bed (noun)
  * أود غرفة بها سرير كبير ، من فضلك. 
@@ -2795,6 +3179,10 @@
  * سمير يسكن في حي فقير. 
  * Samir lives in a poor neighborhood. 
 ----------
+ * **خلف** :: behind (adverb of place)
+ * الكنيسة خلف مركز الشرطة. 
+ * The church is behind the police station. 
+----------
  * **غرفة النوم** :: bedroom (noun)
  * غرفة النوم هذه فيها حمام كبير. 
  * This bedroom has a big bathroom. 
@@ -2802,6 +3190,10 @@
  * **فارغ** :: empty (adjective)
  * المحل فارغ، لايوجد زبائن في هذا الوقت. 
  * The shop is empty, there are no customers at this time. 
+----------
+ * **فوق** :: above (adverb of place)
+ * يعيش صديقي في منزلٍ فوق المخبز. 
+ * My friend lives in a house above the bakery. 
 ----------
  * **لحم بقر** :: beef (noun)
  * أنا طلبت لحم البقر للعشاء. 
@@ -2811,6 +3203,10 @@
  * لِمَ أنت حزين؟ 
  * Why are you sad? 
 ----------
+ * **تحت** :: under (adverb of place)
+ * يختبئ القطّ تحت السلّم. 
+ * The cat is hiding under the stairs. 
+----------
  * **أخ** :: brother (noun)
  * أخي جندي في الجيش الأمريكي. 
  * My brother is a soldier in the U.S. Army. 
@@ -2818,6 +3214,10 @@
  * **مظلم** :: dark (adjective)
  * تجنب المشي في هذا الشارع لأنه مظلم. 
  * Avoid walking in the street because it is dark. 
+----------
+ * **غسل** :: to wash (verb)
+ * يجب أن تغسل يديك قبل الأكل. 
+ * You have to wash your hands before eating. 
 ----------
  * **ابن عم** :: cousin (noun)
  * كم عمر ابن عمها؟ 
@@ -2827,6 +3227,10 @@
  * مقر عملها بعيد عن بيتها. 
  * Her work is far from her home. 
 ----------
+ * **رجع** :: to return (verb)
+ * رجع إلى بلده بعد أن قضى سنتين في العراق. 
+ * He returned to his country after spending 2 years in Iraq. 
+----------
  * **كوب** :: cup (noun)
  * هل طلبت كوباً من الشاي؟ 
  * Did you order a cup of tea? 
@@ -2834,6 +3238,10 @@
  * **أخضر** :: green (adjective)
  * يكون العشب أخضر في فصل الربيع. 
  * The grass is green in the spring. 
+----------
+ * **وصف** :: to describe (verb)
+ * وصفتْ ليلى رحلتها إلى طوكيو. 
+ * Leila described her trip to Tokyo. 
 ----------
  * **غرفة الطعام** :: dining room (noun)
  * العشاء سوف يقدم في غرفة الطعام. 
@@ -2843,6 +3251,10 @@
  * لم أحضر للحفل لأنني مُتعب. 
  * I didn't come to the party because I'm tired. 
 ----------
+ * **فاز** :: to win (verb)
+ * فاز الفريق الأخضر بالمباراة. 
+ * The green team won the game. 
+----------
  * **جد** :: grandfather (noun)
  * جدته ولدت في عام 1912. 
  * His grandmother was born in 1912. 
@@ -2850,6 +3262,10 @@
  * **واضح** :: clear (adjective)
  * من فضلك اُكتب اسمَك بخط واضح. 
  * Please, write your name in clear handwriting. 
+----------
+ * **طار** :: to fly (verb)
+ * سنطير إلى لندن الأسبوع المقبل. 
+ * We will fly to London next week. 
 ----------
  * **شوكة** :: fork (noun)
  * هل يمكن أن تحضر لي شوكة أخرى ، من فضلك؟ 
@@ -2859,6 +3275,10 @@
  * جاء إلى الولايات المتحدة عندما كان شاباً. 
  * He came to the United States when he was young. 
 ----------
+ * **كتب** :: to write (verb)
+ * كيف تكتب هذه الكلمة بالعربية؟ 
+ * How do you write this word in Arabic? 
+----------
  * **مكتب** :: desk (noun)
  * الكتب على المكتب. 
  * The books are on the desk. 
@@ -2866,6 +3286,10 @@
  * **هامة** :: important (adjective)
  * وصلتني رسالة هامة. 
  * I received an important letter. 
+----------
+ * **دعا** :: to invite (verb)
+ * دعاني عثمان لحضور حفل زواجه. 
+ * Othman invited me to attend his wedding party. 
 ----------
  * **عشاء** :: dinner (noun)
  * أنا لا أحب أكل الحلوى بعد العشاء. 
@@ -2875,6 +3299,10 @@
  * هذه المشكلة معقدة. 
  * This problem is complex. 
 ----------
+ * **دفع** :: to pay (verb)
+ * هل يمكن أن أدفع ببطاقة الائتمان؟ 
+ * Can I pay with a credit card? 
+----------
  * **معطف** :: coat (noun)
  * المعطف في الخزانة. 
  * The coat is in the closet. 
@@ -2882,6 +3310,10 @@
  * **جاف** :: dry (adjective)
  * الهواء جاف في المنزل. 
  * The air is dry in the house. 
+----------
+ * **طلب** :: to order (verb)
+ * طلبتُ ساندوتش جبن وعصير برتقال. 
+ * I ordered a cheese sandwich and an orange juice. 
 ----------
  * **سلطة** :: salad (noun)
  * السلطة جيدة جداً في هذا المطعم. 
@@ -2891,6 +3323,10 @@
  * المدير العام متغيب. 
  * The general manager is absent. 
 ----------
+ * **آمن بـ** :: to believe in (verb)
+ * نحن نؤمن بالصداقة. 
+ * We believe in friendship. 
+----------
  * **فواكه** :: fruit (noun)
  * أحب أكل الفواكه في الصباح. 
  * I like to eat fruit in the morning. 
@@ -2898,6 +3334,10 @@
  * **صحيّ** :: healthy (adjective)
  * هذا غذاءٌ صحيّ. 
  * This is healthy food. 
+----------
+ * **دافع عن** :: to defend (verb)
+ * وافق المحامي أن يدافع عن المتهم. 
+ * The lawyer agreed to defend the accused. 
 ----------
  * **منزل** :: house (noun)
  * نحن نعيش في منزل صغير في باريس. 
@@ -2907,6 +3347,10 @@
  * من العادي أنْ يلعبَ الأطفالُ كثيراً. 
  * It is normal that children play a lot. 
 ----------
+ * **أدانَ** :: to condemn (verb)
+ * المجتمع المدني يُدينُ العنفَ ضد الأطفال. 
+ * Civil society condemns violence against children. 
+----------
  * **بنطال** :: pants (noun)
  * سارتدي بنطالاً أسوداً وقميصاً أبيضاً. 
  * I will wear black pants and a white shirt. 
@@ -2914,6 +3358,10 @@
  * **خاص** :: private (adjective)
  * لديه طائرة خاصة. 
  * He has a private airplane. 
+----------
+ * **دخل** :: to enter (verb)
+ * دخل اللصُّ من الباب الخلفي للبيت. 
+ * The thief entered through the back door of the house. 
 ----------
  * **صورة** :: picture (noun)
  * هل تستطيع أن تأخذ صورة لهذا التمثال؟ 
@@ -2923,6 +3371,10 @@
  * قطتي خجولة جدا. 
  * My cat is very shy. 
 ----------
+ * **بحث فى موضوع علمي** :: to research (verb)
+ * سأذهب إلى المكتبة لأبحث في موضوع علمي. 
+ * I'm going to the library to research a scientific topic. 
+----------
  * **ثلاجة** :: refrigerator (noun)
  * يجبُ أن تضع الحليب في الثلاجة. 
  * You should put the milk in the refrigerator. 
@@ -2930,6 +3382,10 @@
  * **مُفاجىء** :: sudden (adjective)
  * كان قرار انتقالها إلى بوسطن مفاجئاً. 
  * Her decision to move to Boston was sudden. 
+----------
+ * **أكد** :: to assure (verb)
+ * أكد الطبيب للمريض أن صحته في تحسن. 
+ * The doctor assured the patient that his health was improving. 
 ----------
  * **مطعم** :: restaurant (noun)
  * هذا المطعم يقدم دجاجاً مشوياً لذيذاً. 
@@ -2939,6 +3395,10 @@
  * والدي رجل حكيم. 
  * My father is a wise man. 
 ----------
+ * **فقير** :: poor (adjective)
+ * سمير يسكن في حي فقير. 
+ * Samir lives in a poor neighborhood. 
+----------
  * **بوظة** :: ice cream (noun)
  * هل تفضل بوظة الفراولة أو الفانيليا؟ 
  * Do you prefer vanilla or strawberry ice cream? 
@@ -2946,6 +3406,10 @@
  * **خطأ** :: wrong (adjective)
  * أنا آسف ، حكمكم خطأ. 
  * I am sorry, your judgment is wrong. 
+----------
+ * **بعيد** :: far (adjective)
+ * مقرعملها بعيد عن بيتها. 
+ * Her work is far from her home. 
 ----------
  * **حذاء رياضي** :: sneakers (noun)
  * هذا الحذاء الرياضي مريح. 
@@ -2955,6 +3419,10 @@
  * الرجاء ، كن دقيقاً! 
  * Please, be accurate! 
 ----------
+ * **أخضر** :: green (adjective)
+ * يكون العشب أخضر في فصل الربيع. 
+ * The grass is green in the spring. 
+----------
  * **أردني** :: Jordanian (adjective)
  * أمس ، شاهدتُ فيلماً أردنياً. 
  * Yesterday, I watched a Jordanian movie. 
@@ -2962,6 +3430,10 @@
  * **بينما** :: while (adverb of time)
  * كان يغني بينما كنتُ أعمل. 
  * He was singing while I was working. 
+----------
+ * **مُتعب** :: tired (adjective)
+ * لم أحضر للحفل لأنني مُتعب. 
+ * I didn't come to the party because I'm tired. 
 ----------
  * **أمريكيّ** :: American (adjective)
  * العلمُ الاميركيّ أزرق وأحمر وأبيض. 
@@ -2971,6 +3443,10 @@
  * الجرّاحُ عمل طوال الليل. 
  * The surgeon worked throughout the night. 
 ----------
+ * **واضح** :: clear (adjective)
+ * من فضلك اُكتب اسمَك بخط واضح. 
+ * Please, write your name in clear handwriting. 
+----------
  * **فرنسيّ** :: French (adjective)
  * منطقة بوردو تنتج أفضل نبيذ فرنسيّ. 
  * The region of Bordeaux produces the best French wine. 
@@ -2978,6 +3454,10 @@
  * **خلف** :: behind (adverb of place)
  * الكنيسة خلف مركز الشرطة. 
  * The church is behind the police station. 
+----------
+ * **شاب** :: young (adjective)
+ * جاء إلى الولايات المتحدة عندما كان شاباً. 
+ * He came to the United States when he was young. 
 ----------
  * **سعودية** :: Saudi (adjective)
  * الحكومة السعودية صوتت على القانون الجديد. 
@@ -2987,6 +3467,10 @@
  * يعيش صديقي في منزلٍ فوق المخبز. 
  * My friend lives in a house above the bakery. 
 ----------
+ * **هامة** :: important (adjective)
+ * وصلتني رسالة هامة. 
+ * I received an important letter. 
+----------
  * **مغربية** :: Moroccan (adjective)
  * هي حضّرتْ وجبة مغربية. 
  * She prepared a Moroccan meal. 
@@ -2994,6 +3478,10 @@
  * **تحت** :: under (adverb of place)
  * يختبئ القطّ تحت السلّم. 
  * The cat is hiding under the stairs. 
+----------
+ * **فعلاً** :: truly (adverb)
+ * أنت فعلاً شاب موهوب. 
+ * You are truly a talented young man. 
 ----------
  * **ألمانيّ** :: German (adjective)
  * أخي يَدرسُ التاريخ الألمانيّ. 
@@ -3003,6 +3491,10 @@
  * مكتبي بين السرير والنافذة. 
  * My desk is between the bed and the window. 
 ----------
+ * **قرية** :: village (noun)
+ * هل أنتَ من هذه القرية؟ 
+ * Are you from this village? 
+----------
  * **صينية** :: Chinese (adjective)
  * الثقافة الصينية متنوعة. 
  * The Chinese culture is diverse. 
@@ -3010,6 +3502,10 @@
  * **حيث** :: where (adverb of place)
  * تناولنا العشاء في المطعم حيث كنت أعمل. 
  * We had dinner at the restaurant where I used to work. 
+----------
+ * **حفلة** :: party (noun)
+ * الحفلة ستكون غداً بعد الظهر. 
+ * The party will be tomorrow afternoon. 
 ----------
  * **أوروبية** :: European (adjective)
  * اليورو هو العملة الأوروبية. 
@@ -3019,6 +3515,10 @@
  * هذا الفيلم عُرضَ أمس. 
  * This movie came out yesterday. 
 ----------
+ * **مصنع** :: factory (noun)
+ * خالد يعمل مع والده في المصنع. 
+ * Khalid works with his father in the factory. 
+----------
  * **آسيويّ** :: Asian (adjective)
  * ثمة معرض للفنون الآسيوية في المدينة. 
  * There is an Asian arts exhibit in town. 
@@ -3026,6 +3526,10 @@
  * **الآن** :: now (adverb)
  * هل تسمعني الآن؟ 
  * Do you hear me now? 
+----------
+ * **مرتفع** :: high (adjective)
+ * درجة الحرارة مرتفعة هذا الصباح. 
+ * The temperature is high this morning. 
 ----------
  * **مكسيكية** :: Mexican (adjective)
  * الرئيسُ المكسيكيّ سيقوم بزيارة للولايات المتحدة في العام المقبل. 
@@ -3035,6 +3539,10 @@
  * ولدوا هنا. 
  * They were born here. 
 ----------
+ * **معقد** :: complex (adjective)
+ * هذه المشكلة معقدة. 
+ * This problem is complex. 
+----------
  * **إسبانية** :: Spanish (adjective)
  * اِعتقلتْ الشرطة الإسبانية إرهابياً. 
  * The Spanish police arrested a terrorist. 
@@ -3042,6 +3550,10 @@
  * **هناك** :: there (adverb)
  * يمكنك الجلوس هناك. 
  * You can sit there. 
+----------
+ * **جاف** :: dry (adjective)
+ * الهواء جاف في المنزل. 
+ * The air is dry in the house. 
 ----------
  * **يونانيّ** :: Greek (adjective)
  * هذا الأستاذ يُدرّسُ الفلسفة اليونانية. 
@@ -3051,6 +3563,10 @@
  * يتقاضى أقل من زوجته. 
  * He makes less money than his wife. 
 ----------
+ * **عام** :: general (adjective)
+ * المدير العام متغيب. 
+ * The general manager is absent. 
+----------
  * **فلسطينيّ** :: Palestinian (adjective)
  * من هو رئيس السلطة الفلسطينية الجديد؟ 
  * Who is the new Palestinian President? 
@@ -3058,6 +3574,10 @@
  * **معظم** :: most (noun)
  * معظم المشاركين حاضرون. 
  * Most of the participants are present. 
+----------
+ * **صحيّ** :: healthy (adjective)
+ * هذا غذاءٌ صحيّ. 
+ * This is healthy food. 
 ----------
  * **إسرائيليّ** :: Israeli (adjective)
  * لا يمكنك السفر إلى إيران إذا كان لديك جواز سفر إسرائيلي. 
@@ -3067,6 +3587,10 @@
  * طبقة الجليد تذوب بسرعة. 
  * The glacier is melting rapidly. 
 ----------
+ * **عادي** :: normal (adjective)
+ * من العادي أنْ يلعبَ الأطفالُ كثيراً. 
+ * It is normal that children play a lot. 
+----------
  * **حكوميّ** :: governmental (adjective)
  * الرئيس يستخدم السلطة الحكومية. 
  * The president uses governmental power. 
@@ -3074,6 +3598,10 @@
  * **الأقل** :: the least (adjective)
  * هذا البرنامج هو الأقل كلفة. 
  * This program is the least expensive one. 
+----------
+ * **خاص** :: private (adjective)
+ * لديه طائرة خاصة. 
+ * He has a private airplane. 
 ----------
  * **برلمانية** :: parliamentary (adjective)
  * ستكون هناك مناقشة برلمانية حول الإجهاض. 
@@ -3083,6 +3611,10 @@
  * هو لا يقتنع بسهولة أبداً. 
  * He is never convinced easily. 
 ----------
+ * **خجول** :: shy (adjective)
+ * قطتي خجولة جداً. 
+ * My cat is very shy. 
+----------
  * **شعبية** :: popular (adjective)
  * فاز في الانتخابات عن طريق التصويت الشعبيّ 
  * He won the elections by popular vote. 
@@ -3090,6 +3622,10 @@
  * **عاجلاً** :: soon (adverb)
  * يجب أن ترى الطبيب عاجلاً. 
  * You should see a doctor soon. 
+----------
+ * **مُفاجىء** :: sudden (adjective)
+ * كان قرار انتقالها إلى بوسطن مفاجئاً. 
+ * Her decision to move to Boston was sudden. 
 ----------
  * **محترف** :: professional (adjective)
  * هؤلاء اللاعبون محترفون. 
@@ -3099,6 +3635,10 @@
  * سألتقي بأصدقائي غداً. 
  * I will meet my friends tomorrow. 
 ----------
+ * **حكيم** :: wise (adjective)
+ * والدي رجل حكيم. 
+ * My father is a wise man. 
+----------
  * **أيّد** :: to support (verb)
  * نحن لا نؤيّد هذا الاقتراح. 
  * We don't support this proposal. 
@@ -3106,6 +3646,10 @@
  * **أيضاً** :: also (adverb)
  * أحب الموسيقى و الرقص أيضاً. 
  * I love music and dance also. 
+----------
+ * **خطأ** :: wrong (adjective)
+ * أنا آسف ، حكمكم خطأ. 
+ * I am sorry, your judgment is wrong. 
 ----------
  * **بعث** :: to send (verb)
  * يعتقد اليهود والمسيحيون والمسلمون أنَّ الله بعث الأنبياء و الرسل. 
@@ -3115,6 +3659,10 @@
  * أنت فعلاً شاب موهوب. 
  * You are truly a talented young man. 
 ----------
+ * **دقيق** :: accurate (adjective)
+ * الرجاء ، كن دقيقاً! 
+ * Please, be accurate! 
+----------
  * **وصلَ إلى** :: to reach (verb)
  * وصلتْ درجة الحرارة إلى خمسة تحت الصفر. 
  * The temperature reached 5 below zero. 
@@ -3122,6 +3670,10 @@
  * **قرية** :: village (noun)
  * هل أنتَ من هذه القرية؟ 
  * Are you from this village? 
+----------
+ * **بينما** :: while (adverb of time)
+ * كان يغني بينما كنتُ أعمل. 
+ * He was singing while I was working. 
 ----------
  * **تأخّر** :: to be late (verb)
  * عفوا لقد تأخّرتُ بسب اِزدحام الطريق. 
@@ -3131,6 +3683,10 @@
  * الحفلة ستكون غداً بعد الظهر. 
  * The party will be tomorrow afternoon. 
 ----------
+ * **طوال** :: throughout (adverb of time)
+ * الجرّاحُ عمل طوال الليل. 
+ * The surgeon worked throughout the night. 
+----------
  * **تحدث ، تكلم** :: to talk (verb)
  * هل يمكن أنْ أتحدّث مع المدير؟ 
  * Can I talk to the manager? 
@@ -3138,6 +3694,10 @@
  * **مصنع** :: factory (noun)
  * خالد يعمل مع والده في المصنع. 
  * Khalid works with his father in the factory. 
+----------
+ * **بين** :: between (adverb of place)
+ * مكتبي بين السرير والنافذة. 
+ * My desk is between the bed and the window. 
 ----------
  * **ترك** :: to leave (verb)
  * هل من الممكن أن تتركيني وحدي من فضلك؟ 
@@ -3147,6 +3707,10 @@
  * درجة الحرارة مرتفعة هذا الصباح. 
  * The temperature is high this morning. 
 ----------
+ * **حيث** :: where (adverb of place)
+ * تناولنا العشاء في المطعم حيث كنت أعمل. 
+ * We had dinner at the restaurant where I used to work. 
+----------
  * **ترجم** :: to translate (verb)
  * هي ترجمتْ هذا المقال من اللغة الإنجليزية إلى العربية. 
  * She translated this article from English to Arabic. 
@@ -3154,6 +3718,10 @@
  * **إدارة** :: administration (noun)
  * من المسؤول في هذه الإدارة؟ 
  * Who is in charge in this administration? 
+----------
+ * **أمس** :: yesterday (adverb)
+ * هذا الفيلم عُرضَ أمس. 
+ * This movie came out yesterday. 
 ----------
  * **أثّر على** :: to affect (verb)
  * التدخين يؤثر على صحتك. 
@@ -3163,6 +3731,10 @@
  * القاهرة هي عاصمة مصر. 
  * Cairo is the capital of Egypt. 
 ----------
+ * **الآن** :: now (adverb)
+ * هل تسمعني الآن؟ 
+ * Do you hear me now? 
+----------
  * **باع** :: to sell (verb)
  * هل بعتم بيتكم في نيويورك؟ 
  * Have you sold your house in New York? 
@@ -3170,6 +3742,10 @@
  * **أحياناً** :: sometimes (adverb)
  * أشتاق إلى أصدقائي أحياناً. 
  * I miss my friends sometimes! 
+----------
+ * **هنا** :: here (adverb)
+ * ولدوا هنا. 
+ * They were born here. 
 ----------
  * **جلس** :: to sit (verb)
  * هل من الممكن أن أجلس هنا؟ 
@@ -3179,6 +3755,10 @@
  * أود أنْ أتناول طعام الغداء في غرفتي. 
  * I would like to have my lunch in my room. 
 ----------
+ * **هناك** :: there (adverb)
+ * يمكنك الجلوس هناك. 
+ * You can sit there. 
+----------
  * **محامي** :: lawyer (noun)
  * جمع المحاميُّ كل الوثائق. 
  * The lawyer gathered all the documentation. 
@@ -3186,6 +3766,10 @@
  * **صيدلي** :: pharmacist (noun)
  * عليك استشارة الصيدلي قبل أن تأخذ أي دواء. 
  * You have to consult the pharmacist before taking any medicine. 
+----------
+ * **أقل** :: less (adjective)
+ * يتقاضى أقل من زوجته. 
+ * He makes less money than his wife. 
 ----------
  * **إجتهد** :: to work hard (verb)
  * يجب أنْ تجتهد لتنجح. 
@@ -3195,6 +3779,10 @@
  * هذه سيارة فخمة. 
  * This is a luxurious car. 
 ----------
+ * **معظم** :: most (noun)
+ * معظم المشاركين حاضرون. 
+ * Most of the participants are present. 
+----------
  * **فعل** :: to do (verb)
  * ماذا يجب أنْ أفعل في حالة طوارىء؟ 
  * What should I do in case of an emergency? 
@@ -3202,6 +3790,10 @@
  * **عربي** :: Arabic (adjective)
  * أمي تحب الموسيقى العربية. 
  * My mother likes Arabic music. 
+----------
+ * **بسرعة** :: rapidly (prepostion)
+ * طبقة الجليد تذوب بسرعة. 
+ * The glacier is melting rapidly. 
 ----------
  * **ذكر** :: to mention (verb)
  * ذكرتْ أنها تحتاج إلى بعض المال. 
@@ -3211,6 +3803,10 @@
  * سنتقابل اللّيلة. 
  * We will meet tonight. 
 ----------
+ * **قرر** :: to decide (verb)
+ * قررت أن أتعلم اللغة العربية بعد زيارة مصرلأول مرة. 
+ * I decided to learn Arabic after visiting Egypt for the first time. 
+----------
  * **زار** :: to visit (verb)
  * زرنا المتحف بالأمس. 
  * We visited the museum yesterday. 
@@ -3218,6 +3814,10 @@
  * **مصطلح** :: term (noun)
  * أريد أن أتعلم هذه المصطلحات. 
  * I want to learn these terms. 
+----------
+ * **اقترح** :: to suggest (verb)
+ * ماذا تقترح أن أفعل؟ 
+ * What do you suggest I do? 
 ----------
  * **تصرّف** :: to behave (verb)
  * بعض الناس يتصرفون بطريقة غريبة. 
@@ -3227,6 +3827,10 @@
  * مرحباً بكم في بيتنا. 
  * Welcome to our house. 
 ----------
+ * **ذكر** :: to remind (verb)
+ * ممكن أن تذكرني بعنوان بيتك؟ 
+ * Could you remind me of your address? 
+----------
  * **تذكّر** :: to remember (verb)
  * عفواَ، أنا لا أتذكر اِسمَك. 
  * I am sorry, I don't remember your name. 
@@ -3234,6 +3838,10 @@
  * **عادةً** :: usually (adverb)
  * عادةً ، نأخذ الحافلة من هذه المحطة. 
  * We usually take the bus from this station. 
+----------
+ * **تجنب** :: to avoid (verb)
+ * تجنب التَحدُث عَن السياسة. 
+ * Avoid talking about politics. 
 ----------
  * **ضايق** :: to bother (verb)
  * هل يضايقك الدّخان؟ 
@@ -3243,6 +3851,10 @@
  * الطقس بارد في الشتاء. 
  * The weather is cold during winter. 
 ----------
+ * **حصل** :: to obtain (verb)
+ * حَصلْت على شهادة البكالوريوس في بريطانيا. 
+ * I obtained my bachelor’s degree in Britain. 
+----------
  * **أحبّ** :: to like (verb)
  * الأطفال يحبون الرسوم المتحركة كثيراً. 
  * Children like cartoons a lot. 
@@ -3250,6 +3862,10 @@
  * **عائلة ممتدة** :: extended family (noun)
  * رانيا تعيش مع عائلتها. 
  * Ranya lives with her extended family. 
+----------
+ * **الطبَقة الوسطى** :: middle-class (adjective)
+ * نشأ في عائلة من الطبقة المتوسطة. 
+ * He grew up in a middle-class family. 
 ----------
  * **أعطى** :: to give (verb)
  * أعطتني صديقتي هدية يوم عيد ميلادي. 
@@ -3259,6 +3875,10 @@
  * المطعم بجانب الفندق. 
  * The restaurant is beside the hotel. 
 ----------
+ * **خَبر سَيِّء** :: bad news (collocation)
+ * أكره أن أسمع خبراً سيئاً. 
+ * I hate hearing bad news. 
+----------
  * **علّمَ** :: to teach (verb)
  * صيد السمك يعلّمُ الصبر. 
  * Fishing teaches patience. 
@@ -3266,6 +3886,10 @@
  * **مقبلات** :: appetizers (noun)
  * سنطلب مقبلات قبل العشاء. 
  * We will order appetizers before dinner. 
+----------
+ * **الوَجبات السّريعة** :: fast food (collocation)
+ * آكل الوجبات السريعة مرة بالأسبوع. 
+ * I eat fast food once a week. 
 ----------
  * **حاول** :: to try (verb)
  * سنحاول الوصول في الموعد. 
@@ -3275,6 +3899,10 @@
  * هل يمكن أن نلتقي عند الفندق؟ 
  * Could we meet at the hotel? 
 ----------
+ * **الخليج العَرَبي** :: Arabian Gulf (collocation)
+ * تَقَع البَحرين في الخليج العربي. 
+ * Bahrain is located in the Arabian Gulf. 
+----------
  * **ردّ** :: to reply (verb)
  * لم يرد على رسالتي الأخيرة بعد. 
  * He didn't reply to my last letter yet. 
@@ -3282,6 +3910,10 @@
  * **مرحاض** :: toilet (noun)
  * أين المرحاض من فضلك؟ 
  * Where is the toilet, please? 
+----------
+ * **اللُغة الرَّسمية** :: official language (collocation)
+ * اللُغة الرَّسمية في سوريا هي اللُغة العَرَبية الفُصحى. 
+ * The official language in Syria is Standard Arabic. 
 ----------
  * **نسى** :: to forget (verb)
  * نسيتْ أن توقّع جواز سفرها. 
@@ -3291,6 +3923,10 @@
  * هل هناك بانيو في الحمام؟ 
  * Is there a bathtub in the bathroom? 
 ----------
+ * **رأي** :: opinion (noun)
+ * ما رأيك في البرنامج الجديد، هل تعتقد أنه أفضل من القديم؟ 
+ * What is your opinion of the new program, do you think it’s better than the old one? 
+----------
  * **وجد** :: to find (verb)
  * من وجد المفتاح؟ 
  * Who found the key? 
@@ -3298,6 +3934,10 @@
  * **جميل** :: beautiful (adjective)
  * هذه صورة جميلة. 
  * This is a beautiful picture. 
+----------
+ * **مَعلومات** :: information (noun)
+ * هل لديك أي معلومات مفيدة عن هذا الشخص؟ 
+ * Do you have any useful information about this person? 
 ----------
  * **شرب** :: to drink (verb)
  * ماذا تريد أن تشرب؟ 
@@ -3307,6 +3947,10 @@
  * أسبح كل يوم. 
  * I swim every day. 
 ----------
+ * **رُبَما** :: perhaps (adverb)
+ * ربما أستطيع أن أذهب إلى مكتب البريد غداً بعد العمل. 
+ * Perhaps I can go to the post office tomorrow after work. 
+----------
  * **ذهب** :: to go (verb)
  * والدي ووالدتي سيذهبان لحفل موسيقي غداً. 
  * My father and mother will go to a concert tomorrow. 
@@ -3314,6 +3958,10 @@
  * **صيف** :: summer (noun)
  * أحمد يحب الصيف. 
  * Ahmed likes summer. 
+----------
+ * **مُريح** :: comfortable (adjective)
+ * هذا القميص مريح جداً، .علي أن اشتري قميصاً ٱخر. 
+ * This shirt is very comfortable, I should buy another one. 
 ----------
  * **شكا** :: to complain (verb)
  * أحمد دائماً يشكو أنه مفلس. 
@@ -3323,6 +3971,10 @@
  * الطقس حار جداً. 
  * It's very hot. 
 ----------
+ * **مَسؤولية** :: responsibility (noun)
+ * إنها مسؤوليته أن يستقبل الضيوف. 
+ * It is his responsibility to receive the guests. 
+----------
  * **فتح** :: to open (verb)
  * هذا المطعم يفتح في الساعة الرابعة. 
  * This restaurant opens at 4 o'clock. 
@@ -3330,6 +3982,10 @@
  * **متى** :: when (adverb)
  * متى ستقلع الطائرة؟ 
  * When will the plane take off? 
+----------
+ * **يا سلام!** :: Wow! (interjection)
+ * يا سلام، هذا فندق جميل! 
+ * Wow, this is a nice hotel! 
 ----------
  * **حضر** :: to attend (verb)
  * هل ستحضرين الاجتماع غداً؟ 
@@ -3339,6 +3995,10 @@
  * يقضي وقته في العمل. 
  * He spends his time working. 
 ----------
+ * **تحسن** :: to improve (verb)
+ * الطقس يتحسن بعد كل هذا المطر. 
+ * The weather is improving after all that rain. 
+----------
  * **سمع** :: to hear (verb)
  * سمعنا هذا الخبر في الراديو. 
  * We heard this news on the radio. 
@@ -3346,6 +4006,10 @@
  * **مشمس** :: sunny (adjective)
  * اليوم مشمس. 
  * It's sunny today. 
+----------
+ * **شارك** :: to participate (verb)
+ * لم تشارك في المحادثة. 
+ * She did not participate in the discussion. 
 ----------
  * **خرج** :: to go out (verb)
  * هل ستخرجون للعشاء الليلة؟ 
@@ -3355,6 +4019,10 @@
  * فاطمة تسكن في بوسطن. 
  * Fatima lives in Boston. 
 ----------
+ * **شرح** :: to explain (verb)
+ * من فضلك، إشرح ماذا حدث. 
+ * Please, explain what happened. 
+----------
  * **غسل** :: to wash (verb)
  * يجب أن تغسل يديك قبل الأكل. 
  * You have to wash your hands before eating. 
@@ -3362,6 +4030,10 @@
  * **اسم** :: name (noun)
  * اسمهُ علي. 
  * His name is Ali. 
+----------
+ * **حقق** :: to achieve (verb)
+ * حقق هدفه بعد خمس سنوات من الممارسة. 
+ * He achieved his goal after five years of practice. 
 ----------
  * **رجع** :: to return (verb)
  * رجع إلى بلده بعد أن قضى سنتين في العراق. 
@@ -3371,6 +4043,10 @@
  * أعمل في هذه المنطقة. 
  * I work in this area. 
 ----------
+ * **ابتسم** :: to smile (verb)
+ * ابتسموا للصورة! 
+ * Smile for the picture! 
+----------
  * **وصف** :: to describe (verb)
  * وصفتْ ليلى رحلتها إلى طوكيو. 
  * Leila described her trip to Tokyo. 
@@ -3378,6 +4054,10 @@
  * **أراد** :: to want (verb)
  * هل تريد الكتب الآن؟ 
  * Do you want the books now? 
+----------
+ * **رَحِمَهُ الله.** :: May God rest his soul. (expression)
+ * توفي شاباً، رحمه الله. 
+ * He passed away young, may God rest his soul. 
 ----------
  * **فاز** :: to win (verb)
  * فاز الفريق الأخضر بالمباراة. 
@@ -3387,6 +4067,10 @@
  * ليلى كانت سعيدة جداً. 
  * Laila was very happy. 
 ----------
+ * **ضربت عصفورين بحجر.** :: Kill two birds with one stone. (expression)
+ * كتبت واجبي خلال الفطور، ضربت عصفورين بحجر. 
+ * I did my homework during breakfast, killing two birds with one stone. 
+----------
  * **طار** :: to fly (verb)
  * سنطير إلى لندن الأسبوع المقبل. 
  * We will fly to London next week. 
@@ -3394,6 +4078,10 @@
  * **الجمعة** :: Friday (noun)
  * اليوم هو الجمعة. 
  * Today is Friday. 
+----------
+ * **وُلِدَ وفي فمه ملعقة من ذهب.** :: Born with a silver spoon in his mouth (expression)
+ * لم يحتاج أن يعمل، ولد وفي فمه ملعقة من ذهب. 
+ * He never had to work; he was born with a silver spoon in his mouth. 
 ----------
  * **كتب** :: to write (verb)
  * كيف تكتب هذه الكلمة بالعربية؟ 
@@ -3403,6 +4091,10 @@
  * هل اشترى أخوك سيارة جديدة؟ 
  * Did your brother buy a new car? 
 ----------
+ * **يتقدم ل** :: apply for (phrasal verb)
+ * يجب أن أتقدم بطلب للحصول على تأشيرة تركية. 
+ * I need to apply for a Turkish visa. 
+----------
  * **دعا** :: to invite (verb)
  * دعاني عثمان لحضور حفل زواجه. 
  * Othman invited me to attend his wedding party. 
@@ -3410,6 +4102,10 @@
  * **أخذ** :: to take (verb)
  * هل تأخذون شيكات؟ 
  * Do you take checks? 
+----------
+ * **يعتني ب** :: look after (phrasal verb)
+ * ممكن أن تعتني بكلبي؟ 
+ * Could you look after my dog? 
 ----------
  * **دفع** :: to pay (verb)
  * هل يمكن أن أدفع ببطاقة الائتمان؟ 
@@ -3419,6 +4115,10 @@
  * ما سعر كيلو البطاطس؟ 
  * How much is a kilo of potatoes? 
 ----------
+ * **مواطِن** :: citizen (noun)
+ * أصبح مواطناً أمريكياً بعد العمل لمدة عشر سنوات. 
+ * He became an American citizen after working for ten years. 
+----------
  * **طلب** :: to order (verb)
  * طلبتُ ساندوتش جبن وعصير برتقال. 
  * I ordered a cheese sandwich and an orange juice. 
@@ -3426,6 +4126,10 @@
  * **إستقلال** :: independence (noun)
  * عيد الاستقلال في الرابع من تموز. 
  * Independence Day is on the fourth of July. 
+----------
+ * **فُرْصة** :: opportunity (noun)
+ * سنحت لي الفرصة بأن أدرس في الخارج. 
+ * I got the opportunity to study abroad. 
 ----------
  * **آمن بـ** :: to believe in (verb)
  * نحن نؤمن بالصداقة. 
@@ -3435,6 +4139,10 @@
  * سيصبح الحليب جبناً. 
  * The milk will become cheese. 
 ----------
+ * **هاجر** :: to immigrate (verb)
+ * هاجر إلى أمريكا في الثمانينات ليبحث عن عمل. 
+ * He immigrated to America in the eighties to find work. 
+----------
  * **دافع عن** :: to defend (verb)
  * وافق المحامي أن يدافع عن المتهم. 
  * The lawyer agreed to defend the accused. 
@@ -3442,6 +4150,10 @@
  * **مكتب** :: office (noun)
  * أين مكتب البريد؟ 
  * Where is the post office? 
+----------
+ * **مانع** :: to mind (verb)
+ * هل لديك مانع أن أستعمل هاتفك لأتصل بزوجي. 
+ * Do you mind if I use your phone to call my husband? 
 ----------
  * **أدانَ** :: to condemn (verb)
  * المجتمع المدني يُدينُ العنفَ ضد الأطفال. 
@@ -3451,6 +4163,10 @@
  * أحمد طالب نشيط. 
  * Ahmed is an active student. 
 ----------
+ * **منتصف الليل** :: midnight (noun)
+ * سهرت لمنتصف الليل وأنا أدرس وهذا ما جعلني تعبان جداً قبل الإمتحان. 
+ * I stayed up till midnight studying which made me very tired before the exam. 
+----------
  * **دخل** :: to enter (verb)
  * دخل اللصُّ من الباب الخلفي للبيت. 
  * The thief entered through the back door of the house. 
@@ -3458,6 +4174,10 @@
  * **درس** :: to study (verb)
  * أدرس العربية. 
  * I study Arabic. 
+----------
+ * **تتطلب** :: to require (verb)
+ * عملي يتطلب الطلاقة باللغة العربية. 
+ * My job requires fluency in Arabic. 
 ----------
  * **بحث فى موضوع علمي** :: to research (verb)
  * سأذهب إلى المكتبة لأبحث في موضوع علمي. 
@@ -3467,6 +4187,10 @@
  * قد السيارة باتجاه المطار. 
  * Drive towards the airport. 
 ----------
+ * **بِطَلاقة** :: fluent (adjective)
+ * هي تتكلم اللغة العربية والفرنسية والإنجليزية بطلاقة. 
+ * She is fluent in Arabic, French, and English. 
+----------
  * **أكد** :: to assure (verb)
  * أكد الطبيب للمريض أن صحته في تحسن. 
  * The doctor assured the patient that his health was improving. 
@@ -3474,6 +4198,10 @@
  * **سافر** :: to travel (verb)
  * في العام الماضي، سافرنا إلى لندن. 
  * Last year, we traveled to London. 
+----------
+ * **حالة سيئة** :: bad condition (collocation)
+ * بَعض الطُرق في حالة سيئة بسبب العاصفة. 
+ * Some roads are in bad condition due to the storm. 
 ----------
  * **فقير** :: poor (adjective)
  * سمير يسكن في حي فقير. 
@@ -3483,6 +4211,10 @@
  * لا أحب السمك المقلي. 
  * I don't like fried fish. 
 ----------
+ * **كن حذراً!ً** :: Be careful! (interjection)
+ * كن حذراً أن لا تسقط المرآة، إنها ثقيلة جداً! 
+ * Be careful not to drop the mirror; it’s very heavy! 
+----------
  * **فارغ** :: empty (adjective)
  * المحل فارغ، لايوجد زبائن في هذا الوقت. 
  * The shop is empty, there are no customers at this time. 
@@ -3490,6 +4222,10 @@
  * **معقد** :: complicated (adjective)
  * المشكلة ليست معقدة. 
  * The problem is not complicated. 
+----------
+ * **نظم** :: to organize (verb)
+ * أنا أُنَظِم رحلة إلى الأردن مع زملائي في العمل. 
+ * I’m organizing a trip to Jordan with my colleagues from work. 
 ----------
  * **حزين** :: sad (adjective)
  * لِمَ أنت حزين؟ 
@@ -3499,6 +4235,10 @@
  * عمي و زوجته اِختارا زيارة إسبانيا. 
  * My uncle and his wife chose to visit Spain. 
 ----------
+ * **وفقاً لـ** :: according to (adverb)
+ * وفقاً لقناة الجزيرة، استمرت المظاهرات لمدة يومين. 
+ * According to Aljazeera, the protests lasted two days. 
+----------
  * **مظلم** :: dark (adjective)
  * تجنب المشي في هذا الشارع لأنه مظلم. 
  * Avoid walking in the street because it is dark. 
@@ -3506,6 +4246,10 @@
  * **جامعة** :: university (noun)
  * هل ستدرسين في الجامعة الأمريكية ببيروت؟ 
  * Will you study at the American University in Beirut? 
+----------
+ * **جَوله إرشادية** :: guided tour (collocation)
+ * مُمكِن أن آخُذ جولة إرشادية للمدينة بالحافلة؟ 
+ * Could I take a guided tour of the city by bus? 
 ----------
  * **بعيد** :: far (adjective)
  * مقر عملها بعيد عن بيتها. 
@@ -3515,6 +4259,10 @@
  * عادل طالبٌ في المدرسة الثانوية. 
  * Adel is a student at a high school. 
 ----------
+ * **المواقِع السياحية** :: tourist sites (collocation)
+ * ما هي المواقِع السياحية التي تقترح أن أزورها إذا لدي يومين فقط؟ 
+ * Which tourist sites do you suggest I visit if I only have two days? 
+----------
  * **أخضر** :: green (adjective)
  * يكون العشب أخضر في فصل الربيع. 
  * The grass is green in the spring. 
@@ -3522,6 +4270,10 @@
  * **ساعد** :: to help (verb)
  * هل من الممكن أن تساعديني؟ 
  * Could you help me? 
+----------
+ * **مَوقع إلكتروني** :: website (noun)
+ * بإمكانك إنشاء موقع إلكتروني خاص بك لتعرض لوحاتك. 
+ * You can create your own website to display your paintings. 
 ----------
  * **مُتعب** :: tired (adjective)
  * لم أحضر للحفل لأنني مُتعب. 

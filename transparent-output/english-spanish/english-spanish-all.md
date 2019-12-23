@@ -1,6 +1,6 @@
 # english-spanish WOTD : 
 ----------
- 898 phrases 
+ 1086 phrases 
 ----------
 ----------
  * **to cough** :: toser (verb)
@@ -2027,6 +2027,10 @@
  * Charlie wants to show you his toys. 
  * Carlitos quiere enseñarte sus juguetes. 
 ----------
+ * **eye-catching** :: llamativo (adjective)
+ * She is wearing an eye-catching dress. 
+ * Ella lleva un vestido muy llamativo. 
+----------
  * **to manage** :: manejar (verb)
  * My daughter doesn't manage her money well. 
  * Mi hija no maneja bien el dinero. 
@@ -2034,6 +2038,10 @@
  * **jam** :: jalea (noun)
  * I don't like bread without jam. 
  * No me gusta el pan sin jalea. 
+----------
+ * **fire** :: fuego (noun)
+ * In the summer, there are a lot of fires in the mountains. 
+ * En el verano hay muchos fuegos en las montañas. 
 ----------
  * **hard-working** :: trabajador (adjective)
  * He is a hard-working employee. 
@@ -2043,6 +2051,10 @@
  * There is a fly in my soup! 
  * ¡Hay una mosca en mi sopa! 
 ----------
+ * **to scuba dive** :: bucear (verb)
+ * My girlfriend and I will scuba dive later. 
+ * Mi novia y yo buceamos más tarde. 
+----------
  * **to take** :: tomar (verb)
  * My sister, who lives in the city, always takes the subway. 
  * Mi hermana, que vive en la ciudad, siempre toma el metro. 
@@ -2050,6 +2062,10 @@
  * **breakfast** :: desayuno (noun)
  * Breakfast is my favorite meal, but I don't have time for it in the morning. 
  * El desayuno es mi comida favorita, pero no tengo tiempo para comerlo en la mañana. 
+----------
+ * **calm** :: tranquilo (adjective)
+ * We have a very calm dog. 
+ * Nosotros tenemos un perro muy tranquilo. 
 ----------
  * **demanding** :: exigente (adjective)
  * Your teacher is pretty demanding. 
@@ -2059,6 +2075,10 @@
  * Your parents are too kind. 
  * Tus padres son demasiado bondadosos. 
 ----------
+ * **vacation** :: vacaciones (noun)
+ * I'm going to water ski on my vacation. 
+ * Yo voy a hacer el esquí acuático en mis vacaciones. 
+----------
  * **city** :: ciudad (noun)
  * New York is one of the biggest cities in the world. 
  * Nueva York es una de las ciudades más grandes en el mundo. 
@@ -2066,6 +2086,10 @@
  * **meat** :: carne (noun)
  * My sister doesn't eat meat because she's a vegetarian. 
  * Mi hermana no come carne porque ella es vegetariana. 
+----------
+ * **to enjoy** :: disfrutar (verb)
+ * María and José enjoy their weekends together. 
+ * María y José disfrutan los fines de semana juntos. 
 ----------
  * **beach** :: playa (noun)
  * Waikiki Beach in Hawaii is beautiful. 
@@ -2075,6 +2099,10 @@
  * If a stranger knocks on the door, I will threaten to call the police. 
  * Si un desconocido llama a la puerta, amenazaré llamar a la policia. 
 ----------
+ * **clear** :: despejado (adjective)
+ * The sky is clear today. 
+ * El cielo está despejado hoy. 
+----------
  * **to show** :: enseñar (verb)
  * Charlie wants to show you his toys. 
  * Carlitos quiere enseñarte sus juguetes. 
@@ -2082,6 +2110,10 @@
  * **eye-catching** :: llamativo (adjective)
  * She is wearing an eye-catching dress. 
  * Ella lleva un vestido muy llamativo. 
+----------
+ * **horse** :: caballo (noun)
+ * The soldiers in the Civil War rode horses. 
+ * Los soldados durante la Guerra Civil montaban a caballo. 
 ----------
  * **jam** :: jalea (noun)
  * I don't like bread without jam. 
@@ -2091,6 +2123,10 @@
  * In the summer, there are a lot of fires in the mountains. 
  * En el verano hay muchos fuegos en las montañas. 
 ----------
+ * **to climb** :: trepar (verb)
+ * The children often climb trees after they finish their homework. 
+ * Muchas veces, los niños trepan los árboles después de terminar sus tareas. 
+----------
  * **soup** :: sopa (noun)
  * There is a fly in my soup! 
  * ¡Hay una mosca en mi sopa! 
@@ -2098,6 +2134,10 @@
  * **to scuba dive** :: bucear (verb)
  * My girlfriend and I will scuba dive later. 
  * Mi novia y yo buceamos más tarde. 
+----------
+ * **wet** :: mojado (adjective)
+ * My pants are wet from the rain. 
+ * Mis pantalones están mojados por causa de la lluvia. 
 ----------
  * **breakfast** :: desayuno (noun)
  * Breakfast is my favorite meal, but I don't have time for it in the morning. 
@@ -2107,6 +2147,10 @@
  * We have a very calm dog. 
  * Nosotros tenemos un perro muy tranquilo. 
 ----------
+ * **forest** :: bosque (noun)
+ * The hunters are looking for animals in the forest. 
+ * Los cazadores buscan animales en el bosque. 
+----------
  * **kind** :: bondadoso (adjective)
  * Your parents are too kind. 
  * Tus padres son demasiado bondadosos. 
@@ -2114,6 +2158,10 @@
  * **vacation** :: vacaciones (noun)
  * I'm going to water ski on my vacation. 
  * Yo voy a hacer el esquí acuático en mis vacaciones. 
+----------
+ * **to fish** :: pescar (verb)
+ * My friends and I fish in the ocean. 
+ * Mis amigos y yo pescamos en el océano. 
 ----------
  * **meat** :: carne (noun)
  * My sister doesn't eat meat because she's a vegetarian. 
@@ -2123,6 +2171,10 @@
  * María and José enjoy their weekends together. 
  * María y José disfrutan los fines de semana juntos. 
 ----------
+ * **fresh** :: fresca (adjective)
+ * I enjoy the fresh air in the mountains. 
+ * Yo disfruto el aire fresco en las montañas. 
+----------
  * **to threaten** :: amenazar (verb)
  * If a stranger knocks on the door, I will threaten to call the police. 
  * Si un desconocido llama a la puerta, amenazaré llamar a la policia. 
@@ -2130,6 +2182,10 @@
  * **clear** :: despejado (adjective)
  * The sky is clear today. 
  * El cielo está despejado hoy. 
+----------
+ * **countryside** :: campo (noun)
+ * We're going to have a picnic in the countryside. 
+ * Nosotros vamos a hacer un picnic en el campo. 
 ----------
  * **eye-catching** :: llamativo (adjective)
  * She is wearing an eye-catching dress. 
@@ -2139,6 +2195,10 @@
  * The soldiers in the Civil War rode horses. 
  * Los soldados durante la Guerra Civil montaban a caballo. 
 ----------
+ * **deaf** :: sordo (adjective)
+ * Ricky can't hear you, he's deaf. 
+ * Ricky no te puede oír: él es sordo. 
+----------
  * **fire** :: fuego (noun)
  * In the summer, there are a lot of fires in the mountains. 
  * En el verano hay muchos fuegos en las montañas. 
@@ -2146,6 +2206,10 @@
  * **to climb** :: trepar (verb)
  * The children often climb trees after they finish their homework. 
  * Muchas veces, los niños trepan los árboles después de terminar sus tareas. 
+----------
+ * **wonderful** :: maravilloso (adjective)
+ * She is a wonderful teacher. 
+ * Ella es una maestra maravillosa. 
 ----------
  * **to scuba dive** :: bucear (verb)
  * My girlfriend and I will scuba dive later. 
@@ -2155,6 +2219,10 @@
  * My pants are wet from the rain. 
  * Mis pantalones están mojados por causa de la lluvia. 
 ----------
+ * **barbecue** :: barbacoa (noun)
+ * My aunt and uncle are having a barbecue this weekend. 
+ * Mis tíos hacen una barbacoa este fin de semana. 
+----------
  * **calm** :: tranquilo (adjective)
  * We have a very calm dog. 
  * Nosotros tenemos un perro muy tranquilo. 
@@ -2162,6 +2230,10 @@
  * **forest** :: bosque (noun)
  * The hunters are looking for animals in the forest. 
  * Los cazadores buscan animales en el bosque. 
+----------
+ * **to sunbathe** :: tomar el sol (verb)
+ * If you sunbathe a lot it's bad for your skin. 
+ * Si tomas el sol mucho es malo para la piel. 
 ----------
  * **vacation** :: vacaciones (noun)
  * I'm going to water ski on my vacation. 
@@ -2171,6 +2243,10 @@
  * My friends and I fish in the ocean. 
  * Mis amigos y yo pescamos en el océano. 
 ----------
+ * **rocky** :: rocoso (adjective)
+ * The hill is rocky. 
+ * La colina es rocosa. 
+----------
  * **to enjoy** :: disfrutar (verb)
  * María and José enjoy their weekends together. 
  * María y José disfrutan los fines de semana juntos. 
@@ -2178,6 +2254,10 @@
  * **fresh** :: fresca (adjective)
  * I enjoy the fresh air in the mountains. 
  * Yo disfruto el aire fresco en las montañas. 
+----------
+ * **cruise** :: crucero (noun)
+ * My wife and I are taking a cruise in May. 
+ * Mi esposa y yo hacemos un crucero en mayo. 
 ----------
  * **clear** :: despejado (adjective)
  * The sky is clear today. 
@@ -2187,6 +2267,10 @@
  * We're going to have a picnic in the countryside. 
  * Nosotros vamos a hacer un picnic en el campo. 
 ----------
+ * **to drown** :: ahogarse (verb)
+ * Many sailors drown each year. 
+ * Muchos marineros se ahogan cada año. 
+----------
  * **horse** :: caballo (noun)
  * The soldiers in the Civil War rode horses. 
  * Los soldados durante la Guerra Civil montaban a caballo. 
@@ -2194,6 +2278,10 @@
  * **deaf** :: sordo (adjective)
  * Ricky can't hear you, he's deaf. 
  * Ricky no te puede oír: él es sordo. 
+----------
+ * **juicy** :: jugoso (adjective)
+ * The papaya is a juicy fruit. 
+ * La papaya es una fruta jugosa. 
 ----------
  * **to climb** :: trepar (verb)
  * The children often climb trees after they finish their homework. 
@@ -2203,6 +2291,10 @@
  * She is a wonderful teacher. 
  * Ella es una maestra maravillosa. 
 ----------
+ * **walk** :: paseo (noun)
+ * My friends and I go for walks around town. 
+ * Mis amigos y yo damos muchos paseos por el pueblo. 
+----------
  * **wet** :: mojado (adjective)
  * My pants are wet from the rain. 
  * Mis pantalones están mojados por causa de la lluvia. 
@@ -2210,6 +2302,10 @@
  * **barbecue** :: barbacoa (noun)
  * My aunt and uncle are having a barbecue this weekend. 
  * Mis tíos hacen una barbacoa este fin de semana. 
+----------
+ * **to get lost** :: perderse (verb)
+ * The boys often get lost. 
+ * Los chicos se pierden a menudo. 
 ----------
  * **forest** :: bosque (noun)
  * The hunters are looking for animals in the forest. 
@@ -2219,6 +2315,10 @@
  * If you sunbathe a lot it's bad for your skin. 
  * Si tomas el sol mucho es malo para la piel. 
 ----------
+ * **bored** :: aburrido (adjective)
+ * I'm bored because my friends are on vacation. 
+ * Yo estoy aburrido porque mis amigos están de vacaciones. 
+----------
  * **to fish** :: pescar (verb)
  * My friends and I fish in the ocean. 
  * Mis amigos y yo pescamos en el océano. 
@@ -2226,6 +2326,10 @@
  * **rocky** :: rocoso (adjective)
  * The hill is rocky. 
  * La colina es rocosa. 
+----------
+ * **waves** :: olas (noun)
+ * The waves during the storm are very high. 
+ * Las olas durante la tormenta están muy altas. 
 ----------
  * **fresh** :: fresca (adjective)
  * I enjoy the fresh air in the mountains. 
@@ -2235,6 +2339,10 @@
  * My wife and I are taking a cruise in May. 
  * Mi esposa y yo hacemos un crucero en mayo. 
 ----------
+ * **to have a good time** :: pasarlo bien (verb)
+ * My family and I always have a good time at the restaurant. 
+ * Mi familia y yo siempre lo pasamos bien en el restaurante. 
+----------
  * **countryside** :: campo (noun)
  * We're going to have a picnic in the countryside. 
  * Nosotros vamos a hacer un picnic en el campo. 
@@ -2242,6 +2350,10 @@
  * **to drown** :: ahogarse (verb)
  * Many sailors drown each year. 
  * Muchos marineros se ahogan cada año. 
+----------
+ * **overwhelmed** :: agobiado (adjective)
+ * Juan is overwhelmed by all of his work. 
+ * Juan está agobiado con todo el trabajo. 
 ----------
  * **deaf** :: sordo (adjective)
  * Ricky can't hear you, he's deaf. 
@@ -2251,6 +2363,10 @@
  * The papaya is a juicy fruit. 
  * La papaya es una fruta jugosa. 
 ----------
+ * **ride** :: vuelta (noun)
+ * We're going on a horseback ride. 
+ * Nosotros vamos a dar una vuelta a caballo. 
+----------
  * **wonderful** :: maravilloso (adjective)
  * She is a wonderful teacher. 
  * Ella es una maestra maravillosa. 
@@ -2258,6 +2374,10 @@
  * **walk** :: paseo (noun)
  * My friends and I go for walks around town. 
  * Mis amigos y yo damos muchos paseos por el pueblo. 
+----------
+ * **to snack** :: merendar (verb)
+ * I always snack on potato chips in the afternoon. 
+ * Yo siempre meriendo con papas fritas en la tarde. 
 ----------
  * **barbecue** :: barbacoa (noun)
  * My aunt and uncle are having a barbecue this weekend. 
@@ -2267,6 +2387,10 @@
  * The boys often get lost. 
  * Los chicos se pierden a menudo. 
 ----------
+ * **pasty** :: pastoso (adjective)
+ * The rice is pasty. 
+ * El arroz está pastoso. 
+----------
  * **to sunbathe** :: tomar el sol (verb)
  * If you sunbathe a lot it's bad for your skin. 
  * Si tomas el sol mucho es malo para la piel. 
@@ -2274,6 +2398,10 @@
  * **bored** :: aburrido (adjective)
  * I'm bored because my friends are on vacation. 
  * Yo estoy aburrido porque mis amigos están de vacaciones. 
+----------
+ * **sky** :: cielo (noun)
+ * The sky is cloudy today. 
+ * Hoy el cielo está nublado. 
 ----------
  * **rocky** :: rocoso (adjective)
  * The hill is rocky. 
@@ -2283,6 +2411,10 @@
  * The waves during the storm are very high. 
  * Las olas durante la tormenta están muy altas. 
 ----------
+ * **to earn** :: ganar (verb)
+ * The lawyer earns a lot of money. 
+ * El abogado gana mucho dinero. 
+----------
  * **cruise** :: crucero (noun)
  * My wife and I are taking a cruise in May. 
  * Mi esposa y yo hacemos un crucero en mayo. 
@@ -2290,6 +2422,10 @@
  * **to have a good time** :: pasarlo bien (verb)
  * My family and I always have a good time at the restaurant. 
  * Mi familia y yo siempre lo pasamos bien en el restaurante. 
+----------
+ * **playful** :: juguetón (adjective)
+ * Your hamster is very playful. 
+ * Tu hámster es muy juguetón. 
 ----------
  * **to drown** :: ahogarse (verb)
  * Many sailors drown each year. 
@@ -2299,6 +2435,10 @@
  * Juan is overwhelmed by all of his work. 
  * Juan está agobiado con todo el trabajo. 
 ----------
+ * **corn** :: maíz (noun)
+ * The farmer plants his corn each May. 
+ * El granjero siembra su maíz cada mayo. 
+----------
  * **juicy** :: jugoso (adjective)
  * The papaya is a juicy fruit. 
  * La papaya es una fruta jugosa. 
@@ -2306,6 +2446,10 @@
  * **ride** :: vuelta (noun)
  * We're going on a horseback ride. 
  * Nosotros vamos a dar una vuelta a caballo. 
+----------
+ * **to date** :: salir (verb)
+ * Does Manuel want to date Rosita? 
+ * ¿Quiere Manuel salir con Rosita? 
 ----------
  * **walk** :: paseo (noun)
  * My friends and I go for walks around town. 
@@ -2315,6 +2459,10 @@
  * I always snack on potato chips in the afternoon. 
  * Yo siempre meriendo con papas fritas en la tarde. 
 ----------
+ * **pregnant** :: embarazada (adjective)
+ * My sister is pregnant. 
+ * Mi hermana está embarazada. 
+----------
  * **to get lost** :: perderse (verb)
  * The boys often get lost. 
  * Los chicos se pierden a menudo. 
@@ -2322,6 +2470,10 @@
  * **pasty** :: pastoso (adjective)
  * The rice is pasty. 
  * El arroz está pastoso. 
+----------
+ * **suitcase** :: maleta (noun)
+ * You can only carry two suitcases on the plane. 
+ * Sólo puedes llevar dos maletas en el avión. 
 ----------
  * **bored** :: aburrido (adjective)
  * I'm bored because my friends are on vacation. 
@@ -2331,6 +2483,10 @@
  * The sky is cloudy today. 
  * Hoy el cielo está nublado. 
 ----------
+ * **to count** :: contar (verb)
+ * The vendor counts her money. 
+ * La vendedora cuenta su dinero. 
+----------
  * **waves** :: olas (noun)
  * The waves during the storm are very high. 
  * Las olas durante la tormenta están muy altas. 
@@ -2338,6 +2494,10 @@
  * **to earn** :: ganar (verb)
  * The lawyer earns a lot of money. 
  * El abogado gana mucho dinero. 
+----------
+ * **strange** :: raro (adjective)
+ * That's a strange song. 
+ * Ésa es una canción rara. 
 ----------
  * **to have a good time** :: pasarlo bien (verb)
  * My family and I always have a good time at the restaurant. 
@@ -2347,6 +2507,10 @@
  * Your hamster is very playful. 
  * Tu hámster es muy juguetón. 
 ----------
+ * **building** :: edificio (noun)
+ * There are a lot of buildings in the city. 
+ * Hay muchos edificios en la ciudad. 
+----------
  * **overwhelmed** :: agobiado (adjective)
  * Juan is overwhelmed by all of his work. 
  * Juan está agobiado con todo el trabajo. 
@@ -2354,6 +2518,10 @@
  * **corn** :: maíz (noun)
  * The farmer plants his corn each May. 
  * El granjero siembra su maíz cada mayo. 
+----------
+ * **to harvest** :: cosechar (verb)
+ * The workers harvest the cherries in the summer. 
+ * Los obreros cosechan las cerezas en el verano. 
 ----------
  * **ride** :: vuelta (noun)
  * We're going on a horseback ride. 
@@ -2363,6 +2531,10 @@
  * Does Manuel want to date Rosita? 
  * ¿Quiere Manuel salir con Rosita? 
 ----------
+ * **slowly** :: lentamente (adverb)
+ * The turtle moves slowly. 
+ * La tortuga camina lentamente. 
+----------
  * **to snack** :: merendar (verb)
  * I always snack on potato chips in the afternoon. 
  * Yo siempre meriendo con papas fritas en la tarde. 
@@ -2370,6 +2542,10 @@
  * **pregnant** :: embarazada (adjective)
  * My sister is pregnant. 
  * Mi hermana está embarazada. 
+----------
+ * **tank** :: tanque (noun)
+ * The tank is empty; we need more gas. 
+ * El tanque está vacío; necesitamos más gasolina. 
 ----------
  * **pasty** :: pastoso (adjective)
  * The rice is pasty. 
@@ -2379,6 +2555,10 @@
  * You can only carry two suitcases on the plane. 
  * Sólo puedes llevar dos maletas en el avión. 
 ----------
+ * **to crawl** :: gatear (verb)
+ * The baby crawls all around the house. 
+ * El bebé gatea por toda la casa. 
+----------
  * **sky** :: cielo (noun)
  * The sky is cloudy today. 
  * Hoy el cielo está nublado. 
@@ -2386,6 +2566,10 @@
  * **to count** :: contar (verb)
  * The vendor counts her money. 
  * La vendedora cuenta su dinero. 
+----------
+ * **bossy** :: mandón (adjective)
+ * Jack is very bossy towards his girlfriend. 
+ * Jack es muy mandón hacia su novia. 
 ----------
  * **to earn** :: ganar (verb)
  * The lawyer earns a lot of money. 
@@ -2395,6 +2579,10 @@
  * That's a strange song. 
  * Ésa es una canción rara. 
 ----------
+ * **eggplant** :: berenjena (noun)
+ * I like to eat fried eggplant. 
+ * A mí me gusta comer la berenjena frita. 
+----------
  * **playful** :: juguetón (adjective)
  * Your hamster is very playful. 
  * Tu hámster es muy juguetón. 
@@ -2402,6 +2590,10 @@
  * **building** :: edificio (noun)
  * There are a lot of buildings in the city. 
  * Hay muchos edificios en la ciudad. 
+----------
+ * **to hope** :: esperar (verb)
+ * I hope to go to Spain in the summer. 
+ * Yo espero ir a España en el verano. 
 ----------
  * **corn** :: maíz (noun)
  * The farmer plants his corn each May. 
@@ -2411,6 +2603,10 @@
  * The workers harvest the cherries in the summer. 
  * Los obreros cosechan las cerezas en el verano. 
 ----------
+ * **clumsy** :: torpe (adjective)
+ * My friend broke her leg; she is a little clumsy. 
+ * Mi amiga se rompió la pierna; ella es un poco torpe. 
+----------
  * **to date** :: salir (verb)
  * Does Manuel want to date Rosita? 
  * ¿Quiere Manuel salir con Rosita? 
@@ -2418,6 +2614,10 @@
  * **slowly** :: lentamente (adverb)
  * The turtle moves slowly. 
  * La tortuga camina lentamente. 
+----------
+ * **green beans** :: habichuelas verdes (noun)
+ * We want to eat some green beans with the meat. 
+ * Nosotros queremos comer unas habichuelas verdes con la carne. 
 ----------
  * **pregnant** :: embarazada (adjective)
  * My sister is pregnant. 
@@ -2427,6 +2627,10 @@
  * The tank is empty; we need more gas. 
  * El tanque está vacío; necesitamos más gasolina. 
 ----------
+ * **to worry** :: preocuparse (verb)
+ * Margarita sometimes worries too much about exams. 
+ * A veces, Margarita se preocupa demasiado por los examenes. 
+----------
  * **suitcase** :: maleta (noun)
  * You can only carry two suitcases on the plane. 
  * Sólo puedes llevar dos maletas en el avión. 
@@ -2434,6 +2638,10 @@
  * **to crawl** :: gatear (verb)
  * The baby crawls all around the house. 
  * El bebé gatea por toda la casa. 
+----------
+ * **spicy** :: picante (adjective)
+ * Mexican food is spicy. 
+ * La comida Mexicana es picante. 
 ----------
  * **to count** :: contar (verb)
  * The vendor counts her money. 
@@ -2443,6 +2651,10 @@
  * Jack is very bossy towards his girlfriend. 
  * Jack es muy mandón hacia su novia. 
 ----------
+ * **shovel** :: pala (noun)
+ * My son is carrying his shovel and bucket to the beach. 
+ * Mi hijo lleva su pala y cubo a la playa. 
+----------
  * **strange** :: raro (adjective)
  * That's a strange song. 
  * Ésa es una canción rara. 
@@ -2450,6 +2662,10 @@
  * **eggplant** :: berenjena (noun)
  * I like to eat fried eggplant. 
  * A mí me gusta comer la berenjena frita. 
+----------
+ * **tea** :: té (noun)
+ * In England, it is very common to drink tea in the afternoon. 
+ * En Inglaterra, es muy común beber té en la tarde. 
 ----------
  * **building** :: edificio (noun)
  * There are a lot of buildings in the city. 
@@ -2459,6 +2675,10 @@
  * I hope to go to Spain in the summer. 
  * Yo espero ir a España en el verano. 
 ----------
+ * **jacket** :: chaqueta (noun)
+ * The red jacket is rather showy. 
+ * La chaqueta roja es bastante llamativa. 
+----------
  * **to harvest** :: cosechar (verb)
  * The workers harvest the cherries in the summer. 
  * Los obreros cosechan las cerezas en el verano. 
@@ -2466,6 +2686,10 @@
  * **clumsy** :: torpe (adjective)
  * My friend broke her leg; she is a little clumsy. 
  * Mi amiga se rompió la pierna; ella es un poco torpe. 
+----------
+ * **pastry** :: repostería (noun)
+ * Austrian restaurants serve many different pastries. 
+ * Restaurantes austríacos sirven muchos reposterías diferentes. 
 ----------
  * **slowly** :: lentamente (adverb)
  * The turtle moves slowly. 
@@ -2475,6 +2699,10 @@
  * We want to eat some green beans with the meat. 
  * Nosotros queremos comer unas habichuelas verdes con la carne. 
 ----------
+ * **closed** :: cerrado (adjective)
+ * The hardware store is closed. 
+ * La ferretería está cerrada. 
+----------
  * **tank** :: tanque (noun)
  * The tank is empty; we need more gas. 
  * El tanque está vacío; necesitamos más gasolina. 
@@ -2482,6 +2710,10 @@
  * **to worry** :: preocuparse (verb)
  * Margarita sometimes worries too much about exams. 
  * A veces, Margarita se preocupa demasiado por los examenes. 
+----------
+ * **toy** :: juguete (noun)
+ * Santa Claus brings toys to children. 
+ * Papá Noel trae juguetes a los niños. 
 ----------
  * **to crawl** :: gatear (verb)
  * The baby crawls all around the house. 
@@ -2491,6 +2723,10 @@
  * Mexican food is spicy. 
  * La comida Mexicana es picante. 
 ----------
+ * **to permit** :: dejar (verb)
+ * I permit my son to drive my car. 
+ * Yo dejo a mi hijo manejar mi carro. 
+----------
  * **bossy** :: mandón (adjective)
  * Jack is very bossy towards his girlfriend. 
  * Jack es muy mandón hacia su novia. 
@@ -2498,6 +2734,10 @@
  * **shovel** :: pala (noun)
  * My son is carrying his shovel and bucket to the beach. 
  * Mi hijo lleva su pala y cubo a la playa. 
+----------
+ * **successful** :: exitoso (adjective)
+ * Shakira is a successful singer. 
+ * Shakira es una cantante exitosa. 
 ----------
  * **eggplant** :: berenjena (noun)
  * I like to eat fried eggplant. 
@@ -2507,6 +2747,10 @@
  * In England, it is very common to drink tea in the afternoon. 
  * En Inglaterra, es muy común beber té en la tarde. 
 ----------
+ * **weather** :: tiempo (noun)
+ * The players are worried about the weather. 
+ * Los jugadores están preocupados por el tiempo. 
+----------
  * **to hope** :: esperar (verb)
  * I hope to go to Spain in the summer. 
  * Yo espero ir a España en el verano. 
@@ -2514,6 +2758,10 @@
  * **jacket** :: chaqueta (noun)
  * The red jacket is rather showy. 
  * La chaqueta roja es bastante llamativa. 
+----------
+ * **to study** :: estudiar (verb)
+ * The students study a lot. 
+ * Los estudiantes estudian mucho. 
 ----------
  * **clumsy** :: torpe (adjective)
  * My friend broke her leg; she is a little clumsy. 
@@ -2523,6 +2771,10 @@
  * Austrian restaurants serve many different pastries. 
  * Restaurantes austríacos sirven muchos reposterías diferentes. 
 ----------
+ * **enthusiastic** :: entusiástico (adjective)
+ * Your daughter is an enthusiastic student. 
+ * Su hija es una estudiante entusiástica. 
+----------
  * **green beans** :: habichuelas verdes (noun)
  * We want to eat some green beans with the meat. 
  * Nosotros queremos comer unas habichuelas verdes con la carne. 
@@ -2530,6 +2782,10 @@
  * **closed** :: cerrado (adjective)
  * The hardware store is closed. 
  * La ferretería está cerrada. 
+----------
+ * **school** :: escuela (noun)
+ * The classes at school are going to begin soon. 
+ * Las clases en la escuela van a empezar pronto. 
 ----------
  * **to worry** :: preocuparse (verb)
  * Margarita sometimes worries too much about exams. 
@@ -2539,6 +2795,10 @@
  * Santa Claus brings toys to children. 
  * Papá Noel trae juguetes a los niños. 
 ----------
+ * **glass** :: vidrio (noun)
+ * The parents had to pick up the broken glass when their son broke the window. 
+ * Los padres tuvieron que recoger el vidrio roto cuando su hijo rompió la ventana. 
+----------
  * **spicy** :: picante (adjective)
  * Mexican food is spicy. 
  * La comida Mexicana es picante. 
@@ -2546,6 +2806,10 @@
  * **to permit** :: dejar (verb)
  * I permit my son to drive my car. 
  * Yo dejo a mi hijo manejar mi carro. 
+----------
+ * **late** :: tarde (adjective)
+ * Why is this report late? 
+ * ¿Por qué está tarde este informe? 
 ----------
  * **shovel** :: pala (noun)
  * My son is carrying his shovel and bucket to the beach. 
@@ -2555,6 +2819,10 @@
  * Shakira is a successful singer. 
  * Shakira es una cantante exitosa. 
 ----------
+ * **appointment** :: cita (noun)
+ * I have an appointment with the dentist. 
+ * Yo tengo una cita con el dentista. 
+----------
  * **tea** :: té (noun)
  * In England, it is very common to drink tea in the afternoon. 
  * En Inglaterra, es muy común beber té en la tarde. 
@@ -2562,6 +2830,10 @@
  * **weather** :: tiempo (noun)
  * The players are worried about the weather. 
  * Los jugadores están preocupados por el tiempo. 
+----------
+ * **to draw** :: dibujar (verb)
+ * The students draw the teacher in their notebooks. 
+ * Los estudiantes dibujan el profesor en los cuadernos. 
 ----------
  * **jacket** :: chaqueta (noun)
  * The red jacket is rather showy. 
@@ -2571,6 +2843,10 @@
  * The students study a lot. 
  * Los estudiantes estudian mucho. 
 ----------
+ * **lazy** :: flojo (adjective)
+ * He is a lazy employee. 
+ * Él es un empleado flojo. 
+----------
  * **pastry** :: repostería (noun)
  * Austrian restaurants serve many different pastries. 
  * Restaurantes austríacos sirven muchos reposterías diferentes. 
@@ -2578,6 +2854,10 @@
  * **enthusiastic** :: entusiástico (adjective)
  * Your daughter is an enthusiastic student. 
  * Su hija es una estudiante entusiástica. 
+----------
+ * **high school** :: colegio (noun)
+ * Is your high school big? 
+ * ¿Es grande tu colegio? 
 ----------
  * **closed** :: cerrado (adjective)
  * The hardware store is closed. 
@@ -2587,6 +2867,10 @@
  * The classes at school are going to begin soon. 
  * Las clases en la escuela van a empezar pronto. 
 ----------
+ * **to pass** :: pasar (verb)
+ * The student doesn't pass his exams because he doesn't study. 
+ * El estudiante no pasa sus exámenes porque no estudia. 
+----------
  * **toy** :: juguete (noun)
  * Santa Claus brings toys to children. 
  * Papá Noel trae juguetes a los niños. 
@@ -2594,6 +2878,10 @@
  * **glass** :: vidrio (noun)
  * The parents had to pick up the broken glass when their son broke the window. 
  * Los padres tuvieron que recoger el vidrio roto cuando su hijo rompió la ventana. 
+----------
+ * **absent-minded** :: distraído (adjective)
+ * I don't want an absent-minded doctor to operate on me. 
+ * No quiero que un doctor distraído me opere. 
 ----------
  * **to permit** :: dejar (verb)
  * I permit my son to drive my car. 
@@ -2603,6 +2891,10 @@
  * Why is this report late? 
  * ¿Por qué está tarde este informe? 
 ----------
+ * **co-worker** :: compañero de trabajo (noun)
+ * My co-worker helps me a lot. 
+ * Mi compañero de trabajo me ayuda mucho. 
+----------
  * **successful** :: exitoso (adjective)
  * Shakira is a successful singer. 
  * Shakira es una cantante exitosa. 
@@ -2610,6 +2902,10 @@
  * **appointment** :: cita (noun)
  * I have an appointment with the dentist. 
  * Yo tengo una cita con el dentista. 
+----------
+ * **to take out** :: sacar (verb)
+ * Did you already take out the money from the bank? 
+ * ¿Ya sacaste el dinero del banco? 
 ----------
  * **weather** :: tiempo (noun)
  * The players are worried about the weather. 
@@ -2619,6 +2915,10 @@
  * The students draw the teacher in their notebooks. 
  * Los estudiantes dibujan el profesor en los cuadernos. 
 ----------
+ * **fair** :: justo (adjective)
+ * The ruling isn't fair! 
+ * ¡La decisión no es justa! 
+----------
  * **to study** :: estudiar (verb)
  * The students study a lot. 
  * Los estudiantes estudian mucho. 
@@ -2626,6 +2926,10 @@
  * **lazy** :: flojo (adjective)
  * He is a lazy employee. 
  * Él es un empleado flojo. 
+----------
+ * **grade** :: nota (noun)
+ * My kids receive good grades at school. 
+ * Mis hijos reciben buenas notas en la escuela. 
 ----------
  * **enthusiastic** :: entusiástico (adjective)
  * Your daughter is an enthusiastic student. 
@@ -2635,6 +2939,10 @@
  * Is your high school big? 
  * ¿Es grande tu colegio? 
 ----------
+ * **to turn in** :: entregar (verb)
+ * You have to turn in the report to the boss. 
+ * Tú tienes que entregar el informe al jefe. 
+----------
  * **school** :: escuela (noun)
  * The classes at school are going to begin soon. 
  * Las clases en la escuela van a empezar pronto. 
@@ -2642,6 +2950,10 @@
  * **to pass** :: pasar (verb)
  * The student doesn't pass his exams because he doesn't study. 
  * El estudiante no pasa sus exámenes porque no estudia. 
+----------
+ * **to cheat** :: trampear (verb)
+ * He cheats by copying my homework. 
+ * Él trampa en copiar mi tarea. 
 ----------
  * **glass** :: vidrio (noun)
  * The parents had to pick up the broken glass when their son broke the window. 
@@ -2651,6 +2963,10 @@
  * I don't want an absent-minded doctor to operate on me. 
  * No quiero que un doctor distraído me opere. 
 ----------
+ * **homework** :: tarea (noun)
+ * The best students do all of their homework. 
+ * Los mejores estudiantes hacen toda su tarea. 
+----------
  * **late** :: tarde (adjective)
  * Why is this report late? 
  * ¿Por qué está tarde este informe? 
@@ -2658,6 +2974,10 @@
  * **co-worker** :: compañero de trabajo (noun)
  * My co-worker helps me a lot. 
  * Mi compañero de trabajo me ayuda mucho. 
+----------
+ * **to loan** :: prestar (verb)
+ * Can you loan me a pencil please? 
+ * ¿Me prestas un lápiz por favor? 
 ----------
  * **appointment** :: cita (noun)
  * I have an appointment with the dentist. 
@@ -2667,6 +2987,10 @@
  * Did you already take out the money from the bank? 
  * ¿Ya sacaste el dinero del banco? 
 ----------
+ * **serious** :: grave (adjective)
+ * He has a serious injury. 
+ * Él tiene una herida grave. 
+----------
  * **to draw** :: dibujar (verb)
  * The students draw the teacher in their notebooks. 
  * Los estudiantes dibujan el profesor en los cuadernos. 
@@ -2674,6 +2998,10 @@
  * **fair** :: justo (adjective)
  * The ruling isn't fair! 
  * ¡La decisión no es justa! 
+----------
+ * **subject** :: asignatura (noun)
+ * There are a lot of subjects that you can study at college. 
+ * Hay muchas asignaturas que puedes tomar en la universidad. 
 ----------
  * **lazy** :: flojo (adjective)
  * He is a lazy employee. 
@@ -2683,6 +3011,10 @@
  * My kids receive good grades at school. 
  * Mis hijos reciben buenas notas en la escuela. 
 ----------
+ * **to know** :: conocer (verb)
+ * I know Los Angeles very well. 
+ * Yo conozco a Los Ángeles muy bien. 
+----------
  * **high school** :: colegio (noun)
  * Is your high school big? 
  * ¿Es grande tu colegio? 
@@ -2690,6 +3022,10 @@
  * **to turn in** :: entregar (verb)
  * You have to turn in the report to the boss. 
  * Tú tienes que entregar el informe al jefe. 
+----------
+ * **studious** :: aplicado (adjective)
+ * Samuel is pretty studious. 
+ * Samuel es bastante aplicado. 
 ----------
  * **to pass** :: pasar (verb)
  * The student doesn't pass his exams because he doesn't study. 
@@ -2699,6 +3035,10 @@
  * He cheats by copying my homework. 
  * Él trampa en copiar mi tarea. 
 ----------
+ * **notes** :: apuntes (noun)
+ * We take a lot of notes in class. 
+ * Nosotros tomamos muchos apuntes en clase. 
+----------
  * **absent-minded** :: distraído (adjective)
  * I don't want an absent-minded doctor to operate on me. 
  * No quiero que un doctor distraído me opere. 
@@ -2706,6 +3046,10 @@
  * **homework** :: tarea (noun)
  * The best students do all of their homework. 
  * Los mejores estudiantes hacen toda su tarea. 
+----------
+ * **midnight** :: medianoche (noun)
+ * Cinderella fled the ball at midnight. 
+ * Cinderella huyó del baile a la medianoche. 
 ----------
  * **co-worker** :: compañero de trabajo (noun)
  * My co-worker helps me a lot. 
@@ -2715,6 +3059,10 @@
  * Can you loan me a pencil please? 
  * ¿Me prestas un lápiz por favor? 
 ----------
+ * **disappointed** :: decepcionado (adjective)
+ * We are disappointed with you. 
+ * Nosotros estamos decepcionados de ti. 
+----------
  * **to take out** :: sacar (verb)
  * Did you already take out the money from the bank? 
  * ¿Ya sacaste el dinero del banco? 
@@ -2722,6 +3070,10 @@
  * **serious** :: grave (adjective)
  * He has a serious injury. 
  * Él tiene una herida grave. 
+----------
+ * **aid** :: ayuda (noun)
+ * We're searching for some financial aid. 
+ * Nosotros buscamos alguna ayuda financiera. 
 ----------
  * **fair** :: justo (adjective)
  * The ruling isn't fair! 
@@ -2731,6 +3083,10 @@
  * There are a lot of subjects that you can study at college. 
  * Hay muchas asignaturas que puedes tomar en la universidad. 
 ----------
+ * **to forget** :: olvidar (verb)
+ * Many times Miguel forgets to do the homework. 
+ * Muchas veces Miguel olvida hacer la tarea. 
+----------
  * **grade** :: nota (noun)
  * My kids receive good grades at school. 
  * Mis hijos reciben buenas notas en la escuela. 
@@ -2738,6 +3094,10 @@
  * **to know** :: conocer (verb)
  * I know Los Angeles very well. 
  * Yo conozco a Los Ángeles muy bien. 
+----------
+ * **to support** :: apoyar (verb)
+ * I believe that I am going to support that candidate. 
+ * Yo creo que voy a apoyar a ese candidato. 
 ----------
  * **to turn in** :: entregar (verb)
  * You have to turn in the report to the boss. 
@@ -2747,6 +3107,10 @@
  * Samuel is pretty studious. 
  * Samuel es bastante aplicado. 
 ----------
+ * **to die** :: fallecer (verb)
+ * Mr. Martínez was 92 when he died. 
+ * El Señor Martínez tenía 92 años cuando falleció. 
+----------
  * **to cheat** :: trampear (verb)
  * He cheats by copying my homework. 
  * Él trampa en copiar mi tarea. 
@@ -2754,6 +3118,10 @@
  * **notes** :: apuntes (noun)
  * We take a lot of notes in class. 
  * Nosotros tomamos muchos apuntes en clase. 
+----------
+ * **hiccup** :: hipo (noun)
+ * I took a spoonful of sugar to get rid of my hiccups. 
+ * Tomo una cucharada de azúcar para quitarme el hipo. 
 ----------
  * **homework** :: tarea (noun)
  * The best students do all of their homework. 
@@ -2763,6 +3131,10 @@
  * Cinderella fled the ball at midnight. 
  * Cinderella huyó del baile a la medianoche. 
 ----------
+ * **seal** :: foca (noun)
+ * Several seals are playing on the shoreline of the island. 
+ * Varias focas juegan en la orilla de la isla. 
+----------
  * **to loan** :: prestar (verb)
  * Can you loan me a pencil please? 
  * ¿Me prestas un lápiz por favor? 
@@ -2770,6 +3142,10 @@
  * **disappointed** :: decepcionado (adjective)
  * We are disappointed with you. 
  * Nosotros estamos decepcionados de ti. 
+----------
+ * **jail** :: cárcel (noun)
+ * The judge sent the thief to jail. 
+ * El juez mandó el ladrón a la cárcel. 
 ----------
  * **serious** :: grave (adjective)
  * He has a serious injury. 
@@ -2779,6 +3155,10 @@
  * We're searching for some financial aid. 
  * Nosotros buscamos alguna ayuda financiera. 
 ----------
+ * **rebellious** :: rebelde (adjective)
+ * The teenager was very rebellious toward her parents. 
+ * La adolescente se portó muy rebelde con sus padres. 
+----------
  * **subject** :: asignatura (noun)
  * There are a lot of subjects that you can study at college. 
  * Hay muchas asignaturas que puedes tomar en la universidad. 
@@ -2786,6 +3166,10 @@
  * **to forget** :: olvidar (verb)
  * Many times Miguel forgets to do the homework. 
  * Muchas veces Miguel olvida hacer la tarea. 
+----------
+ * **picturesque** :: pintoresco (adjective)
+ * The scene was very picturesque, with many trees and flowers. 
+ * La escena era muy pintoresca con muchos árboles y flores. 
 ----------
  * **to know** :: conocer (verb)
  * I know Los Angeles very well. 
@@ -2795,6 +3179,10 @@
  * I believe that I am going to support that candidate. 
  * Yo creo que voy a apoyar a ese candidato. 
 ----------
+ * **to stop** :: parar (verb)
+ * The police stopped the cars because of the accident. 
+ * La policía paró los carros por el accidente. 
+----------
  * **studious** :: aplicado (adjective)
  * Samuel is pretty studious. 
  * Samuel es bastante aplicado. 
@@ -2802,6 +3190,10 @@
  * **to die** :: fallecer (verb)
  * Mr. Martínez was 92 when he died. 
  * El Señor Martínez tenía 92 años cuando falleció. 
+----------
+ * **to quit** :: dejar (verb)
+ * I have to quit smoking. 
+ * Tengo que dejar de fumar. 
 ----------
  * **notes** :: apuntes (noun)
  * We take a lot of notes in class. 
@@ -2811,6 +3203,10 @@
  * I took a spoonful of sugar to get rid of my hiccups. 
  * Tomo una cucharada de azúcar para quitarme el hipo. 
 ----------
+ * **to allow** :: dejar (verb)
+ * My wife doesn't allow me to put my feet on the sofa. 
+ * Mi esposa no me deja poner mis pies en el sofá. 
+----------
  * **midnight** :: medianoche (noun)
  * Cinderella fled the ball at midnight. 
  * Cinderella huyó del baile a la medianoche. 
@@ -2818,6 +3214,10 @@
  * **seal** :: foca (noun)
  * Several seals are playing on the shoreline of the island. 
  * Varias focas juegan en la orilla de la isla. 
+----------
+ * **cloudy** :: nuboso (adjective)
+ * It is a dark and cloudy day. 
+ * Es un día oscuro y nuboso. 
 ----------
  * **disappointed** :: decepcionado (adjective)
  * We are disappointed with you. 
@@ -2827,6 +3227,10 @@
  * The judge sent the thief to jail. 
  * El juez mandó el ladrón a la cárcel. 
 ----------
+ * **hot** :: caluroso (adjective)
+ * It is a hot and humid day. 
+ * Es un día caluroso y húmedo. 
+----------
  * **aid** :: ayuda (noun)
  * We're searching for some financial aid. 
  * Nosotros buscamos alguna ayuda financiera. 
@@ -2834,6 +3238,10 @@
  * **rebellious** :: rebelde (adjective)
  * The teenager was very rebellious toward her parents. 
  * La adolescente se portó muy rebelde con sus padres. 
+----------
+ * **to bite** :: morder (verb)
+ * The dog is going to bite the mailman. 
+ * El perro va a morder al cartero. 
 ----------
  * **to forget** :: olvidar (verb)
  * Many times Miguel forgets to do the homework. 
@@ -2843,6 +3251,10 @@
  * The scene was very picturesque, with many trees and flowers. 
  * La escena era muy pintoresca con muchos árboles y flores. 
 ----------
+ * **blind** :: ciego (adjective)
+ * The blind woman has a dog that guides her. 
+ * La mujer ciega lleva un perro para guiarla. 
+----------
  * **to support** :: apoyar (verb)
  * I believe that I am going to support that candidate. 
  * Yo creo que voy a apoyar a ese candidato. 
@@ -2850,6 +3262,10 @@
  * **to stop** :: parar (verb)
  * The police stopped the cars because of the accident. 
  * La policía paró los carros por el accidente. 
+----------
+ * **seriously** :: en serio (adverb)
+ * My friends never take me seriously. 
+ * Mis amigos nunca me toman en serio. 
 ----------
  * **to die** :: fallecer (verb)
  * Mr. Martínez was 92 when he died. 
@@ -2859,6 +3275,10 @@
  * I have to quit smoking. 
  * Tengo que dejar de fumar. 
 ----------
+ * **that over there** :: aquel (adjective)
+ * That man over there is my English teacher. 
+ * Aquel hombre es mi profesor de inglés. 
+----------
  * **hiccup** :: hipo (noun)
  * I took a spoonful of sugar to get rid of my hiccups. 
  * Tomo una cucharada de azúcar para quitarme el hipo. 
@@ -2866,6 +3286,10 @@
  * **to allow** :: dejar (verb)
  * My wife doesn't allow me to put my feet on the sofa. 
  * Mi esposa no me deja poner mis pies en el sofá. 
+----------
+ * **boss** :: jefe (noun)
+ * That woman over there is my boss. 
+ * Aquella mujer es mi jefa. 
 ----------
  * **seal** :: foca (noun)
  * Several seals are playing on the shoreline of the island. 
@@ -2875,6 +3299,10 @@
  * It is a dark and cloudy day. 
  * Es un día oscuro y nuboso. 
 ----------
+ * **that** :: ese (adjective)
+ * That car is the one I want to buy. 
+ * Ese carro es el que quiero comprar. 
+----------
  * **jail** :: cárcel (noun)
  * The judge sent the thief to jail. 
  * El juez mandó el ladrón a la cárcel. 
@@ -2882,6 +3310,10 @@
  * **hot** :: caluroso (adjective)
  * It is a hot and humid day. 
  * Es un día caluroso y húmedo. 
+----------
+ * **painting** :: pintura (noun)
+ * We saw many colorful paintings at the museum. 
+ * Vimos muchas pinturas coloridas en el museo. 
 ----------
  * **rebellious** :: rebelde (adjective)
  * The teenager was very rebellious toward her parents. 
@@ -2891,6 +3323,10 @@
  * The dog is going to bite the mailman. 
  * El perro va a morder al cartero. 
 ----------
+ * **this** :: este (adjective)
+ * This concert only happens once a year. 
+ * Este concierto sólo ocurre una vez al año. 
+----------
  * **picturesque** :: pintoresco (adjective)
  * The scene was very picturesque, with many trees and flowers. 
  * La escena era muy pintoresca con muchos árboles y flores. 
@@ -2898,6 +3334,10 @@
  * **blind** :: ciego (adjective)
  * The blind woman has a dog that guides her. 
  * La mujer ciega lleva un perro para guiarla. 
+----------
+ * **to celebrate** :: celebrar (verb)
+ * After he won the prize, he celebrated with his friends. 
+ * Después de ganar el premio, él celebró con sus amigos. 
 ----------
  * **to stop** :: parar (verb)
  * The police stopped the cars because of the accident. 
@@ -2907,6 +3347,10 @@
  * My friends never take me seriously. 
  * Mis amigos nunca me toman en serio. 
 ----------
+ * **success** :: éxito (noun)
+ * Your son has a lot of academic success. 
+ * Su hijo tiene mucho éxito académico. 
+----------
  * **to quit** :: dejar (verb)
  * I have to quit smoking. 
  * Tengo que dejar de fumar. 
@@ -2914,6 +3358,10 @@
  * **that over there** :: aquel (adjective)
  * That man over there is my English teacher. 
  * Aquel hombre es mi profesor de inglés. 
+----------
+ * **gloves** :: guantes (noun)
+ * I put on gloves when it gets cold in my car. 
+ * Me pongo guantes cuando hace mucho frío en mi carro. 
 ----------
  * **to allow** :: dejar (verb)
  * My wife doesn't allow me to put my feet on the sofa. 
@@ -2923,6 +3371,10 @@
  * That woman over there is my boss. 
  * Aquella mujer es mi jefa. 
 ----------
+ * **barber** :: barbería (noun)
+ * I take my son to the barber when his hair is long. 
+ * Llevo a mi hijo a la barbería cuando su pelo está largo. 
+----------
  * **cloudy** :: nuboso (adjective)
  * It is a dark and cloudy day. 
  * Es un día oscuro y nuboso. 
@@ -2930,6 +3382,10 @@
  * **that** :: ese (adjective)
  * That car is the one I want to buy. 
  * Ese carro es el que quiero comprar. 
+----------
+ * **to spend (money)** :: gastar (verb)
+ * My wife spends a lot of money on shoes. 
+ * Mi esposa gasta mucho dinero comprando zapatos. 
 ----------
  * **hot** :: caluroso (adjective)
  * It is a hot and humid day. 
@@ -2939,6 +3395,10 @@
  * We saw many colorful paintings at the museum. 
  * Vimos muchas pinturas coloridas en el museo. 
 ----------
+ * **to cancel** :: cancelar (verb)
+ * The principal cancelled school after the snow storm. 
+ * El principal canceló las clases después de la tormenta de nieve. 
+----------
  * **to bite** :: morder (verb)
  * The dog is going to bite the mailman. 
  * El perro va a morder al cartero. 
@@ -2946,6 +3406,10 @@
  * **this** :: este (adjective)
  * This concert only happens once a year. 
  * Este concierto sólo ocurre una vez al año. 
+----------
+ * **annoying** :: molesto (adjective)
+ * Forgive me, but I find your friend a bit annoying. 
+ * Perdóname, pero encuentro a tu amigo un poco molesto. 
 ----------
  * **blind** :: ciego (adjective)
  * The blind woman has a dog that guides her. 
@@ -2955,6 +3419,10 @@
  * After he won the prize, he celebrated with his friends. 
  * Después de ganar el premio, él celebró con sus amigos. 
 ----------
+ * **bratty** :: mocoso (adjective)
+ * The boys who are shouting at the girls are very bratty. 
+ * Los niños que están gritando a las niñas son muy mocosos. 
+----------
  * **seriously** :: en serio (adverb)
  * My friends never take me seriously. 
  * Mis amigos nunca me toman en serio. 
@@ -2962,6 +3430,10 @@
  * **success** :: éxito (noun)
  * Your son has a lot of academic success. 
  * Su hijo tiene mucho éxito académico. 
+----------
+ * **to faint** :: desmayarse (verb)
+ * The woman fainted after learning the news. 
+ * La mujer se desmayó después de saber la noticia. 
 ----------
  * **that over there** :: aquel (adjective)
  * That man over there is my English teacher. 
@@ -2971,6 +3443,10 @@
  * I put on gloves when it gets cold in my car. 
  * Me pongo guantes cuando hace mucho frío en mi carro. 
 ----------
+ * **challenge** :: desafío (noun)
+ * The exam was a great challenge for me. 
+ * El examen fue un gran desafío para mí. 
+----------
  * **boss** :: jefe (noun)
  * That woman over there is my boss. 
  * Aquella mujer es mi jefa. 
@@ -2978,6 +3454,10 @@
  * **barber** :: barbería (noun)
  * I take my son to the barber when his hair is long. 
  * Llevo a mi hijo a la barbería cuando su pelo está largo. 
+----------
+ * **to rescue** :: rescatar (verb)
+ * The firefighters rescue people from buildings. 
+ * Los bomberos rescatan a la gente en los edificios. 
 ----------
  * **that** :: ese (adjective)
  * That car is the one I want to buy. 
@@ -2987,6 +3467,10 @@
  * My wife spends a lot of money on shoes. 
  * Mi esposa gasta mucho dinero comprando zapatos. 
 ----------
+ * **confused** :: confundido (adjective)
+ * I'm confused about the homework that we have to do. 
+ * Estoy confundido sobre la tarea que tenemos que hacer. 
+----------
  * **painting** :: pintura (noun)
  * We saw many colorful paintings at the museum. 
  * Vimos muchas pinturas coloridas en el museo. 
@@ -2994,6 +3478,10 @@
  * **to cancel** :: cancelar (verb)
  * The principal cancelled school after the snow storm. 
  * El principal canceló las clases después de la tormenta de nieve. 
+----------
+ * **printer** :: impresora (noun)
+ * My printer doesn't work. 
+ * No funciona mi impresora. 
 ----------
  * **this** :: este (adjective)
  * This concert only happens once a year. 
@@ -3003,6 +3491,10 @@
  * Forgive me, but I find your friend a bit annoying. 
  * Perdóname, pero encuentro a tu amigo un poco molesto. 
 ----------
+ * **stormy** :: tempestuoso (adjective)
+ * We're experiencing some stormy weather. 
+ * Nosotros estamos pasando un tiempo tempestuoso. 
+----------
  * **to celebrate** :: celebrar (verb)
  * After he won the prize, he celebrated with his friends. 
  * Después de ganar el premio, él celebró con sus amigos. 
@@ -3010,6 +3502,10 @@
  * **bratty** :: mocoso (adjective)
  * The boys who are shouting at the girls are very bratty. 
  * Los niños que están gritando a las niñas son muy mocosos. 
+----------
+ * **wart** :: verruga (noun)
+ * The thief has several warts on his face. 
+ * El ladrón tiene varias verrugas en la cara. 
 ----------
  * **success** :: éxito (noun)
  * Your son has a lot of academic success. 
@@ -3019,6 +3515,10 @@
  * The woman fainted after learning the news. 
  * La mujer se desmayó después de saber la noticia. 
 ----------
+ * **to sweep** :: barrer (verb)
+ * I'm going to sweep the dirty floor. 
+ * Yo voy a barrer el piso sucio. 
+----------
  * **gloves** :: guantes (noun)
  * I put on gloves when it gets cold in my car. 
  * Me pongo guantes cuando hace mucho frío en mi carro. 
@@ -3026,6 +3526,10 @@
  * **challenge** :: desafío (noun)
  * The exam was a great challenge for me. 
  * El examen fue un gran desafío para mí. 
+----------
+ * **bloody** :: sangriento (adjective)
+ * War is often bloody. 
+ * Muchas veces la guerra es sangrienta. 
 ----------
  * **barber** :: barbería (noun)
  * I take my son to the barber when his hair is long. 
@@ -3035,6 +3539,10 @@
  * The firefighters rescue people from buildings. 
  * Los bomberos rescatan a la gente en los edificios. 
 ----------
+ * **garlic** :: ajo (noun)
+ * Dracula doesn't like garlic. 
+ * A Drácula no le gusta el ajo. 
+----------
  * **to spend (money)** :: gastar (verb)
  * My wife spends a lot of money on shoes. 
  * Mi esposa gasta mucho dinero comprando zapatos. 
@@ -3042,6 +3550,10 @@
  * **confused** :: confundido (adjective)
  * I'm confused about the homework that we have to do. 
  * Estoy confundido sobre la tarea que tenemos que hacer. 
+----------
+ * **to bury** :: enterrar (verb)
+ * That cemetery is full, so they can't bury anybody. 
+ * Ese cementerio está lleno y por eso no entierran a nadie. 
 ----------
  * **to cancel** :: cancelar (verb)
  * The principal cancelled school after the snow storm. 
@@ -3051,6 +3563,10 @@
  * My printer doesn't work. 
  * No funciona mi impresora. 
 ----------
+ * **chilling** :: escalofriante (adjective)
+ * She had a chilling nightmare. 
+ * Ella tuvo una pesadilla escalofriante. 
+----------
  * **annoying** :: molesto (adjective)
  * Forgive me, but I find your friend a bit annoying. 
  * Perdóname, pero encuentro a tu amigo un poco molesto. 
@@ -3058,6 +3574,10 @@
  * **stormy** :: tempestuoso (adjective)
  * We're experiencing some stormy weather. 
  * Nosotros estamos pasando un tiempo tempestuoso. 
+----------
+ * **bat** :: murciélago (noun)
+ * The bat lives in the cave. 
+ * El murciélago vive en la cueva. 
 ----------
  * **bratty** :: mocoso (adjective)
  * The boys who are shouting at the girls are very bratty. 
@@ -3067,6 +3587,10 @@
  * The thief has several warts on his face. 
  * El ladrón tiene varias verrugas en la cara. 
 ----------
+ * **to give out** :: repartir (verb)
+ * The neighbors give out candy to the children. 
+ * Los vecinos reparten dulces a los niños. 
+----------
  * **to faint** :: desmayarse (verb)
  * The woman fainted after learning the news. 
  * La mujer se desmayó después de saber la noticia. 
@@ -3074,6 +3598,10 @@
  * **to sweep** :: barrer (verb)
  * I'm going to sweep the dirty floor. 
  * Yo voy a barrer el piso sucio. 
+----------
+ * **witch** :: bruja (noun)
+ * That lady is a witch! 
+ * ¡Ésa mujer es una bruja! 
 ----------
  * **challenge** :: desafío (noun)
  * The exam was a great challenge for me. 
@@ -3083,6 +3611,10 @@
  * War is often bloody. 
  * Muchas veces la guerra es sangrienta. 
 ----------
+ * **to hide** :: esconder (verb)
+ * Paco hides his sweets from his sister. 
+ * Paco esconde sus dulces de su hermana. 
+----------
  * **to rescue** :: rescatar (verb)
  * The firefighters rescue people from buildings. 
  * Los bomberos rescatan a la gente en los edificios. 
@@ -3090,6 +3622,10 @@
  * **garlic** :: ajo (noun)
  * Dracula doesn't like garlic. 
  * A Drácula no le gusta el ajo. 
+----------
+ * **scary** :: espantoso (adjective)
+ * That's a scary house. 
+ * Es una casa espantosa. 
 ----------
  * **confused** :: confundido (adjective)
  * I'm confused about the homework that we have to do. 
@@ -3099,6 +3635,10 @@
  * That cemetery is full, so they can't bury anybody. 
  * Ese cementerio está lleno y por eso no entierran a nadie. 
 ----------
+ * **fangs** :: colmillos (noun)
+ * The wolf shows us his fangs. 
+ * El lobo nos enseña los colmillos. 
+----------
  * **printer** :: impresora (noun)
  * My printer doesn't work. 
  * No funciona mi impresora. 
@@ -3106,6 +3646,10 @@
  * **chilling** :: escalofriante (adjective)
  * She had a chilling nightmare. 
  * Ella tuvo una pesadilla escalofriante. 
+----------
+ * **to scream** :: chillar (verb)
+ * The woman screams upon seeing the vampire. 
+ * La mujer chilla al ver el vampiro. 
 ----------
  * **stormy** :: tempestuoso (adjective)
  * We're experiencing some stormy weather. 
@@ -3115,6 +3659,10 @@
  * The bat lives in the cave. 
  * El murciélago vive en la cueva. 
 ----------
+ * **shocking** :: chocante (adjective)
+ * His death is shocking. 
+ * La muerte de él es chocante. 
+----------
  * **wart** :: verruga (noun)
  * The thief has several warts on his face. 
  * El ladrón tiene varias verrugas en la cara. 
@@ -3122,6 +3670,10 @@
  * **to give out** :: repartir (verb)
  * The neighbors give out candy to the children. 
  * Los vecinos reparten dulces a los niños. 
+----------
+ * **ghost** :: fantasma (noun)
+ * They say there are ghosts in that house. 
+ * Ellos dicen que hay fantasmas en esa casa. 
 ----------
  * **to sweep** :: barrer (verb)
  * I'm going to sweep the dirty floor. 
@@ -3131,6 +3683,10 @@
  * That lady is a witch! 
  * ¡Ésa mujer es una bruja! 
 ----------
+ * **to float** :: flotar (verb)
+ * The table begins to float in the air. 
+ * La mesa empieza a flotar en el aire. 
+----------
  * **bloody** :: sangriento (adjective)
  * War is often bloody. 
  * Muchas veces la guerra es sangrienta. 
@@ -3138,6 +3694,10 @@
  * **to hide** :: esconder (verb)
  * Paco hides his sweets from his sister. 
  * Paco esconde sus dulces de su hermana. 
+----------
+ * **costume** :: disfraz (noun)
+ * The children wear costumes to celebrate Halloween. 
+ * Los niños llevan disfraces para celebrar Halloween. 
 ----------
  * **garlic** :: ajo (noun)
  * Dracula doesn't like garlic. 
@@ -3147,6 +3707,10 @@
  * That's a scary house. 
  * Es una casa espantosa. 
 ----------
+ * **pumpkin** :: calabaza (noun)
+ * We will decorate these pumpkins for Halloween. 
+ * Nosotros decoraremos estas calabazas para Halloween. 
+----------
  * **to bury** :: enterrar (verb)
  * That cemetery is full, so they can't bury anybody. 
  * Ese cementerio está lleno y por eso no entierran a nadie. 
@@ -3154,6 +3718,10 @@
  * **fangs** :: colmillos (noun)
  * The wolf shows us his fangs. 
  * El lobo nos enseña los colmillos. 
+----------
+ * **orange** :: anaranjado (adjective)
+ * My pumpkin is very orange. 
+ * Mi calabaza es muy anaranjada. 
 ----------
  * **chilling** :: escalofriante (adjective)
  * She had a chilling nightmare. 
@@ -3163,6 +3731,10 @@
  * The woman screams upon seeing the vampire. 
  * La mujer chilla al ver el vampiro. 
 ----------
+ * **leaf** :: hoja (noun)
+ * The colors of the leaves are very pretty. 
+ * Los colores de las hojas son muy bonitos. 
+----------
  * **bat** :: murciélago (noun)
  * The bat lives in the cave. 
  * El murciélago vive en la cueva. 
@@ -3170,6 +3742,10 @@
  * **shocking** :: chocante (adjective)
  * His death is shocking. 
  * La muerte de él es chocante. 
+----------
+ * **to rake** :: rastrillar (verb)
+ * I have to rake a lot of leaves. 
+ * Yo tengo que rastrillar muchas hojas. 
 ----------
  * **to give out** :: repartir (verb)
  * The neighbors give out candy to the children. 
@@ -3179,6 +3755,10 @@
  * They say there are ghosts in that house. 
  * Ellos dicen que hay fantasmas en esa casa. 
 ----------
+ * **fall** :: otoño (noun)
+ * The months of fall are September, October and November. 
+ * Los meses del otoño son septiembre, octubre y noviembre. 
+----------
  * **witch** :: bruja (noun)
  * That lady is a witch! 
  * ¡Ésa mujer es una bruja! 
@@ -3186,6 +3766,10 @@
  * **to float** :: flotar (verb)
  * The table begins to float in the air. 
  * La mesa empieza a flotar en el aire. 
+----------
+ * **turkey** :: pavo (noun)
+ * My father buys a big turkey for Thanksgiving. 
+ * Mi padre compra un pavo grande para el Día de Acción de Gracias. 
 ----------
  * **to hide** :: esconder (verb)
  * Paco hides his sweets from his sister. 
@@ -3195,6 +3779,10 @@
  * The children wear costumes to celebrate Halloween. 
  * Los niños llevan disfraces para celebrar Halloween. 
 ----------
+ * **stuffing** :: relleno (noun)
+ * We eat a lot of stuffing with the turkey. 
+ * Nosotros comemos mucho relleno con el pavo. 
+----------
  * **scary** :: espantoso (adjective)
  * That's a scary house. 
  * Es una casa espantosa. 
@@ -3202,6 +3790,10 @@
  * **pumpkin** :: calabaza (noun)
  * We will decorate these pumpkins for Halloween. 
  * Nosotros decoraremos estas calabazas para Halloween. 
+----------
+ * **fearful** :: miedoso (adjective)
+ * She is fearful of heights. 
+ * Ella es miedosa de las alturas. 
 ----------
  * **fangs** :: colmillos (noun)
  * The wolf shows us his fangs. 
@@ -3211,6 +3803,10 @@
  * My pumpkin is very orange. 
  * Mi calabaza es muy anaranjada. 
 ----------
+ * **darkness** :: oscuridad (noun)
+ * I can't see in the darkness. 
+ * No puedo ver en la oscuridad. 
+----------
  * **to scream** :: chillar (verb)
  * The woman screams upon seeing the vampire. 
  * La mujer chilla al ver el vampiro. 
@@ -3218,6 +3814,10 @@
  * **leaf** :: hoja (noun)
  * The colors of the leaves are very pretty. 
  * Los colores de las hojas son muy bonitos. 
+----------
+ * **key** :: llave (noun)
+ * I need to make a copy of my key because I often lose it. 
+ * Necesito hacer una copia de mi llave porque la pierdo muchas veces. 
 ----------
  * **shocking** :: chocante (adjective)
  * His death is shocking. 
@@ -3227,6 +3827,10 @@
  * I have to rake a lot of leaves. 
  * Yo tengo que rastrillar muchas hojas. 
 ----------
+ * **geraniums** :: geranios (noun)
+ * We traveled to Spain in the summer and saw geraniums everywhere. 
+ * Viajamos a España en el verano y vimos geranios por todas partes. 
+----------
  * **ghost** :: fantasma (noun)
  * They say there are ghosts in that house. 
  * Ellos dicen que hay fantasmas en esa casa. 
@@ -3234,6 +3838,10 @@
  * **fall** :: otoño (noun)
  * The months of fall are September, October and November. 
  * Los meses del otoño son septiembre, octubre y noviembre. 
+----------
+ * **bookstore** :: librería (noun)
+ * You always buy too much when you go to the bookstore. 
+ * Tu siempre compras demasiado cuando vas a la librería. 
 ----------
  * **to float** :: flotar (verb)
  * The table begins to float in the air. 
@@ -3243,6 +3851,10 @@
  * My father buys a big turkey for Thanksgiving. 
  * Mi padre compra un pavo grande para el Día de Acción de Gracias. 
 ----------
+ * **sour** :: agrio (adjective)
+ * Lemons are sour. 
+ * Los limones son agrios. 
+----------
  * **costume** :: disfraz (noun)
  * The children wear costumes to celebrate Halloween. 
  * Los niños llevan disfraces para celebrar Halloween. 
@@ -3250,6 +3862,10 @@
  * **stuffing** :: relleno (noun)
  * We eat a lot of stuffing with the turkey. 
  * Nosotros comemos mucho relleno con el pavo. 
+----------
+ * **to fear** :: temer (verb)
+ * She fears for her life. 
+ * Ella teme por su vida. 
 ----------
  * **pumpkin** :: calabaza (noun)
  * We will decorate these pumpkins for Halloween. 
@@ -3259,6 +3875,10 @@
  * She is fearful of heights. 
  * Ella es miedosa de las alturas. 
 ----------
+ * **trick** :: truco (noun)
+ * The magician performs many magic tricks. 
+ * El mago hace muchos trucos de mágica. 
+----------
  * **orange** :: anaranjado (adjective)
  * My pumpkin is very orange. 
  * Mi calabaza es muy anaranjada. 
@@ -3266,6 +3886,10 @@
  * **darkness** :: oscuridad (noun)
  * I can't see in the darkness. 
  * No puedo ver en la oscuridad. 
+----------
+ * **to shout** :: gritar (verb)
+ * She shouts every time she sees a horror movie. 
+ * Ella grita cada vez que ve una película de miedo. 
 ----------
  * **leaf** :: hoja (noun)
  * The colors of the leaves are very pretty. 
@@ -3275,6 +3899,10 @@
  * I need to make a copy of my key because I often lose it. 
  * Necesito hacer una copia de mi llave porque la pierdo muchas veces. 
 ----------
+ * **sweet** :: dulce (adjective)
+ * White chocolate is very sweet. 
+ * El chocolate blanco es muy dulce. 
+----------
  * **to rake** :: rastrillar (verb)
  * I have to rake a lot of leaves. 
  * Yo tengo que rastrillar muchas hojas. 
@@ -3282,6 +3910,10 @@
  * **geraniums** :: geranios (noun)
  * We traveled to Spain in the summer and saw geraniums everywhere. 
  * Viajamos a España en el verano y vimos geranios por todas partes. 
+----------
+ * **young** :: joven (adjective)
+ * They are young parents. 
+ * Ellos son unos padres jóvenes. 
 ----------
  * **fall** :: otoño (noun)
  * The months of fall are September, October and November. 
@@ -3291,6 +3923,10 @@
  * You always buy too much when you go to the bookstore. 
  * Tu siempre compras demasiado cuando vas a la librería. 
 ----------
+ * **rainy** :: lluvioso (adjective)
+ * It's a pretty rainy month. 
+ * Es un mes bastante lluvioso. 
+----------
  * **turkey** :: pavo (noun)
  * My father buys a big turkey for Thanksgiving. 
  * Mi padre compra un pavo grande para el Día de Acción de Gracias. 
@@ -3298,6 +3934,10 @@
  * **sour** :: agrio (adjective)
  * Lemons are sour. 
  * Los limones son agrios. 
+----------
+ * **exhausted** :: agotado (adjective)
+ * Enrique is exhausted after work. 
+ * Enrique está agotado después del trabajo. 
 ----------
  * **stuffing** :: relleno (noun)
  * We eat a lot of stuffing with the turkey. 
@@ -3307,6 +3947,10 @@
  * She fears for her life. 
  * Ella teme por su vida. 
 ----------
+ * **to choose** :: escoger (verb)
+ * We have to choose a candidate in the elections. 
+ * Nosotros tenemos que escoger a un candidato en las elecciones. 
+----------
  * **fearful** :: miedoso (adjective)
  * She is fearful of heights. 
  * Ella es miedosa de las alturas. 
@@ -3314,6 +3958,10 @@
  * **trick** :: truco (noun)
  * The magician performs many magic tricks. 
  * El mago hace muchos trucos de mágica. 
+----------
+ * **native** :: indígena (adjective)
+ * Those are some native fruits. 
+ * Esas son unas frutas indígenas. 
 ----------
  * **darkness** :: oscuridad (noun)
  * I can't see in the darkness. 
@@ -3323,6 +3971,10 @@
  * She shouts every time she sees a horror movie. 
  * Ella grita cada vez que ve una película de miedo. 
 ----------
+ * **palm tree** :: palma (noun)
+ * When it was too hot, we sat under a palm tree and drank some lemonade. 
+ * Cuando hacía demasiado calor, nos sentamos debajo de una palma y bebimos alguna limonada. 
+----------
  * **key** :: llave (noun)
  * I need to make a copy of my key because I often lose it. 
  * Necesito hacer una copia de mi llave porque la pierdo muchas veces. 
@@ -3330,6 +3982,10 @@
  * **sweet** :: dulce (adjective)
  * White chocolate is very sweet. 
  * El chocolate blanco es muy dulce. 
+----------
+ * **to fly** :: volar (verb)
+ * I will fly to Argentina in February. 
+ * Yo vuelo a la Argentina en febrero. 
 ----------
  * **geraniums** :: geranios (noun)
  * We traveled to Spain in the summer and saw geraniums everywhere. 
@@ -3339,6 +3995,10 @@
  * They are young parents. 
  * Ellos son unos padres jóvenes. 
 ----------
+ * **blurry** :: borroso (adjective)
+ * This old photograph is blurry. 
+ * Este foto antiguo es borroso. 
+----------
  * **bookstore** :: librería (noun)
  * You always buy too much when you go to the bookstore. 
  * Tu siempre compras demasiado cuando vas a la librería. 
@@ -3346,6 +4006,10 @@
  * **rainy** :: lluvioso (adjective)
  * It's a pretty rainy month. 
  * Es un mes bastante lluvioso. 
+----------
+ * **to cook** :: cocinar (verb)
+ * My mother cooks some delicious meals in the kitchen. 
+ * Mi madre cocina unas comidas deliciosas en la cocina. 
 ----------
  * **sour** :: agrio (adjective)
  * Lemons are sour. 
@@ -3355,6 +4019,10 @@
  * Enrique is exhausted after work. 
  * Enrique está agotado después del trabajo. 
 ----------
+ * **delayed** :: demorado (adjective)
+ * Our flight is delayed. 
+ * Nuestro vuelo está demorado. 
+----------
  * **to fear** :: temer (verb)
  * She fears for her life. 
  * Ella teme por su vida. 
@@ -3362,6 +4030,10 @@
  * **to choose** :: escoger (verb)
  * We have to choose a candidate in the elections. 
  * Nosotros tenemos que escoger a un candidato en las elecciones. 
+----------
+ * **knife** :: cuchillo (noun)
+ * The thief has a knife. 
+ * El ladrón tiene un cuchillo. 
 ----------
  * **trick** :: truco (noun)
  * The magician performs many magic tricks. 
@@ -3371,6 +4043,10 @@
  * Those are some native fruits. 
  * Esas son unas frutas indígenas. 
 ----------
+ * **to get** :: conseguir (verb)
+ * I'm getting the food for the party. 
+ * Yo consigo la comida para la fiesta. 
+----------
  * **to shout** :: gritar (verb)
  * She shouts every time she sees a horror movie. 
  * Ella grita cada vez que ve una película de miedo. 
@@ -3378,6 +4054,10 @@
  * **palm tree** :: palma (noun)
  * When it was too hot, we sat under a palm tree and drank some lemonade. 
  * Cuando hacía demasiado calor, nos sentamos debajo de una palma y bebimos alguna limonada. 
+----------
+ * **thankful** :: agradecido (adjective)
+ * The family is thankful for the flowers. 
+ * La familia está agradecida por las flores. 
 ----------
  * **sweet** :: dulce (adjective)
  * White chocolate is very sweet. 
@@ -3387,6 +4067,10 @@
  * I will fly to Argentina in February. 
  * Yo vuelo a la Argentina en febrero. 
 ----------
+ * **trip** :: viaje (noun)
+ * Jorge and Marta are going on a trip to Italy. 
+ * Jorge y Marta hacen un viaje a Italia. 
+----------
  * **young** :: joven (adjective)
  * They are young parents. 
  * Ellos son unos padres jóvenes. 
@@ -3394,6 +4078,10 @@
  * **blurry** :: borroso (adjective)
  * This old photograph is blurry. 
  * Este foto antiguo es borroso. 
+----------
+ * **to travel** :: viajar (verb)
+ * My wife and I travel to Mexico each winter. 
+ * Mi esposa y yo viajamos a México cada invierno. 
 ----------
  * **rainy** :: lluvioso (adjective)
  * It's a pretty rainy month. 
@@ -3403,6 +4091,10 @@
  * My mother cooks some delicious meals in the kitchen. 
  * Mi madre cocina unas comidas deliciosas en la cocina. 
 ----------
+ * **happy** :: feliz (adjective)
+ * The dog is happy with his bone. 
+ * El perro está feliz con su hueso. 
+----------
  * **exhausted** :: agotado (adjective)
  * Enrique is exhausted after work. 
  * Enrique está agotado después del trabajo. 
@@ -3410,6 +4102,10 @@
  * **delayed** :: demorado (adjective)
  * Our flight is delayed. 
  * Nuestro vuelo está demorado. 
+----------
+ * **magazines** :: revistas (noun)
+ * You read a lot of magazines on the plane. 
+ * Tú lees muchas revistas en el avión. 
 ----------
  * **to choose** :: escoger (verb)
  * We have to choose a candidate in the elections. 
@@ -3419,61 +4115,13 @@
  * The thief has a knife. 
  * El ladrón tiene un cuchillo. 
 ----------
- * **native** :: indígena (adjective)
- * Those are some native fruits. 
- * Esas son unas frutas indígenas. 
-----------
- * **to get** :: conseguir (verb)
- * I'm getting the food for the party. 
- * Yo consigo la comida para la fiesta. 
-----------
- * **palm tree** :: palma (noun)
- * When it was too hot, we sat under a palm tree and drank some lemonade. 
- * Cuando hacía demasiado calor, nos sentamos debajo de una palma y bebimos alguna limonada. 
-----------
- * **thankful** :: agradecido (adjective)
- * The family is thankful for the flowers. 
- * La familia está agradecida por las flores. 
-----------
- * **to fly** :: volar (verb)
- * I will fly to Argentina in February. 
- * Yo vuelo a la Argentina en febrero. 
-----------
- * **trip** :: viaje (noun)
- * Jorge and Marta are going on a trip to Italy. 
- * Jorge y Marta hacen un viaje a Italia. 
-----------
- * **blurry** :: borroso (adjective)
- * This old photograph is blurry. 
- * Este foto antiguo es borroso. 
-----------
- * **to travel** :: viajar (verb)
- * My wife and I travel to Mexico each winter. 
- * Mi esposa y yo viajamos a México cada invierno. 
-----------
- * **to cook** :: cocinar (verb)
- * My mother cooks some delicious meals in the kitchen. 
- * Mi madre cocina unas comidas deliciosas en la cocina. 
-----------
- * **happy** :: feliz (adjective)
- * The dog is happy with his bone. 
- * El perro está feliz con su hueso. 
-----------
- * **delayed** :: demorado (adjective)
- * Our flight is delayed. 
- * Nuestro vuelo está demorado. 
-----------
- * **magazines** :: revistas (noun)
- * You read a lot of magazines on the plane. 
- * Tú lees muchas revistas en el avión. 
-----------
- * **knife** :: cuchillo (noun)
- * The thief has a knife. 
- * El ladrón tiene un cuchillo. 
-----------
  * **to check in** :: facturar (verb)
  * We're going to check in our luggage. 
  * Nosotros vamos a facturar nuestro equipaje. 
+----------
+ * **native** :: indígena (adjective)
+ * Those are some native fruits. 
+ * Esas son unas frutas indígenas. 
 ----------
  * **to get** :: conseguir (verb)
  * I'm getting the food for the party. 
@@ -3483,6 +4131,10 @@
  * It's dangerous if you don't look when crossing the street. 
  * Es peligroso si tú no miras al cruzar la calle. 
 ----------
+ * **palm tree** :: palma (noun)
+ * When it was too hot, we sat under a palm tree and drank some lemonade. 
+ * Cuando hacía demasiado calor, nos sentamos debajo de una palma y bebimos alguna limonada. 
+----------
  * **thankful** :: agradecido (adjective)
  * The family is thankful for the flowers. 
  * La familia está agradecida por las flores. 
@@ -3490,6 +4142,10 @@
  * **to cough** :: toser (verb)
  * Geraldo must be sick; he coughs all of the time. 
  * Geraldo debe ser enfermo; él tose todo el tiempo. 
+----------
+ * **to fly** :: volar (verb)
+ * I will fly to Argentina in February. 
+ * Yo vuelo a la Argentina en febrero. 
 ----------
  * **trip** :: viaje (noun)
  * Jorge and Marta are going on a trip to Italy. 
@@ -3499,6 +4155,10 @@
  * People who smoke often get cancer. 
  * La gente que fuma muchas veces consigue cáncer. 
 ----------
+ * **blurry** :: borroso (adjective)
+ * This old photograph is blurry. 
+ * Este foto antiguo es borroso. 
+----------
  * **to travel** :: viajar (verb)
  * My wife and I travel to Mexico each winter. 
  * Mi esposa y yo viajamos a México cada invierno. 
@@ -3506,6 +4166,90 @@
  * **dry** :: seco (adjective)
  * The towels are dry now. 
  * Las toallas ahora están secas. 
+----------
+ * **to cook** :: cocinar (verb)
+ * My mother cooks some delicious meals in the kitchen. 
+ * Mi madre cocina unas comidas deliciosas en la cocina. 
+----------
+ * **happy** :: feliz (adjective)
+ * The dog is happy with his bone. 
+ * El perro está feliz con su hueso. 
+----------
+ * **narrow** :: estrecho (adjective)
+ * The tunnel in the cave is narrow. 
+ * El túnel en la cueva es estrecho. 
+----------
+ * **delayed** :: demorado (adjective)
+ * Our flight is delayed. 
+ * Nuestro vuelo está demorado. 
+----------
+ * **magazines** :: revistas (noun)
+ * You read a lot of magazines on the plane. 
+ * Tú lees muchas revistas en el avión. 
+----------
+ * **stubborn** :: tozudo (adjective)
+ * He is very stubborn and doesn't want to listen. 
+ * Él es muy tozudo y no quiere escucharme. 
+----------
+ * **knife** :: cuchillo (noun)
+ * The thief has a knife. 
+ * El ladrón tiene un cuchillo. 
+----------
+ * **to check in** :: facturar (verb)
+ * We're going to check in our luggage. 
+ * Nosotros vamos a facturar nuestro equipaje. 
+----------
+ * **laptop computer** :: portátil (noun)
+ * I want to buy a new laptop computer. 
+ * Quiero comprarme un nuevo portátil. 
+----------
+ * **to get** :: conseguir (verb)
+ * I'm getting the food for the party. 
+ * Yo consigo la comida para la fiesta. 
+----------
+ * **dangerous** :: peligroso (adjective)
+ * It's dangerous if you don't look when crossing the street. 
+ * Es peligroso si tú no miras al cruzar la calle. 
+----------
+ * **chicken pox** :: varicela (noun)
+ * When I was little, I got the chicken pox. 
+ * Cuando era pequeño tuve la varicela. 
+----------
+ * **thankful** :: agradecido (adjective)
+ * The family is thankful for the flowers. 
+ * La familia está agradecida por las flores. 
+----------
+ * **to cough** :: toser (verb)
+ * Geraldo must be sick; he coughs all of the time. 
+ * Geraldo debe ser enfermo; él tose todo el tiempo. 
+----------
+ * **to help** :: atender (verb)
+ * The nurse helps the patients. 
+ * La enfermera atiende a los pacientes. 
+----------
+ * **trip** :: viaje (noun)
+ * Jorge and Marta are going on a trip to Italy. 
+ * Jorge y Marta hacen un viaje a Italia. 
+----------
+ * **to smoke** :: fumar (verb)
+ * People who smoke often get cancer. 
+ * La gente que fuma muchas veces consigue cáncer. 
+----------
+ * **to attend** :: asistir a (verb)
+ * My son attends the university. 
+ * Mi hijo asiste a la universidad. 
+----------
+ * **to travel** :: viajar (verb)
+ * My wife and I travel to Mexico each winter. 
+ * Mi esposa y yo viajamos a México cada invierno. 
+----------
+ * **dry** :: seco (adjective)
+ * The towels are dry now. 
+ * Las toallas ahora están secas. 
+----------
+ * **to find out** :: averiguar (verb)
+ * I have to find out the truth. 
+ * Tengo que averiguar la verdad. 
 ----------
  * **happy** :: feliz (adjective)
  * The dog is happy with his bone. 
@@ -3515,6 +4259,10 @@
  * My parents are going to buy tickets for the flight. 
  * Mis padres van a comprar billetes para el vuelo. 
 ----------
+ * **maid** :: criada (noun)
+ * The maid cleans the mansion. 
+ * La criada limpia la mansión. 
+----------
  * **magazines** :: revistas (noun)
  * You read a lot of magazines on the plane. 
  * Tú lees muchas revistas en el avión. 
@@ -3522,6 +4270,10 @@
  * **to try** :: intentar (verb)
  * I try to study to get good grades. 
  * Yo intento estudiar para sacar buenas notas. 
+----------
+ * **rag** :: trapo (noun)
+ * I use a rag to clean the lightbulbs. 
+ * Uso un trapo para limpiar las bombillas. 
 ----------
  * **to check in** :: facturar (verb)
  * We're going to check in our luggage. 

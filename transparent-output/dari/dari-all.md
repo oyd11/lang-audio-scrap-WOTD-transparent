@@ -1,6 +1,6 @@
 # dari WOTD : 
 ----------
- 898 phrases 
+ 1086 phrases 
 ----------
 ----------
  * **اشاره** :: hint (noun)
@@ -2027,6 +2027,10 @@
  * من ولی نیستم. 
  * I'm not a saint. 
 ----------
+ * **شدید** :: serious (adjective)
+ * بیست نفر شدیداً زخمی بودند. 
+ * There were twenty people seriously injured. 
+----------
  * **اویزان بودن** :: to hang (verb)
  * از سقف تارهای عنکبوت آویزان هستند. 
  * There are cobwebs hanging from the ceiling. 
@@ -2034,6 +2038,10 @@
  * **نا آشنا** :: unknown (adjective)
  * این آدرس برای من نا آشنا است. 
  * This address is unknown to me. 
+----------
+ * **بوتها** :: shoes (noun)
+ * او همراه با بوتهایش به اتاق آمد. 
+ * She came to the room with her shoes. 
 ----------
  * **رطوبت** :: humidity (noun)
  * گرمی نیست، این رطوبت است. 
@@ -2043,6 +2051,10 @@
  * از حمایت تان تشکر. 
  * Thanks for your support. 
 ----------
+ * **هلیکوپتر** :: helicopter (noun)
+ * قربانیان سیلاب با هلیکوپتر نجات داده شدند. 
+ * The flood victims were rescued in a helicopter. 
+----------
  * **سینه** :: chest (noun)
  * سینه ام درد میکند. 
  * My chest hurts. 
@@ -2050,6 +2062,10 @@
  * **پارچه** :: piece (noun)
  * یک پارچه کاغذ میخواهم. 
  * I want a piece of paper. 
+----------
+ * **رنگه** :: crayon (noun)
+ * من با رنگه رنگه کردن را خوش دارم. 
+ * I like to color with crayons. 
 ----------
  * **دروغگو** :: liar (adjective)
  * او چی یک دروغگویی است. 
@@ -2059,6 +2075,10 @@
  * در اول من نمیدانستم چی بگویم. 
  * At first I didn't know what to say. 
 ----------
+ * **شطرنج** :: chess (noun)
+ * یک بازی خوب شطرنج چطور؟ 
+ * How about a nice game of chess? 
+----------
  * **از دست دادن** :: to lose (verb)
  * شما هیچ چیز را از دست نمیدهید. 
  * You have nothing to lose. 
@@ -2066,6 +2086,10 @@
  * **کمبود** :: shortage (noun)
  * در اروپا کمبود خانه است. 
  * In Europe, there is a housing shortage. 
+----------
+ * **سقف** :: roof (noun)
+ * من میخواهم بالای سقف یک باغ جور کنم. 
+ * I would love to build a garden on the roof. 
 ----------
  * **اینجا** :: here (adverb)
  * اینجا بسیار گرم است. 
@@ -2075,6 +2099,10 @@
  * در آخر من باید اعتراف میکردم که او راست میگفت. 
  * In the end I had to admit that he was right. 
 ----------
+ * **ای تی ام** :: ATM (expression)
+ * من باید پول نقد بپردازم. آیا اینجا ای تی ام است؟ 
+ * I need to pay in cash. Is there an ATM here? 
+----------
  * **آبشار** :: waterfall (noun)
  * اینجا یک کلیسا و یک آبشار است. 
  * Here there is a church and a waterfall. 
@@ -2082,6 +2110,10 @@
  * **خجالتی** :: shy (adjective)
  * او بسیار خجالتی است. 
  * He is very shy. 
+----------
+ * **چاه** :: well (noun)
+ * چاه ارتیزن چی است؟ 
+ * What is an artesian well? 
 ----------
  * **درخت** :: tree (noun)
  * این درخت ها به آب ضرورت دارند. 
@@ -2091,6 +2123,10 @@
  * او برایم یک دسته گل تقدیم کرد. 
  * He offered me a bunch of flowers. 
 ----------
+ * **اپارتمان** :: flat, apartment (noun)
+ * اپارتمان من در منزل اول است. 
+ * My flat is on the first floor. 
+----------
  * **کافی** :: enough (expression)
  * کافیست! 
  * Enough already! 
@@ -2098,6 +2134,10 @@
  * **هنوز** :: yet (adverb)
  * هنوز نرفته است. 
  * She hasn't gone yet. 
+----------
+ * **هزار** :: thousand (determiner)
+ * برای انجام دادن این یک هزار دلیل وجود دارد. 
+ * There are a thousand reasons to do it. 
 ----------
  * **کلید** :: key (noun)
  * باز کلیدم را گم کرده ام. 
@@ -2107,6 +2147,10 @@
  * آن لباس های چرک را بکشید. 
  * Take those dirty clothes off! 
 ----------
+ * **عرق** :: sweat (noun)
+ * بعد از دویدن درعرق تر هستم. 
+ * I am soaked in sweat after running. 
+----------
  * **خطر** :: danger (noun)
  * حیواناتی هستند که در خطر نابودی هستند. 
  * These are animals in danger of extinction. 
@@ -2114,6 +2158,10 @@
  * **شعله** :: flame (noun)
  * نگاه شما مثل شعله میسوزد. 
  * Your gaze burns like flames. 
+----------
+ * **فصل** :: chapter (noun)
+ * این فصل بسیار جالب است. 
+ * This chapter is very interesting. 
 ----------
  * **لازم داشتن** :: to require (verb)
  * بعضی روزها به قهوه بیشتر لازم است. 
@@ -2123,6 +2171,10 @@
  * او سرش را در دیوار زد. 
  * He hit his head against the wall. 
 ----------
+ * **تلخ** :: bitter (adjective)
+ * من قهوه ای تلخ را خوش ندارم. من قهوه را با کمی بوره ترجیح میدهم. 
+ * I don't like bitter coffee, I prefer it with a bit of sugar. 
+----------
  * **پختن** :: to cook (verb)
  * من پختن با استفاده ازشراب را خوش دارم. 
  * I love to cook with wine. 
@@ -2130,6 +2182,10 @@
  * **روشنی** :: light (noun)
  * در روشنی روز چیز ها را مختلف خواهیم دید. 
  * We'll see things differently in the cold light of day. 
+----------
+ * **گذشتن از** :: to dispense with (expression)
+ * بیایید از جزیات اضافی بگذریم. 
+ * Let's dispense with the unnecessary details. 
 ----------
  * **سنگین** :: heavy (adjective)
  * بکس من آنقدر سنگین است که نمیتوانم انتقالش بدهم. 
@@ -2139,6 +2195,10 @@
  * پیشنهادی برایش میکنم که او رد کره نتواند. 
  * I'm going to make him an offer he can't refuse. 
 ----------
+ * **توش** :: marker (noun)
+ * من توش نارنجی را میخواهم. 
+ * I want the orange marker. 
+----------
  * **کسی** :: somebody (noun)
  * آیا کسی برایم گفته میتواند که چی وقت به ایستگاه خواهیم رسید؟ 
  * Can someone tell me when we will arrive at the station? 
@@ -2146,6 +2206,10 @@
  * **پایان** :: end (noun)
  * این سخنان به کشمکش سه ساله پایان بخشید. 
  * These words brought three years of conflict to an end. 
+----------
+ * **سطل** :: bucket (noun)
+ * سطل کجا است؟ 
+ * Where is the bucket? 
 ----------
  * **بدون** :: without (preposition)
  * من باید موتر را برانم بناءً من بیر بدون الکول مینوشم. 
@@ -2155,6 +2219,10 @@
  * چی وقت ازدواج میکنید؟ 
  * When are you getting married? 
 ----------
+ * **سگ** :: dog (noun)
+ * ما سگ را نمی بوسیم. 
+ * We don't kiss dogs. 
+----------
  * **نشان دادن** :: to show (verb)
  * برایتان نشان میدهم که کجا واقع شد. 
  * I'll show you where it happened. 
@@ -2162,6 +2230,10 @@
  * **دوست داشتن** :: love (noun)
  * دوستت دارم. 
  * I love you. 
+----------
+ * **ولی** :: saint (noun)
+ * من ولی نیستم. 
+ * I'm not a saint. 
 ----------
  * **جت** :: gypsy (noun)
  * اسمیرالدا در "کُپ نوتریدام" یک جت بود. 
@@ -2171,6 +2243,10 @@
  * از سقف تارهای عنکبوت آویزان هستند. 
  * There are cobwebs hanging from the ceiling. 
 ----------
+ * **نا آشنا** :: unknown (adjective)
+ * این آدرس برای من نا آشنا است. 
+ * This address is unknown to me. 
+----------
  * **گناه** :: fault (noun)
  * این گناه من نیست. 
  * It is not my fault. 
@@ -2178,6 +2254,10 @@
  * **رطوبت** :: humidity (noun)
  * گرمی نیست، این رطوبت است. 
  * It's not the heat, it's the humidity. 
+----------
+ * **حمایت** :: support (noun)
+ * از حمایت تان تشکر. 
+ * Thanks for your support. 
 ----------
  * **دوزخ** :: Hell (noun)
  * آیا فکر میکنید که دوزخ یک جای بد خواهد بود؟ 
@@ -2187,6 +2267,10 @@
  * سینه ام درد میکند. 
  * My chest hurts. 
 ----------
+ * **پارچه** :: piece (noun)
+ * یک پارچه کاغذ میخواهم. 
+ * I want a piece of paper. 
+----------
  * **برج** :: tower (noun)
  * دوشیزه شهسوار را از برج دید. 
  * The maiden could see her knight from the tower. 
@@ -2194,6 +2278,10 @@
  * **دروغگو** :: liar (adjective)
  * او چی یک دروغگویی است. 
  * He's such a liar! 
+----------
+ * **در اول** :: at first (expression)
+ * در اول من نمیدانستم چی بگویم. 
+ * At first I didn't know what to say. 
 ----------
  * **کار** :: work (noun)
  * کار من اینجا تمام است. 
@@ -2203,6 +2291,10 @@
  * شما هیچ چیز را از دست نمیدهید. 
  * You have nothing to lose. 
 ----------
+ * **کمبود** :: shortage (noun)
+ * در اروپا کمبود خانه است. 
+ * In Europe, there is a housing shortage. 
+----------
  * **هرگز** :: never (adverb)
  * هرگز ترا نمیگذارم بروی. 
  * I will never let you go. 
@@ -2210,6 +2302,10 @@
  * **اینجا** :: here (adverb)
  * اینجا بسیار گرم است. 
  * It's very hot in here. 
+----------
+ * **در آخر** :: in the end (expression)
+ * در آخر من باید اعتراف میکردم که او راست میگفت. 
+ * In the end I had to admit that he was right. 
 ----------
  * **تبسم** :: smile (noun)
  * تبسم بهترین طریقه تشکر گفتن است. 
@@ -2219,6 +2315,10 @@
  * اینجا یک کلیسا و یک آبشار است. 
  * Here there is a church and a waterfall. 
 ----------
+ * **خجالتی** :: shy (adjective)
+ * او بسیار خجالتی است. 
+ * He is very shy. 
+----------
  * **دروازه** :: door (noun)
  * لطفاً دروازه را بسته کنید، بیرون هوا سرد است. 
  * Close the door please, it's cold outside. 
@@ -2226,6 +2326,10 @@
  * **درخت** :: tree (noun)
  * این درخت ها به آب ضرورت دارند. 
  * These trees need water. 
+----------
+ * **گل** :: flower (noun)
+ * او برایم یک دسته گل تقدیم کرد. 
+ * He offered me a bunch of flowers. 
 ----------
  * **انتقام گرفتن** :: to get revenge (verb)
  * قربانی از متخلف انتقام گرفت. 
@@ -2235,6 +2339,10 @@
  * کافیست! 
  * Enough already! 
 ----------
+ * **هنوز** :: yet (adverb)
+ * هنوز نرفته است. 
+ * She hasn't gone yet. 
+----------
  * **نا امیدی** :: disappointment (noun)
  * من بعد از شکست نا امیدی ام را پنهان کرده نمیتوانستم. 
  * I couldn't hide my disappointment after the defeat. 
@@ -2242,6 +2350,10 @@
  * **کلید** :: key (noun)
  * باز کلیدم را گم کرده ام. 
  * I have lost my key again. 
+----------
+ * **لباس** :: clothing (noun)
+ * آن لباس های چرک را بکشید. 
+ * Take those dirty clothes off! 
 ----------
  * **به زمین نشستن** :: to land (verb)
  * در وقت به زمین نشتن طیاره باید در چوکی های خود باشیم. 
@@ -2251,6 +2363,10 @@
  * حیواناتی هستند که در خطر نابودی هستند. 
  * These are animals in danger of extinction. 
 ----------
+ * **شعله** :: flame (noun)
+ * نگاه شما مثل شعله میسوزد. 
+ * Your gaze burns like flames. 
+----------
  * **حادثه بد** :: mishap (noun)
  * ما بدون کدام حادثۀ بد رسیدیم. 
  * We arrived without any mishap. 
@@ -2258,6 +2374,10 @@
  * **لازم داشتن** :: to require (verb)
  * بعضی روزها به قهوه بیشتر لازم است. 
  * Some days require more coffee than others. 
+----------
+ * **در** :: against (preposition)
+ * او سرش را در دیوار زد. 
+ * He hit his head against the wall. 
 ----------
  * **سوزش معده** :: heartburn (noun)
  * جگرخونی سبب سوزش معده میشود. 
@@ -2267,6 +2387,10 @@
  * من پختن با استفاده ازشراب را خوش دارم. 
  * I love to cook with wine. 
 ----------
+ * **روشنی** :: light (noun)
+ * در روشنی روز چیز ها را مختلف خواهیم دید. 
+ * We'll see things differently in the cold light of day. 
+----------
  * **در کمود آب رها کردن** :: to flush the toilet (expression)
  * در کمود آب رها کردن را فراموش نکنید. 
  * Don't forget to flush the toilet. 
@@ -2274,6 +2398,10 @@
  * **سنگین** :: heavy (adjective)
  * بکس من آنقدر سنگین است که نمیتوانم انتقالش بدهم. 
  * My suitcase is so heavy I can´t carry it. 
+----------
+ * **پیشنهاد** :: offer (noun)
+ * پیشنهادی برایش میکنم که او رد کره نتواند. 
+ * I'm going to make him an offer he can't refuse. 
 ----------
  * **فریب کاری کردن** :: to rig (verb)
  * در نتایج انتخابات فریب کاری صورت گرفته بود. 
@@ -2283,6 +2411,10 @@
  * آیا کسی برایم گفته میتواند که چی وقت به ایستگاه خواهیم رسید؟ 
  * Can someone tell me when we will arrive at the station? 
 ----------
+ * **پایان** :: end (noun)
+ * این سخنان به کشمکش سه ساله پایان بخشید. 
+ * These words brought three years of conflict to an end. 
+----------
  * **سرقت** :: robbery (noun)
  * پولیس به صحنه ای سرقت نا وقت رسید. 
  * The police arrived late at the robbery scene. 
@@ -2290,6 +2422,10 @@
  * **بدون** :: without (preposition)
  * من باید موتر را برانم بناءً من بیر بدون الکول مینوشم. 
  * I have to drive, so I'll have an alcohol-free beer. 
+----------
+ * **ازدواج کردن** :: to marry, get married (verb)
+ * چی وقت ازدواج میکنید؟ 
+ * When are you getting married? 
 ----------
  * **پرنتر** :: printer (noun)
  * پرنتر کار نمیکند. 
@@ -2299,6 +2435,10 @@
  * برایتان نشان میدهم که کجا واقع شد. 
  * I'll show you where it happened. 
 ----------
+ * **دوست داشتن** :: love (noun)
+ * دوستت دارم. 
+ * I love you. 
+----------
  * **شعبده باز** :: juggler (noun)
  * حاضرین به شعبده باز چک چک کردند. 
  * The audience applauded the juggler. 
@@ -2306,6 +2446,10 @@
  * **جت** :: gypsy (noun)
  * اسمیرالدا در "کُپ نوتریدام" یک جت بود. 
  * Esmeralda in "The Hunchback of Notre Dame" was a gypsy. 
+----------
+ * **اویزان بودن** :: to hang (verb)
+ * از سقف تارهای عنکبوت آویزان هستند. 
+ * There are cobwebs hanging from the ceiling. 
 ----------
  * **فاش کردن** :: to reveal (verb)
  * پرونده یک بدنامی را فاش کرد. 
@@ -2315,6 +2459,10 @@
  * این گناه من نیست. 
  * It is not my fault. 
 ----------
+ * **رطوبت** :: humidity (noun)
+ * گرمی نیست، این رطوبت است. 
+ * It's not the heat, it's the humidity. 
+----------
  * **شاهراه** :: highway (noun)
  * بعضی میگویند که زندگی یک شاهراه است. 
  * Some say that life is a highway. 
@@ -2322,6 +2470,10 @@
  * **دوزخ** :: Hell (noun)
  * آیا فکر میکنید که دوزخ یک جای بد خواهد بود؟ 
  * Do you think that Hell will be such a bad place? 
+----------
+ * **سینه** :: chest (noun)
+ * سینه ام درد میکند. 
+ * My chest hurts. 
 ----------
  * **حبس ابد** :: life imprisonment (expression)
  * مجرم به حبس ابد محکوم شد. 
@@ -2331,6 +2483,10 @@
  * دوشیزه شهسوار را از برج دید. 
  * The maiden could see her knight from the tower. 
 ----------
+ * **دروغگو** :: liar (adjective)
+ * او چی یک دروغگویی است. 
+ * He's such a liar! 
+----------
  * **فاژه کشیدن** :: to yawn (verb)
  * بعد از نان چاشت فاژه کشیدن را بس کرده نمیتوانم. 
  * After lunch, I can't stop yawning. 
@@ -2338,6 +2494,10 @@
  * **کار** :: work (noun)
  * کار من اینجا تمام است. 
  * My work here is done. 
+----------
+ * **از دست دادن** :: to lose (verb)
+ * شما هیچ چیز را از دست نمیدهید. 
+ * You have nothing to lose. 
 ----------
  * **احمق** :: fool (noun)
  * این احمق را ببین، روزنامه میخواند مگر روزنامه را سرچپه گرفته است. 
@@ -2347,6 +2507,10 @@
  * هرگز ترا نمیگذارم بروی. 
  * I will never let you go. 
 ----------
+ * **اینجا** :: here (adverb)
+ * اینجا بسیار گرم است. 
+ * It's very hot in here. 
+----------
  * **خرسک** :: teddy bear (noun)
  * آوردن خرسک به مکتب ممنوع است. 
  * Bringing teddy bears to school is not allowed. 
@@ -2354,6 +2518,10 @@
  * **تبسم** :: smile (noun)
  * تبسم بهترین طریقه تشکر گفتن است. 
  * A smile is the best way to say "thank you". 
+----------
+ * **آبشار** :: waterfall (noun)
+ * اینجا یک کلیسا و یک آبشار است. 
+ * Here there is a church and a waterfall. 
 ----------
  * **ستایش** :: praise (noun)
  * کار های او قابل ستایش بود. 
@@ -2363,6 +2531,10 @@
  * لطفاً دروازه را بسته کنید، بیرون هوا سرد است. 
  * Close the door please, it's cold outside. 
 ----------
+ * **درخت** :: tree (noun)
+ * این درخت ها به آب ضرورت دارند. 
+ * These trees need water. 
+----------
  * **قلب** :: heart (noun)
  * قلبم ایستاد شد. 
  * My heart skipped a beat. 
@@ -2370,6 +2542,10 @@
  * **انتقام گرفتن** :: to get revenge (verb)
  * قربانی از متخلف انتقام گرفت. 
  * The victim got revenge on the wrongdoer. 
+----------
+ * **کافی** :: enough (expression)
+ * کافیست! 
+ * Enough already! 
 ----------
  * **مردم** :: people (noun)
  * با این مردم کار کرده نمیتوانم! 
@@ -2379,6 +2555,10 @@
  * من بعد از شکست نا امیدی ام را پنهان کرده نمیتوانستم. 
  * I couldn't hide my disappointment after the defeat. 
 ----------
+ * **کلید** :: key (noun)
+ * باز کلیدم را گم کرده ام. 
+ * I have lost my key again. 
+----------
  * **هیجانی شدن** :: to freak out (expression)
  * آرام باش بسیار هیجانی نشو. 
  * Calm down and don't freak out. 
@@ -2386,6 +2566,10 @@
  * **به زمین نشستن** :: to land (verb)
  * در وقت به زمین نشتن طیاره باید در چوکی های خود باشیم. 
  * One should remain seated when the plane lands. 
+----------
+ * **خطر** :: danger (noun)
+ * حیواناتی هستند که در خطر نابودی هستند. 
+ * These are animals in danger of extinction. 
 ----------
  * **تاریخ انقضا** :: expiration date (noun)
  * تاریخ انقضا این کجا است؟ 
@@ -2395,6 +2579,10 @@
  * ما بدون کدام حادثۀ بد رسیدیم. 
  * We arrived without any mishap. 
 ----------
+ * **لازم داشتن** :: to require (verb)
+ * بعضی روزها به قهوه بیشتر لازم است. 
+ * Some days require more coffee than others. 
+----------
  * **خوراک مختصر** :: snack (noun)
  * در جریان وقفه خوراک های مختصر صرف گردید. 
  * During the break, snacks were served. 
@@ -2402,6 +2590,10 @@
  * **سوزش معده** :: heartburn (noun)
  * جگرخونی سبب سوزش معده میشود. 
  * Anxiety can bring about heartburn. 
+----------
+ * **پختن** :: to cook (verb)
+ * من پختن با استفاده ازشراب را خوش دارم. 
+ * I love to cook with wine. 
 ----------
  * **پرستار طفل** :: nanny (noun)
  * به پرستار طفل ظرورت داریم. 
@@ -2411,6 +2603,10 @@
  * در کمود آب رها کردن را فراموش نکنید. 
  * Don't forget to flush the toilet. 
 ----------
+ * **سنگین** :: heavy (adjective)
+ * بکس من آنقدر سنگین است که نمیتوانم انتقالش بدهم. 
+ * My suitcase is so heavy I can´t carry it. 
+----------
  * **از اول تا آخر** :: from beginning to end (expression)
  * بخاطر فهمیدن تمام اش، من باید از اول تا آخر میخواندم اش. 
  * To understand it all, I had to read it from the beginning to the end. 
@@ -2418,6 +2614,10 @@
  * **فریب کاری کردن** :: to rig (verb)
  * در نتایج انتخابات فریب کاری صورت گرفته بود. 
  * The election results were rigged. 
+----------
+ * **کسی** :: somebody (noun)
+ * آیا کسی برایم گفته میتواند که چی وقت به ایستگاه خواهیم رسید؟ 
+ * Can someone tell me when we will arrive at the station? 
 ----------
  * **از صفر شروع کردن** :: to start from scratch (expression)
  * جدا شدن مثل از صفر شروع کردن است. 
@@ -2427,6 +2627,10 @@
  * پولیس به صحنه ای سرقت نا وقت رسید. 
  * The police arrived late at the robbery scene. 
 ----------
+ * **بدون** :: without (preposition)
+ * من باید موتر را برانم بناءً من بیر بدون الکول مینوشم. 
+ * I have to drive, so I'll have an alcohol-free beer. 
+----------
  * **ساحره** :: harpy, hag (noun)
  * مادر کلانش یک ساحره پیر است. 
  * Her grandma is an old hag. She is so mean. 
@@ -2434,6 +2638,10 @@
  * **پرنتر** :: printer (noun)
  * پرنتر کار نمیکند. 
  * The printer is out of order. 
+----------
+ * **نشان دادن** :: to show (verb)
+ * برایتان نشان میدهم که کجا واقع شد. 
+ * I'll show you where it happened. 
 ----------
  * **فال بین** :: fortune teller (noun)
  * فال بین موفقیت شما را پیش بینی کرد. 
@@ -2443,6 +2651,10 @@
  * حاضرین به شعبده باز چک چک کردند. 
  * The audience applauded the juggler. 
 ----------
+ * **جت** :: gypsy (noun)
+ * اسمیرالدا در "کُپ نوتریدام" یک جت بود. 
+ * Esmeralda in "The Hunchback of Notre Dame" was a gypsy. 
+----------
  * **گوشت کوفته** :: ground meat (expression)
  * من نیم کیلو گوشت کوفته کار دارم. 
  * I need half a kilo of ground meat. 
@@ -2450,6 +2662,10 @@
  * **فاش کردن** :: to reveal (verb)
  * پرونده یک بدنامی را فاش کرد. 
  * The file revealed a scandal. 
+----------
+ * **گناه** :: fault (noun)
+ * این گناه من نیست. 
+ * It is not my fault. 
 ----------
  * **بد خلق بودن** :: to be in a bad mood (expression)
  * همرایش گپ نزنید. او امروز بد خلق است. 
@@ -2459,6 +2675,10 @@
  * بعضی میگویند که زندگی یک شاهراه است. 
  * Some say that life is a highway. 
 ----------
+ * **دوزخ** :: Hell (noun)
+ * آیا فکر میکنید که دوزخ یک جای بد خواهد بود؟ 
+ * Do you think that Hell will be such a bad place? 
+----------
  * **کمی** :: a little bit (noun)
  * کمی نمک مزه اش را خوبتر خواهد کرد. 
  * A little bit of salt will make it taste good. 
@@ -2466,6 +2686,10 @@
  * **حبس ابد** :: life imprisonment (expression)
  * مجرم به حبس ابد محکوم شد. 
  * The criminal was sentenced to life imprisonment. 
+----------
+ * **برج** :: tower (noun)
+ * دوشیزه شهسوار را از برج دید. 
+ * The maiden could see her knight from the tower. 
 ----------
  * **مداخله گر** :: meddler (noun)
  * من همسایه ام را خوش ندارم. او آدم مداخله گر است. 
@@ -2475,6 +2699,10 @@
  * بعد از نان چاشت فاژه کشیدن را بس کرده نمیتوانم. 
  * After lunch, I can't stop yawning. 
 ----------
+ * **کار** :: work (noun)
+ * کار من اینجا تمام است. 
+ * My work here is done. 
+----------
  * **بازنده** :: loser (noun)
  * با آنها یکجا نشوید، آنها بازنده ها هستند. 
  * Don't associate with them. They are losers. 
@@ -2482,6 +2710,10 @@
  * **احمق** :: fool (noun)
  * این احمق را ببین، روزنامه میخواند مگر روزنامه را سرچپه گرفته است. 
  * Check this fool out. He's reading the paper but it's upside down. 
+----------
+ * **هرگز** :: never (adverb)
+ * هرگز ترا نمیگذارم بروی. 
+ * I will never let you go. 
 ----------
  * **با وجود** :: in spite of (conjunction)
  * با وجود مشکل نمایش باید بیش برود. 
@@ -2491,6 +2723,10 @@
  * آوردن خرسک به مکتب ممنوع است. 
  * Bringing teddy bears to school is not allowed. 
 ----------
+ * **تبسم** :: smile (noun)
+ * تبسم بهترین طریقه تشکر گفتن است. 
+ * A smile is the best way to say "thank you". 
+----------
  * **تعقیب کردن** :: to follow (verb)
  * من @wilw را در تویتر تعقیب میکنم. کی نمیکند؟ 
  * I follow @wilw on Twitter. Who doesn't? 
@@ -2498,6 +2734,10 @@
  * **ستایش** :: praise (noun)
  * کار های او قابل ستایش بود. 
  * Her deeds were praiseworthy. 
+----------
+ * **دروازه** :: door (noun)
+ * لطفاً دروازه را بسته کنید، بیرون هوا سرد است. 
+ * Close the door please, it's cold outside. 
 ----------
  * **شوخی میکنی؟** :: Are you kidding? (expression)
  * باورم نمیاید. شوخی میکنی؟ 
@@ -2507,6 +2747,10 @@
  * قلبم ایستاد شد. 
  * My heart skipped a beat. 
 ----------
+ * **انتقام گرفتن** :: to get revenge (verb)
+ * قربانی از متخلف انتقام گرفت. 
+ * The victim got revenge on the wrongdoer. 
+----------
  * **گاهگاهی** :: from time to time (expression)
  * گاهگاهی به ساحل میروم. 
  * I go to the beach from time to time. 
@@ -2514,6 +2758,10 @@
  * **مردم** :: people (noun)
  * با این مردم کار کرده نمیتوانم! 
  * I can't work with these people! 
+----------
+ * **نا امیدی** :: disappointment (noun)
+ * من بعد از شکست نا امیدی ام را پنهان کرده نمیتوانستم. 
+ * I couldn't hide my disappointment after the defeat. 
 ----------
  * **سرپناه** :: shelter (noun)
  * سرپناه یکی از سه ضروریات اساسی است. 
@@ -2523,6 +2771,10 @@
  * آرام باش بسیار هیجانی نشو. 
  * Calm down and don't freak out. 
 ----------
+ * **به زمین نشستن** :: to land (verb)
+ * در وقت به زمین نشتن طیاره باید در چوکی های خود باشیم. 
+ * One should remain seated when the plane lands. 
+----------
  * **قیام** :: uprising (noun)
  * قیام سبب تغییرات اجتماعی ضروری شد. 
  * The uprising brought about the needed social changes. 
@@ -2530,6 +2782,10 @@
  * **تاریخ انقضا** :: expiration date (noun)
  * تاریخ انقضا این کجا است؟ 
  * Where is its expiration date? 
+----------
+ * **حادثه بد** :: mishap (noun)
+ * ما بدون کدام حادثۀ بد رسیدیم. 
+ * We arrived without any mishap. 
 ----------
  * **سرنوکری بودن** :: to be on duty (expression)
  * در این هفته رفته نمیتوانم، من سر نوکری هستم. 
@@ -2539,6 +2795,10 @@
  * در جریان وقفه خوراک های مختصر صرف گردید. 
  * During the break, snacks were served. 
 ----------
+ * **سوزش معده** :: heartburn (noun)
+ * جگرخونی سبب سوزش معده میشود. 
+ * Anxiety can bring about heartburn. 
+----------
  * **عدم** :: lack (noun)
  * عدم هذینه بستن فابریکه را سرعت بخشید. 
  * The lack of funds hastened the closure of the factory. 
@@ -2546,6 +2806,10 @@
  * **پرستار طفل** :: nanny (noun)
  * به پرستار طفل ظرورت داریم. 
  * Wanted: nanny for 2 kids. 
+----------
+ * **در کمود آب رها کردن** :: to flush the toilet (expression)
+ * در کمود آب رها کردن را فراموش نکنید. 
+ * Don't forget to flush the toilet. 
 ----------
  * **ترساندن** :: to frighten (verb)
  * انفجار مردم را ترساند. 
@@ -2555,6 +2819,10 @@
  * بخاطر فهمیدن تمام اش، من باید از اول تا آخر میخواندم اش. 
  * To understand it all, I had to read it from the beginning to the end. 
 ----------
+ * **فریب کاری کردن** :: to rig (verb)
+ * در نتایج انتخابات فریب کاری صورت گرفته بود. 
+ * The election results were rigged. 
+----------
  * **پوست سر** :: scalp (noun)
  * پوست سر آدم کل معلوم میشود. 
  * The scalp of the bald man is visible. 
@@ -2562,6 +2830,10 @@
  * **از صفر شروع کردن** :: to start from scratch (expression)
  * جدا شدن مثل از صفر شروع کردن است. 
  * Moving out is like starting from scratch. 
+----------
+ * **سرقت** :: robbery (noun)
+ * پولیس به صحنه ای سرقت نا وقت رسید. 
+ * The police arrived late at the robbery scene. 
 ----------
  * **خود را از شرخلاص کردن** :: to get rid of somebody (expression)
  * سیاستمدار خود را از شر رقیبش خلاص کرد. 
@@ -2571,6 +2843,10 @@
  * مادر کلانش یک ساحره پیر است. 
  * Her grandma is an old hag. She is so mean. 
 ----------
+ * **پرنتر** :: printer (noun)
+ * پرنتر کار نمیکند. 
+ * The printer is out of order. 
+----------
  * **مسخره آمیز** :: ridiculous (adjective)
  * جواب هایش مسخره آمیز بود. 
  * Her replies were ridiculous. 
@@ -2578,6 +2854,10 @@
  * **فال بین** :: fortune teller (noun)
  * فال بین موفقیت شما را پیش بینی کرد. 
  * The fortune teller predicted your success. 
+----------
+ * **شعبده باز** :: juggler (noun)
+ * حاضرین به شعبده باز چک چک کردند. 
+ * The audience applauded the juggler. 
 ----------
  * **باقی اش بخشش باشد** :: to keep the change (expression)
  * باقی اش برایت بخشش باشد دوستم. 
@@ -2587,6 +2867,10 @@
  * من نیم کیلو گوشت کوفته کار دارم. 
  * I need half a kilo of ground meat. 
 ----------
+ * **فاش کردن** :: to reveal (verb)
+ * پرونده یک بدنامی را فاش کرد. 
+ * The file revealed a scandal. 
+----------
  * **روی هم افتاده** :: overlapping (adjective)
  * کار های روی هم افتاده سبب کشمکش ها میشوند. 
  * Sometimes conflicts arise from overlapping functions. 
@@ -2594,6 +2878,10 @@
  * **بد خلق بودن** :: to be in a bad mood (expression)
  * همرایش گپ نزنید. او امروز بد خلق است. 
  * Don't talk to him. He is in a bad mood. 
+----------
+ * **شاهراه** :: highway (noun)
+ * بعضی میگویند که زندگی یک شاهراه است. 
+ * Some say that life is a highway. 
 ----------
  * **بکس** :: box (noun)
  * در بکس بپالید. 
@@ -2603,6 +2891,10 @@
  * کمی نمک مزه اش را خوبتر خواهد کرد. 
  * A little bit of salt will make it taste good. 
 ----------
+ * **حبس ابد** :: life imprisonment (expression)
+ * مجرم به حبس ابد محکوم شد. 
+ * The criminal was sentenced to life imprisonment. 
+----------
  * **مهمانان** :: guests (noun)
  * مهمانان عروسی ما دارند میرسند. 
  * Our wedding guests are starting to arrive! 
@@ -2610,6 +2902,10 @@
  * **مداخله گر** :: meddler (noun)
  * من همسایه ام را خوش ندارم. او آدم مداخله گر است. 
  * I don't like my neighbor. She's a meddler. 
+----------
+ * **فاژه کشیدن** :: to yawn (verb)
+ * بعد از نان چاشت فاژه کشیدن را بس کرده نمیتوانم. 
+ * After lunch, I can't stop yawning. 
 ----------
  * **مواظب بودن** :: to be careful (expression)
  * باید مواظب باشید تا در آفتاب بسیار زیاد نمانید. 
@@ -2619,6 +2915,10 @@
  * با آنها یکجا نشوید، آنها بازنده ها هستند. 
  * Don't associate with them. They are losers. 
 ----------
+ * **احمق** :: fool (noun)
+ * این احمق را ببین، روزنامه میخواند مگر روزنامه را سرچپه گرفته است. 
+ * Check this fool out. He's reading the paper but it's upside down. 
+----------
  * **پروفایل** :: profile (noun)
  * پروفایل فیس بوک مرا ببینید. 
  * Visit my Facebook profile. 
@@ -2626,6 +2926,10 @@
  * **با وجود** :: in spite of (conjunction)
  * با وجود مشکل نمایش باید بیش برود. 
  * In spite of the problem, the show must go on. 
+----------
+ * **خرسک** :: teddy bear (noun)
+ * آوردن خرسک به مکتب ممنوع است. 
+ * Bringing teddy bears to school is not allowed. 
 ----------
  * **دماغ** :: mind (noun)
  * او دماغ تحلیلی دارد. 
@@ -2635,6 +2939,10 @@
  * من @wilw را در تویتر تعقیب میکنم. کی نمیکند؟ 
  * I follow @wilw on Twitter. Who doesn't? 
 ----------
+ * **ستایش** :: praise (noun)
+ * کار های او قابل ستایش بود. 
+ * Her deeds were praiseworthy. 
+----------
  * **گپ زدن** :: to chat (verb)
  * از گپ زدن با شما بسیار خوش شدم. 
  * It's been a pleasure to chat with you. 
@@ -2642,6 +2950,10 @@
  * **شوخی میکنی؟** :: Are you kidding? (expression)
  * باورم نمیاید. شوخی میکنی؟ 
  * I can't believe it. Are you kidding? 
+----------
+ * **قلب** :: heart (noun)
+ * قلبم ایستاد شد. 
+ * My heart skipped a beat. 
 ----------
  * **کلاه** :: top hat (noun)
  * آن اقا دستکش ها و کلاهش را کشید. 
@@ -2651,6 +2963,10 @@
  * گاهگاهی به ساحل میروم. 
  * I go to the beach from time to time. 
 ----------
+ * **مردم** :: people (noun)
+ * با این مردم کار کرده نمیتوانم! 
+ * I can't work with these people! 
+----------
  * **دوست** :: friend (noun)
  * وقتی روز بد داشته باشم، تمام دوستان فیس بوک ام را در جریان میگذارم. 
  * When I have a bad day, I make sure all my Facebook friends know! 
@@ -2658,6 +2974,10 @@
  * **سرپناه** :: shelter (noun)
  * سرپناه یکی از سه ضروریات اساسی است. 
  * Shelter is one of the three basic needs. 
+----------
+ * **هیجانی شدن** :: to freak out (expression)
+ * آرام باش بسیار هیجانی نشو. 
+ * Calm down and don't freak out. 
 ----------
  * **تحفه** :: gift (noun)
  * دیدن اطفال در وقت باز کردن تحفه های کرسمس شان بسیار جالب است. 
@@ -2667,6 +2987,10 @@
  * قیام سبب تغییرات اجتماعی ضروری شد. 
  * The uprising brought about the needed social changes. 
 ----------
+ * **تاریخ انقضا** :: expiration date (noun)
+ * تاریخ انقضا این کجا است؟ 
+ * Where is its expiration date? 
+----------
  * **لگد زدن** :: to kick (verb)
  * برای باز کردن آن دروازه باید آنرا خوب به لگد بزنید. 
  * To open that door, you need to give it a good kick. 
@@ -2674,6 +2998,10 @@
  * **سرنوکری بودن** :: to be on duty (expression)
  * در این هفته رفته نمیتوانم، من سر نوکری هستم. 
  * I can't go this weekend, I am on duty. 
+----------
+ * **خوراک مختصر** :: snack (noun)
+ * در جریان وقفه خوراک های مختصر صرف گردید. 
+ * During the break, snacks were served. 
 ----------
  * **آخرت** :: afterlife (expression)
  * در آخرت باز میبینیم. 
@@ -2683,6 +3011,10 @@
  * عدم هذینه بستن فابریکه را سرعت بخشید. 
  * The lack of funds hastened the closure of the factory. 
 ----------
+ * **پرستار طفل** :: nanny (noun)
+ * به پرستار طفل ظرورت داریم. 
+ * Wanted: nanny for 2 kids. 
+----------
  * **قلم تراش** :: pencil sharpener (noun)
  * آیا قلم تراش تان را برایم امانت داده میتوانید؟ 
  * Can you lend me your pencil sharpener? 
@@ -2690,6 +3022,10 @@
  * **ترساندن** :: to frighten (verb)
  * انفجار مردم را ترساند. 
  * The explosion frightened the people away. 
+----------
+ * **از اول تا آخر** :: from beginning to end (expression)
+ * بخاطر فهمیدن تمام اش، من باید از اول تا آخر میخواندم اش. 
+ * To understand it all, I had to read it from the beginning to the end. 
 ----------
  * **حقوق بشر** :: human rights (noun)
  * ما باید برای حقوق بشر مبارزه را ادامه بدهیم. 
@@ -2699,6 +3035,10 @@
  * پوست سر آدم کل معلوم میشود. 
  * The scalp of the bald man is visible. 
 ----------
+ * **از صفر شروع کردن** :: to start from scratch (expression)
+ * جدا شدن مثل از صفر شروع کردن است. 
+ * Moving out is like starting from scratch. 
+----------
  * **سست کردن** :: to loosen (verb)
  * او نشست و نیکتایی اش را سست کرد. 
  * He sat down and loosened his tie. 
@@ -2706,6 +3046,10 @@
  * **خود را از شرخلاص کردن** :: to get rid of somebody (expression)
  * سیاستمدار خود را از شر رقیبش خلاص کرد. 
  * The politician got rid of his rival. 
+----------
+ * **ساحره** :: harpy, hag (noun)
+ * مادر کلانش یک ساحره پیر است. 
+ * Her grandma is an old hag. She is so mean. 
 ----------
  * **چشم ها را بردن** :: to dazzle (verb)
  * زیبایی لورا چشم های اورا برد. 
@@ -2715,6 +3059,10 @@
  * جواب هایش مسخره آمیز بود. 
  * Her replies were ridiculous. 
 ----------
+ * **فال بین** :: fortune teller (noun)
+ * فال بین موفقیت شما را پیش بینی کرد. 
+ * The fortune teller predicted your success. 
+----------
  * **در کباب کن** :: on the grill (expression)
  * ماهی را در کباب کن خوش دارم. 
  * I like fish on the grill. 
@@ -2722,6 +3070,10 @@
  * **باقی اش بخشش باشد** :: to keep the change (expression)
  * باقی اش برایت بخشش باشد دوستم. 
  * Keep the change, friend. 
+----------
+ * **گوشت کوفته** :: ground meat (expression)
+ * من نیم کیلو گوشت کوفته کار دارم. 
+ * I need half a kilo of ground meat. 
 ----------
  * **باتلاق** :: swamp (noun)
  * آیا شریک در باتلاق زنده گی میکرد یا در قصر؟ 
@@ -2731,6 +3083,10 @@
  * کار های روی هم افتاده سبب کشمکش ها میشوند. 
  * Sometimes conflicts arise from overlapping functions. 
 ----------
+ * **بد خلق بودن** :: to be in a bad mood (expression)
+ * همرایش گپ نزنید. او امروز بد خلق است. 
+ * Don't talk to him. He is in a bad mood. 
+----------
  * **طفولیت** :: childhood (noun)
  * طفولیت تانرا چطور سپری کردید؟ 
  * How did you spend your childhood? 
@@ -2738,6 +3094,10 @@
  * **بکس** :: box (noun)
  * در بکس بپالید. 
  * Search in the toolbox. 
+----------
+ * **کمی** :: a little bit (noun)
+ * کمی نمک مزه اش را خوبتر خواهد کرد. 
+ * A little bit of salt will make it taste good. 
 ----------
  * **در فکر رفتن** :: to be lost in thought (verb)
  * چی گفتید؟ ببخشید من در فکر رفته بودم. 
@@ -2747,6 +3107,10 @@
  * مهمانان عروسی ما دارند میرسند. 
  * Our wedding guests are starting to arrive! 
 ----------
+ * **مداخله گر** :: meddler (noun)
+ * من همسایه ام را خوش ندارم. او آدم مداخله گر است. 
+ * I don't like my neighbor. She's a meddler. 
+----------
  * **چانس** :: chance (noun)
  * آینده ام را به چانس نخواهم گذاشت. 
  * I will not leave my future up to chance. 
@@ -2754,6 +3118,10 @@
  * **مواظب بودن** :: to be careful (expression)
  * باید مواظب باشید تا در آفتاب بسیار زیاد نمانید. 
  * You should be careful not to sunbathe too much. 
+----------
+ * **بازنده** :: loser (noun)
+ * با آنها یکجا نشوید، آنها بازنده ها هستند. 
+ * Don't associate with them. They are losers. 
 ----------
  * **بسیار خوش داشتن** :: to be crazy about (verb)
  * من این آهنگ را بسیار خوش دارم. 
@@ -2763,6 +3131,10 @@
  * پروفایل فیس بوک مرا ببینید. 
  * Visit my Facebook profile. 
 ----------
+ * **با وجود** :: in spite of (conjunction)
+ * با وجود مشکل نمایش باید بیش برود. 
+ * In spite of the problem, the show must go on. 
+----------
  * **ایستاد کردن** :: to stand somebody up (verb)
  * شما مرا ایستاد کردید. 
  * You stood me up! 
@@ -2770,6 +3142,10 @@
  * **دماغ** :: mind (noun)
  * او دماغ تحلیلی دارد. 
  * He's got an analytical mind. 
+----------
+ * **تعقیب کردن** :: to follow (verb)
+ * من @wilw را در تویتر تعقیب میکنم. کی نمیکند؟ 
+ * I follow @wilw on Twitter. Who doesn't? 
 ----------
  * **حقیقت** :: truth (noun)
  * حقیقت آنجا وجود دارد. 
@@ -2779,6 +3155,10 @@
  * از گپ زدن با شما بسیار خوش شدم. 
  * It's been a pleasure to chat with you. 
 ----------
+ * **شوخی میکنی؟** :: Are you kidding? (expression)
+ * باورم نمیاید. شوخی میکنی؟ 
+ * I can't believe it. Are you kidding? 
+----------
  * **احساسات** :: feeling (noun)
  * ما باید در باره احساسات خود صحبت کنیم. 
  * We need to talk about our feelings. 
@@ -2786,6 +3166,10 @@
  * **کلاه** :: top hat (noun)
  * آن اقا دستکش ها و کلاهش را کشید. 
  * The gentleman took off his gloves and hat. 
+----------
+ * **گاهگاهی** :: from time to time (expression)
+ * گاهگاهی به ساحل میروم. 
+ * I go to the beach from time to time. 
 ----------
  * **خوب معلوم شدن** :: to look good (expression)
  * این غذا خوب معلوم میشود. 
@@ -2795,6 +3179,10 @@
  * وقتی روز بد داشته باشم، تمام دوستان فیس بوک ام را در جریان میگذارم. 
  * When I have a bad day, I make sure all my Facebook friends know! 
 ----------
+ * **سرپناه** :: shelter (noun)
+ * سرپناه یکی از سه ضروریات اساسی است. 
+ * Shelter is one of the three basic needs. 
+----------
  * **سگ را پشت کسی رها کردن** :: to set the dogs (on someone) (expression)
  * از حویلی من بیرون شوید و گر نه من سگ را پشت تان رها میکنم! 
  * Get out of my yard or I´ll set the dogs on you! 
@@ -2802,6 +3190,10 @@
  * **تحفه** :: gift (noun)
  * دیدن اطفال در وقت باز کردن تحفه های کرسمس شان بسیار جالب است. 
  * It´s so funny to see children unwrapping their Christmas gifts. 
+----------
+ * **قیام** :: uprising (noun)
+ * قیام سبب تغییرات اجتماعی ضروری شد. 
+ * The uprising brought about the needed social changes. 
 ----------
  * **مشتاق** :: passionate (adjective)
  * من مشتاق عکاسی هستم. 
@@ -2811,6 +3203,10 @@
  * برای باز کردن آن دروازه باید آنرا خوب به لگد بزنید. 
  * To open that door, you need to give it a good kick. 
 ----------
+ * **سرنوکری بودن** :: to be on duty (expression)
+ * در این هفته رفته نمیتوانم، من سر نوکری هستم. 
+ * I can't go this weekend, I am on duty. 
+----------
  * **سفید** :: white (adjective)
  * من خوش ندارم لباس سفید بپوشم. 
  * I don't like to wear white clothes. 
@@ -2818,6 +3214,10 @@
  * **آخرت** :: afterlife (expression)
  * در آخرت باز میبینیم. 
  * We'll meet again in the afterlife. 
+----------
+ * **عدم** :: lack (noun)
+ * عدم هذینه بستن فابریکه را سرعت بخشید. 
+ * The lack of funds hastened the closure of the factory. 
 ----------
  * **چپلک** :: flip-flops, slippers (noun)
  * من چپلک نو دارم. 
@@ -2827,6 +3227,10 @@
  * آیا قلم تراش تان را برایم امانت داده میتوانید؟ 
  * Can you lend me your pencil sharpener? 
 ----------
+ * **ترساندن** :: to frighten (verb)
+ * انفجار مردم را ترساند. 
+ * The explosion frightened the people away. 
+----------
  * **فراشوت** :: parachute (noun)
  * اگر فراشوت باز نشود چی خواهد شد؟ 
  * What would happen if the parachute doesn't open? 
@@ -2834,6 +3238,10 @@
  * **حقوق بشر** :: human rights (noun)
  * ما باید برای حقوق بشر مبارزه را ادامه بدهیم. 
  * We have to keep on fighting for human rights. 
+----------
+ * **پوست سر** :: scalp (noun)
+ * پوست سر آدم کل معلوم میشود. 
+ * The scalp of the bald man is visible. 
 ----------
  * **چقدر مقبول!** :: How cute! (expression)
  * آیا آن بچه ای شما است؟ چقدر مقبول! 
@@ -2843,6 +3251,10 @@
  * او نشست و نیکتایی اش را سست کرد. 
  * He sat down and loosened his tie. 
 ----------
+ * **خود را از شرخلاص کردن** :: to get rid of somebody (expression)
+ * سیاستمدار خود را از شر رقیبش خلاص کرد. 
+ * The politician got rid of his rival. 
+----------
  * **چکر زدن** :: go site seeing (expression)
  * امروز چکر زدن میرویم. 
  * We will go site seeing today. 
@@ -2850,6 +3262,10 @@
  * **چشم ها را بردن** :: to dazzle (verb)
  * زیبایی لورا چشم های اورا برد. 
  * He was dazzled by Laura's beauty. 
+----------
+ * **مسخره آمیز** :: ridiculous (adjective)
+ * جواب هایش مسخره آمیز بود. 
+ * Her replies were ridiculous. 
 ----------
  * **نشه شدن** :: to get drunk (verb)
  * من دیشب نشه شدم. 
@@ -2859,6 +3275,10 @@
  * ماهی را در کباب کن خوش دارم. 
  * I like fish on the grill. 
 ----------
+ * **باقی اش بخشش باشد** :: to keep the change (expression)
+ * باقی اش برایت بخشش باشد دوستم. 
+ * Keep the change, friend. 
+----------
  * **چوچه مرغابی** :: duckling (noun)
  * چوچه مرغابی بدرنگ گریه میکند. 
  * The ugly duckling is crying. 
@@ -2866,6 +3286,10 @@
  * **باتلاق** :: swamp (noun)
  * آیا شریک در باتلاق زنده گی میکرد یا در قصر؟ 
  * Did Shrek live in a castle or in a swamp? 
+----------
+ * **روی هم افتاده** :: overlapping (adjective)
+ * کار های روی هم افتاده سبب کشمکش ها میشوند. 
+ * Sometimes conflicts arise from overlapping functions. 
 ----------
  * **چالان کردن** :: to start (verb)
  * موتر چالان نمیشود. 
@@ -2875,6 +3299,10 @@
  * طفولیت تانرا چطور سپری کردید؟ 
  * How did you spend your childhood? 
 ----------
+ * **بکس** :: box (noun)
+ * در بکس بپالید. 
+ * Search in the toolbox. 
+----------
  * **چقدر خوب!** :: How cool! (expression)
  * تولید نو اپل چقدر خوب است. 
  * How cool is Apple's new product?! 
@@ -2882,6 +3310,10 @@
  * **در فکر رفتن** :: to be lost in thought (verb)
  * چی گفتید؟ ببخشید من در فکر رفته بودم. 
  * What did you say? I'm sorry, I was lost in thought. 
+----------
+ * **مهمانان** :: guests (noun)
+ * مهمانان عروسی ما دارند میرسند. 
+ * Our wedding guests are starting to arrive! 
 ----------
  * **موی خشک کن** :: hairdryer (noun)
  * اگر از موی خشک کن استفاده نکنم مویم خوب معلوم نمیشود. 
@@ -2891,6 +3323,10 @@
  * آینده ام را به چانس نخواهم گذاشت. 
  * I will not leave my future up to chance. 
 ----------
+ * **مواظب بودن** :: to be careful (expression)
+ * باید مواظب باشید تا در آفتاب بسیار زیاد نمانید. 
+ * You should be careful not to sunbathe too much. 
+----------
  * **بلند خنده کردن** :: to laugh out loud (verb)
  * وقتی عکس را دیدیم بلند خنده کردیم. 
  * When we saw the picture, we laughed out loud. 
@@ -2898,6 +3334,10 @@
  * **بسیار خوش داشتن** :: to be crazy about (verb)
  * من این آهنگ را بسیار خوش دارم. 
  * I'm crazy about this song! 
+----------
+ * **پروفایل** :: profile (noun)
+ * پروفایل فیس بوک مرا ببینید. 
+ * Visit my Facebook profile. 
 ----------
  * **مقبول** :: beautiful (adjective)
  * در آن پیراهن مقبول معلوم میشوید. 
@@ -2907,6 +3347,10 @@
  * شما مرا ایستاد کردید. 
  * You stood me up! 
 ----------
+ * **دماغ** :: mind (noun)
+ * او دماغ تحلیلی دارد. 
+ * He's got an analytical mind. 
+----------
  * **پیشنهاد** :: suggestion (noun)
  * من یک چند پیشنهاد دارم. 
  * I have some suggestions to make. 
@@ -2914,6 +3358,10 @@
  * **حقیقت** :: truth (noun)
  * حقیقت آنجا وجود دارد. 
  * The truth is out there. 
+----------
+ * **گپ زدن** :: to chat (verb)
+ * از گپ زدن با شما بسیار خوش شدم. 
+ * It's been a pleasure to chat with you. 
 ----------
  * **بسیار خسته** :: exhausted (adjective)
  * من تمام روز کار کردم؛ بسیار خسته هستم. 
@@ -2923,6 +3371,10 @@
  * ما باید در باره احساسات خود صحبت کنیم. 
  * We need to talk about our feelings. 
 ----------
+ * **کلاه** :: top hat (noun)
+ * آن اقا دستکش ها و کلاهش را کشید. 
+ * The gentleman took off his gloves and hat. 
+----------
  * **فرشته** :: angel (noun)
  * تشکر از کمک تان، شما یک فرشته هستید. 
  * Thank you for your help; you're an angel. 
@@ -2930,6 +3382,10 @@
  * **خوب معلوم شدن** :: to look good (expression)
  * این غذا خوب معلوم میشود. 
  * This food looks good. 
+----------
+ * **دوست** :: friend (noun)
+ * وقتی روز بد داشته باشم، تمام دوستان فیس بوک ام را در جریان میگذارم. 
+ * When I have a bad day, I make sure all my Facebook friends know! 
 ----------
  * **به تلخی** :: bitterly (adverb)
  * دختر بیچاره به تلخی شروع به گریه کرد. 
@@ -2939,6 +3395,10 @@
  * از حویلی من بیرون شوید و گر نه من سگ را پشت تان رها میکنم! 
  * Get out of my yard or I´ll set the dogs on you! 
 ----------
+ * **تحفه** :: gift (noun)
+ * دیدن اطفال در وقت باز کردن تحفه های کرسمس شان بسیار جالب است. 
+ * It´s so funny to see children unwrapping their Christmas gifts. 
+----------
  * **بد بختی** :: misfortune (noun)
  * بدبختانه خوشویم با ما زنده گی میکند. 
  * Unfortunately for me, my mother-in-law lives with us. 
@@ -2946,6 +3406,10 @@
  * **مشتاق** :: passionate (adjective)
  * من مشتاق عکاسی هستم. 
  * I am passionate about photography. 
+----------
+ * **لگد زدن** :: to kick (verb)
+ * برای باز کردن آن دروازه باید آنرا خوب به لگد بزنید. 
+ * To open that door, you need to give it a good kick. 
 ----------
  * **اوکسیجن** :: oxygen (noun)
  * در ارتفاع بلند در هوا اکسیجن کم است. 
@@ -2955,6 +3419,10 @@
  * من خوش ندارم لباس سفید بپوشم. 
  * I don't like to wear white clothes. 
 ----------
+ * **آخرت** :: afterlife (expression)
+ * در آخرت باز میبینیم. 
+ * We'll meet again in the afterlife. 
+----------
  * **تماشا کردن** :: to watch (verb)
  * از تماشا کردن شما یاد گرفتم، پدر! 
  * I learned it from watching you, Dad! 
@@ -2962,6 +3430,10 @@
  * **چپلک** :: flip-flops, slippers (noun)
  * من چپلک نو دارم. 
  * I have new flip-flops. 
+----------
+ * **قلم تراش** :: pencil sharpener (noun)
+ * آیا قلم تراش تان را برایم امانت داده میتوانید؟ 
+ * Can you lend me your pencil sharpener? 
 ----------
  * **اطفال** :: kids (noun)
  * ده بجه است. میفهمید که اطفال شما کُجا هستند؟ 
@@ -2971,6 +3443,10 @@
  * اگر فراشوت باز نشود چی خواهد شد؟ 
  * What would happen if the parachute doesn't open? 
 ----------
+ * **حقوق بشر** :: human rights (noun)
+ * ما باید برای حقوق بشر مبارزه را ادامه بدهیم. 
+ * We have to keep on fighting for human rights. 
+----------
  * **عاید** :: revenue (noun)
  * مصارف زیاد است، عاید کم است. چی کرده میتوانید؟ 
  * Costs are up, revenue is down. What can you do? 
@@ -2978,6 +3454,10 @@
  * **چقدر مقبول!** :: How cute! (expression)
  * آیا آن بچه ای شما است؟ چقدر مقبول! 
  * Is that your son? How cute! 
+----------
+ * **سست کردن** :: to loosen (verb)
+ * او نشست و نیکتایی اش را سست کرد. 
+ * He sat down and loosened his tie. 
 ----------
  * **پستاندار** :: mammal (noun)
  * نهنگ ها و دلفین ها پستانداران هستند. 
@@ -2987,6 +3467,10 @@
  * امروز چکر زدن میرویم. 
  * We will go site seeing today. 
 ----------
+ * **چشم ها را بردن** :: to dazzle (verb)
+ * زیبایی لورا چشم های اورا برد. 
+ * He was dazzled by Laura's beauty. 
+----------
  * **آب** :: water (noun)
  * اکثریت کرۀ زمین توسط آب پوشیده شده است. 
  * The Earth is covered mostly by water. 
@@ -2994,6 +3478,10 @@
  * **نشه شدن** :: to get drunk (verb)
  * من دیشب نشه شدم. 
  * I got drunk last night. 
+----------
+ * **در کباب کن** :: on the grill (expression)
+ * ماهی را در کباب کن خوش دارم. 
+ * I like fish on the grill. 
 ----------
  * **ترس** :: fear (noun)
  * ترس از تحرک یا تغییر تروپوفوبیا نامیده میشود. 
@@ -3003,6 +3491,10 @@
  * چوچه مرغابی بدرنگ گریه میکند. 
  * The ugly duckling is crying. 
 ----------
+ * **باتلاق** :: swamp (noun)
+ * آیا شریک در باتلاق زنده گی میکرد یا در قصر؟ 
+ * Did Shrek live in a castle or in a swamp? 
+----------
  * **چیستان** :: riddle (noun)
  * اگر سفینکس از شما یک چیستان بپرسد، شما باید جوابش را بدانید. 
  * If the Sphinx asks you a riddle, you better know the answer. 
@@ -3010,6 +3502,10 @@
  * **چالان کردن** :: to start (verb)
  * موتر چالان نمیشود. 
  * The car won't start. 
+----------
+ * **طفولیت** :: childhood (noun)
+ * طفولیت تانرا چطور سپری کردید؟ 
+ * How did you spend your childhood? 
 ----------
  * **خدا** :: God (noun)
  * اگر خدا بخواهد. 
@@ -3019,6 +3515,10 @@
  * تولید نو اپل چقدر خوب است. 
  * How cool is Apple's new product?! 
 ----------
+ * **در فکر رفتن** :: to be lost in thought (verb)
+ * چی گفتید؟ ببخشید من در فکر رفته بودم. 
+ * What did you say? I'm sorry, I was lost in thought. 
+----------
  * **بفرمایید** :: go ahead (verb)
  * بفرمایید، شما پیش شوید. 
  * Go ahead, you go first. 
@@ -3026,6 +3526,10 @@
  * **موی خشک کن** :: hairdryer (noun)
  * اگر از موی خشک کن استفاده نکنم مویم خوب معلوم نمیشود. 
  * If I don't use a hairdryer my hair won't look good. 
+----------
+ * **چانس** :: chance (noun)
+ * آینده ام را به چانس نخواهم گذاشت. 
+ * I will not leave my future up to chance. 
 ----------
  * **دریا** :: river (noun)
  * قطره قطره دریا میشود. 
@@ -3035,6 +3539,10 @@
  * وقتی عکس را دیدیم بلند خنده کردیم. 
  * When we saw the picture, we laughed out loud. 
 ----------
+ * **بسیار خوش داشتن** :: to be crazy about (verb)
+ * من این آهنگ را بسیار خوش دارم. 
+ * I'm crazy about this song! 
+----------
  * **خار** :: thorn (noun)
  * هیچ گل بی خار نیست. 
  * There is no flower without thorn. 
@@ -3042,6 +3550,10 @@
  * **مقبول** :: beautiful (adjective)
  * در آن پیراهن مقبول معلوم میشوید. 
  * You look beautiful in that dress. 
+----------
+ * **ایستاد کردن** :: to stand somebody up (verb)
+ * شما مرا ایستاد کردید. 
+ * You stood me up! 
 ----------
  * **چشم** :: eye (noun)
  * چشم های تان مقبول است. 
@@ -3051,6 +3563,10 @@
  * من یک چند پیشنهاد دارم. 
  * I have some suggestions to make. 
 ----------
+ * **حقیقت** :: truth (noun)
+ * حقیقت آنجا وجود دارد. 
+ * The truth is out there. 
+----------
  * **راه** :: way (noun)
  * دل به دل راه دارد. 
  * There is a way from heart to heart. 
@@ -3058,6 +3574,10 @@
  * **بسیار خسته** :: exhausted (adjective)
  * من تمام روز کار کردم؛ بسیار خسته هستم. 
  * I've worked all day long; I'm exhausted. 
+----------
+ * **احساسات** :: feeling (noun)
+ * ما باید در باره احساسات خود صحبت کنیم. 
+ * We need to talk about our feelings. 
 ----------
  * **بهار** :: spring (noun)
  * به یک گل بهار نمیشود. 
@@ -3067,6 +3587,10 @@
  * تشکر از کمک تان، شما یک فرشته هستید. 
  * Thank you for your help; you're an angel. 
 ----------
+ * **خوب معلوم شدن** :: to look good (expression)
+ * این غذا خوب معلوم میشود. 
+ * This food looks good. 
+----------
  * **پنج** :: five (noun)
  * پنج انگشت برادر است برابر نیست. 
  * Five fingers are brothers but not equal. 
@@ -3074,6 +3598,10 @@
  * **به تلخی** :: bitterly (adverb)
  * دختر بیچاره به تلخی شروع به گریه کرد. 
  * The poor girl started to cry bitterly. 
+----------
+ * **سگ را پشت کسی رها کردن** :: to set the dogs (on someone) (expression)
+ * از حویلی من بیرون شوید و گر نه من سگ را پشت تان رها میکنم! 
+ * Get out of my yard or I´ll set the dogs on you! 
 ----------
  * **دروغگو** :: liar (noun)
  * دروغگو حافظه ندارد. 
@@ -3083,6 +3611,10 @@
  * بدبختانه خوشویم با ما زنده گی میکند. 
  * Unfortunately for me, my mother-in-law lives with us. 
 ----------
+ * **مشتاق** :: passionate (adjective)
+ * من مشتاق عکاسی هستم. 
+ * I am passionate about photography. 
+----------
  * **جوینده** :: seeker (noun)
  * جوینده یابنده است. 
  * A seeker is a finder. 
@@ -3090,6 +3622,10 @@
  * **اوکسیجن** :: oxygen (noun)
  * در ارتفاع بلند در هوا اکسیجن کم است. 
  * At high elevations, there is less oxygen in the air. 
+----------
+ * **سفید** :: white (adjective)
+ * من خوش ندارم لباس سفید بپوشم. 
+ * I don't like to wear white clothes. 
 ----------
  * **بهتر** :: better (adjective)
  * دشمن دانا بهتر از دوست احمق است. 
@@ -3099,6 +3635,10 @@
  * از تماشا کردن شما یاد گرفتم، پدر! 
  * I learned it from watching you, Dad! 
 ----------
+ * **چپلک** :: flip-flops, slippers (noun)
+ * من چپلک نو دارم. 
+ * I have new flip-flops. 
+----------
  * **بار** :: load (noun)
  * بار کج به منزل نمی رسد. 
  * A tilted load won't reach its destination. 
@@ -3106,6 +3646,10 @@
  * **اطفال** :: kids (noun)
  * ده بجه است. میفهمید که اطفال شما کُجا هستند؟ 
  * It's 10 o'clock. Do you know where your kids are? 
+----------
+ * **فراشوت** :: parachute (noun)
+ * اگر فراشوت باز نشود چی خواهد شد؟ 
+ * What would happen if the parachute doesn't open? 
 ----------
  * **ببخشید.** :: Excuse me. (expression)
  * ببخشید، دواخانه کجا است؟ 
@@ -3115,6 +3659,10 @@
  * مصارف زیاد است، عاید کم است. چی کرده میتوانید؟ 
  * Costs are up, revenue is down. What can you do? 
 ----------
+ * **چقدر مقبول!** :: How cute! (expression)
+ * آیا آن بچه ای شما است؟ چقدر مقبول! 
+ * Is that your son? How cute! 
+----------
  * **سیر** :: full (adjective)
  * سیر شدم. 
  * I am full. 
@@ -3122,6 +3670,10 @@
  * **پستاندار** :: mammal (noun)
  * نهنگ ها و دلفین ها پستانداران هستند. 
  * Whales and dolphins are mammals. 
+----------
+ * **چکر زدن** :: go site seeing (expression)
+ * امروز چکر زدن میرویم. 
+ * We will go site seeing today. 
 ----------
  * **مار** :: snake (noun)
  * مار گزیده از ریسمان میترسد. 
@@ -3131,6 +3683,10 @@
  * اکثریت کرۀ زمین توسط آب پوشیده شده است. 
  * The Earth is covered mostly by water. 
 ----------
+ * **نشه شدن** :: to get drunk (verb)
+ * من دیشب نشه شدم. 
+ * I got drunk last night. 
+----------
  * **دفعه** :: time (noun)
  * هزار دفعه. 
  * A thousand times over for you. (I will do it a thousand times over for you.) 
@@ -3138,6 +3694,10 @@
  * **ترس** :: fear (noun)
  * ترس از تحرک یا تغییر تروپوفوبیا نامیده میشود. 
  * The fear of moving or making changes is called tropophobia. 
+----------
+ * **چوچه مرغابی** :: duckling (noun)
+ * چوچه مرغابی بدرنگ گریه میکند. 
+ * The ugly duckling is crying. 
 ----------
  * **خاموشی** :: silence (noun)
  * جواب ابلهان خاموشی است. 
@@ -3147,6 +3707,10 @@
  * اگر سفینکس از شما یک چیستان بپرسد، شما باید جوابش را بدانید. 
  * If the Sphinx asks you a riddle, you better know the answer. 
 ----------
+ * **چالان کردن** :: to start (verb)
+ * موتر چالان نمیشود. 
+ * The car won't start. 
+----------
  * **جنگ** :: fight (verb)
  * چای ناخورده جنگ نمیشود. 
  * You can't fight without having tea. 
@@ -3154,6 +3718,10 @@
  * **خدا** :: God (noun)
  * اگر خدا بخواهد. 
  * If God wills. 
+----------
+ * **چقدر خوب!** :: How cool! (expression)
+ * تولید نو اپل چقدر خوب است. 
+ * How cool is Apple's new product?! 
 ----------
  * **مانده** :: tired (adjective)
  * مانده نباشی. 
@@ -3163,6 +3731,10 @@
  * بفرمایید، شما پیش شوید. 
  * Go ahead, you go first. 
 ----------
+ * **موی خشک کن** :: hairdryer (noun)
+ * اگر از موی خشک کن استفاده نکنم مویم خوب معلوم نمیشود. 
+ * If I don't use a hairdryer my hair won't look good. 
+----------
  * **کردی** :: you did (expression)
  * خوب کردی. 
  * You did the right thing. 
@@ -3170,6 +3742,10 @@
  * **دریا** :: river (noun)
  * قطره قطره دریا میشود. 
  * Drops make a river. 
+----------
+ * **بلند خنده کردن** :: to laugh out loud (verb)
+ * وقتی عکس را دیدیم بلند خنده کردیم. 
+ * When we saw the picture, we laughed out loud. 
 ----------
  * **ارزان** :: cheap (adjective)
  * ارزان بی علت نیست قیمت بی حکمت. 
@@ -3179,6 +3755,10 @@
  * هیچ گل بی خار نیست. 
  * There is no flower without thorn. 
 ----------
+ * **مقبول** :: beautiful (adjective)
+ * در آن پیراهن مقبول معلوم میشوید. 
+ * You look beautiful in that dress. 
+----------
  * **خارپشت** :: porcupine (noun)
  * خار پشت به چوچه خود میگوید بخملی بچه ام. 
  * A porcupine speaking to its baby says, "O my child of velvet." 
@@ -3186,6 +3766,10 @@
  * **چشم** :: eye (noun)
  * چشم های تان مقبول است. 
  * Your eyes are beautiful. 
+----------
+ * **پیشنهاد** :: suggestion (noun)
+ * من یک چند پیشنهاد دارم. 
+ * I have some suggestions to make. 
 ----------
  * **گرگ** :: wolf (noun)
  * گرگ زاده گرگ شود گر چه با آدمی بزرگ شود. 
@@ -3195,6 +3779,10 @@
  * دل به دل راه دارد. 
  * There is a way from heart to heart. 
 ----------
+ * **بسیار خسته** :: exhausted (adjective)
+ * من تمام روز کار کردم؛ بسیار خسته هستم. 
+ * I've worked all day long; I'm exhausted. 
+----------
  * **خر** :: donkey (noun)
  * به خری که کار نداری اوش مگو. 
  * Don't stop a donkey that is not yours. 
@@ -3202,6 +3790,10 @@
  * **بهار** :: spring (noun)
  * به یک گل بهار نمیشود. 
  * One flower doesn't make the spring. 
+----------
+ * **فرشته** :: angel (noun)
+ * تشکر از کمک تان، شما یک فرشته هستید. 
+ * Thank you for your help; you're an angel. 
 ----------
  * **دیوار** :: wall (noun)
  * در را میگویم دیوار بشنود. 
@@ -3211,6 +3803,10 @@
  * پنج انگشت برادر است برابر نیست. 
  * Five fingers are brothers but not equal. 
 ----------
+ * **نام** :: name (noun)
+ * نام شما چیست؟ 
+ * What's your name? 
+----------
  * **پیاز** :: onion (noun)
  * نان و پیاز پیشانی باز. 
  * If there is only bread and onion, still have a happy face. 
@@ -3218,6 +3814,10 @@
  * **دروغگو** :: liar (noun)
  * دروغگو حافظه ندارد. 
  * A liar is forgetful. 
+----------
+ * **ملاقات کردن** :: to meet (verb)
+ * از ملاقات شما خوش شدم. 
+ * It is a pleasure to meet you. 
 ----------
  * **همسایه** :: neighbor (noun)
  * مالت را هوش کن همسایه ات را دزد نگیر. 
@@ -3227,6 +3827,10 @@
  * جوینده یابنده است. 
  * A seeker is a finder. 
 ----------
+ * **مزه دار** :: delicious (adjective)
+ * مزه دار بود. 
+ * That was delicious. 
+----------
  * **ترش** :: sour (adjective)
  * هیچ کس نمی گوید که دوغ من ترش است. 
  * No one admits that his buttermilk is sour. 
@@ -3234,6 +3838,10 @@
  * **بهتر** :: better (adjective)
  * دشمن دانا بهتر از دوست احمق است. 
  * A wise enemy is better than a stupid friend. 
+----------
+ * **شما** :: you (noun)
+ * شما از کجا هستید؟ 
+ * Where are you from? 
 ----------
  * **صبر** :: patience (noun)
  * صبر تلخ است ولی بر شیرین دارد. 
@@ -3243,6 +3851,10 @@
  * بار کج به منزل نمی رسد. 
  * A tilted load won't reach its destination. 
 ----------
+ * **گپ زدن** :: to speak (verb)
+ * کمی دری گپ میزنم. 
+ * I speak a little Dari. 
+----------
  * **خواندن** :: to read (verb)
  * پیش کله خر یاسین خواندن. 
  * It is like reading scriptures to a donkey. 
@@ -3250,6 +3862,10 @@
  * **ببخشید.** :: Excuse me. (expression)
  * ببخشید، دواخانه کجا است؟ 
  * Excuse me, where is the pharmacy? 
+----------
+ * **اول** :: first (adjective)
+ * این بار اول نیست و این بار آخر هم نخواهد بود. 
+ * It's not the first time, and it won't be the last. 
 ----------
  * **آفتاب** :: sun (noun)
  * آفتاب به دو انگشت پت نمیشود. 
@@ -3259,6 +3875,10 @@
  * سیر شدم. 
  * I am full. 
 ----------
+ * **معذرت خواستن** :: to apologize (verb)
+ * معذرت میخواهم، روزم خوب نیست. 
+ * I apologize, I'm having a bad day. 
+----------
  * **نام** :: name (noun)
  * نام شما چیست؟ 
  * What's your name? 
@@ -3266,6 +3886,10 @@
  * **مار** :: snake (noun)
  * مار گزیده از ریسمان میترسد. 
  * Someone bitten by a snake is scared of a rope. 
+----------
+ * **فروشگاه** :: store (noun)
+ * من به فروشگاه میروم، میخواهید با من بروید؟ 
+ * I'm going to the store; want to go with me? 
 ----------
  * **ملاقات کردن** :: to meet (verb)
  * از ملاقات شما خوش شدم. 
@@ -3275,6 +3899,10 @@
  * هزار دفعه. 
  * A thousand times over for you. (I will do it a thousand times over for you.) 
 ----------
+ * **ترجیح دادن** :: to prefer (verb)
+ * خرما مزه دار است اما من اناناس را ترجیح میدهم. 
+ * The dates are delicious, but I prefer pineapple. 
+----------
  * **مزه دار** :: delicious (adjective)
  * مزه دار بود. 
  * That was delicious. 
@@ -3282,6 +3910,10 @@
  * **خاموشی** :: silence (noun)
  * جواب ابلهان خاموشی است. 
  * Silence is a good answer for the fool. 
+----------
+ * **جمعه** :: Friday (noun)
+ * خوش هستم که فردا جمعه است، این هفته بسیار دراز بود! 
+ * I'm so glad tomorrow is Friday; it's been a long week 
 ----------
  * **شما** :: you (noun)
  * شما از کجا هستید؟ 
@@ -3291,6 +3923,10 @@
  * چای ناخورده جنگ نمیشود. 
  * You can't fight without having tea. 
 ----------
+ * **داشتن** :: to have (verb)
+ * برای رخصتی آخرهفته کدام پلان دارید؟ 
+ * Do you have any plans for this weekend? 
+----------
  * **گپ زدن** :: to speak (verb)
  * کمی دری گپ میزنم. 
  * I speak a little Dari. 
@@ -3298,6 +3934,10 @@
  * **مانده** :: tired (adjective)
  * مانده نباشی. 
  * May you not be tired. 
+----------
+ * **هوا** :: weather (noun)
+ * برای فردا پیشگویی هوا چی است؟ 
+ * What's the weather prediction for tomorrow? 
 ----------
  * **اول** :: first (adjective)
  * این بار اول نیست و این بار آخر هم نخواهد بود. 
@@ -3307,6 +3947,10 @@
  * خوب کردی. 
  * You did the right thing. 
 ----------
+ * **باریدن باران** :: to rain (verb)
+ * باران خواهد بارید، یک چطری همرای تان بیارید. 
+ * It's going to rain; bring an umbrella. 
+----------
  * **معذرت خواستن** :: to apologize (verb)
  * معذرت میخواهم، روزم خوب نیست. 
  * I apologize, I'm having a bad day. 
@@ -3314,6 +3958,10 @@
  * **ارزان** :: cheap (adjective)
  * ارزان بی علت نیست قیمت بی حکمت. 
  * A cheap thing doesn't lack defect, nor an expensive thing quality. 
+----------
+ * **بازی کردن** :: to play (verb)
+ * اطفال خوش دارند در بیرون بازی کنند. 
+ * The children like to play outside. 
 ----------
  * **فروشگاه** :: store (noun)
  * من به فروشگاه میروم، میخواهید با من بروید؟ 
@@ -3323,6 +3971,10 @@
  * خار پشت به چوچه خود میگوید بخملی بچه ام. 
  * A porcupine speaking to its baby says, "O my child of velvet." 
 ----------
+ * **مورد نظر** :: favorite (adjective)
+ * این یکی از آهنگ های مورد نظر من است. 
+ * This is one of my favorite songs. 
+----------
  * **ترجیح دادن** :: to prefer (verb)
  * خرما مزه دار است اما من اناناس را ترجیح میدهم. 
  * The dates are delicious, but I prefer pineapple. 
@@ -3330,6 +3982,10 @@
  * **گرگ** :: wolf (noun)
  * گرگ زاده گرگ شود گر چه با آدمی بزرگ شود. 
  * A wolf's pup will grow into a wolf even though it is raised among men. 
+----------
+ * **فراموش کردن** :: to forget (verb)
+ * او هرگز گفتن لطفاً و تشکر را فراموش نمی کند. 
+ * He never forgets to say please and thank you. 
 ----------
  * **جمعه** :: Friday (noun)
  * خوش هستم که فردا جمعه است، این هفته بسیار دراز بود! 
@@ -3339,6 +3995,10 @@
  * به خری که کار نداری اوش مگو. 
  * Don't stop a donkey that is not yours. 
 ----------
+ * **دیدن** :: to see (verb)
+ * آیا باران شهاب ثاقب را دیشب دیدید؟ متحیر کننده بود! 
+ * Did you see the meteor shower last night? Amazing! 
+----------
  * **داشتن** :: to have (verb)
  * برای رخصتی آخرهفته کدام پلان دارید؟ 
  * Do you have any plans for this weekend? 
@@ -3346,6 +4006,10 @@
  * **دیوار** :: wall (noun)
  * در را میگویم دیوار بشنود. 
  * I am talking to the door but I want the walls to hear me. 
+----------
+ * **کجا** :: where (adverb)
+ * نزدیکترین مارکیت کجا است؟ 
+ * Where is the nearest market? 
 ----------
  * **هوا** :: weather (noun)
  * برای فردا پیشگویی هوا چی است؟ 
@@ -3355,6 +4019,10 @@
  * نان و پیاز پیشانی باز. 
  * If there is only bread and onion, still have a happy face. 
 ----------
+ * **قهر** :: to be angry (verb)
+ * اگر قهر هستید نفس عمیق بکشید و تا ده حساب کنید. 
+ * If you're angry, take a deep breath and count to ten. 
+----------
  * **باریدن باران** :: to rain (verb)
  * باران خواهد بارید، یک چطری همرای تان بیارید. 
  * It's going to rain, bring an umbrella. 
@@ -3362,6 +4030,10 @@
  * **همسایه** :: neighbor (noun)
  * مالت را هوش کن همسایه ات را دزد نگیر. 
  * Look after your property and you won't accuse your neighbor of stealing. 
+----------
+ * **چال** :: trick (noun)
+ * من چال های تو را میفهمم. 
+ * I know your tricks. 
 ----------
  * **بازی کردن** :: to play (verb)
  * اطفال خوش دارند در بیرون بازی کنند. 
@@ -3371,6 +4043,10 @@
  * هیچ کس نمی گوید که دوغ من ترش است. 
  * No one admits that his buttermilk is sour. 
 ----------
+ * **راز** :: secret (noun)
+ * وزن باختن کدام راز واقعی ندارد. 
+ * There is no real secret to weight loss. 
+----------
  * **مورد نظر** :: favorite (adjective)
  * این یکی از آهنگ های مورد نظر من است. 
  * This is one of my favorite songs. 
@@ -3378,6 +4054,10 @@
  * **صبر** :: patience (noun)
  * صبر تلخ است ولی بر شیرین دارد. 
  * Patience is bitter, but its fruit is sweet. 
+----------
+ * **تغییر دادن** :: to change (verb)
+ * انترنت زندگی مارا تغییر داده است، چه به طریقه خوب یا بد. 
+ * The internet has changed our lives, for good or bad. 
 ----------
  * **فراموش کردن** :: to forget (verb)
  * او هرگز گفتن لطفاً و تشکر را فراموش نمی کند. 
@@ -3387,6 +4067,10 @@
  * پیش کله خر یاسین خواندن. 
  * It is like reading scriptures to a donkey. 
 ----------
+ * **مشکل** :: problem (noun)
+ * راست بنشینید، نشتن خراب در آینده سبب مشکلات کمر میشود. 
+ * Sit up! Bad posture will lead to back problems later on. 
+----------
  * **دیدن** :: to see (verb)
  * آیا باران شهاب ثاقب را دیشب دیدید؟ متحیر کننده بود! 
  * Did you see the meteor shower last night? Amazing! 
@@ -3394,6 +4078,10 @@
  * **آفتاب** :: sun (noun)
  * آفتاب به دو انگشت پت نمیشود. 
  * You can't hide the sun with two fingers. 
+----------
+ * **نظریه** :: idea (noun)
+ * برای خوب بودن این نظریه صد دلیل دارم. 
+ * I can give you 100 reasons why this is a bad idea. 
 ----------
  * **کجا** :: where (adverb)
  * نزدیکترین مارکیت کجا است؟ 
@@ -3403,6 +4091,10 @@
  * نام شما چیست؟ 
  * What's your name? 
 ----------
+ * **عجله کردن** :: to hurry (verb)
+ * اگر عجله نکنید سرویس از پیش ما میرود. 
+ * If we don't hurry, we'll miss the bus. 
+----------
  * **قهر** :: to be angry (verb)
  * اگر قهر هستید نفس عمیق بکشید و تا ده حساب کنید. 
  * If you're angry, take a deep breath and count to ten. 
@@ -3410,6 +4102,10 @@
  * **ملاقات کردن** :: to meet (verb)
  * از ملاقات شما خوش شدم. 
  * It is a pleasure to meet you. 
+----------
+ * **ببخشید** :: sorry (adjective)
+ * سلام به همه! ببخشید نا وقت کردم. 
+ * Hi everyone! Sorry I'm late. 
 ----------
  * **چال** :: trick (noun)
  * من چال های تو را میفهمم. 
@@ -3419,6 +4115,10 @@
  * مزه دار بود. 
  * That was delicious. 
 ----------
+ * **ملامت کردن** :: to blame (verb)
+ * شما نمیتوانید دیگرانرا برای تمام مشکلات خود ملامت کنید. 
+ * You can't blame other people for all your problems. 
+----------
  * **راز** :: secret (noun)
  * وزن باختن کدام راز واقعی ندارد. 
  * There is no real secret to weight loss. 
@@ -3426,6 +4126,10 @@
  * **شما** :: you (noun)
  * شما از کجا هستید؟ 
  * Where are you from? 
+----------
+ * **آفتاب** :: sun (noun)
+ * باغ ها به خاک خوب، آفتاب و آبیاری منظم ضرورت دارند. 
+ * Gardens need good soil, sun, and regular watering. 
 ----------
  * **تغییر دادن** :: to change (verb)
  * انترنت زندگی مارا تغییر داده است، چه به طریقه خوب یا بد. 
@@ -3435,6 +4139,10 @@
  * کمی دری گپ میزنم. 
  * I speak a little Dari. 
 ----------
+ * **تکرار کردن** :: to repeat (verb)
+ * نفهمیدم، میتوانید آنرا تکرار کنید؟ 
+ * I don't understand. Can you repeat that? 
+----------
  * **مشکل** :: problem (noun)
  * راست بنشینید، نشتن خراب در آینده سبب مشکلات کمر میشود. 
  * Sit up! Bad posture will lead to back problems later on. 
@@ -3442,6 +4150,10 @@
  * **اول** :: first (adjective)
  * این بار اول نیست و این بار آخر هم نخواهد بود. 
  * It's not the first time, and won't be the last. 
+----------
+ * **لسان** :: language (noun)
+ * دری یک لسان رسمی افغانستان است. 
+ * Dari is an official language of Afghanistan. 
 ----------
  * **نظریه** :: idea (noun)
  * برای خوب بودن این نظریه صد دلیل دارم. 
@@ -3451,6 +4163,10 @@
  * معذرت میخواهم، روزم خوب نیست. 
  * I apologize, I'm having a bad day. 
 ----------
+ * **پوشیدن** :: to wear (verb)
+ * خرقه ای که گفته میشود توسط حضرت محمدص پوشیده شده است در قندهار نگهداری میشود. 
+ * A cloak reputedly worn by Muhammad is stored in Kandahar. 
+----------
  * **عجله کردن** :: to hurry (verb)
  * اگر عجله نکنید سرویس از پیش ما میرود. 
  * If we don't hurry, we'll miss the bus. 
@@ -3458,6 +4174,10 @@
  * **فروشگاه** :: store (noun)
  * من به فروشگاه میروم، میخواهید با من بروید؟ 
  * I'm going to the store, want to go with me? 
+----------
+ * **فهمیدن** :: to understand (verb)
+ * دری زبانها اکثر اوقات گپ های فارسی زبانها و تاجکی زبانها را میفهمند. 
+ * Speakers of Dari can often understand speakers of Farsi and Tajiki. 
 ----------
  * **ببخشید** :: sorry (adjective)
  * سلام به همه! ببخشید نا وقت کردم. 
@@ -3467,6 +4187,10 @@
  * خرما مزه دار است اما من اناناس را ترجیح میدهم. 
  * The dates are delicious, but I prefer pineapple. 
 ----------
+ * **حروف** :: letters (noun)
+ * الفبای دری سی و دو حرف دارد. 
+ * The Dari alphabet has thirty two letters. 
+----------
  * **ملامت کردن** :: to blame (verb)
  * شما نمیتوانید دیگرانرا برای تمام مشکلات خود ملامت کنید. 
  * You can't blame other people for all your problems. 
@@ -3474,6 +4198,10 @@
  * **جمعه** :: Friday (noun)
  * خوش هستم که فردا جمعه است، این هفته بسیار دراز بود! 
  * I'm so glad tomorrow is Friday; it's been a long week¡ 
+----------
+ * **ضرورت داشتن** :: to need (verb)
+ * شما به یک قایق کلانتر ضرورت دارید. 
+ * You're going to need a bigger boat. 
 ----------
  * **آفتاب** :: sun (noun)
  * باغ ها به خاک خوب، آفتاب و آبیاری منظم ضرورت دارند. 
@@ -3483,6 +4211,10 @@
  * برای رخصتی آخرهفته کدام پلان دارید؟ 
  * Do you have any plans for this weekend? 
 ----------
+ * **حوصله** :: patience (noun)
+ * حوصله تقوا است. 
+ * Patience is a virtue. 
+----------
  * **تکرار کردن** :: to repeat (verb)
  * نفهمیدم، میتوانید آنرا تکرار کنید؟ 
  * I don't understand. Can you repeat that? 
@@ -3490,6 +4222,10 @@
  * **هوا** :: weather (noun)
  * برای فردا پیشگویی هوا چی است؟ 
  * What's the weather prediction for tomorrow? 
+----------
+ * **درس خواندن** :: to study (verb)
+ * تمام شب بیدار بوده برای این امتحان درس میخواندم. 
+ * I've been up all night studying for this test. 
 ----------
  * **لسان** :: language (noun)
  * دری یک لسان رسمی افغانستان است. 
@@ -3499,6 +4235,10 @@
  * باران خواهد بارید، یک چطری همرای تان بیارید. 
  * It's going to rain, bring an umbrella. 
 ----------
+ * **سر درد** :: headache (expression)
+ * در وقت خانه رفتن بیروبار ترافیک یک درد سر است. 
+ * The traffic on my drive home is a real headache. 
+----------
  * **پوشیدن** :: to wear (verb)
  * خرقه ای که گفته میشود توسط حضرت محمدص پوشیده شده است در قندهار نگهداری میشود. 
  * A cloak reputedly worn by Muhammad is stored in Kandahar. 
@@ -3506,6 +4246,10 @@
  * **بازی کردن** :: to play (verb)
  * اطفال خوش دارند در بیرون بازی کنند. 
  * The children like to play outside. 
+----------
+ * **پیاز** :: onion (noun)
+ * اگر پیاز بسیار بزرگ است از نصفش استفاده کن. 
+ * If the onion is too big, use only half of it. 
 ----------
  * **فهمیدن** :: to understand (verb)
  * دری زبانها اکثر اوقات گپ های فارسی زبانها و تاجکی زبانها را میفهمند. 
@@ -3515,6 +4259,10 @@
  * این یکی از آهنگ های مورد نظر من است. 
  * This is one of my favorite songs. 
 ----------
+ * **چپس** :: fries (noun)
+ * آیا با آن چپس هم میخواهید؟ 
+ * Do you want fries with that? 
+----------
  * **حروف** :: letters (noun)
  * الفبای دری سی و دو حرف دارد. 
  * Dari has alphabet has thirty two letters. 
@@ -3522,6 +4270,10 @@
  * **فراموش کردن** :: to forget (verb)
  * او هرگز گفتن لطفاً و تشکر را فراموش نمی کند. 
  * He never forgets to say please and thank you. 
+----------
+ * **ستارۀ فلم** :: movie star (noun)
+ * ستارۀ فلم مورد نظر تان کی است؟ 
+ * Who's your favorite movie star? 
 ----------
  * **ضرورت داشتن** :: to need (verb)
  * شما به یک قایق کلانتر ضرورت دارید. 
