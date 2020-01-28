@@ -34,10 +34,11 @@ let isDownloadExistingXml = true
 const dateFormat = "MM-DD-YYYY"
 let nowDate = moment()
 let endDate = nowDate // TODO : handle case of not existing yet
-#endDate = endDate.add(-1, 'days')
+// endDate = endDate.add(-1, 'days')
 
 //let startDate = moment("01-01-2017", dateFormat)
 //let startDate = moment("12-31-2017", dateFormat)
+//let endDate = moment("30-12-2019", dateFormat)
 let startDate = moment("06-12-2018", dateFormat)
 
 const langHumanToUrl = {
