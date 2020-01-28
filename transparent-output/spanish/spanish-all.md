@@ -1,6 +1,6 @@
 # spanish WOTD : 
 ----------
- 1086 phrases 
+ 1120 phrases 
 ----------
 ----------
  * **construir** :: to build (verb)
@@ -15,6 +15,10 @@
  * El Señor Martínez tenía 92 años cuando falleció. 
  * Mr. Martínez was 92 when he passed away. 
 ----------
+ * **pagar** :: to pay (verb)
+ * Mi padre paga la cuenta. 
+ * My father is paying the bill. 
+----------
  * **medio cocido** :: medium rare (adjective)
  * Me gusta el bistec medio cocido. 
  * I like my steak medium rare. 
@@ -26,6 +30,10 @@
  * **el hipo** :: hiccup (noun)
  * Tomé una cucharada de azúcar para quitarme el hipo. 
  * I took a spoonful of sugar to get rid of my hiccups. 
+----------
+ * **extranjero** :: foreign (adjective)
+ * Yo quiero visitar un país extranjero. 
+ * I want to visit a foreign country. 
 ----------
  * **el relleno** :: stuffing (noun)
  * Nosotros comemos mucho relleno con el pavo. 
@@ -39,6 +47,10 @@
  * Varias focas juegan en la orilla de la isla. 
  * Several seals are playing on the shoreline of the island. 
 ----------
+ * **el pato** :: duck (noun)
+ * Yo veo varios patos en el lago. 
+ * I see several ducks in the lake. 
+----------
  * **reunirse** :: to get together (verb)
  * Toda la familia se reúne en los días festivos. 
  * The whole family gets together on holidays. 
@@ -50,6 +62,10 @@
  * **la cárcel** :: jail (noun)
  * El juez mandó al ladrón a la cárcel. 
  * The judge ordered the thief to jail. 
+----------
+ * **ganar** :: to win (verb)
+ * Cuando nosotros jugamos a las cartas, tú siempre ganas. 
+ * When we play cards, you always win. 
 ----------
  * **crujiente** :: crunchy (adjective)
  * Estas papas fritas están crujientes. 
@@ -63,6 +79,10 @@
  * La adolescente se portó muy rebelde con sus padres. 
  * The teenager acted very rebellious toward her parents. 
 ----------
+ * **cuidadoso** :: careful (adjective)
+ * Mi padre es muy cuidadoso con la electricidad. 
+ * My father is careful with the electricity. 
+----------
  * **el año** :: year (noun)
  * El año nuevo viene pronto. 
  * The new year is coming soon. 
@@ -74,6 +94,10 @@
  * **pintoresco** :: picturesque (adjective)
  * La escena era muy pintoresca con muchos árboles y flores. 
  * The scene was very picturesque with many trees and flowers. 
+----------
+ * **el avión** :: airplane (noun)
+ * Nosotros tomamos un avión para ir a Florida. 
+ * We're taking an airplane to Florida. 
 ----------
  * **venir** :: to come (verb)
  * Lo siento, pero nosotros no podemos venir a tu fiesta. 
@@ -87,6 +111,10 @@
  * La policía paró los carros por el accidente. 
  * The police stopped the cars because of the accident. 
 ----------
+ * **listo** :: clever (adjective)
+ * El detective es muy listo. 
+ * The detective is very clever. 
+----------
  * **sino** :: but rather (conjunction)
  * No tomo café, sino té. 
  * I don't drink coffee, but tea instead. 
@@ -98,6 +126,10 @@
  * **dejar** :: to quit (verb)
  * Tengo que dejar de fumar. 
  * I have to quit smoking. 
+----------
+ * **la hierba** :: grass (noun)
+ * La hierba es verde. 
+ * Grass is green. 
 ----------
  * **además** :: in addition (adverb)
  * Además, la clase era intensa. 
@@ -111,6 +143,10 @@
  * Mi esposa no me deja poner mis pies en el sofá. 
  * My wife doesn't allow me to put my feet on the sofa. 
 ----------
+ * **cortar** :: to cut (verb)
+ * Yo tengo que cortar la tela. 
+ * I have to cut the fabric. 
+----------
  * **atropellar** :: to run over (verb)
  * Los que manejan rápido atropellan a los animalillos. 
  * People who drive fast run over small animals. 
@@ -122,6 +158,10 @@
  * **nuboso** :: cloudy (adjective)
  * Es un día oscuro y nuboso. 
  * It is a dark and cloudy day. 
+----------
+ * **espeso** :: thick (adjective)
+ * La sopa está espesa. 
+ * The soup is thick. 
 ----------
  * **el recogedor** :: dustpan (noun)
  * Busco un recogedor para el polvo. 
@@ -135,6 +175,10 @@
  * Es un día caluroso y húmedo. 
  * It is a hot and humid day. 
 ----------
+ * **el mundo** :: world (noun)
+ * Ella viaja por todas partes del mundo. 
+ * She travels all around the world. 
+----------
  * **varios** :: several (adjective)
  * Hay varios muchachos en la clase. 
  * There are several boys in the class. 
@@ -146,6 +190,10 @@
  * **morder** :: to bite (verb)
  * El perro va a morder al cartero. 
  * The dog is going to bite the mailman. 
+----------
+ * **sembrar** :: to plant (verb)
+ * Él siembra sus plantas en la primavera. 
+ * He plants his plants in the spring. 
 ----------
  * **la correa** :: leash (noun)
  * Necesitamos una correa para el perro. 
@@ -159,6 +207,10 @@
  * La mujer ciega lleva un perro para guiarla. 
  * The blind woman has a dog that guides her. 
 ----------
+ * **seguro** :: sure (adjective)
+ * Ellos están seguros de su amor. 
+ * They are sure about their love. 
+----------
  * **la ardilla** :: squirrel (noun)
  * Las ardillas buscan nueces en los árboles. 
  * The squirrels search for nuts in the trees. 
@@ -170,6 +222,10 @@
  * **grosero** :: rude (adjective)
  * Tu amigo es bastante grosero. 
  * Your friend is rather rude. 
+----------
+ * **la abeja** :: bee (noun)
+ * La abeja puede picar. 
+ * The bee can sting. 
 ----------
  * **la linterna** :: flashlight (noun)
  * Usamos una linterna para ver dentro del agujero. 
@@ -183,6 +239,10 @@
  * La clase es difícil, aunque admito que es divertida. 
  * The class is difficult, although I admit that it is fun. 
 ----------
+ * **regar** :: to water (verb)
+ * A veces yo riego el jardín. 
+ * Sometimes I water the yard. 
+----------
  * **desarrollar** :: to develop (verb)
  * El pueblo se está desarrollando turísticamente. 
  * The town is developing its tourism. 
@@ -194,6 +254,10 @@
  * **mientras** :: while (adverb)
  * Escucho música mientras lavo los platos. 
  * I listen to music while I wash the dishes. 
+----------
+ * **limpio** :: clean (adjective)
+ * El cuarto de baño está limpio. 
+ * The bathroom is clean. 
 ----------
  * **esto** :: this (adjective)
  * Esto va a solucionar tus problemas. 
@@ -207,6 +271,10 @@
  * Mis amigos nunca me toman en serio. 
  * My friends never take me seriously. 
 ----------
+ * **la miel** :: honey (noun)
+ * Las abejas producen la miel. 
+ * Bees produce honey. 
+----------
  * **cariñosamente** :: affectionately (adverb)
  * Le saludo cariñosamente. 
  * A very affectionate hello to you. 
@@ -218,6 +286,10 @@
  * **aquel** :: that over there (adjective)
  * Aquel hombre es mi profesor de inglés. 
  * That man over there is my English teacher. 
+----------
+ * **recordar** :: to remember (verb)
+ * ¿Recuerdas tú cómo se llama ella? 
+ * Do you remember what her name is? 
 ----------
  * **oler** :: to smell (verb)
  * Me gusta oler las flores. 
@@ -231,6 +303,10 @@
  * Aquella mujer es mi jefa. 
  * That woman over there is my boss. 
 ----------
+ * **sucio** :: dirty (adjective)
+ * Las sillas están sucias. 
+ * The chairs are dirty. 
+----------
  * **estrecho** :: narrow (adjective)
  * El túnel en la cueva es estrecho. 
  * The tunnel in the cave is narrow. 
@@ -242,6 +318,10 @@
  * **ese** :: that (adjective)
  * Ese carro es el que quiero comprar. 
  * That car is the one I want to buy. 
+----------
+ * **la tierra** :: soil (noun)
+ * Hay mucha tierra buena en mi huerta. 
+ * There is a lot of good soil in my garden. 
 ----------
  * **tozudo** :: obstinate (adjective)
  * Él es muy tozudo y no quiere escucharme. 
@@ -255,6 +335,10 @@
  * Esa computadora es la que quiero comprar. 
  * That computer is the one I want to buy. 
 ----------
+ * **terminar** :: to finish (verb)
+ * El buen empleado siempre termina el trabajo. 
+ * The good employee always finishes the job. 
+----------
  * **el portátil** :: laptop computer (noun)
  * Quiero comprarme un nuevo portátil. 
  * I want to buy a new laptop computer. 
@@ -266,6 +350,10 @@
  * **este** :: this (adjective)
  * Este concierto sólo ocurre una vez al año. 
  * This concert only happens once a year. 
+----------
+ * **extraño** :: strange (adjective)
+ * Su comportamiento es extraño. 
+ * His behavior is strange. 
 ----------
  * **la varicela** :: chicken pox (noun)
  * Cuando era pequeño tuve la varicela. 
@@ -279,6 +367,10 @@
  * Esta fiesta sólo se celebra una vez al año. 
  * They only celebrate this party once a year. 
 ----------
+ * **el equipaje** :: luggage (noun)
+ * Nosotros llevamos mucho equipaje en el avión. 
+ * We're carrying a lot of luggage on the plane. 
+----------
  * **atender** :: to help (verb)
  * La enfermera atiende a los pacientes. 
  * The nurse helps the patients. 
@@ -291,6 +383,10 @@
  * Me pongo guantes cuando hace mucho frío en mi carro. 
  * I put on gloves when it gets cold in my car. 
 ----------
+ * **encontrar** :: to find (verb)
+ * El chico encuentra dinero en el sofá. 
+ * The boy finds money in the sofa. 
+----------
  * **asistir a** :: to attend (verb)
  * Mi hijo asiste a la universidad. 
  * My son attends the university. 
@@ -302,6 +398,10 @@
  * **la barbería** :: barber shop (noun)
  * Llevo a mi hijo a la barbería cuando su pelo está largo. 
  * I take my son to the barber when his hair is long. 
+----------
+ * **frito** :: fried (adjective)
+ * Yo evito la comida frita. 
+ * I avoid fried food. 
 ----------
  * **averiguar** :: to find out (verb)
  * Tengo que averiguar la verdad. 
@@ -4283,6 +4383,10 @@
  * Mi hijo asiste a la universidad. 
  * My son attends the university. 
 ----------
+ * **la misa** :: Mass (noun)
+ * Los domingos ellos van a misa. 
+ * On Sundays they go to Mass. 
+----------
  * **la carencia** :: lack (noun)
  * La carencia de fondos precipitó el cierre de la fábrica. 
  * The lack of funds hastened the closure of the factory. 
@@ -4290,6 +4394,10 @@
  * **averiguar** :: to find out (verb)
  * Tengo que averiguar la verdad. 
  * I have to find out the truth. 
+----------
+ * **decir** :: to say (verb)
+ * Tú siempre dices las cosas correctas. 
+ * You always say the right things. 
 ----------
  * **ahuyentar** :: to frighten (verb)
  * El estallido ahuyentó a la gente. 
@@ -4299,6 +4407,10 @@
  * La criada limpia la mansión. 
  * The maid cleans the mansion. 
 ----------
+ * **peludo** :: hairy (adjective)
+ * El esposo de ella es muy peludo. 
+ * Her husband is very hairy. 
+----------
  * **el cuero cabelludo** :: scalp (expression)
  * Se ve el cuero cabelludo del calvo. 
  * The scalp of the bald man is visible. 
@@ -4306,6 +4418,10 @@
  * **el trapo** :: rag (noun)
  * Uso un trapo para limpiar las bombillas. 
  * I use a rag to clean the lightbulbs. 
+----------
+ * **el conejo** :: rabbit (noun)
+ * El conejo corre rápido. 
+ * The rabbit runs quickly. 
 ----------
  * **quitarse a alguien de encima** :: to get rid of somebody (expression)
  * El político se quitó de encima a su rival. 
@@ -4315,6 +4431,10 @@
  * Nunca se deberia comer la carne cruda. 
  * You should never eat raw meat. 
 ----------
+ * **oír** :: to hear (verb)
+ * Yo no oigo la música bien. 
+ * I'm not hearing the music well. 
+----------
  * **descabellado** :: ridiculous (adjective)
  * Sus respuestas fueron descabelladas. 
  * Her replies were ridiculous. 
@@ -4322,6 +4442,10 @@
  * **las pasas** :: raisins (noun)
  * Preparo galletas de avena con pasas. 
  * I make oatmeal raisin cookies. 
+----------
+ * **verdadero** :: true (adjective)
+ * Ella es mi madre verdadera. 
+ * She is my true mother. 
 ----------
  * **quedarse con el cambio** :: to keep the change (expression)
  * Quédate con el cambio, amigo. 
@@ -4331,6 +4455,10 @@
  * Me pongo crema protectora para evitar las quemaduras. 
  * I put on sunscreen to avoid sunburns. 
 ----------
+ * **el cesto** :: basket (noun)
+ * Nosotros usamos el cesto para el picnic. 
+ * We use the basket for the picnic. 
+----------
  * **el solapamiento** :: overlapping (noun)
  * El solapamiento de funciones a veces ocasiona conflictos. 
  * Sometimes conflicts arise from overlapping functions. 
@@ -4339,6 +4467,10 @@
  * Mis vacaciones son bastante relajantes. 
  * My vacation is rather relaxing. 
 ----------
+ * **aburrido** :: boring (adjective)
+ * La clase es bastante aburrida. 
+ * The class is rather boring. 
+----------
  * **la caja** :: box (noun)
  * Busca en la caja de herramientas. 
  * Search in the toolbox. 
@@ -4346,5 +4478,9 @@
  * **apoyar** :: to support (verb)
  * Yo creo que voy a apoyar a ese candidato. 
  * I believe that I am going to support that candidate. 
+----------
+ * **el charco** :: puddle (noun)
+ * Hay un charco grande delante de la casa. 
+ * There is a big puddle in front of the house. 
 ----------
  # - end of file - 

@@ -1,6 +1,6 @@
 # portuguese WOTD : 
 ----------
- 1086 phrases 
+ 1120 phrases 
 ----------
 ----------
  * **aqui** :: here (adverb)
@@ -15,6 +15,10 @@
  * Vamos levar as crianças no parque hoje a tarde. 
  * Let's take the children to the park this afternoon. 
 ----------
+ * **criança** :: child (noun)
+ * As crianças brincaram muito na festa. 
+ * The children played a lot at the party. 
+----------
  * **ali** :: there (adverb)
  * Olha a Paula ali! Viu como ela cresceu. 
  * Look at Paula over there! See how she grew up? 
@@ -26,6 +30,10 @@
  * **chamar** :: to call (expression)
  * Pedro chamou seu primo para vir conosco. 
  * Pedro called his cousin to come with us. 
+----------
+ * **carinhoso** :: affectionate (adjective)
+ * Meu marido é carinhoso. 
+ * My husband is affectionate. 
 ----------
  * **moço** :: young man (noun)
  * Que moço bonito! 
@@ -39,6 +47,10 @@
  * As crianças brincaram muito na festa. 
  * The children played a lot at the party. 
 ----------
+ * **grande** :: big (adjective)
+ * Minha fazenda é muito grande. 
+ * My farm is very big. 
+----------
  * **roupas** :: clothes (noun)
  * Sueli está sempre usando roupa nova. 
  * Sueli is always wearing new clothes. 
@@ -50,6 +62,10 @@
  * **carinhoso** :: affectionate (adjective)
  * Meu marido é carinhoso. 
  * My husband is affectionate. 
+----------
+ * **maior** :: bigger (adjective)
+ * Sua moto é maior que a minha. 
+ * Your motorcycle is bigger than mine. 
 ----------
  * **vermelho** :: red (adjective)
  * Vermelho é minha cor favorita. 
@@ -63,6 +79,10 @@
  * Minha fazenda é muito grande. 
  * My farm is very big. 
 ----------
+ * **amor** :: love (noun)
+ * Você é o amor da minha vida. 
+ * You are the love of my life. 
+----------
  * **amarelo** :: yellow (adjective)
  * Verde e amarelo são as cores da bandeira brasileira. 
  * Green and yellow are the colors of the Brazilian flag. 
@@ -74,6 +94,10 @@
  * **maior** :: bigger (adjective)
  * Sua moto é maior que a minha. 
  * Your motorcycle is bigger than mine. 
+----------
+ * **namorado** :: boyfriend (noun)
+ * Tenho um namorado lindo. 
+ * I have a handsome boyfriend. 
 ----------
  * **cor-de-rosa** :: pink (adjective)
  * Todo o guarda-roupa dela é cor-de-rosa. 
@@ -87,6 +111,10 @@
  * Você é o amor da minha vida. 
  * You are the love of my life. 
 ----------
+ * **presente** :: gift (noun)
+ * Ganhei um presente da minha namorada. 
+ * I got a gift from my girlfriend. 
+----------
  * **adorar** :: to adore (expression)
  * Meus filhos adoram sair para brincar. 
  * My children love to go out to play. 
@@ -98,6 +126,10 @@
  * **namorado** :: boyfriend (noun)
  * Tenho um namorado lindo. 
  * I have a handsome boyfriend. 
+----------
+ * **beijo** :: kiss (noun)
+ * Mande um beijo a sua filha. 
+ * Send a kiss to your daughter. 
 ----------
  * **aniversário** :: birthday (noun)
  * Feliz aniversário! 
@@ -111,6 +143,10 @@
  * Ganhei um presente da minha namorada. 
  * I got a gift from my girlfriend. 
 ----------
+ * **abraço** :: hug (noun)
+ * Que abraço gostoso! 
+ * What a nice hug! 
+----------
  * **errado** :: wrong (adjective)
  * Eu disse que ele estava errado. 
  * I told you he was wrong. 
@@ -122,6 +158,10 @@
  * **beijo** :: kiss (noun)
  * Mande um beijo a sua filha. 
  * Send a kiss to your daughter. 
+----------
+ * **comemorar** :: to celebrate (expression)
+ * Vamos comemorar o dia dos namorados. 
+ * Let's celebrate Valentine's Day. 
 ----------
  * **também** :: too/as well (adverb)
  * Eu gosto de filme romântico também. 
@@ -135,6 +175,10 @@
  * Que abraço gostoso! 
  * What a nice hug! 
 ----------
+ * **coração** :: heart (noun)
+ * Te amo de todo o meu coração. 
+ * I love you with all my heart. 
+----------
  * **fome** :: hunger (noun)
  * Estou com tanta fome! 
  * I am so hungry 
@@ -146,6 +190,10 @@
  * **comemorar** :: to celebrate (expression)
  * Vamos comemorar o dia dos namorados. 
  * Let's celebrate Valentine's Day. 
+----------
+ * **querida** :: dear (adjective)
+ * Você é minha esposa querida. 
+ * You are my dear wife. 
 ----------
  * **alugar** :: to rent (expression)
  * Quem alugou a casa da Maria? 
@@ -159,6 +207,10 @@
  * Te amo de todo o meu coração. 
  * I love you with all my heart. 
 ----------
+ * **gelo** :: ice (noun)
+ * Vou colocar gelo no refrigerante. 
+ * I am going to put ice in the soda. 
+----------
  * **vender** :: to sell (expression)
  * Preciso vender meu carro velho. 
  * I need to sell my old car. 
@@ -170,6 +222,10 @@
  * **querida** :: dear (adjective)
  * Você é minha esposa querida. 
  * You are my dear wife. 
+----------
+ * **páscoa** :: Easter (noun)
+ * Feliz Páscoa! 
+ * Happy Easter! 
 ----------
  * **ontem** :: yesterday (adverb)
  * Meu pai chegou de viagem ontem a noite. 
@@ -183,6 +239,10 @@
  * Vou colocar gelo no refrigerante. 
  * I am going to put ice in the soda. 
 ----------
+ * **coelho** :: bunny (noun)
+ * O que o coelho da páscoa te trouxe? 
+ * What did the Easter bunny bring to you? 
+----------
  * **passeio** :: a drive (noun)
  * Vamos dar um passeio de carro. 
  * Let's go for a drive. 
@@ -194,6 +254,10 @@
  * **páscoa** :: Easter (noun)
  * Feliz Páscoa! 
  * Happy Easter! 
+----------
+ * **ovos** :: eggs (noun)
+ * Ganhei muitos ovos de páscoa. 
+ * I got many Easter eggs. 
 ----------
  * **fazer** :: to do, to make (expression)
  * O ônibus faz muito barulho. 
@@ -207,6 +271,10 @@
  * O que o coelho da páscoa te trouxe? 
  * What did the Easter bunny bring to you? 
 ----------
+ * **colorido** :: colorful (adjective)
+ * Gosto de ovos coloridos. 
+ * I like colorful eggs. 
+----------
  * **correr** :: to run (expression)
  * Você correrá na maratona de São Silvestre? 
  * Will you run the São Silvestre marathon? 
@@ -218,6 +286,10 @@
  * **ovos** :: eggs (noun)
  * Ganhei muitos ovos de páscoa. 
  * I got many Easter eggs. 
+----------
+ * **cesta** :: basket (noun)
+ * Minha cesta está cheia de ovos. 
+ * My basket is full of eggs. 
 ----------
  * **parque** :: park (noun)
  * Vamos levar as crianças no parque hoje a tarde. 
@@ -231,6 +303,10 @@
  * Gosto de ovos coloridos. 
  * I like colorful eggs. 
 ----------
+ * **pular** :: to jump (expression)
+ * As meninas pulam na cama. 
+ * The girls jump on the bed. 
+----------
  * **chamar** :: to call (expression)
  * Pedro chamou seu primo para vir conosco. 
  * Pedro called his cousin to come with us. 
@@ -242,6 +318,10 @@
  * **cesta** :: basket (noun)
  * Minha cesta está cheia de ovos. 
  * My basket is full of eggs. 
+----------
+ * **lago** :: lake (noun)
+ * Vamos nadar no lago. 
+ * Let's swim in the lake. 
 ----------
  * **criança** :: child (noun)
  * As crianças brincaram muito na festa. 
@@ -255,6 +335,10 @@
  * As meninas pulam na cama. 
  * The girls jump on the bed. 
 ----------
+ * **cavalo** :: horse (noun)
+ * Gosto de andar a cavalo. 
+ * I like horseback riding. 
+----------
  * **carinhoso** :: affectionate (adjective)
  * Meu marido é carinhoso. 
  * My husband is affectionate. 
@@ -266,6 +350,10 @@
  * **lago** :: lake (noun)
  * Vamos nadar no lago. 
  * Let's swim in the lake. 
+----------
+ * **segunda-feira** :: Monday (noun)
+ * Não gosto da segunda-feira. 
+ * I don't like Mondays. 
 ----------
  * **grande** :: big (adjective)
  * Minha fazenda é muito grande. 
@@ -279,6 +367,10 @@
  * Gosto de andar a cavalo. 
  * I like horseback riding. 
 ----------
+ * **lixo** :: garbage (noun)
+ * Coloque o lixo aqui. 
+ * Put the garbage here. 
+----------
  * **maior** :: bigger (adjective)
  * Sua moto é maior que a minha. 
  * Your motorcycle is bigger than mine. 
@@ -291,6 +383,10 @@
  * Não gosto da segunda-feira. 
  * I don't like Mondays. 
 ----------
+ * **ler** :: to read (expression)
+ * Leio muitos livros. 
+ * I read lots of books. 
+----------
  * **amor** :: love (noun)
  * Você é o amor da minha vida. 
  * You are the love of my life. 
@@ -302,6 +398,10 @@
  * **lixo** :: garbage (noun)
  * Coloque o lixo aqui. 
  * Put the garbage here. 
+----------
+ * **hoje** :: today (adverb)
+ * Vamos ao shopping hoje. 
+ * Let's go to the mall today. 
 ----------
  * **namorado** :: boyfriend (noun)
  * Tenho um namorado lindo. 
@@ -4283,6 +4383,10 @@
  * Eu disse que ele estava errado. 
  * I told you he was wrong. 
 ----------
+ * **fome** :: hunger (noun)
+ * Estou com tanta fome! 
+ * I am so hungry! 
+----------
  * **falta de** :: lack of (expression)
  * Na prova os alunos mostraram sua total falta de preparo. 
  * In the exam the students revealed their total lack of preparation. 
@@ -4290,6 +4394,10 @@
  * **também** :: too/as well (adverb)
  * Eu gosto de filme romântico também. 
  * I like romantic movies, too. 
+----------
+ * **alugar** :: to rent (expression)
+ * Quem alugou a casa da Maria? 
+ * Who rented Maria's house? 
 ----------
  * **exibir-se** :: to show off (verb)
  * Ele fez aquilo só para exibir-se na frente dos seus amigos. 
@@ -4299,6 +4407,10 @@
  * Estou com tanta fome! 
  * I am so hungry 
 ----------
+ * **vender** :: to sell (expression)
+ * Preciso vender meu carro velho. 
+ * I need to sell my old car. 
+----------
  * **perceber** :: to notice (verb)
  * Não consegui perceber a matilha de lobos se aproximando. 
  * I failed to notice the approaching pack of wolves. 
@@ -4306,6 +4418,10 @@
  * **alugar** :: to rent (expression)
  * Quem alugou a casa da Maria? 
  * Who rented Maria's house? 
+----------
+ * **ontem** :: yesterday (adverb)
+ * Meu pai chegou de viagem ontem a noite. 
+ * My father arrived from his trip last night. 
 ----------
  * **feliz** :: happy (adjective)
  * Você está feliz? 
@@ -4315,6 +4431,10 @@
  * Preciso vender meu carro velho. 
  * I need to sell my old car. 
 ----------
+ * **passeio** :: a drive (noun)
+ * Vamos dar um passeio de carro. 
+ * Let's go for a drive. 
+----------
  * **escola de música** :: music academy (noun)
  * Ele estudou na escola de música de Viena. 
  * He studied at the music academy in Vienna. 
@@ -4322,6 +4442,10 @@
  * **ontem** :: yesterday (adverb)
  * Meu pai chegou de viagem ontem a noite. 
  * My father arrived from his trip last night. 
+----------
+ * **fazer** :: to do, to make (expression)
+ * O ônibus faz muito barulho. 
+ * The bus makes a lot of noise. 
 ----------
  * **estufa** :: greenhouse (noun)
  * Os cientistas estão preocupados com o Efeito Estufa. 
@@ -4331,6 +4455,10 @@
  * Vamos dar um passeio de carro. 
  * Let's go for a drive. 
 ----------
+ * **correr** :: to run (expression)
+ * Você correrá na maratona de São Silvestre? 
+ * Will you run the São Silvestre marathon? 
+----------
  * **tentativa** :: attempt (noun)
  * Ele falhou na tentativa de bater o recorde mundial. 
  * He failed in his attempt to beat the world record. 
@@ -4339,6 +4467,10 @@
  * O ônibus faz muito barulho. 
  * The bus makes a lot of noise. 
 ----------
+ * **parque** :: park (noun)
+ * Vamos levar as crianças no parque hoje a tarde. 
+ * Let's take the children to the park this afternoon. 
+----------
  * **discussão** :: argument (noun)
  * Tivemos uma discussão sobre dinheiro. 
  * We had an argument about money. 
@@ -4346,5 +4478,9 @@
  * **correr** :: to run (expression)
  * Você correrá na maratona de São Silvestre? 
  * Will you run the São Silvestre marathon? 
+----------
+ * **chamar** :: to call (expression)
+ * Pedro chamou seu primo para vir conosco. 
+ * Pedro called his cousin to come with us. 
 ----------
  # - end of file - 

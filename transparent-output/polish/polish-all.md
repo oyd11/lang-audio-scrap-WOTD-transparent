@@ -1,6 +1,6 @@
 # polish WOTD : 
 ----------
- 1086 phrases 
+ 1120 phrases 
 ----------
 ----------
  * **mdły** :: insipid (adjective)
@@ -15,6 +15,10 @@
  * Jutro muszę wstać o piątej rano. 
  * Tomorrow I have to get up at 5AM. 
 ----------
+ * **rzadko** :: rarely (adverb)
+ * Bardzo rzadko mamy okazję próbować nowych egzotycznych dań. 
+ * We rarely have a chance to try new exotic dishes. 
+----------
  * **przyszłość** :: the future (noun)
  * Cała przyszłość jest jeszcze przed nami. 
  * The whole future is ahead of us. 
@@ -26,6 +30,10 @@
  * **wczoraj** :: yesterday (adverb)
  * Zapomniałam, że wczoraj były jego urodziny. 
  * I forgot that yesterday was his birthday. 
+----------
+ * **czasem** :: sometimes (adverb)
+ * Czasem sama nie wiem co z nim zrobić. 
+ * Sometimes I don't know what to do with him. 
 ----------
  * **przeszłość** :: the past (noun)
  * Miała tak interesującą przeszłość, że zdecydowała się napisać o tym książkę. 
@@ -39,6 +47,10 @@
  * Kiedy się z nim spotykałam, zawsze przynosił mi kwiaty. 
  * When I used to see him, he always brought me flowers. 
 ----------
+ * **razem** :: together (adverb)
+ * Zaczęliśmy mieszkać razem dopiero po ślubie. 
+ * We started to live together only after getting married. 
+----------
  * **wejście** :: entrance (noun)
  * Jeśli ich nie ma, to zostaw tę paczkę przy wejściu do garażu. 
  * If they're not in, leave this package by the entrance to the garage. 
@@ -50,6 +62,10 @@
  * **rzadko** :: rarely (adverb)
  * Bardzo rzadko mamy okazję próbować nowych egzotycznych dań. 
  * We rarely have a chance to try new exotic dishes. 
+----------
+ * **już** :: already (adverb)
+ * Pracuję w tej samej firmie już ponad osiem lat. 
+ * I've been working for the same company for more than eight years already. 
 ----------
  * **wyjście** :: exit (noun)
  * Na wszelki wypadek zapamiętaj, gdzie jest wyjście ewakuacyjne. 
@@ -63,6 +79,10 @@
  * Czasem sama nie wiem co z nim zrobić. 
  * Sometimes I don't know what to do with him. 
 ----------
+ * **całkiem** :: fairly (adverb)
+ * Znam go całkiem dobrze i wiem, że nigdy by tego nie zrobił. 
+ * I know him fairly well, and he would never do that. 
+----------
  * **na pewno** :: certainly (adverb)
  * Nie martw się, on na pewno przyjdzie. 
  * Don't worry, he will certainly come. 
@@ -74,6 +94,10 @@
  * **razem** :: together (adverb)
  * Zaczęliśmy mieszkać razem dopiero po ślubie. 
  * We started to live together only after getting married. 
+----------
+ * **nadal** :: still (adverb)
+ * Nadal nie wiem, o co jej chodzi. 
+ * I still don't know what she meant. 
 ----------
  * **jutro** :: tomorrow (adverb)
  * Jutro muszę wstać o piątej rano. 
@@ -87,6 +111,10 @@
  * Pracuję w tej samej firmie już ponad osiem lat. 
  * I've been working for the same company for more than eight years already. 
 ----------
+ * **wszędzie** :: everywhere (adverb)
+ * Szukaliśmy jej wszędzie, ale nie mogliśmy jej znaleźć. 
+ * We looked for her everywhere, but we couldn't find her. 
+----------
  * **wczoraj** :: yesterday (adverb)
  * Zapomniałam, że wczoraj były jego urodziny. 
  * I forgot that yesterday was his birthday. 
@@ -98,6 +126,10 @@
  * **całkiem** :: fairly (adverb)
  * Znam go całkiem dobrze i wiem, że nigdy by tego nie zrobił. 
  * I know him fairly well, and he would never do that. 
+----------
+ * **teraz** :: now (adverb)
+ * Nie mam czasu, aby się tym teraz zajmować. 
+ * I don't have time to deal with it right now. 
 ----------
  * **zawsze** :: always (adverb)
  * Kiedy się z nim spotykałam, zawsze przynosił mi kwiaty. 
@@ -111,6 +143,10 @@
  * Nadal nie wiem, o co jej chodzi. 
  * I still don't know what she meant. 
 ----------
+ * **tymczasem** :: meanwhile (adverb)
+ * Oglądałaś telewizję, a tymczasem obiad się przypalał. 
+ * You were watching TV and meanwhile our dinner was getting burned. 
+----------
  * **rzadko** :: rarely (adverb)
  * Bardzo rzadko mamy okazję próbować nowych egzotycznych dań. 
  * We rarely have a chance to try new exotic dishes. 
@@ -122,6 +158,10 @@
  * **wszędzie** :: everywhere (adverb)
  * Szukaliśmy jej wszędzie, ale nie mogliśmy jej znaleźć. 
  * We looked for her everywhere, but we couldn't find her. 
+----------
+ * **przeciwnie** :: on the contrary (adverb)
+ * Nie jestem zła, wręcz przeciwnie, cieszę się, że przyszedłeś. 
+ * I'm not angry; on the contrary, I'm glad you came. 
 ----------
  * **czasem** :: sometimes (adverb)
  * Czasem sama nie wiem co z nim zrobić. 
@@ -135,6 +175,10 @@
  * Nie mam czasu, aby się tym teraz zajmować. 
  * I don't have time to deal with it right now. 
 ----------
+ * **Boże Narodzenie** :: Christmas (expression)
+ * W tym roku spędzę Boże Narodzenie w domu z rodziną. 
+ * This year I'm going to spend Christmas at home with family. 
+----------
  * **razem** :: together (adverb)
  * Zaczęliśmy mieszkać razem dopiero po ślubie. 
  * We started to live together only after getting married. 
@@ -146,6 +190,10 @@
  * **tymczasem** :: meanwhile (adverb)
  * Oglądałaś telewizję, a tymczasem obiad się przypalał. 
  * You were watching TV and meanwhile our dinner was getting burned. 
+----------
+ * **chyba** :: maybe (adverb)
+ * Chyba będziemy musieli zacząć z tym od początku. 
+ * Maybe we'll have to start with this from the beginning. 
 ----------
  * **już** :: already (adverb)
  * Pracuję w tej samej firmie już ponad osiem lat. 
@@ -159,6 +207,10 @@
  * Nie jestem zła, wręcz przeciwnie, cieszę się, że przyszedłeś. 
  * I'm not angry; on the contrary, I'm glad you came. 
 ----------
+ * **bardzo** :: very (adverb)
+ * Ostatnie wyniki były bardzo interesujące. 
+ * The latest results were very interesting. 
+----------
  * **całkiem** :: fairly (adverb)
  * Znam go całkiem dobrze i wiem, że nigdy by tego nie zrobił. 
  * I know him fairly well, and he would never do that. 
@@ -170,6 +222,10 @@
  * **Boże Narodzenie** :: Christmas (expression)
  * W tym roku spędzę Boże Narodzenie w domu z rodziną. 
  * This year I'm going to spend Christmas at home with family. 
+----------
+ * **trudny** :: difficult (adjective)
+ * Język polski nie jest trudnym językiem. 
+ * Polish is not a difficult language. 
 ----------
  * **nadal** :: still (adverb)
  * Nadal nie wiem, o co jej chodzi. 
@@ -183,6 +239,10 @@
  * Chyba będziemy musieli zacząć z tym od początku. 
  * Maybe we'll have to start with this from the beginning. 
 ----------
+ * **mieszkać** :: to live, to stay (verb)
+ * Ona mieszka w Gdańsku. 
+ * She lives in Gdańsk. 
+----------
  * **wszędzie** :: everywhere (adverb)
  * Szukaliśmy jej wszędzie, ale nie mogliśmy jej znaleźć. 
  * We looked for her everywhere, but we couldn't find her. 
@@ -194,6 +254,10 @@
  * **bardzo** :: very (adverb)
  * Ostatnie wyniki były bardzo interesujące. 
  * The latest results were very interesting. 
+----------
+ * **jesień** :: autumn (noun)
+ * Jesień jest w tym roku wyjątkowo zimna. 
+ * Autumn this year is exceptionally cold. 
 ----------
  * **teraz** :: now (adverb)
  * Nie mam czasu, aby się tym teraz zajmować. 
@@ -207,6 +271,10 @@
  * Język polski nie jest trudnym językiem. 
  * Polish is not a difficult language. 
 ----------
+ * **teściowa** :: mother-in-law (noun)
+ * Jej teściowa jest zaskakująco miłą osobą. 
+ * Her mother-in-law is a surprisingly nice person. 
+----------
  * **tymczasem** :: meanwhile (adverb)
  * Oglądałaś telewizję, a tymczasem obiad się przypalał. 
  * You were watching TV and meanwhile our dinner was getting burned. 
@@ -218,6 +286,10 @@
  * **mieszkać** :: to live, to stay (verb)
  * Ona mieszka w Gdańsku. 
  * She lives in Gdańsk. 
+----------
+ * **sąsiad** :: male neighbor (noun)
+ * Mamy bardzo miłych sąsiadów. 
+ * We have very nice neighbors. 
 ----------
  * **przeciwnie** :: on the contrary (adverb)
  * Nie jestem zła, wręcz przeciwnie, cieszę się, że przyszedłeś. 
@@ -231,41 +303,13 @@
  * Jesień jest w tym roku wyjątkowo zimna. 
  * Autumn this year is exceptionally cold. 
 ----------
- * **Boże Narodzenie** :: Christmas (expression)
- * W tym roku spędzę Boże Narodzenie w domu z rodziną. 
- * This year I'm going to spend Christmas at home with family. 
-----------
- * **trudny** :: difficult (adjective)
- * Język polski nie jest trudnym językiem. 
- * Polish is not a difficult language. 
-----------
- * **teściowa** :: mother-in-law (noun)
- * Jej teściowa jest zaskakująco miłą osobą. 
- * Her mother-in-law is a surprisingly nice person. 
-----------
- * **chyba** :: maybe (adverb)
- * Chyba będziemy musieli zacząć z tym od początku. 
- * Maybe we'll have to start with this from the beginning. 
-----------
- * **mieszkać** :: to live, to stay (verb)
- * Ona mieszka w Gdańsku. 
- * She lives in Gdańsk. 
-----------
- * **sąsiad** :: male neighbor (noun)
- * Mamy bardzo miłych sąsiadów. 
- * We have very nice neighbors. 
-----------
- * **bardzo** :: very (adverb)
- * Ostatnie wyniki były bardzo interesujące. 
- * The latest results were very interesting. 
-----------
- * **jesień** :: autumn (noun)
- * Jesień jest w tym roku wyjątkowo zimna. 
- * Autumn this year is exceptionally cold. 
-----------
  * **kupować** :: to buy (verb)
  * Nie chcemy kupować nowego samochodu. 
  * We don't want to buy a new car. 
+----------
+ * **Boże Narodzenie** :: Christmas (expression)
+ * W tym roku spędzę Boże Narodzenie w domu z rodziną. 
+ * This year I'm going to spend Christmas at home with family. 
 ----------
  * **trudny** :: difficult (adjective)
  * Język polski nie jest trudnym językiem. 
@@ -279,6 +323,10 @@
  * Moja siostra miała poważny wypadek. 
  * My sister had a serious accident. 
 ----------
+ * **chyba** :: maybe (adverb)
+ * Chyba będziemy musieli zacząć z tym od początku. 
+ * Maybe we'll have to start with this from the beginning. 
+----------
  * **mieszkać** :: to live, to stay (verb)
  * Ona mieszka w Gdańsku. 
  * She lives in Gdańsk. 
@@ -291,6 +339,10 @@
  * To był tylko żart. 
  * It was only a joke. 
 ----------
+ * **bardzo** :: very (adverb)
+ * Ostatnie wyniki były bardzo interesujące. 
+ * The latest results were very interesting. 
+----------
  * **jesień** :: autumn (noun)
  * Jesień jest w tym roku wyjątkowo zimna. 
  * Autumn this year is exceptionally cold. 
@@ -302,6 +354,54 @@
  * **czekać** :: to wait (verb)
  * Czekaliśmy na nią prawie dwie godziny. 
  * We waited for her for almost two hours. 
+----------
+ * **trudny** :: difficult (adjective)
+ * Język polski nie jest trudnym językiem. 
+ * Polish is not a difficult language. 
+----------
+ * **teściowa** :: mother-in-law (noun)
+ * Jej teściowa jest zaskakująco miłą osobą. 
+ * Her mother-in-law is a surprisingly nice person. 
+----------
+ * **poważny** :: serious (adjective)
+ * Moja siostra miała poważny wypadek. 
+ * My sister had a serious accident. 
+----------
+ * **cukierek** :: a piece of candy (noun)
+ * Nie lubię cukierków w czekoladzie. 
+ * I don't like chocolate covered candies. 
+----------
+ * **mieszkać** :: to live, to stay (verb)
+ * Ona mieszka w Gdańsku. 
+ * She lives in Gdańsk. 
+----------
+ * **sąsiad** :: male neighbor (noun)
+ * Mamy bardzo miłych sąsiadów. 
+ * We have very nice neighbors. 
+----------
+ * **tylko** :: only (adverb)
+ * To był tylko żart. 
+ * It was only a joke. 
+----------
+ * **gotować** :: to cook, to boil (verb)
+ * Co gotujesz dziś na obiad? 
+ * What are you cooking for dinner today? 
+----------
+ * **jesień** :: autumn (noun)
+ * Jesień jest w tym roku wyjątkowo zimna. 
+ * Autumn this year is exceptionally cold. 
+----------
+ * **kupować** :: to buy (verb)
+ * Nie chcemy kupować nowego samochodu. 
+ * We don't want to buy a new car. 
+----------
+ * **czekać** :: to wait (verb)
+ * Czekaliśmy na nią prawie dwie godziny. 
+ * We waited for her for almost two hours. 
+----------
+ * **oglądać** :: to watch (verb)
+ * Jego dzieciaki oglądają za dużo telewizji. 
+ * His kids watch too much TV. 
 ----------
  * **teściowa** :: mother-in-law (noun)
  * Jej teściowa jest zaskakująco miłą osobą. 
@@ -4283,6 +4383,10 @@
  * Wyszła za mąż za bogatego człowieka i żyła długo i szczęśliwie. 
  * She married a rich man and lived happily ever after. 
 ----------
+ * **mdły** :: insipid (adjective)
+ * Z powodu choroby serca, jego dieta była raczej mdła. 
+ * Due to his heart disease, his diet was rather insipid. 
+----------
  * **dumny** :: proud (adjective)
  * Jestem dumna z twoich osiągnięć. 
  * I'm proud of your accomplishments. 
@@ -4290,6 +4394,10 @@
  * **złośliwy** :: nasty (adjective)
  * Słyszałam kilka złośliwych uwag o tobie. 
  * I heard some nasty remarks about you. 
+----------
+ * **przyszłość** :: the future (noun)
+ * Cała przyszłość jest jeszcze przed nami. 
+ * The whole future is ahead of us. 
 ----------
  * **uważny** :: attentive (adjective)
  * Jako uważny czytelnik, zauważyłem kilka błędów w twoim tekście. 
@@ -4299,29 +4407,13 @@
  * Miał wiarygodne alibi, nic nie mogliśmy zrobić. 
  * He had a credible alibi; we couldn't do anything. 
 ----------
- * **bogaty** :: rich (adjective)
- * Wyszła za mąż za bogatego człowieka i żyła długo i szczęśliwie. 
- * She married a rich man and lived happily ever after. 
-----------
- * **mdły** :: insipid (adjective)
- * Z powodu choroby serca, jego dieta była raczej mdła. 
- * Due to his heart disease, his diet was rather insipid. 
-----------
- * **złośliwy** :: nasty (adjective)
- * Słyszałam kilka złośliwych uwag o tobie. 
- * I heard some nasty remarks about you. 
-----------
- * **przyszłość** :: the future (noun)
- * Cała przyszłość jest jeszcze przed nami. 
- * The whole future is ahead of us. 
-----------
- * **wiarygodny** :: credible (adjective)
- * Miał wiarygodne alibi, nic nie mogliśmy zrobić. 
- * He had a credible alibi; we couldn't do anything. 
-----------
  * **przeszłość** :: the past (noun)
  * Miała tak interesującą przeszłość, że zdecydowała się napisać o tym książkę. 
  * She had such an interesting past, she decided to write a book about it. 
+----------
+ * **bogaty** :: rich (adjective)
+ * Wyszła za mąż za bogatego człowieka i żyła długo i szczęśliwie. 
+ * She married a rich man and lived happily ever after. 
 ----------
  * **mdły** :: insipid (adjective)
  * Z powodu choroby serca, jego dieta była raczej mdła. 
@@ -4331,6 +4423,10 @@
  * Jeśli ich nie ma, to zostaw tę paczkę przy wejściu do garażu. 
  * If they're not in, leave this package by the entrance to the garage. 
 ----------
+ * **złośliwy** :: nasty (adjective)
+ * Słyszałam kilka złośliwych uwag o tobie. 
+ * I heard some nasty remarks about you. 
+----------
  * **przyszłość** :: the future (noun)
  * Cała przyszłość jest jeszcze przed nami. 
  * The whole future is ahead of us. 
@@ -4339,6 +4435,10 @@
  * Na wszelki wypadek zapamiętaj, gdzie jest wyjście ewakuacyjne. 
  * Just in case, remember where the emergency exit is. 
 ----------
+ * **wiarygodny** :: credible (adjective)
+ * Miał wiarygodne alibi, nic nie mogliśmy zrobić. 
+ * He had a credible alibi; we couldn't do anything. 
+----------
  * **przeszłość** :: the past (noun)
  * Miała tak interesującą przeszłość, że zdecydowała się napisać o tym książkę. 
  * She had such an interesting past, she decided to write a book about it. 
@@ -4346,5 +4446,41 @@
  * **na pewno** :: certainly (adverb)
  * Nie martw się, on na pewno przyjdzie. 
  * Don't worry, he will certainly come. 
+----------
+ * **mdły** :: insipid (adjective)
+ * Z powodu choroby serca, jego dieta była raczej mdła. 
+ * Due to his heart disease, his diet was rather insipid. 
+----------
+ * **wejście** :: entrance (noun)
+ * Jeśli ich nie ma, to zostaw tę paczkę przy wejściu do garażu. 
+ * If they're not in, leave this package by the entrance to the garage. 
+----------
+ * **jutro** :: tomorrow (adverb)
+ * Jutro muszę wstać o piątej rano. 
+ * Tomorrow I have to get up at 5AM. 
+----------
+ * **przyszłość** :: the future (noun)
+ * Cała przyszłość jest jeszcze przed nami. 
+ * The whole future is ahead of us. 
+----------
+ * **wyjście** :: exit (noun)
+ * Na wszelki wypadek zapamiętaj, gdzie jest wyjście ewakuacyjne. 
+ * Just in case, remember where the emergency exit is. 
+----------
+ * **wczoraj** :: yesterday (adverb)
+ * Zapomniałam, że wczoraj były jego urodziny. 
+ * I forgot that yesterday was his birthday. 
+----------
+ * **przeszłość** :: the past (noun)
+ * Miała tak interesującą przeszłość, że zdecydowała się napisać o tym książkę. 
+ * She had such an interesting past, she decided to write a book about it. 
+----------
+ * **na pewno** :: certainly (adverb)
+ * Nie martw się, on na pewno przyjdzie. 
+ * Don't worry, he will certainly come. 
+----------
+ * **zawsze** :: always (adverb)
+ * Kiedy się z nim spotykałam, zawsze przynosił mi kwiaty. 
+ * When I used to see him, he always brought me flowers. 
 ----------
  # - end of file - 

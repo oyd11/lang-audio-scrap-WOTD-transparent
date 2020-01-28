@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 1086 phrases 
+ 1120 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -15,6 +15,10 @@
  * Kötü bir gün geçiriyorsam, tüm Facebook arkadaşlarıma söylerim! 
  * When I have a bad day, I make sure all my Facebook friends know! 
 ----------
+ * **kule** :: tower (noun)
+ * Kız, şövalyesini kuleden görebiliyordu. 
+ * The maiden could see her knight from the tower. 
+----------
  * **brokoli** :: broccoli (noun)
  * Brokoliyi buharda pişirilmiş olarak mı, yoksa çiğ olarak mı tercih edersiniz? 
  * Do you prefer to steam broccoli or to eat it raw? 
@@ -26,6 +30,10 @@
  * **hediye** :: gift (noun)
  * Çocukların Noel hediyelerini açmalarını izlemek çok komik. 
  * It´s so funny to see children unwrapping their Christmas gifts. 
+----------
+ * **iş** :: work (noun)
+ * Burdaki işim bitti. 
+ * My work here is done. 
 ----------
  * **kaçırmak** :: to abduct (verb)
  * Dün gece rüyamda uzaylılar tarafından kaçırıldığımı gördüm. 
@@ -39,6 +47,10 @@
  * Kapıyı açmak için, güzel bir tekme atacaksın. 
  * To open that door, you need to give it a good kick. 
 ----------
+ * **asla** :: never (adverb)
+ * Seni asla bırakmayacağım. 
+ * I will never let you go. 
+----------
  * **yağmurlama sistemi** :: sprinkler (noun)
  * Yangın yayılmadı, çünkü yağmurlama sistemi aktifleşti. 
  * The fire did not spread because the sprinklers were activated. 
@@ -50,6 +62,10 @@
  * **kalemtıraş** :: pencil sharpener (noun)
  * Kalemtıraşını ödünç alabilir miyim? 
  * Can you lend me your pencil sharpener? 
+----------
+ * **gülümseme** :: smile (noun)
+ * "Teşekkür ederim" demek için en iyi yol bir gülümsemedir. 
+ * A smile is the best way to say "thank you". 
 ----------
  * **kayalık** :: cliff (noun)
  * İngiltere'ye ziyaretimiz sırasında, Dover kayalıklarını ziyaret ettik. 
@@ -63,6 +79,10 @@
  * İnsan hakları için savaşmaya devam etmemiz gerek. 
  * We have to keep on fighting for human rights. 
 ----------
+ * **kapı** :: door (noun)
+ * Kapıyı kapat lütfen, dışarısı soğuk. 
+ * Close the door please, it's cold outside. 
+----------
  * **aramak** :: to call (verb)
  * Bu akşam beni ararsan bir plan yaparız. 
  * If you call me tonight, we'll make plans then. 
@@ -74,6 +94,10 @@
  * **gevşetmek** :: to loosen (verb)
  * Oturup, kravatını gevşetti. 
  * He sat down and loosened his tie. 
+----------
+ * **intikam almak** :: to get revenge (expression)
+ * Olayın kurbanı, suç failinden intikam aldı. 
+ * The victim got revenge on the wrongdoer. 
 ----------
  * **uçuş kartı** :: boarding pass (noun)
  * Gişeye geldiğinizde, lütfen uçuş kartınız hazır olsun. 
@@ -87,6 +111,10 @@
  * Mangalda pişen balığı seviyorum. 
  * I like fish cooked on the grill. 
 ----------
+ * **hayal kırıklığı** :: disappointment (noun)
+ * Yenilgimizden dolayı, hayal kırıklığımı saklayamadım. 
+ * I couldn't hide my disappointment over the defeat. 
+----------
  * **ipucu vermek** :: to give a hint (verb)
  * Bana çok güzel bir ipucu verdi. 
  * He gave me a very good hint. 
@@ -98,6 +126,10 @@
  * **bataklık** :: swamp (noun)
  * Polis bataklıkta suçluyu bulamadı ama böcekleri buldu. 
  * The police didn't find the convict in the swamp, but the bugs did. 
+----------
+ * **yere inmek** :: to land (verb)
+ * Uçak yere inene kadar herkes yerinde oturmalı. 
+ * One should remain seated until the plane lands. 
 ----------
  * **arayüz** :: interface (noun)
  * Programın çok güzel bir kullanıcı arayüzü var. 
@@ -111,6 +143,10 @@
  * Çocukluğumda sahip olduğum boş zamanlarımı özlüyorum. 
  * I miss all the free time I had in childhood. 
 ----------
+ * **aksilik** :: mishap (noun)
+ * Hiçbir aksilik olmadan vardık. 
+ * We arrived without any mishap. 
+----------
  * **artık yıl** :: leap year (noun)
  * Gelecek yıl, artık yıl olacak. 
  * Next year is a leap year. 
@@ -122,6 +158,10 @@
  * **düşünceye dalmak** :: to be lost in thought (verb)
  * Ne dedin? Özür dilerim, düşünceye dalmışım. 
  * What did you say? I'm sorry, I was lost in thought. 
+----------
+ * **mide yanması** :: heartburn (noun)
+ * Endişe, mide yanmasına neden olabilir. 
+ * Anxiety can cause heartburn. 
 ----------
  * **manşet** :: headline (noun)
  * Bu sabah manşetleri gördün mü? 
@@ -135,6 +175,10 @@
  * Geleceğimi şansa bırakmıyorum. 
  * I will not leave my future up to chance. 
 ----------
+ * **tuvaletin sifonunu çekmek** :: to flush the toilet (expression)
+ * Tuvaletin sifonunu çekmeyi unutma. 
+ * Don't forget to flush the toilet. 
+----------
  * **Pazartesi** :: Monday (noun)
  * Sende Pazartesi gününün mahmurluğu var! 
  * Looks like someone has a case of the Mondays! 
@@ -146,6 +190,10 @@
  * **hastası olmak** :: to be crazy about (expression)
  * Bu şarkının hastasıyım! 
  * I'm crazy about this song! 
+----------
+ * **hile karıştırmak** :: to rig (verb)
+ * Seçime hile karıştırılmıştı. 
+ * The election was rigged. 
 ----------
  * **erimek** :: to melt (verb)
  * Kış mevsiminin karları çoktan eridi. 
@@ -159,6 +207,10 @@
  * Beni ektin! 
  * You stood me up! 
 ----------
+ * **soygun** :: robbery (noun)
+ * Polis soygun yerine geç ulaştı. 
+ * The police arrived late at the robbery scene. 
+----------
  * **taslak** :: draft (noun)
  * İlk taslak yarına hazır olacak. 
  * The first draft will be ready by tomorrow. 
@@ -170,6 +222,10 @@
  * **gerçek** :: truth (noun)
  * Gerçek orada. 
  * The truth is out there. 
+----------
+ * **yazıcı** :: printer (noun)
+ * Yazıcının kağıdı bitti. 
+ * The printer is out of paper. 
 ----------
  * **örümcek** :: spider (noun)
  * Banyo küvetinde bir örümcek var! En azından tertemiz olur. 
@@ -183,6 +239,10 @@
  * Hislerimiz hakkında konuşmamız gerek. 
  * We need to talk about our feelings. 
 ----------
+ * **hokkabaz** :: juggler (noun)
+ * Seyirciler hokkabazı alkışladı. 
+ * The audience applauded the juggler. 
+----------
  * **buzunu çözmek** :: to thaw (verb)
  * Hindiyi fırına atmadan önce, buzunu çözmeniz gerek. 
  * You have to thaw the turkey before putting it in the oven. 
@@ -194,6 +254,10 @@
  * **güzel görünmek** :: to look good (expression)
  * Ziyafet güzel görünüyor. 
  * This banquet looks good. 
+----------
+ * **ortaya çıkarmak** :: to reveal (verb)
+ * Soruşturma bir skandalı ortaya çıkardı. 
+ * The investigation revealed a scandal. 
 ----------
  * **yelkenli tekne** :: sailboat (noun)
  * Yelkenli tekneler, suyun üzerinde hareket etmek için rüzgar gücünden yararlanırlar. 
@@ -207,6 +271,10 @@
  * Meyveliğimden çık, yoksa köpekleri peşine salarım! 
  * Get out of my orchard or I´ll set the dogs on you! 
 ----------
+ * **anayol** :: highway (noun)
+ * Burası Ankara anayolu. 
+ * This is the highway to Ankara. 
+----------
  * **aynı fikirde olmak** :: to agree (verb)
  * Bu konuda sizinle aynı fikirdeyim. 
  * I agree with you on that issue. 
@@ -218,6 +286,10 @@
  * **tutkulu** :: passionate (adjective)
  * Tutkulu bir fotoğraçıyım. 
  * I'm a passionate photographer. 
+----------
+ * **müebbet hapis** :: life imprisonment (expression)
+ * Suçlu müebbet hapis cezasına çarptırıldı. 
+ * The criminal was sentenced to life imprisonment. 
 ----------
  * **rastgele** :: at random (expression)
  * Rastgele bir koltuk seçtik. 
@@ -231,6 +303,10 @@
  * Beyaz kıyafet giymeyi sevmiyorum. 
  * I don't like to wear white clothes. 
 ----------
+ * **esnemek** :: to yawn (verb)
+ * Öğle yemeğinden sonra, esnemeden duramıyorum. 
+ * After lunch, I can't stop yawning. 
+----------
  * **gücendirmek** :: to offend (verb)
  * Sizi gücendirmek istemedim. 
  * I didn't mean to offend you. 
@@ -242,6 +318,10 @@
  * **paraşüt** :: parachute (noun)
  * Eğer paraşüt açılmazsa ne olur? 
  * What would happen if the parachute doesn't open? 
+----------
+ * **aptal** :: fool (noun)
+ * Şu aptala bak. Gazeteyi başaşağı okuyor. 
+ * Check this fool out. He's reading the newspaper but it's upside down. 
 ----------
  * **otomobil bayii** :: car dealership (noun)
  * Aradığım model, yerel otomobil bayiinde yok. 
@@ -255,6 +335,10 @@
  * Oğlunuz mu? Ne hoş! 
  * Is that your son? How cute! 
 ----------
+ * **oyuncak ayı** :: teddy bear (noun)
+ * Okula oyuncak ayı getirilemez. 
+ * Bringing teddy bears to school is not allowed. 
+----------
  * **keçi sakal** :: goatee (noun)
  * Keçi sakalıyla biraz uğursuz görünüyor. 
  * He looks kind of sinister with a goatee. 
@@ -266,6 +350,10 @@
  * **ördek yavrusu** :: duckling (noun)
  * Çirkin ördek yavrusu, büyüyünce güzel bir kuğu oldu. 
  * The ugly duckling grew up to be a beautiful swan. 
+----------
+ * **övgü** :: praise (noun)
+ * Hareketleri övgüye değerdi. 
+ * Her deeds were praiseworthy. 
 ----------
  * **ceset** :: corpse (noun)
  * Polis olay yerinde iki ceset buldu. 
@@ -279,6 +367,10 @@
  * Arabayı çalıştıramıyorum. 
  * I can't start the car. 
 ----------
+ * **kalp** :: heart (noun)
+ * Kalbim duraksadı. 
+ * My heart skipped a beat. 
+----------
  * **seçmek** :: to select (verb)
  * Ana menüden, "seçenekler"i seçin. 
  * From the main menu, select "options". 
@@ -291,6 +383,10 @@
  * Apple'ın yeni ürünü ne harika! 
  * How cool is Apple's new product! 
 ----------
+ * **insanlar** :: people (noun)
+ * Bu insanlarla çalışamam! 
+ * I can't work with these people! 
+----------
  * **kötü şans** :: bad luck (expression)
  * Eğer kötü şans da olmasaydı, hiç şansım olmazdı! 
  * If it weren't for bad luck, I'd have no luck at all! 
@@ -302,6 +398,10 @@
  * **saç kurutma makinası** :: hairdryer (noun)
  * Eğer saç kurutma makinası kullanmazsam saçım güzel durmuyor. 
  * If I don't use a hairdryer my hair won't look good. 
+----------
+ * **tepesi atmak** :: to freak out (expression)
+ * Tepen atmasın ama, tüm birikmiş paramızı poker oyununda kaybettim. 
+ * Don't freak out, but I just lost our entire savings in a poker game. 
 ----------
  * **karaciğer** :: liver (noun)
  * Alkol karaciğere zararlıdır. 
@@ -4283,6 +4383,10 @@
  * Çatışmalar bazen örtüşen görev dağılımı yüzünden olur. 
  * Sometimes conflicts arise from overlapping job duties. 
 ----------
+ * **anahtarlar** :: keys (noun)
+ * Yine anahtarlarımı kaybettim. 
+ * I have lost my keys again. 
+----------
  * **okul yılı** :: school year (noun)
  * Her sonbaharda yeni bir okul yılı başlar. 
  * Every fall, the school year begins anew. 
@@ -4290,6 +4394,10 @@
  * **düşünmek** :: to think (noun)
  * Kalıpların dışında düşünmeliyiz. 
  * We need to think outside the box. 
+----------
+ * **tehlike** :: danger (noun)
+ * Bu hayvanlar nesli tükenme tehlikesiyle karşı karşıya. 
+ * These are animals in danger of extinction. 
 ----------
  * **çekirge** :: grasshopper (noun)
  * Öğrenecek çok şeyin var, çekirge. 
@@ -4299,6 +4407,10 @@
  * Düğün misafirlerimiz gelmeye başladı! 
  * Our wedding guests are starting to arrive! 
 ----------
+ * **gerekmek** :: to require (verb)
+ * Bazı günler, diğer günlere nazaran daha fazla kahve gerekiyor. 
+ * Some days require more coffee than others. 
+----------
  * **anekdot** :: anecdote (noun)
  * Dedem yüzlerce anekdot biliyor. 
  * My grandfather knows hundreds of anecdotes. 
@@ -4306,6 +4418,10 @@
  * **dikkat etmek** :: to be careful (expression)
  * Yabani filleri kızdırmamaya dikkat et. 
  * Be careful not to anger the wild elephants. 
+----------
+ * **pişirmek** :: to cook (verb)
+ * Şarapla yemek pişirmeyi seviyorum. 
+ * I love to cook with wine. 
 ----------
  * **duyurmak** :: to announce (verb)
  * Kimin kazandığını yarın duyuracaklar. 
@@ -4315,6 +4431,10 @@
  * Facebook profilimi ziyaret et. 
  * Visit my Facebook profile. 
 ----------
+ * **ağır** :: heavy (adjective)
+ * Bavulum öyle ağır ki, taşıyamıyorum. 
+ * My suitcase is so heavy I can´t carry it. 
+----------
  * **kaz** :: goose (noun)
  * Göletin yakınında iki gürültücü kaz yaşıyor. 
  * Two noisy geese live near the pond. 
@@ -4322,6 +4442,10 @@
  * **zeka** :: mind (noun)
  * Analitik bir zekası var. 
  * He's got an analytical mind. 
+----------
+ * **biri** :: somebody (noun)
+ * Biri bana ne zaman istasyona varacağımızı söyleyebilir mi? 
+ * Can somebody tell me when we will arrive at the station? 
 ----------
  * **gümüş** :: silver (noun)
  * Gümüşün sorunu, çok çabuk kararmasıdır. 
@@ -4331,6 +4455,10 @@
  * Seninle sohbet etmek bir zevkti. 
  * It's been a pleasure chatting with you. 
 ----------
+ * **göstermek** :: to show (verb)
+ * Nerede olduğunu sana göstereceğim. 
+ * I'll show you where it happened. 
+----------
  * **havai fişekler** :: fireworks (noun)
  * Havai fişekler, gece gökyüzünü aydınlattı. 
  * Fireworks lit the night sky. 
@@ -4339,6 +4467,10 @@
  * Hiç haber olmaması, iyi haber demektir. 
  * No news is good news. 
 ----------
+ * **hata** :: fault (noun)
+ * Bu benim hatam değil. 
+ * It is not my fault. 
+----------
  * **araba** :: car (noun)
  * Arabayı nereye park ettin? 
  * Where did you park the car? 
@@ -4346,5 +4478,9 @@
  * **silindir şapka** :: top hat (noun)
  * Beyzade, eldivenlerini ve silindir şapkasını çıkardı. 
  * The gentleman took off his gloves and top hat. 
+----------
+ * **cehennem** :: hell (noun)
+ * Sence cehennem çok kötü bir yer mi olacak? 
+ * Do you think that hell will be such a bad place? 
 ----------
  # - end of file - 

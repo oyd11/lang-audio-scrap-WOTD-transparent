@@ -1,6 +1,6 @@
 # russian WOTD : 
 ----------
- 1086 phrases 
+ 1120 phrases 
 ----------
 ----------
  * **пригорать** :: to burn (verb)
@@ -15,6 +15,10 @@
  * У меня́ не жизнь, а неразбери́ха, и я не зна́ю, что де́лать. 
  * My life is a mess and I don't know what to do. 
 ----------
+ * **наприме́р** :: for example (phrase)
+ * Я люблю́ зи́мние ви́ды спо́рта, наприме́р ката́ние на лы́жах. 
+ * I like winter sports, for example skiing. 
+----------
  * **конюшня** :: stable (noun)
  * Их лошади живут на конюшне. 
  * Their horses live in the stable. 
@@ -26,6 +30,10 @@
  * **щеголя́ть/щегольну́ть** :: to show off, to flaunt (verb)
  * Он так поступи́л, то́лько что́бы щегольну́ть пе́ред друзья́ми. 
  * He did it just to show off in front of his friends. 
+----------
+ * **сли́шком** :: too, excessively (adverb)
+ * Э́тот подъём сли́шком круто́й — пойдём в обхо́д! 
+ * This ascent is too steep; let's go around. 
 ----------
  * **шампанское** :: champagne (noun)
  * Несите шампанское, а мы принесём клубнику. 
@@ -39,6 +47,10 @@
  * Я не заме́тил приближа́вшуюся ста́ю волко́в. 
  * I failed to notice the approaching pack of wolves. 
 ----------
+ * **бе́рег** :: shore, bank (noun)
+ * По бе́регу мо́ря ходи́ли ча́йки. 
+ * Seagulls were walking on the seashore. 
+----------
  * **заманчивый** :: attractive (adjective)
  * Признаюсь, это заманчивое предложение. 
  * I admit, it is an attractive offer. 
@@ -50,6 +62,10 @@
  * **счастли́вый** :: happy (adjective)
  * Вы сча́стливы? 
  * Are you happy? 
+----------
+ * **сле́дующий** :: next (adjective)
+ * Сле́дующий авто́бус придёт че́рез полчаса́. 
+ * The next bus comes in half an hour. 
 ----------
  * **начальник** :: boss (noun)
  * Начальник обходится с нами вежливо. 
@@ -63,6 +79,10 @@
  * Учёные обеспоко́ены по по́воду парнико́вого эффе́кта. 
  * Scientists worry about the Greenhouse Effect. 
 ----------
+ * **ве́рить/пове́рить** :: to believe (verb)
+ * Ты ве́ришь в уда́чу? 
+ * Do you believe in luck? 
+----------
  * **лошадь** :: horse (noun)
  * Я всмотрелась и увидела прямо передо собой лошадь. 
  * I looked, and before me was a horse! 
@@ -74,6 +94,10 @@
  * **попы́тка** :: attempt (noun)
  * Его́ попы́тка поби́ть мирово́й реко́рд не удала́сь. 
  * He failed in his attempt to beat the world record. 
+----------
+ * **немно́го** :: a little bit (adverb)
+ * Отдохнём немно́го, нам ещё до́лго идти́. 
+ * Let's rest a bit; we have a long walk ahead of us. 
 ----------
  * **сидр** :: cider (noun)
  * Они продают сладкий яблочный сидр. 
@@ -87,6 +111,10 @@
  * У нас был спор и́з-за де́нег. 
  * We had an argument about money. 
 ----------
+ * **по́мощь** :: help (noun)
+ * Мы обрати́лись за по́мощью в больни́цу. 
+ * We went to the hospital to ask for help. 
+----------
  * **альбом на память** :: scrapbook (noun)
  * Я сделала альбом на память о нашем отпуске. 
  * I made a scrapbook of our last vacation. 
@@ -98,6 +126,10 @@
  * **пове́стка дня** :: agenda (phrase)
  * Шесто́й пункт пове́стки дня о́чень интере́сен. 
  * The sixth item on the agenda looks very interesting. 
+----------
+ * **поря́док** :: order (noun)
+ * Зая́вки обраба́тываются в поря́дке поступле́ния. 
+ * Applications are processed in the order they were submitted. 
 ----------
  * **сигара** :: cigar (noun)
  * Сигары являются одним из основных экспортных товаров Кубы. 
@@ -111,6 +143,10 @@
  * До́ктор проинструкти́ровал её о том, как уха́живать за ребёнком. 
  * The doctor advised her how to take care of her baby. 
 ----------
+ * **знако́мый** :: acquaintance (noun)
+ * Я уви́дел не́скольких знако́мых на твоём дне рожде́ния. 
+ * I saw several acquaintances at your birthday party. 
+----------
  * **обнять** :: to hug (verb)
  * Девочка обняла плюшевого мишку. 
  * The young girl hugged her teddy bear. 
@@ -122,6 +158,10 @@
  * **начина́ть/нача́ть** :: to start (verb)
  * Мы реши́ли нача́ть но́вую жизнь с понеде́льника. 
  * We've resolved to start a new life on Monday. 
+----------
+ * **гусеница** :: caterpillar (noun)
+ * Гу́сеница преврати́лась в ба́бочку. 
+ * The caterpillar turned into a butterfly. 
 ----------
  * **разделывать** :: to carve (verb)
  * Он разделал жареное мясо с точностью и умением хирурга. 
@@ -135,6 +175,10 @@
  * Она́ написа́ла свою́ пе́рвую кни́гу в 20 лет. 
  * She wrote her first book when she was 20. 
 ----------
+ * **сон** :: dream, sleep (noun)
+ * Ты по́мнишь свои́ сны? 
+ * Do you remember your dreams? 
+----------
  * **рассказать по памяти** :: to recite (verb)
  * Ты можешь рассказать по памяти это старое стихотворение? 
  * Can you recite the old poem? 
@@ -146,6 +190,10 @@
  * **представля́ть/предста́вить** :: to introduce (verb)
  * Я хоте́ла бы предста́вить сле́дующего докла́дчика. 
  * I'd like to introduce our next speaker. 
+----------
+ * **при́знак** :: sign (noun)
+ * Смех без причи́ны — при́знак дурачи́ны. 
+ * Laughter for no good reason is a sign of folly. 
 ----------
  * **вопрос** :: question (noun)
  * Пожалуйста, честно ответь на этот вопрос. 
@@ -159,6 +207,10 @@
  * Её ве́рсия происходя́щего не совпада́ет с действи́тельностью. 
  * Her version of the events does not match up with the truth. 
 ----------
+ * **уме́ть** :: to know how to do something (verb)
+ * Ты уме́ешь пла́вать? 
+ * Can you swim? 
+----------
  * **зубной врач** :: dentist (phrase)
  * Я была у зубного врача тысячу раз, так что я знаю всю процедуру. 
  * I've been to the dentist a thousand times, so I know the drill. 
@@ -170,6 +222,10 @@
  * **прекраща́ть/прекрати́ть** :: to stop (verb)
  * Кана́л прекрати́л пока́з сериа́ла. 
  * The channel has stopped broadcasting the series. 
+----------
+ * **происходи́ть/произойти́** :: to happen (verb)
+ * Что с тобо́й произошло́? 
+ * What happened to you? 
 ----------
  * **рисовать** :: to draw (verb)
  * Художник нарисовал отличный эскиз. 
@@ -183,6 +239,10 @@
  * Я сейча́с не могу́ боле́ть, ведь мой о́тпуск начина́ется за́втра! 
  * I can't be sick now, my vacation starts tomorrow! 
 ----------
+ * **о́бщество** :: society (noun)
+ * О́бщество гото́во к переме́нам. 
+ * Society is ready for change. 
+----------
  * **повреждать** :: to damage (verb)
  * Не повреди коробку. 
  * Do not damage the package. 
@@ -194,6 +254,10 @@
  * **коне́чно** :: of course (adverb)
  * Коне́чно, я согла́сна с те́ми, кто так говори́т. 
  * Certainly, I agree with those who say that. 
+----------
+ * **мочь/смочь** :: to be able (verb)
+ * Вы мо́жете подъе́хать к пяти́ часа́м? 
+ * Can you come around five o'clock? 
 ----------
  * **разница** :: difference (noun)
  * Всего один день, а какая разница! 
@@ -207,6 +271,10 @@
  * Э́то краси́вая страна́. 
  * This is a beautiful country. 
 ----------
+ * **ти́хо** :: quietly (adverb)
+ * Преподава́тель говори́л так ти́хо, что мы е́ле его́ слы́шали. 
+ * The professor was speaking so quietly that we could barely hear him. 
+----------
  * **делить** :: to divide (verb)
  * Давайте поделим торт на равные части. 
  * Let's divide the cake into equal parts. 
@@ -218,6 +286,10 @@
  * **обма́нывать/обману́ть** :: to deceive (verb)
  * Ты ду́маешь, ты мо́жешь меня́ обману́ть? Поду́май хороше́нько! 
  * Do you think you can fool me? Think again! 
+----------
+ * **возмо́жность** :: opportunity (noun)
+ * Два́дцать лет наза́д мне вы́пала возмо́жность познако́миться с э́тим писа́телем. 
+ * Twenty years ago I got an opportunity to meet this writer. 
 ----------
  * **дарить** :: to give (verb)
  * Что ты ей подарил на день рождения? 
@@ -231,6 +303,10 @@
  * Мне нра́вятся во́лны Чёрного мо́ря. 
  * I like the waves of the Black Sea. 
 ----------
+ * **ча́сто** :: often (adverb)
+ * Здесь ча́сто иду́т дожди́. 
+ * It rains often here. 
+----------
  * **сомневаться** :: to doubt (verb)
  * Я сомневаюсь в точности этих измерений. 
  * I doubt the accuracy of the measurements. 
@@ -242,6 +318,10 @@
  * **доверя́ть** :: to trust somebody (verb)
  * Он меня́ всегда́ обма́нывает. Я ему́ не доверя́ю. 
  * He always deceives me; I don't trust him. 
+----------
+ * **о́чередь** :: queue, line (noun)
+ * О́чередь растяну́лась на весь кварта́л. 
+ * The line stretched all the way down the block. 
 ----------
  * **принимать душ** :: to take a shower (expression)
  * Ты можешь принять душ в ванной наверху. 
@@ -255,6 +335,10 @@
  * Про́шлой но́чью поли́ция арестова́ла карма́нника. 
  * The police arrested a pick-pocket last night. 
 ----------
+ * **ве́тер** :: wind (noun)
+ * Ве́тер опроки́нул цвето́чные горшки́. 
+ * The wind knocked down the flower pots. 
+----------
  * **объяснять** :: to explain (verb)
  * Объясни мне решение ещё разок. 
  * Explain the solution to me one more time. 
@@ -266,6 +350,10 @@
  * **зану́да** :: bore (noun)
  * Э́тот учи́тель был таки́м зану́дой. 
  * This teacher was such a bore. 
+----------
+ * **собира́ться/собра́ться** :: to be going to (verb)
+ * Ты собира́ешься поступа́ть в университе́т? 
+ * Are you going to apply to go to university? 
 ----------
  * **чуждый** :: alien (adjective)
  * Наверное, наши обычаи для вас чуждые. 
@@ -279,6 +367,10 @@
  * При просту́де еда́ мо́жет показа́ться безвку́сной. 
  * Food seems tasteless when one has a cold. 
 ----------
+ * **ка́мень** :: stone, rock (noun)
+ * На камня́х сиде́ли я́щерицы. 
+ * There were lizards sitting on the rocks. 
+----------
  * **пример** :: example (noun)
  * Лучший пример тот, который подаёшь сам. 
  * It's always best to lead by example. 
@@ -291,6 +383,10 @@
  * Я не в настрое́нии для шу́ток. 
  * I'm not in the mood for jokes. 
 ----------
+ * **еди́нственный** :: only (adjective)
+ * Ты еди́нственный ребёнок в семье́? 
+ * Are you the only child in your family? 
+----------
  * **выбирать** :: to choose (verb)
  * Выбери любую карту. 
  * Choose a card, any card. 
@@ -302,6 +398,10 @@
  * **держа́ть/подержа́ть** :: to hold (verb)
  * Подержи́-ка э́ту у́дочку. 
  * Hold this fishing pole a moment. 
+----------
+ * **мо́ре** :: sea (noun)
+ * Дава́й ле́том пое́дем на мо́ре! 
+ * Let's go to the seaside in the summer! 
 ----------
  * **энергичный** :: energetic (adjective)
  * Моя бабушка - очень энергичный человек. 
@@ -4283,6 +4383,10 @@
  * Мо́ре поглоти́ло кора́бль. 
  * The sea swallowed the ship. 
 ----------
+ * **успева́ть/успе́ть** :: to make it in time for something (verb)
+ * Мы успе́ем на по́езд? 
+ * Will we make it on the train? 
+----------
  * **неудачник** :: loser (noun)
  * Не дружи с ними. Они все неудачники. 
  * Don't be friends with them. They are losers. 
@@ -4290,6 +4394,10 @@
  * **побежда́ть/победи́ть** :: to defeat, to win (a fight or contest) (verb)
  * На́ши друзья́ помогли́ нам победи́ть враго́в. 
  * Our friends helped us defeat our enemies. 
+----------
+ * **продолжа́ть/продо́лжить** :: to continue (verb)
+ * Учёный продо́лжил свои́ иссле́дования за грани́цей. 
+ * The scientist continued his research abroad. 
 ----------
  * **несмотря на** :: in spite of (adverb)
  * Несмотря на проблемы, шоу должно продолжаться. 
@@ -4299,6 +4407,10 @@
  * Мо́жет быть, э́то и трущо́ба, но э́то мой дом. 
  * It may be a slum, but it's home. 
 ----------
+ * **письмо́** :: letter (correspondence) (noun)
+ * Ты ча́сто получа́ешь пи́сьма? 
+ * Do you get letters often? 
+----------
  * **следовать** :: to follow (verb)
  * Я следую за Вилом Виттоном на Твиттере. Кто же не делает этого? 
  * I follow Wil Wheaton on Twitter. Who doesn't? 
@@ -4306,6 +4418,10 @@
  * **скуча́ть** :: to miss (phrase)
  * Я скуча́ю по бра́тьям. 
  * I miss my brothers. 
+----------
+ * **появи́ться/появля́ться** :: to appear (verb)
+ * Пе́рвое Интерне́т-кафе́ появи́лось в Росси́и в 1995 году. 
+ * The first Internet café appeared in Russia in 1995. 
 ----------
  * **Ты смеёшься?** :: Are you kidding? (expression)
  * Не верю этому. Ты что, смеёшься? 
@@ -4315,6 +4431,10 @@
  * Я люблю́ слу́шать шёпот ве́тра в кро́нах дере́вьев. 
  * I love to hear the wind whisper through the trees. 
 ----------
+ * **во́здух** :: air (noun)
+ * Защи́тники приро́ды бо́рются за чи́стый во́здух. 
+ * Environmental activists fight for clean air. 
+----------
  * **время от времени** :: from time to time (expression)
  * Время от времени я хожу на пляж. 
  * I go to the beach from time to time. 
@@ -4322,6 +4442,10 @@
  * **на откры́том во́здухе** :: in the open (phrase)
  * Мы спа́ли на откры́том во́здухе, под звёздами. 
  * We slept in the open, under the stars. 
+----------
+ * **отноше́ние** :: attitude (noun)
+ * Е́сли не мо́жешь измени́ть обстоя́тельства, измени́ своё отноше́ние к ним. 
+ * If you cannot change your circumstances, change your attitude. 
 ----------
  * **кров** :: shelter (noun)
  * Кров - одна из трёх основных потребностей. 
@@ -4331,6 +4455,10 @@
  * Я наде́юсь, что все мои́ друзья́ приду́т! 
  * I hope all my friends will come! 
 ----------
+ * **пыта́ться/попыта́ться** :: to try (verb)
+ * Она́ до́лго пыта́лась опубликова́ть свой рома́н. 
+ * She tried for a long time to get her novel published. 
+----------
  * **восстание** :: uprising (noun)
  * Восстание повлекло необходимые социальные перемены. 
  * The uprising brought about the needed social changes. 
@@ -4339,6 +4467,10 @@
  * В э́том рестора́не прошло́ на́ше пе́рвое свида́ние. 
  * Our first date was in this restaurant. 
 ----------
+ * **вспомина́ть/вспо́мнить** :: to remember (verb)
+ * Ника́к не вспо́мню, где́ я его́ ви́дела. 
+ * I just can't remember where I saw him. 
+----------
  * **дежурить** :: to be on duty (verb)
  * В этот выходной я пойти не могу. Я дежурю. 
  * I can't go this weekend, I am on duty. 
@@ -4346,5 +4478,9 @@
  * **мэр** :: mayor (noun)
  * Он да́же не зна́ет, кто мэр его́ родно́го го́рода! 
  * He doesn't even know who the mayor of his hometown is! 
+----------
+ * **находи́ться** :: to be located (verb)
+ * Штаб-кварти́ра ООН нахо́дится в Нью-Йо́рке. 
+ * The UN headquarters is located in New York. 
 ----------
  # - end of file - 

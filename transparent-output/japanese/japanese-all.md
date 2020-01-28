@@ -1,6 +1,6 @@
 # japanese WOTD : 
 ----------
- 1086 phrases 
+ 1120 phrases 
 ----------
 ----------
  * **コラボ** :: collaboration (noun)
@@ -21,6 +21,12 @@
  * Douitashimashite. Mata nanika attara itte kudasai. 
  * You are welcome. If there is anything I can do, please let me know. 
 ----------
+ * **おやすみなさい** :: Good night. (expression)
+ * **oyasuminasai** 
+ * 夜は「さようなら」じゃなくて「おやすみなさい」と言います。 
+ * Yoru wa sayounara janakute "oyasuminasai" to iimasu. 
+ * At night, we say "Oyasuminasai" instead of "Sayoonara" 
+----------
  * **傘** :: umbrella (noun)
  * **kasa** 
  * 雨が降りそうだから、傘を持って行った方がいいよ。 
@@ -38,6 +44,12 @@
  * コンビニでお昼ご飯を買った。 
  * Konbini de ohiru o katta. 
  * I bought lunch at a convenience store. 
+----------
+ * **ファザコン** :: father complex (noun)
+ * **fazakon** 
+ * ゆうこはファザコンだね。 
+ * Yuuko wa fazakon dane. 
+ * Yuko has a father complex. 
 ----------
  * **礼金** :: key money (noun)
  * **reikin** 
@@ -57,6 +69,12 @@
  * Keshigomu wo kashite kudasai. 
  * May I borrow an eraser? 
 ----------
+ * **素人** :: amateur (noun)
+ * **shirouto** 
+ * あの役者は素人だね。 
+ * Ano yakusha wa shirouto dane. 
+ * That actor is an amateur. 
+----------
  * **土産** :: souvenir (noun)
  * **miyage** 
  * 旅行の後は、友達にお土産を忘れないで。 
@@ -74,6 +92,12 @@
  * ちょっと、電気つけて。 
  * Chotto, denki tsukete. 
  * Please turn on the electricity. 
+----------
+ * **磨く** :: to brush (verb)
+ * **migaku** 
+ * 歯を磨いた後でベッドに入った。 
+ * Ha o migaita atode beddo ni haitta. 
+ * After brushing my teeth, I went to bed. 
 ----------
  * **懐かしい** :: to remind oneself of (adjective)
  * **natsukashii** 
@@ -93,6 +117,12 @@
  * Ano eiga wa sugoi yo. 
  * That movie is great. 
 ----------
+ * **習う** :: to learn (verb)
+ * **narau** 
+ * ピアノを習っています。 
+ * Piano o naratte imasu. 
+ * I am learning to play piano. 
+----------
  * **菓子** :: sweets (noun)
  * **kashi** 
  * お菓子を食べすぎないで。 
@@ -110,6 +140,12 @@
  * フランスに行きたいけど、飛行機代が高すぎて行けない。 
  * Furansu ni ikitai kedo hikoukidai ga takasugite ikenai. 
  * I want to go to France but the airplane ticket is too expensive to go. 
+----------
+ * **癒す** :: to feel better (verb)
+ * **iyasu** 
+ * 子供といると癒されます。 
+ * Kodomo to iruto iyasaremasu. 
+ * When I am with children, I feel better. 
 ----------
  * **幸せ** :: happiness (adjective)
  * **shiawase** 
@@ -129,6 +165,12 @@
  * Nihon ni iku nowa yasukunai. 
  * Going to Japan is not cheap. 
 ----------
+ * **キレる** :: to flip out (verb)
+ * **kireru** 
+ * 最近の若者はきれやすい。 
+ * Saikin no wakamono wa kireyasui. 
+ * Young people today flip out easily. 
+----------
  * **古い** :: old (adjective)
  * **furui** 
  * あのおじいさんの考え方は古い。 
@@ -146,6 +188,12 @@
  * 温室効果ガスの大部分は二酸化炭素だ。 
  * Onshitsukoukagasu no daibubun wa nisankatanso da. 
  * The majority of greenhouse gas is carbon dioxide. 
+----------
+ * **チャリ** :: bicycle (noun)
+ * **chari** 
+ * チャリで通勤しています。 
+ * Chari de tsuukin shiteimasu. 
+ * I go to work by bicycle. 
 ----------
  * **定年** :: retirement (noun)
  * **teinen** 
@@ -165,6 +213,12 @@
  * Nisankatanso no haishuturyou o herasanakereba naranai. 
  * We must reduce carbon dioxide emissions. 
 ----------
+ * **まじ** :: seriously (adverb)
+ * **maji** 
+ * その映画はまじでおもしろい。 
+ * Sono eiga wa maji de omoshiroi. 
+ * That movie is seriously funny. 
+----------
  * **願書** :: application (noun)
  * **gansho** 
  * 願書の締め切りは明日です。 
@@ -182,6 +236,12 @@
  * 姉は左利きです。 
  * Ane wa hidarikiki desu. 
  * My sister is left-handed. 
+----------
+ * **マフラー** :: scarf (noun)
+ * **mafurâ** 
+ * 寒いから、マフラーをして行った方がいいよ。 
+ * Samui kara mafurâ o shiteitta houga iiyo. 
+ * Because it is cold, you had better wear a scarf. 
 ----------
  * **稼ぐ** :: to earn money (verb)
  * **kasegu** 
@@ -201,6 +261,12 @@
  * Ijime wa ookina mondai da. 
  * Bullying is a big problem. 
 ----------
+ * **引きこもり** :: withdrawing from society (noun)
+ * **hikikomori** 
+ * 弟は中学の時から引きこもりです。 
+ * Otouto wa chuugaku no toki kara hikikomori desu. 
+ * My brother has withdrawn from society since middle school. 
+----------
  * **足りる** :: to be enough (verb)
  * **tariru** 
  * これだけじゃ足りないです。 
@@ -218,6 +284,12 @@
  * 彼ができました。 
  * Kare ga dekimashita. 
  * I have a new boyfriend. 
+----------
+ * **初心者** :: beginner (noun)
+ * **shoshinsha** 
+ * ゴルフの初心者なので、まだ下手です。 
+ * Gorufu no shoshinsha nanode mada heta desu. 
+ * I am a golf beginner, so I play poorly. 
 ----------
  * **まずい** :: not tasty (adjective)
  * **mazui** 
@@ -237,6 +309,12 @@
  * Kanojo to dêto shimashita. 
  * I went on a date with my girlfriend. 
 ----------
+ * **トラウマ** :: trauma (noun)
+ * **torauma** 
+ * 子供の時にいじめられたことが、トラウマになっている。 
+ * Kodomo no toki ni ijimerareta koto ga, torauma ni natteiru. 
+ * He has a trauma from being bullied as a child. 
+----------
  * **携帯** :: cell phone (noun)
  * **keitai** 
  * 携帯はとても便利です。 
@@ -254,6 +332,12 @@
  * すっぴんで仕事にいけない。 
  * Suppin de shigoto ni ikenai. 
  * I cannot go to work without makeup. 
+----------
+ * **よいしょする** :: to flatter (verb)
+ * **yoisho suru** 
+ * 社長によいしょしておいたほうがいい。 
+ * Shachou ni yoisho shite oita houga ii. 
+ * You'd better flatter the president. 
 ----------
  * **やる** :: to water (verb)
  * **yaru** 
@@ -273,6 +357,12 @@
  * Famiresu de ocha shinai? 
  * Why don't we have tea at a family restaurant? 
 ----------
+ * **天才** :: genius (noun)
+ * **tensai** 
+ * 母は料理の天才です。 
+ * Haha wa ryouri no tensai desu. 
+ * My mother is a genius at cooking. 
+----------
  * **ありがとう** :: Thank you. (expression)
  * **arigatou** 
  * 本を貸してくれてどうもありがとう。 
@@ -290,6 +380,12 @@
  * プロになるのは難しい。 
  * Puro ni narunowa muzukashii. 
  * It is difficult to be a professional. 
+----------
+ * **メタボ** :: metabolic syndrome (noun)
+ * **metabo** 
+ * メタボだから、運動を始めることにした。 
+ * Metabo dakara undou o hajimeru kotoni shita. 
+ * I decided to exercise because I have metabolic syndrome. 
 ----------
  * **けっこうです** :: No thank you. (expression)
  * **kekkou desu** 
@@ -309,6 +405,12 @@
  * Sono nedan wa bottakuri da. 
  * The price is a rip-off. 
 ----------
+ * **スーパー** :: supermarket (noun)
+ * **sûpâ** 
+ * スーパーでお菓子を買った。 
+ * Sûpâ de okashi o katta. 
+ * I bought sweets at the supermarket. 
+----------
  * **失礼します** :: Excuse me. (expression)
  * **shitsurei shimasu** 
  * 社長の部屋に入るときは「失礼します」と言わなければならない。 
@@ -326,6 +428,12 @@
  * 友達におごってもらった。 
  * Tomodachi ni ogotte moratta. 
  * My friend treated me. 
+----------
+ * **同じ** :: same (adjective)
+ * **onaji** 
+ * 先生と同じ服を持っています。 
+ * Sensei to onazi fuku o motte imasu. 
+ * I have the same clothes as my teacher. 
 ----------
  * **ごめんなさい** :: I am sorry. (expression)
  * **gomennasai** 
@@ -345,6 +453,12 @@
  * Ongaku o manande imasu. 
  * I am studying music theory. 
 ----------
+ * **おじゃまします** :: Excuse me. (expression)
+ * **ojamashimasu** 
+ * 「おじゃまします。」と言いながら、友達が家に入ってきた。 
+ * "Ojamashimasu" to iinagara, tomodachi ga ie ni haitte kita. 
+ * My friend entered my house, saying "Excuse me." 
+----------
  * **すみません** :: Excuse me. (expression)
  * **sumimasen** 
  * すみません。これをください。 
@@ -362,6 +476,12 @@
  * 先生にテストの事をききました。 
  * Sensei ni tesuto no koto o kiki mashita. 
  * I asked my teacher about the test. 
+----------
+ * **やらせ** :: pre-arranged performance (noun)
+ * **yarase** 
+ * このテレビドキュメンタリーはやらせが多い。 
+ * Kono terebi dokyumentarî wa yarase ga ooi. 
+ * There are many pre-arranged performances in this TV documentary. 
 ----------
  * **失礼しました** :: I'm very sorry about that. (expression)
  * **shitsurei shimashita** 
@@ -381,6 +501,12 @@
  * Kono michi o totte iku to chikai desuyo. 
  * If you go toward this road, you will be close. 
 ----------
+ * **スカーフ** :: scarf (noun)
+ * **sukâfu** 
+ * そのスカーフはおしゃれですね。 
+ * Sono sukâfu wa oshare desune. 
+ * That scarf is very fashionable. 
+----------
  * **マザコン** :: mama's boy (noun)
  * **mazakon** 
  * マザコンの男とは結婚したくない。 
@@ -398,6 +524,12 @@
  * だれか、助けて！ 
  * Dareka tasukete! 
  * Someone, please help me! 
+----------
+ * **思い出す** :: to recall (verb)
+ * **omoidasu** 
+ * 彼の名前が思い出せない。 
+ * Kareno namae ga omoi dasenai. 
+ * I cannot recall his name. 
 ----------
  * **環境問題** :: environmental issues (noun)
  * **kankyoumondai** 
@@ -417,6 +549,12 @@
  * Otouto o tsurete kouen ni itta. 
  * I took my brother to a park. 
 ----------
+ * **いらっしゃいませ** :: welcome (expression)
+ * **irasshaimase** 
+ * いらっしゃいませ。何をお探しですか。 
+ * Irasshaimase nani o osagashi desuka. 
+ * Welcome. What are you looking for? 
+----------
  * **近道** :: shortcut (noun)
  * **chikamichi** 
  * 近道して家に帰ろう。 
@@ -435,6 +573,12 @@
  * Tomodachi o ie ni tsurete kuru tsumori desu. 
  * I will bring my friends back to my house. 
 ----------
+ * **セール** :: sale (noun)
+ * **sêru** 
+ * セールがもうすぐ始まるよ。 
+ * Sêru ga mousugu hajimaru yo. 
+ * The sale starts soon. 
+----------
  * **残業** :: overtime work (noun)
  * **zangyou** 
  * 残業が多くて大変だ。 
@@ -452,6 +596,12 @@
  * 学校にゲームを持って行ってはいけません。 
  * Gakkou ni gêmu o motte ittewa ikemasen. 
  * You must not take your game to school. 
+----------
+ * **元カノ** :: ex-girlfriend (noun)
+ * **motokano** 
+ * 元カノに電話をかけた。 
+ * Motokano ni denwa o kaketa. 
+ * I called my ex-girlfriend. 
 ----------
  * **お元気ですか** :: How are you? (expression)
  * **ogenkidesuka** 
@@ -6423,6 +6573,12 @@
  * Kinou、 omoshiroi eiga o mita. 
  * I saw an interesting movie yesterday. 
 ----------
+ * **中年** :: middle age (noun)
+ * **chuunen** 
+ * 中年になってから太ってきた。 
+ * Chuunen ni nattekara futotte kita. 
+ * I have gained weight since middle age. 
+----------
  * **恩** :: to owe someone (noun)
  * **on** 
  * 恩に着るよ。 
@@ -6434,6 +6590,12 @@
  * 今、フランス語を勉強しています。 
  * Ima furansugo o benkyou shite imasu. 
  * I am studying French. 
+----------
+ * **せこい** :: stingy (adjective)
+ * **sekoi** 
+ * そんなせこい人だとは知らなかった。 
+ * Sonna sekoi hito datowa shiranakatta. 
+ * I did not know that he was such a stingy man. 
 ----------
  * **苦手** :: poor at (adjective)
  * **nigate** 
@@ -6447,6 +6609,12 @@
  * Atarashii konpyûtâ o kaini ikimasu 
  * I am going to buy a new computer. 
 ----------
+ * **勿論** :: of course (adverb)
+ * **mochiron** 
+ * もちろん、出席します。 
+ * Mochiron shusseki shimasu. 
+ * Of course, I will attend. 
+----------
  * **儲かる** :: to make a profit (verb)
  * **moukaru** 
  * あの会社は儲かっているらしい。 
@@ -6458,6 +6626,12 @@
  * 食べる前に「いただきます。」と言います。 
  * Taberu mae ni "itadakimasu" to iimasu. 
  * Before eating, we say "let's eat." 
+----------
+ * **へそくり** :: secret money savings (noun)
+ * **hesokuri** 
+ * へそくりをしてることは、主人には秘密です。 
+ * Hesokuri o shiteirukoto wa shujin niwa himitsu desu. 
+ * I am keeping it a secret from my husband that I am saving money. 
 ----------
  * **考える** :: to consider (verb)
  * **kanngaeru** 
@@ -6471,6 +6645,12 @@
  * Asa sensei ni atta toki "ohayougozaimasu" to itta. 
  * I said "Good morning" to my teacher when I saw her. 
 ----------
+ * **本命** :: likely winner (noun)
+ * **honmei** 
+ * 彼が次期社長の本命です。 
+ * Kare ga jikishachou no honmei desu. 
+ * He is the most likely candidate to be the next president of the company. 
+----------
  * **洗い物** :: dishes (noun)
  * **araimono** 
  * 洗い物は私の仕事です。 
@@ -6482,6 +6662,12 @@
  * 夜、コンビ二で先生に会った時「こんばんは」と言いました。 
  * Yoru, konbini de sensei ni attatoki "konbanwa" to iimashita. 
  * When I saw my teacher at a convenience store, I said "Good evening". 
+----------
+ * **シャギー** :: shaggy hairstyle (noun)
+ * **shagî** 
+ * シャギーに切ってください。 
+ * Shagî ni kitte kudasai. 
+ * I want a shaggy cut. 
 ----------
  * **あげる** :: to give something to somebody (verb)
  * **ageru** 
@@ -6495,6 +6681,12 @@
  * Hajimemashite. Tanaka desu. Douzo yoroshiku. 
  * My name is Tanaka. Nice to meet you. 
 ----------
+ * **ユダヤ人** :: Jewish people (noun)
+ * **yudayajin** 
+ * ユダヤ人の文化を知りたい。 
+ * Yudayajin no bunka o shiritai. 
+ * I would like to know Jewish culture. 
+----------
  * **白星** :: a win (noun)
  * **shiroboshi** 
  * 久しぶりの白星だ。 
@@ -6507,6 +6699,12 @@
  * Onakaga suite, nanimo dekinai. 
  * I cannot do anything because I am hungry. 
 ----------
+ * **サプリ** :: supplement (noun)
+ * **sapuri** 
+ * 毎朝サプリをとっています。 
+ * Maiasa sapuri o totte imasu. 
+ * I take supplements every morning. 
+----------
  * **生活** :: daily life (noun)
  * **seikatsu** 
  * 毎日の生活が充実している。 
@@ -6518,5 +6716,11 @@
  * のどがかわいて、死にそうです。 
  * Nodoga kawaite, shinisou desu. 
  * I am so thirsty, I feel like I am dying. 
+----------
+ * **節約する** :: to save money (verb)
+ * **setsuyaku suru** 
+ * ハワイに行くために節約しています。 
+ * Hawai ni iku tame ni setsuyaku siteimasu. 
+ * I am saving money in order to go to Hawaii. 
 ----------
  # - end of file - 

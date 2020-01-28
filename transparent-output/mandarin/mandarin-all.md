@@ -1,6 +1,6 @@
 # mandarin WOTD : 
 ----------
- 1086 phrases 
+ 1120 phrases 
 ----------
 ----------
  * **蛋糕** :: cake (noun)
@@ -21,6 +21,12 @@
  * Wǒ chéng dìtiě qù yīyuàn. 
  * I'll take the subway to the hospital. 
 ----------
+ * **工程师** :: engineer (noun)
+ * **gōngchéngshī** 
+ * 我哥哥是工程师。 
+ * Wǒ gěge shì gōngchéngshī. 
+ * My older brother is an engineer. 
+----------
  * **葡萄酒** :: grape wine (noun)
  * **pútáojiǔ** 
  * 我只喝葡萄酒。 
@@ -38,6 +44,12 @@
  * 汽车很多。 
  * Qìchē hěn duō. 
  * There are many buses. 
+----------
+ * **电脑** :: computer (noun)
+ * **diànnǎo** 
+ * 我弟弟喜欢玩电脑。 
+ * Wǒ dìdi xǐhuān wán diànnǎo. 
+ * My younger brother likes to play on the computer. 
 ----------
  * **红** :: red (adjective)
  * **hóng** 
@@ -57,6 +69,12 @@
  * Shāngdiàn bù shǎo 
  * There are quite a few shops. 
 ----------
+ * **专业** :: major (noun)
+ * **zhuānyè** 
+ * 你的专业是什么？ 
+ * Nǐ de zhuānyè shì shénme? 
+ * What is your major? 
+----------
  * **漂亮** :: beautiful (adjective)
  * **piàoliang** 
  * 花园真漂亮。 
@@ -74,6 +92,12 @@
  * 看比赛！ 
  * Kàn bǐsài! 
  * Watch the game! 
+----------
+ * **文化** :: culture (noun)
+ * **wénhuà** 
+ * 我喜欢美国文化。 
+ * Wǒ xǐhuān měiguó wénhuà. 
+ * I like American culture. 
 ----------
  * **中餐** :: Chinese food (noun)
  * **zhōngcān** 
@@ -93,6 +117,12 @@
  * Měiguó yùndòngyuán hǎo. 
  * The American athletes are good. 
 ----------
+ * **历史** :: history (noun)
+ * **lìshǐ** 
+ * 中国历史很长。 
+ * Zhōngguó lìshǐ hěn cháng. 
+ * China has a long history. 
+----------
  * **西餐** :: western food (noun)
  * **xīcān** 
  * 西餐很方便。 
@@ -110,6 +140,12 @@
  * 有很多国家参赛。 
  * Yǒu hěnduō guójiā cānsài. 
  * There are many countries participating in the games. 
+----------
+ * **哲学** :: philosophy (noun)
+ * **zhéxué** 
+ * 我学习古代哲学。 
+ * Wǒ xuéxí gǔdài zhéxué. 
+ * I study classical philosophy. 
 ----------
  * **啤酒** :: beer (noun)
  * **píjiǔ** 
@@ -129,6 +165,12 @@
  * Kàn zhōngguó guóqí. 
  * Look at the Chinese flag! 
 ----------
+ * **音乐** :: music (noun)
+ * **yīnyuè** 
+ * 我常听古典音乐。 
+ * Wǒ cháng tīng gǔdiǎn yīnyuè. 
+ * I often listen to classical music. 
+----------
  * **面包** :: bread, roll (noun)
  * **miànbāo** 
  * 我每天都吃面包。 
@@ -146,6 +188,12 @@
  * 我喜欢看奥运会。 
  * Wǒ xǐhuān kàn àoyùnhuì. 
  * I like to watch the Olympic games. 
+----------
+ * **数学** :: mathematics (noun)
+ * **shùxué** 
+ * 我的数学很好。 
+ * Wǒ de shùxué hěnhǎo. 
+ * I am good at mathematics. 
 ----------
  * **牛奶** :: milk (noun)
  * **niúnǎi** 
@@ -165,6 +213,12 @@
  * Àoyùncūn hěn hǎo. 
  * The Olympic pavilion is good. 
 ----------
+ * **物理** :: physics (noun)
+ * **wùlǐ** 
+ * 我在中学学了物理。 
+ * Wǒ zài zhōngxué xué le wùlǐ. 
+ * I studied physics in middle school. 
+----------
  * **商店** :: shop, store (noun)
  * **shāngdiàn** 
  * 这儿有很多商店。 
@@ -182,6 +236,12 @@
  * 看奥运火炬！ 
  * Kàn àoyùn huǒjù! 
  * Look at the Olympic torch! 
+----------
+ * **教育** :: education (noun)
+ * **jiàoyù** 
+ * 美国的大学教育很好。 
+ * Měiguó dàxué jiàoyù hěnhao. 
+ * American higher education is good. 
 ----------
  * **有名** :: famous (adjective)
  * **yǒumíng** 
@@ -201,6 +261,12 @@
  * Měiguó guógē hěn měi. 
  * The American national anthem is beautiful. 
 ----------
+ * **中学** :: middle school (noun)
+ * **zhōngxué** 
+ * 我弟弟上中学。 
+ * Wǒ dìdi shàng zhōngxué. 
+ * My younger brother is in middle school. 
+----------
  * **报纸** :: newspaper (noun)
  * **bào zhǐ** 
  * 我要看今天的报纸。 
@@ -218,6 +284,12 @@
  * 中国队很多人。 
  * Zhōngguó duì hěnduō rén. 
  * The Chinese team is large. 
+----------
+ * **小学** :: primary school (noun)
+ * **xiǎoxué** 
+ * 小学生也有作业。 
+ * Xiǎoxuéshēng yěyǒu zuòyè. 
+ * Primary school students also have homework. 
 ----------
  * **书** :: book (noun)
  * **shū** 
@@ -237,6 +309,12 @@
  * Xiànzài měiguó duì rù chǎng. 
  * The American team is now entering the field. 
 ----------
+ * **计算** :: to calculate (verb)
+ * **jìsuàn** 
+ * 他要计算一下他的收入。 
+ * Tā yào jìsuàn yíxià tā de shǒurù. 
+ * He wants to calculate his income. 
+----------
  * **苹果** :: apple (noun)
  * **píngguǒ** 
  * 我一天吃一个苹果。 
@@ -254,6 +332,12 @@
  * 奥运会开幕了。 
  * Àoyùnhuì kāimù le. 
  * The Olympic games are opening. 
+----------
+ * **家** :: family, home (noun)
+ * **jiā** 
+ * 我们家在纽约。 
+ * Wǒmén jiā zài niǔyuē. 
+ * My family lives in New York. 
 ----------
  * **橘子** :: orange (noun)
  * **júzi** 
@@ -273,6 +357,12 @@
  * Bàba yào bīng. 
  * Dad wants ice. 
 ----------
+ * **习惯** :: to be used to (expression)
+ * **xíguàn** 
+ * 我现在习惯吃西餐了。 
+ * Wǒ xiànzài xíguàn le chī xīcān le. 
+ * I am used to eating western food now. 
+----------
  * **香蕉** :: banana (noun)
  * **xiāngjiāo** 
  * 香蕉不贵。 
@@ -290,6 +380,12 @@
  * 他们都要咖啡。 
  * Tāmen dōu yào kāfēi. 
  * They all want coffee. 
+----------
+ * **付款** :: to pay bills (verb-object)
+ * **fùkuǎn** 
+ * 我们吃完饭爸爸就付款。 
+ * Wǒmén chīwán fàn bàba jiù fùkuǎn. 
+ * Dad will pay the bill after we finish eating. 
 ----------
  * **送** :: to give (verb)
  * **sòng** 
@@ -309,6 +405,12 @@
  * Wǒ yěshì měiguórén. 
  * I am also an American. 
 ----------
+ * **照片** :: picture (noun)
+ * **zhàopiàn** 
+ * 这是我家的照片。 
+ * Zhè shì wǒjiā de zhàopiàn. 
+ * This is the picture of my family. 
+----------
  * **礼物** :: gift (noun)
  * **lǐwù** 
  * 你的圣诞礼物是什么？ 
@@ -326,6 +428,12 @@
  * 他们都非常忙。 
  * Tāmen dōu fēicháng máng. 
  * They are all extremely busy. 
+----------
+ * **和** :: and (conjunction)
+ * **hé** 
+ * 哥哥和弟弟都学汉语。 
+ * Gēge hé dìdi dōu xué hànyǔ. 
+ * My older and younger brothers both study Chinese. 
 ----------
  * **笔** :: pen (noun)
  * **bǐ** 
@@ -345,6 +453,12 @@
  * Wǒ bàba shì yīshēng. 
  * My father is a doctor. 
 ----------
+ * **姐姐** :: older sister (noun)
+ * **jiějie** 
+ * 我有一个姐姐。 
+ * Wǒ yǒu yí gè jiějie. 
+ * I have an older sister. 
+----------
  * **便宜** :: cheap (adjective)
  * **piányi** 
  * 这件衣服又便宜又好。 
@@ -362,6 +476,12 @@
  * 我妈妈教数学。 
  * Wǒ māma jiāo shùxué. 
  * My mother teaches mathematics. 
+----------
+ * **妹妹** :: younger sister (noun)
+ * **mèimei** 
+ * 我妹妹比我小三岁。 
+ * Wǒ mèimei bǐ wǒ xiǎo sān suì. 
+ * My younger sister is three years younger than I. 
 ----------
  * **词典** :: dictionary (noun)
  * **cídiǎn** 
@@ -381,6 +501,12 @@
  * Wǒ zài hé péngyou dǎqiú. 
  * I am playing ball with my friend. 
 ----------
+ * **狗** :: dog (noun)
+ * **gǒu** 
+ * 他家有一条狗。 
+ * Tā jiā yǒu yìtiáo gǒu. 
+ * His family has a dog. 
+----------
  * **找** :: to look for (verb)
  * **zhǎo** 
  * 我要找一本汉英词典。 
@@ -398,6 +524,12 @@
  * 哥哥学习很好。 
  * Gēge xuéxí hěnhǎo. 
  * The older brother studies well. 
+----------
+ * **猫** :: cat (noun)
+ * **māo** 
+ * 这只小猫是黑的。 
+ * Zhè zhī xiǎomāo shì hēide. 
+ * This little cat is black. 
 ----------
  * **会** :: to be able to; can (verb)
  * **huì** 
@@ -417,6 +549,12 @@
  * Dìdi xǐhuān yóuyǒng. 
  * The younger brother likes to swim. 
 ----------
+ * **可爱** :: cute, lovely (adjective)
+ * **kěài** 
+ * 这些孩子很可爱。 
+ * Zhèxiē háizi hěn kěài. 
+ * These children are very lovely. 
+----------
  * **小费** :: tip; gratuity (noun)
  * **xiǎofèi** 
  * 中国的服务员不习惯收小费。 
@@ -435,6 +573,12 @@
  * Nǐ yào hē shénme? 
  * What do you want to drink? 
 ----------
+ * **做** :: to do (verb)
+ * **zuò** 
+ * 我有很多事要做。 
+ * Wǒ yǒu hěnduō shì yào zuò. 
+ * I have many things to do. 
+----------
  * **到** :: to arrive (verb)
  * **dào** 
  * 火车到了。 
@@ -452,6 +596,12 @@
  * 中国人不太喜欢咖啡。 
  * Zhōngguó rén bù tài xǐhuān kāfēi. 
  * The Chinese do not like coffee very much. 
+----------
+ * **工作** :: to work (verb)
+ * **gōngzuò** 
+ * 我高高兴兴地工作。 
+ * Wǒ gāogāoxìngxìng de gōngzuò. 
+ * I work happily. 
 ----------
  * **女儿** :: daughter (noun)
  * **nǚer** 
@@ -6423,6 +6573,12 @@
  * Nín guìxìng? 
  * What is your last name? 
 ----------
+ * **关** :: to close, turn off (verb)
+ * **guān** 
+ * 请关灯。 
+ * Qǐng guāndēng. 
+ * Please turn off the light. 
+----------
  * **药** :: medicine (noun)
  * **yào** 
  * 我要去买药。 
@@ -6434,6 +6590,12 @@
  * 他叫小明。 
  * Tā jiào xiǎomíng. 
  * His name is Xiaoming. 
+----------
+ * **电影** :: movie (noun)
+ * **diànyǐng** 
+ * 我们去看电影吧。 
+ * Wǒmen qù kàn diànyǐng ba. 
+ * Let's go see a movie. 
 ----------
  * **牙** :: tooth (noun)
  * **yá** 
@@ -6447,6 +6609,12 @@
  * Wáng xiānsheng yào mǎi shénme? 
  * What does Mr. Wang want to buy? 
 ----------
+ * **名片** :: business card (noun)
+ * **míngpiàn** 
+ * 这是我的名片。 
+ * Zhè shì wǒ de míngpiàn. 
+ * This is my business card. 
+----------
  * **胃** :: stomach (noun)
  * **wèi** 
  * 我的胃不舒服。 
@@ -6458,6 +6626,12 @@
  * 他学习汉语。 
  * Tā xuéxí hànyǔ. 
  * He studies Chinese. 
+----------
+ * **鞋子** :: shoe (noun)
+ * **xíezi** 
+ * 这双鞋子很合适。 
+ * Zhèshuāng xiézi hěn héshì. 
+ * These shoes fit me well. 
 ----------
  * **听说** :: to hear of; to hear about (verb)
  * **tīngshuō** 
@@ -6471,6 +6645,12 @@
  * Tāmen dōu shì xuésheng. 
  * They are all students. 
 ----------
+ * **医生** :: doctor (noun)
+ * **yīshēng** 
+ * 她妈妈是医生。 
+ * Tā māma shì yīshēng. 
+ * Her mother is a doctor. 
+----------
  * **生病** :: to get sick; to fall ill (verb-object)
  * **shēngbìng** 
  * 我不常生病。 
@@ -6482,6 +6662,12 @@
  * 今天我们做什么？ 
  * Jīntiān wǒmen zuò shénme? 
  * What are we doing today? 
+----------
+ * **护士** :: nurse (noun)
+ * **hùshi** 
+ * 我姐姐是护士。 
+ * Wǒ jiějie shì hùshi. 
+ * My older sister is a nurse. 
 ----------
  * **告诉** :: to tell (verb)
  * **gàosu** 
@@ -6495,6 +6681,12 @@
  * Wǒ qǐng nǐ cānjiā wǒ de shēngrì jùhuì. 
  * I am inviting you to my birthday party. 
 ----------
+ * **老师** :: teacher (noun)
+ * **lǎoshī** 
+ * 我的老师都很好。 
+ * Wǒ de lǎoshī dōu hěn hǎo. 
+ * My teachers are all very good. 
+----------
  * **散步** :: to take a walk (verb-object)
  * **sànbù** 
  * 他吃饭后常常散步。 
@@ -6507,6 +6699,12 @@
  * Déguó zài ōuzhōu. 
  * Germany is in Europe. 
 ----------
+ * **教授** :: professor (noun)
+ * **jiàoshòu** 
+ * 他是数学教授。 
+ * Tā shì shùxué jiaòshòu. 
+ * He is a mathematics professor. 
+----------
  * **可是** :: but (conjunction)
  * **kěshì** 
  * 我很好，可是太忙。 
@@ -6518,5 +6716,11 @@
  * 加拿大很大。 
  * Jiānádà hěn dà. 
  * Canada is big. 
+----------
+ * **律师** :: lawyer (noun)
+ * **lǜshī** 
+ * 我想当律师。 
+ * Wǒ xiǎng dāng lǜshī. 
+ * I want to be a lawyer. 
 ----------
  # - end of file - 

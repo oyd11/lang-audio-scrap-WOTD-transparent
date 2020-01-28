@@ -1,6 +1,6 @@
 # hebrew WOTD : 
 ----------
- 1086 phrases 
+ 1120 phrases 
 ----------
 ----------
  * **באופן אקראי** :: at random (expression)
@@ -15,6 +15,10 @@
  * מה יקרה אם המצנח לא ייפתח? 
  * What would happen if the parachute doesn't open? 
 ----------
+ * **שבח** :: praise (noun)
+ * המעשים שלה היו ראויים לשבח. 
+ * Her deeds were praiseworthy. 
+----------
  * **להעליב** :: to offend (verb)
  * לא התכוונתי להעליב אותך. 
  * I didn't mean to offend you. 
@@ -26,6 +30,10 @@
  * **חמוד** :: How cute! (expression)
  * זה הבן שלך? איזה חמוד! 
  * Is that your son? How cute! 
+----------
+ * **לב** :: heart (noun)
+ * הלב שלי החסיר פעימה. 
+ * My heart skipped a beat. 
 ----------
  * **סוכנות רכב** :: car dealership (noun)
  * סוכנות הרכב המקומית שלי לא מחזיקה את הדגם שאני מחפשת. 
@@ -39,6 +47,10 @@
  * הברווזון המכוער הפך לברבור יפהפה. 
  * The ugly duckling grew up to be a beautiful swan. 
 ----------
+ * **אנשים** :: people (noun)
+ * אני לא יכולה לעבוד עם האנשים האלו! 
+ * I can't work with these people! 
+----------
  * **זקן תיש** :: goatee (noun)
  * הוא נראה קצת מרושע עם זקן תיש. 
  * He looks kind of sinister with a goatee. 
@@ -50,6 +62,10 @@
  * **להתניע** :: to start (verb)
  * המכונית לא מתניעה. 
  * The car won't start. 
+----------
+ * **להילחץ** :: to freak out (expression)
+ * אל תילחץ, אבל הרגע הפסדתי את כל החסכונות שלי במשחק פוקר. 
+ * Don't freak out, but I just lost my entire savings in a poker game. 
 ----------
  * **גופה** :: corpse (noun)
  * המשטרה מצאה שתי גופות בזירת הפשע. 
@@ -63,6 +79,10 @@
  * איזה מגניב המוצר החדש של אפל?! 
  * How cool is Apple's new product?! 
 ----------
+ * **תאריך תפוגה** :: expiration date (noun)
+ * תאריך התפוגה של החלב הזה כבר עבר מזמן! 
+ * This milk's expiration date has come and gone! 
+----------
  * **לבחור** :: to select (verb)
  * בתפריט הראשי יש לבחור "אפשרויות". 
  * From the main menu, select "options". 
@@ -74,6 +94,10 @@
  * **מייבש שיער** :: hairdryer (noun)
  * אם אני לא משתמשת במייבש שיער השיער שלי לא נראה טוב. 
  * If I don't use a hairdryer my hair won't look good. 
+----------
+ * **חטיף** :: snack (noun)
+ * בהפסקה הוגשו חטיפים. 
+ * During the break, snacks were served. 
 ----------
  * **מזל רע** :: bad luck (expression)
  * אם לא היה לי מזל רע, לא היה לי מזל בכלל! 
@@ -87,6 +111,10 @@
  * כשראינו את התמונה, צחקנו בקול. 
  * When we saw the picture, we laughed out loud. 
 ----------
+ * **אומנת** :: nanny (noun)
+ * דרושה: אומנת לשני ילדים. 
+ * Wanted: nanny for two kids. 
+----------
  * **כבד** :: liver (noun)
  * אלכוהול עלול להזיק לכבד. 
  * Alcohol can be harmful to the liver. 
@@ -98,6 +126,10 @@
  * **יפה** :: beautiful (adjective)
  * את נראית יפה בשמלה הזו. 
  * You look beautiful in that dress. 
+----------
+ * **מתחילתו ועד סופו** :: from beginning to end (expression)
+ * קראתי אותו פעמיים מתחילתו ועד סופו. 
+ * I read it from beginning to end twice. 
 ----------
  * **לחלוט** :: to brew (verb)
  * צריך לחלוט את התה קצת יותר זמן. 
@@ -111,6 +143,10 @@
  * קנה שניים, קבל אחד חינם. 
  * Buy two, get one free. 
 ----------
+ * **להתחיל מאפס** :: to start from scratch (expression)
+ * לעזוב את הבית זה כמו להתחיל מאפס. 
+ * Moving out is like starting from scratch. 
+----------
  * **קצב** :: butcher (noun)
  * לקצב המקומי יש תמיד את נתחי הבשר הטובים ביותר. 
  * The local butcher always has the best cuts of meat. 
@@ -122,6 +158,10 @@
  * **הצעה** :: suggestion (noun)
  * יש לי כמה הצעות להעלות. 
  * I have some suggestions to make. 
+----------
+ * **מגדת עתידות** :: fortune teller (noun)
+ * מגדת העתידות חזתה את הצלחתך. 
+ * The fortune teller predicted your success. 
 ----------
  * **סרט** :: movie (noun)
  * זה הצליח בסרט! 
@@ -135,6 +175,10 @@
  * עבדתי כל היום; אני מותשת. 
  * I've worked all day long; I'm exhausted. 
 ----------
+ * **שחור כדיו** :: inky (adjective)
+ * בשמים השחורים כדיו לא היו כוכבים. 
+ * The inky night sky had no stars. 
+----------
  * **לחרוט** :: to carve (verb)
  * מישהו חרט את שמו על גזע העץ הזה. 
  * Someone carved their name into the bark of that tree. 
@@ -146,6 +190,10 @@
  * **מלאך** :: angel (noun)
  * תודה על עזרתך; אתה מלאך. 
  * Thank you for your help; you're an angel. 
+----------
+ * **עלבון** :: insult (noun)
+ * אני לא אסבול את העלבון הזה! 
+ * I will not tolerate this insult! 
 ----------
  * **פירות יבשים** :: dried fruit (noun)
  * פירות יבשים עשירים בחלבונים. 
@@ -159,6 +207,10 @@
  * הילדה המסכנה החלה לבכות במרירות. 
  * The poor girl started to cry bitterly. 
 ----------
+ * **לעניין** :: to interest (verb)
+ * לימודי שפות מעניינים אותי. 
+ * Language studies interest me. 
+----------
  * **סופר** :: writer (noun)
  * אני רוצה להיות סופרת כשאגדל. 
  * I want to be a writer when I grow up. 
@@ -170,6 +222,10 @@
  * **מזל רע** :: misfortune (noun)
  * אני אומרת לך, המזל הרע תפס אותי היום. 
  * I'm suffering the slings and arrows of misfortune today, I tell you. 
+----------
+ * **כל שנה** :: every year (expression)
+ * אנו מבקרים בחוף הים כל שנה. 
+ * We visit the beach every year. 
 ----------
  * **שח-מט** :: check-mate (noun)
  * עוד שני מהלכים וזה שח-מט. 
@@ -183,6 +239,10 @@
  * מה שמך? 
  * What's your name? 
 ----------
+ * **לזרוק** :: to throw (verb)
+ * הוא זרק עלי כדור שלג. 
+ * He threw a snowball at me. 
+----------
  * **פריך** :: crispy (adjective)
  * אני אוהבת דגנים כשהם עדיין פריכים. 
  * I like cereal when it's still crispy. 
@@ -194,6 +254,10 @@
  * **לפגוש** :: to meet (verb)
  * נחמד לפגוש אותך. 
  * It is a pleasure to meet you. 
+----------
+ * **חבר מושבעים** :: jury (noun)
+ * האם הגיע חבר המושבעים להחלטה? 
+ * Has the jury reached a verdict? 
 ----------
  * **תסריט** :: script (noun)
  * את התסריט לסרטו האחרון הוא כתב בעצמו. 
@@ -207,6 +271,10 @@
  * זה היה טעים מאוד. 
  * That was delicious. 
 ----------
+ * **לספור** :: to count (verb)
+ * אתה יכול לספור את כל הסוכריות בצנצנת? 
+ * Can you count all the jellybeans in that jar? 
+----------
  * **צונאמי** :: tsunami (noun)
  * יש התרעת צונאמי באזור זה. 
  * There is a tsunami alert in this area. 
@@ -218,6 +286,10 @@
  * **לדבר** :: to speak (verb)
  * אני מדברת קצת גרמנית. 
  * I speak a little German. 
+----------
+ * **אח** :: hearth (noun)
+ * ישבנו ליד האח ולגמנו תה. 
+ * We sat near the hearth sipping tea. 
 ----------
  * **גולש אינטרנט** :: internet user (noun)
  * רוב גולשי האינטרנט מצפים למהירויות חיבור גבוהות. 
@@ -231,6 +303,10 @@
  * זו לא פעם ראשונה, וגם לא אחרונה. 
  * It's not the first time, and won't be the last. 
 ----------
+ * **קסדה** :: helmet (noun)
+ * חבוש את הקסדה כשאתה רוכב על אופניים. 
+ * Wear your helmet when you ride your bike. 
+----------
  * **ראסטות** :: dreadlocks (noun)
  * ראסטות לא מתאימות לך. 
  * Dreadlocks don't look good on you. 
@@ -242,6 +318,10 @@
  * **להתנצל** :: to apologize (verb)
  * אני מתנצלת, עובר עליי היום יום גרוע. 
  * I apologize, I'm having a bad day. 
+----------
+ * **מרתף** :: cellar (noun)
+ * יש להם מרתף יינות ממוזג ומרשים. 
+ * They have an impressive climate-controlled wine cellar. 
 ----------
  * **מזעזע** :: shocking (adjective)
  * הצילומים של התאונה היו מזעזעים. 
@@ -255,6 +335,10 @@
  * אני הולך לחנות, רוצה לבוא איתי? 
  * I'm going to the store, want to go with me? 
 ----------
+ * **קופסה** :: box (noun)
+ * עכשיו, בואו נראה מה יש בקופסה. כלום! ממש כלום! 
+ * Now let's see what's in the box. Nothing! Absolutely nothing! 
+----------
  * **להזדעף** :: to pout (verb)
  * מה אמרת לאחותך? היא שוב הזדעפה. 
  * What did you say to your sister? She's pouting again. 
@@ -266,6 +350,10 @@
  * **להעדיף** :: to prefer (verb)
  * התמרים טעימים מאד, אבל אני מעדיפה אננס. 
  * The dates are delicious, but I prefer pineapple. 
+----------
+ * **ליצן** :: clown (noun)
+ * אין דבר עצוב יותר מדמעותיו של ליצן. 
+ * Nothing is sadder than the tears of a clown. 
 ----------
  * **לצידך** :: by your side (expression)
  * אני רוצה לבלות את שארית חיי לצידך. 
@@ -279,6 +367,10 @@
  * אני כל כך שמחה שמחר יום שישי, השבוע הזה היה ארוך! 
  * I'm so glad tomorrow is Friday; it's been a long week! 
 ----------
+ * **מזגן** :: air conditioner (noun)
+ * הפעל את המזגן, בבקשה. 
+ * Turn on the air conditioner, please. 
+----------
  * **מטרה** :: target (noun)
  * החץ פגע במרכז המטרה. 
  * The arrow hit the center of the target. 
@@ -291,6 +383,10 @@
  * יש לך תכניות לסוף השבוע? 
  * Do you have any plans for this weekend? 
 ----------
+ * **בשר טחון** :: ground meat (noun)
+ * אני צריכה חצי קילו בשר טחון. 
+ * I need half a kilogram of ground meat. 
+----------
  * **עוגיות** :: cookies (noun)
  * אימא שלי תמיד שולחת לי קופסה עם עוגיות לחג המולד. 
  * My mother always sends me a box of cookies for Christmas. 
@@ -302,6 +398,10 @@
  * **מזג-אוויר** :: weather (noun)
  * מה תחזית מזג-האוויר למחר? 
  * What's the weather prediction for tomorrow? 
+----------
+ * **להיות במצב רוח רע** :: to be in a bad mood (expression)
+ * אל תדבר איתו, הוא במצב רוח רע. 
+ * Don't talk to him. He's in a bad mood. 
 ----------
  * **בחיים לא** :: not in a million years (expression)
  * בחיים לא הייתי רוצה לראות את הסרט הזה. 
@@ -4283,6 +4383,10 @@
  * אני לא אפקיר את עתידי בידי הגורל. 
  * I will not leave my future up to chance. 
 ----------
+ * **שוד** :: robbery (noun)
+ * המשטרה הגיעה מאוחר למקום השוד. 
+ * The police arrived late at the robbery scene. 
+----------
  * **בוס** :: boss (noun)
  * הבוס שלנו נוהג בנו באדיבות. 
  * Our boss treats us courteously. 
@@ -4290,6 +4394,10 @@
  * **משוגע על...** :: to be crazy about (expression)
  * אני משוגעת על השיר הזה! 
  * I'm crazy about this song! 
+----------
+ * **מדפסת** :: printer (noun)
+ * חסר נייר במדפסת. 
+ * The printer is out of paper. 
 ----------
  * **סוס** :: horse (noun)
  * שמתי את כל הכסף שלי על הסוס הזה, אני מקווה שהוא ינצח. 
@@ -4299,6 +4407,10 @@
  * הברזת לי! 
  * You stood me up! 
 ----------
+ * **להטוטן** :: juggler (noun)
+ * הקהל הריע ללהטוטן. 
+ * The audience applauded the juggler. 
+----------
  * **סיידר** :: cider (noun)
  * הם מוכרים סיידר תפוחים מתוק. 
  * They sell sweet apple cider. 
@@ -4306,6 +4418,10 @@
  * **אמת** :: truth (noun)
  * האמת קיימת. 
  * The truth is out there. 
+----------
+ * **לחשוף** :: to reveal (verb)
+ * החקירה חשפה סקנדל. 
+ * The investigation revealed a scandal. 
 ----------
  * **אלבום תמונות** :: scrapbook (noun)
  * הכנתי אלבום תמונות של חופשתנו האחרונה. 
@@ -4315,6 +4431,10 @@
  * אנחנו צריכים לדבר על התחושות שלנו. 
  * We need to talk about our feelings. 
 ----------
+ * **כביש מהיר** :: highway (noun)
+ * אומרים שהחיים הם כביש מהיר. 
+ * Some say that life is a highway. 
+----------
  * **סיגר** :: cigar (noun)
  * הסיגרים הם אחד מענפי היצוא הגדולים ביותר של קובה. 
  * Cigars are one of Cuba's largest exports. 
@@ -4322,6 +4442,10 @@
  * **נראה טוב** :: to look good (expression)
  * המסיבה הזו נראית טוב. 
  * This banquet looks good. 
+----------
+ * **מאסר עולם** :: life imprisonment (expression)
+ * הפושע נדון למאסר עולם. 
+ * The criminal was sentenced to life imprisonment. 
 ----------
  * **לחבק** :: to hug (verb)
  * הנערה הצעירה חיבקה את אביה. 
@@ -4331,6 +4455,10 @@
  * צא מהפרדס שלי או שאשסה בך את הכלבים! 
  * Get out of my orchard or I´ll set the dogs on you! 
 ----------
+ * **לפהק** :: to yawn (verb)
+ * אחרי ארוחת צהרים איני יכולה להפסיק לפהק. 
+ * After lunch, I can't stop yawning. 
+----------
  * **לדקלם** :: to recite (verb)
  * אתה יכול לדקלם את הפואמה העתיקה? 
  * Can you recite the old poem? 
@@ -4339,6 +4467,10 @@
  * אני חובבת צילום נלהבת. 
  * I am passionate about photography. 
 ----------
+ * **טיפש** :: fool (noun)
+ * תראה את הטיפש הזה, הוא קורא עיתון, אבל מחזיק אותו הפוך. 
+ * Check this fool out. He's reading the newspaper but it's upside down. 
+----------
  * **שאלה** :: question (noun)
  * ענה בבקשה על השאלה בכנות. 
  * Please answer the question honestly. 
@@ -4346,5 +4478,9 @@
  * **לבן** :: white (adjective)
  * אני לא אוהבת ללבוש בגדים לבנים. 
  * I don't like to wear white clothes. 
+----------
+ * **דובון צעצוע** :: teddy bear (noun)
+ * אסור להביא לבית הספר דובוני צעצוע. 
+ * Bringing teddy bears to school is not allowed. 
 ----------
  # - end of file - 
