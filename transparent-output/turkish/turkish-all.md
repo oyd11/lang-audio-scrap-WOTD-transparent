@@ -1,6 +1,6 @@
 # turkish WOTD : 
 ----------
- 1120 phrases 
+ 1142 phrases 
 ----------
 ----------
  * **yanak** :: cheek (noun)
@@ -415,6 +415,10 @@
  * Resmi gördüğümüzde kahkahayla güldük. 
  * When we saw the picture, we laughed out loud. 
 ----------
+ * **son kullanım tarihi** :: expiration date (noun)
+ * Sütün son kullanım tarihi geldi de geçti bile! 
+ * This milk's expiration date has come and gone! 
+----------
  * **demlemek** :: to brew (verb)
  * Çayın biraz daha demlenmesi lazım. 
  * The tea needs to be brewed for a little longer. 
@@ -426,6 +430,10 @@
  * **güzel** :: beautiful (adjective)
  * Bu, güzel bir elbise. 
  * This is a beautiful dress. 
+----------
+ * **ara öğün** :: snack (noun)
+ * Molada ara öğün sunuldu. 
+ * During the break, snacks were served. 
 ----------
  * **kasap** :: butcher (noun)
  * Mahalle kasabında her zaman en iyi kesim etler var. 
@@ -439,6 +447,10 @@
  * İki tane alana, bir tane bedava. 
  * Buy two, get one free. 
 ----------
+ * **dadı** :: nanny (noun)
+ * İki çoçuk için dadı aranıyor. 
+ * Wanted: nanny for two kids. 
+----------
  * **film** :: movie (noun)
  * Harika bir filmdi! 
  * It was a great movie! 
@@ -450,6 +462,10 @@
  * **öneri** :: suggestion (noun)
  * Bir önerim var. 
  * I have a suggestion. 
+----------
+ * **baştan sona kadar** :: from beginning to end (expression)
+ * Baştan sona kadar iki kez okudum. 
+ * I read it from beginning to end twice. 
 ----------
  * **kazımak** :: to carve (verb)
  * Birisi ağacın kabuğuna adını kazımış. 
@@ -463,6 +479,10 @@
  * Bütün gün çalıştım; bitkinim. 
  * I've worked all day long; I'm exhausted. 
 ----------
+ * **en baştan başlamak** :: to start from scratch (expression)
+ * Evden taşınmak en baştan başlamak gibi. 
+ * Moving out is like starting from scratch. 
+----------
  * **kuruyemiş** :: roasted nuts (noun)
  * Kuru yemişler, protein açısından zengindir. 
  * Roasted nuts are rich in protein. 
@@ -474,6 +494,10 @@
  * **melek** :: angel (noun)
  * Yardımın için teşekkür ederim, sen bir meleksin. 
  * Thank you for your help; you're an angel. 
+----------
+ * **falcı** :: fortune teller (noun)
+ * Falcı, başarılı olacağını tahmin etti. 
+ * The fortune teller predicted your success. 
 ----------
  * **yazar** :: writer (noun)
  * Büyüyünce yazar olmak istiyorum. 
@@ -487,6 +511,10 @@
  * Zavallı kız içli içli ağlamaya başladı. 
  * The poor girl started to cry bitterly. 
 ----------
+ * **zifiri** :: inky (adjective)
+ * Zifiri karanlıkta hiç yıldız yoktu. 
+ * The inky night sky had no stars. 
+----------
  * **şah mat** :: check-mate (noun)
  * Şah mat etmeme iki hareketim kaldı. 
  * I'm two moves away from a check-mate. 
@@ -498,6 +526,10 @@
  * **kader** :: fate (noun)
  * Beni buraya kader getirdi. 
  * Fate brought me here. 
+----------
+ * **hakaret** :: insult (noun)
+ * Bu hakarete katlanamam! 
+ * I will not tolerate this insult! 
 ----------
  * **çıtır çıtır** :: crispy (adjective)
  * Mısır gevreğini daha hâlâ çıtır çıtırken seviyorum. 
@@ -511,6 +543,10 @@
  * Adın ne? 
  * What's your name? 
 ----------
+ * **ilgilendirmek** :: to interest (verb)
+ * Dil çalışmaları beni ilgilendiriyor. 
+ * Language studies interest me. 
+----------
  * **senaryo** :: script (noun)
  * Son filminin senaryosunu kendi yazdı. 
  * He wrote the script for his last movie himself. 
@@ -522,6 +558,10 @@
  * **tanışmak** :: to meet (verb)
  * Sizinle tanıştığıma memnun oldum. 
  * It is a pleasure to meet you. 
+----------
+ * **her yıl** :: every year (expression)
+ * Her yıl plaja gidiyoruz. 
+ * We visit the beach every year. 
 ----------
  * **tsunami** :: tsunami (noun)
  * Bu bölgede bir tsunami uyarısı var. 
@@ -535,6 +575,10 @@
  * Nefisti. 
  * That was delicious. 
 ----------
+ * **atmak** :: to throw (verb)
+ * Bana bir kartopu attı. 
+ * He threw a snowball at me. 
+----------
  * **internet kullanıcısı** :: internet user (noun)
  * İnternet kullanıcılarının çoğu, hızlı bir bağlantı bekler. 
  * Most internet users expect fast connection speeds. 
@@ -546,6 +590,10 @@
  * **konuşmak** :: to speak (verb)
  * Biraz Almanca konuşuyorum. 
  * I speak a little German. 
+----------
+ * **jüri** :: jury (noun)
+ * Jüri bir karara ulaştı mı? 
+ * Has the jury reached a verdict? 
 ----------
  * **rasta örgüleri** :: dreadlocks (noun)
  * Rasta örgüleri sana yakışmıyor. 
@@ -559,6 +607,10 @@
  * İlk defa değildi, son defa da olmayacak. 
  * It's not the first time, and won't be the last. 
 ----------
+ * **saymak** :: to count (verb)
+ * Kavanozdaki jöle fasulyelerini sayabilir misin? 
+ * Can you count all the jellybeans in that jar? 
+----------
  * **şok edici** :: shocking (adjective)
  * Kazanın görüntüsü şok ediciydi. 
  * The footage of the accident was shocking. 
@@ -570,6 +622,10 @@
  * **özür dilemek** :: to apologize (verb)
  * Özür dilerim, kötü bir gün geçiriyorum. 
  * I apologize, I'm having a bad day. 
+----------
+ * **ocak** :: hearth (noun)
+ * Ocağın yanına oturup çayımızı içtik. 
+ * We sat near the hearth sipping tea. 
 ----------
  * **somurtmak** :: to pout (verb)
  * Kız kardeşine ne dedin? Yine somurtuyor. 
@@ -583,6 +639,10 @@
  * Markete gidiyorum, benimle gelmek ister misin? 
  * I'm going to the store, want to go with me? 
 ----------
+ * **kask** :: helmet (noun)
+ * Bisikletine binerken kaskını tak. 
+ * Wear your helmet when you ride your bike. 
+----------
  * **yanında** :: by your side (expression)
  * Hayatımın geri kalan kısmını yanında geçirmek istiyorum. 
  * I want to spend the rest of my life by your side. 
@@ -594,6 +654,10 @@
  * **tercih etmek** :: to prefer (verb)
  * Hurmalar nefis ama ben ananası tercih ederim. 
  * The dates are delicious, but I prefer pineapple. 
+----------
+ * **mahzen** :: cellar (noun)
+ * Etkileyici, iklim kontrollü bir şarap mahzenleri var. 
+ * They have an impressive climate-controlled wine cellar. 
 ----------
  * **hedef** :: target (noun)
  * Ok, hedefin ortasını vurdu. 
@@ -607,6 +671,10 @@
  * Yarının Cuma olmasından memnunum; çok uzun bir haftaydı! 
  * I'm so glad tomorrow is Friday; it's been a long week! 
 ----------
+ * **kutu** :: box (noun)
+ * Şimdi kutuda ne olduğuna bakalım. Hiçbir şey! Kesinlikle hiçbirşey yok! 
+ * Now let's see what's in the box. Nothing! Absolutely nothing! 
+----------
  * **kurabiye** :: cookies (noun)
  * Noel'de annem hep bir kutu kurabiye gönderir. 
  * My mother always sends me a box of cookies for Christmas. 
@@ -618,6 +686,10 @@
  * **var** :: to have (verb)
  * Hafta sonu için planların var mı? 
  * Do you have any plans for this weekend? 
+----------
+ * **palyaço** :: clown (noun)
+ * Hiçbir şey bir palyaçonun gözyaşlarından daha hüzünlü değildir. 
+ * Nothing is sadder than the tears of a clown. 
 ----------
  * **bir milyon yıl geçse bile** :: not in a million years (expression)
  * O filmi bir milyon yıl geçse bile seyretmem. 
@@ -631,6 +703,10 @@
  * Yarın için hava tahminleri nasıl? 
  * What's the weather prediction for tomorrow? 
 ----------
+ * **klima** :: air conditioner (noun)
+ * Klimayı aç lütfen. 
+ * Turn on the air conditioner, please. 
+----------
  * **oda spreyi** :: air freshener (noun)
  * Oda spreyi kokuyu ortadan kaldırabilir. 
  * An air freshener might eliminate the odor. 
@@ -642,6 +718,10 @@
  * **yağmur yağması** :: to rain (verb)
  * Yağmur yağacak, şemsiye getir. 
  * It's going to rain, bring an umbrella. 
+----------
+ * **kıyma** :: ground meat (noun)
+ * Yarım kilo kıymaya ihtiyacım var. 
+ * I need half a kilo of ground meat. 
 ----------
  * **kurtulmak** :: to get rid of (verb)
  * Eski mobilyalarımızdan kurtulmamız lazım. 
@@ -655,6 +735,10 @@
  * Çocuklar dışarıda oyun oynamayı seviyor. 
  * The children like to play outside. 
 ----------
+ * **sinirleri tepesinde olmak** :: to be in a bad mood (expression)
+ * Onunla konuşma. Sinirleri tepesinde. 
+ * Don't talk to him. He's in a bad mood. 
+----------
  * **zahmet** :: pain (noun)
  * Zahmet olmadan rahmet olmaz. 
  * No pain, no gain. 
@@ -666,6 +750,10 @@
  * **favori** :: favorite (adjective)
  * Bu benim favori şarkılarımdan biri. 
  * This is one of my favorite songs. 
+----------
+ * **biraz** :: a little bit (expression)
+ * Çorbaya biraz tuz lazım. 
+ * This soup could use a little bit of salt. 
 ----------
  * **tartışmalı** :: controversial (adjective)
  * Bu televizyon programı, çok şiddet içerdiği için tartışmalıdır. 
